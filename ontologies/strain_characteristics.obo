@@ -1,0 +1,256 @@
+format-version: 1.0
+date: 06:09:2011 17:02
+saved-by: pfey
+auto-generated-by: OBO-Edit 1.101
+default-namespace: strain_characteristics
+
+[Term]
+id: DDSTRAINCHAR:0000001
+name: strain characteristic
+
+[Term]
+id: DDSTRAINCHAR:0000002
+name: auxotroph
+is_a: DDSTRAINCHAR:0000001 ! strain characteristic
+
+[Term]
+id: DDSTRAINCHAR:0000003
+name: axenic
+is_a: DDSTRAINCHAR:0000001 ! strain characteristic
+
+[Term]
+id: DDSTRAINCHAR:0000004
+name: blasticidin resistant
+exact_synonym: "bsR" []
+is_a: DDSTRAINCHAR:0000008 ! drug resistant
+
+[Term]
+id: DDSTRAINCHAR:0000005
+name: bleomycin resistant
+exact_synonym: "bleR" []
+is_a: DDSTRAINCHAR:0000008 ! drug resistant
+
+[Term]
+id: DDSTRAINCHAR:0000006
+name: hygromycin resistant
+exact_synonym: "hygR" []
+is_a: DDSTRAINCHAR:0000008 ! drug resistant
+
+[Term]
+id: DDSTRAINCHAR:0000007
+name: neomycin resistant
+exact_synonym: "neoR" []
+is_a: DDSTRAINCHAR:0000008 ! drug resistant
+
+[Term]
+id: DDSTRAINCHAR:0000008
+name: drug resistant
+is_a: DDSTRAINCHAR:0000001 ! strain characteristic
+
+[Term]
+id: DDSTRAINCHAR:0000009
+name: constitutively active mutant
+is_a: DDSTRAINCHAR:0000038 ! mutant
+
+[Term]
+id: DDSTRAINCHAR:0000010
+name: dominant negative mutant
+related_synonym: "dominant-negative mutant" []
+related_synonym: "dominant/negative mutant" []
+is_a: DDSTRAINCHAR:0000038 ! mutant
+
+[Term]
+id: DDSTRAINCHAR:0000011
+name: temperature sensitive mutant
+is_a: DDSTRAINCHAR:0000038 ! mutant
+
+[Term]
+id: DDSTRAINCHAR:0000012
+name: natural isolate
+is_a: DDSTRAINCHAR:0000001 ! strain characteristic
+
+[Term]
+id: DDSTRAINCHAR:0000013
+name: null mutant
+is_a: DDSTRAINCHAR:0000038 ! mutant
+
+[Term]
+id: DDSTRAINCHAR:0000014
+name: multiple null mutant
+is_a: DDSTRAINCHAR:0000013 ! null mutant
+
+[Term]
+id: DDSTRAINCHAR:0000015
+name: overexpressor
+is_a: DDSTRAINCHAR:0000038 ! mutant
+
+[Term]
+id: DDSTRAINCHAR:0000016
+name: suppressor
+is_a: DDSTRAINCHAR:0000038 ! mutant
+
+[Term]
+id: DDSTRAINCHAR:0000017
+name: FLAG-tagged
+is_a: DDSTRAINCHAR:0000037 ! tagged
+
+[Term]
+id: DDSTRAINCHAR:0000018
+name: temperature conditional mutant
+is_a: DDSTRAINCHAR:0000038 ! mutant
+
+[Term]
+id: DDSTRAINCHAR:0000019
+name: underexpressor
+is_a: DDSTRAINCHAR:0000038 ! mutant
+
+[Term]
+id: DDSTRAINCHAR:0000020
+name: phleomycin resistant
+is_a: DDSTRAINCHAR:0000008 ! drug resistant
+
+[Term]
+id: DDSTRAINCHAR:0000021
+name: cycloheximide resistance
+is_a: DDSTRAINCHAR:0000008 ! drug resistant
+
+[Term]
+id: DDSTRAINCHAR:0000022
+name: uracil auxotroph
+is_a: DDSTRAINCHAR:0000002 ! auxotroph
+
+[Term]
+id: DDSTRAINCHAR:0000023
+name: multiple mutant
+is_a: DDSTRAINCHAR:0000038 ! mutant
+
+[Term]
+id: DDSTRAINCHAR:0000024
+name: thymidine auxotroph
+is_a: DDSTRAINCHAR:0000002 ! auxotroph
+
+[Term]
+id: DDSTRAINCHAR:0000025
+name: GFP marked
+is_a: DDSTRAINCHAR:0000035 ! marked
+
+[Term]
+id: DDSTRAINCHAR:0000026
+name: RFP marked
+is_a: DDSTRAINCHAR:0000035 ! marked
+
+[Term]
+id: DDSTRAINCHAR:0000027
+name: YFP marked
+is_a: DDSTRAINCHAR:0000035 ! marked
+
+[Term]
+id: DDSTRAINCHAR:0000028
+name: LacZ marked
+is_a: DDSTRAINCHAR:0000035 ! marked
+
+[Term]
+id: DDSTRAINCHAR:0000029
+name: luciferase marked
+is_a: DDSTRAINCHAR:0000035 ! marked
+
+[Term]
+id: DDSTRAINCHAR:0000030
+name: His-tagged
+is_a: DDSTRAINCHAR:0000037 ! tagged
+
+[Term]
+id: DDSTRAINCHAR:0000031
+name: Myc-tagged
+is_a: DDSTRAINCHAR:0000037 ! tagged
+
+[Term]
+id: DDSTRAINCHAR:0000032
+name: HA-tagged
+is_a: DDSTRAINCHAR:0000037 ! tagged
+
+[Term]
+id: DDSTRAINCHAR:0000033
+name: rescued
+is_a: DDSTRAINCHAR:0000038 ! mutant
+
+[Term]
+id: DDSTRAINCHAR:0000034
+name: regulatable expressor
+is_a: DDSTRAINCHAR:0000038 ! mutant
+
+[Term]
+id: DDSTRAINCHAR:0000035
+name: marked
+is_a: DDSTRAINCHAR:0000001 ! strain characteristic
+
+[Term]
+id: DDSTRAINCHAR:0000036
+name: CFP marked
+is_a: DDSTRAINCHAR:0000035 ! marked
+
+[Term]
+id: DDSTRAINCHAR:0000037
+name: tagged
+is_a: DDSTRAINCHAR:0000001 ! strain characteristic
+
+[Term]
+id: DDSTRAINCHAR:0000038
+name: mutant
+is_a: DDSTRAINCHAR:0000001 ! strain characteristic
+
+[Term]
+id: DDSTRAINCHAR:0000039
+name: knock-in
+is_a: DDSTRAINCHAR:0000038 ! mutant
+
+[Term]
+id: DDSTRAINCHAR:0000040
+name: cre-lox mutant
+is_a: DDSTRAINCHAR:0000038 ! mutant
+
+[Term]
+id: DDSTRAINCHAR:0000041
+name: beta-glucoronidase marked
+is_a: DDSTRAINCHAR:0000035 ! marked
+
+[Term]
+id: DDSTRAINCHAR:0000042
+name: catalytic dead
+is_a: DDSTRAINCHAR:0000038 ! mutant
+
+[Term]
+id: DDSTRAINCHAR:0000043
+name: TAP-tagged
+is_a: DDSTRAINCHAR:0000037 ! tagged
+
+[Term]
+id: DDSTRAINCHAR:0000044
+name: V5-tagged
+is_a: DDSTRAINCHAR:0000037 ! tagged
+
+[Term]
+id: DDSTRAINCHAR:0000045
+name: T7-tagged
+is_a: DDSTRAINCHAR:0000037 ! tagged
+
+[Term]
+id: DDSTRAINCHAR:0000046
+name: diploid
+is_a: DDSTRAINCHAR:0000001 ! strain characteristic
+
+[Term]
+id: DDSTRAINCHAR:0000047
+name: homozygous diploid
+is_a: DDSTRAINCHAR:0000046 ! diploid
+
+[Term]
+id: DDSTRAINCHAR:0000048
+name: heterozygous diploid
+is_a: DDSTRAINCHAR:0000046 ! diploid
+
+[Term]
+id: DDSTRAINCHAR:0000049
+name: tetracycline resistant
+is_a: DDSTRAINCHAR:0000008 ! drug resistant
+
