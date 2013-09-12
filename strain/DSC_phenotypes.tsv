@@ -1,0 +1,397 @@
+DBS ID	DDPHENO_ID	PHENOTYPE_TERM	NOTE	DDENVIR_ID	ENVIRONMENT_TERM
+DBS0235407	DDPHENO:0001103	decreased culmination			
+DBS0235410	DDPHENO:0000446	aberrant mound color	yellow mounds		
+DBS0235411	DDPHENO:0000446	aberrant mound color	yellow mounds		
+DBS0235418	DDPHENO:0001080	abolished aggregation			
+DBS0235429	DDPHENO:0001080	abolished aggregation			
+DBS0235454	DDPHENO:0001080	abolished aggregation			
+DBS0235460	DDPHENO:0001080	abolished aggregation			
+DBS0235461	DDPHENO:0000483	aberrant aggregation	loose mounds		
+DBS0235463	DDPHENO:0000158	decreased aggregate size	tight mound		
+DBS0235465	DDPHENO:0001055	multiple tips in mound			
+DBS0235466	DDPHENO:0000165	increased stalk length			
+DBS0235468	DDPHENO:0001080	abolished aggregation			
+DBS0235493	DDPHENO:0000109	increased cell-cell adhesion			
+DBS0235495	DDPHENO:0000162	delayed development			
+DBS0235515	DDPHENO:0001080	abolished aggregation			
+DBS0235538	DDPHENO:0001080	abolished aggregation			
+DBS0235555	DDPHENO:0000036	multiple tips			
+DBS0235557	DDPHENO:0000036	multiple tips			
+DBS0235559	DDPHENO:0001080	abolished aggregation			
+DBS0235560	DDPHENO:0000394	decreased growth rate			
+DBS0235562	DDPHENO:0001080	abolished aggregation			
+DBS0235570	DDPHENO:0001080	abolished aggregation			
+DBS0235609	DDPHENO:0000162	delayed development			
+DBS0235609	DDPHENO:0000394	decreased growth rate			
+DBS0235612	DDPHENO:0001080	abolished aggregation			
+DBS0235624	DDPHENO:0000111	increased aggregate size			
+DBS0235624	DDPHENO:0000518	increased stalk width			
+DBS0235624	DDPHENO:0001415	increased fruiting body size			
+DBS0235635	DDPHENO:0000207	increased standing slug length			
+DBS0235654	DDPHENO:0001014	aberrant slug formation	small migrating pseudoplasmodia		
+DBS0235654	DDPHENO:0001014	aberrant slug formation	small migrating pseudoplasmodia		
+DBS0235655	DDPHENO:0000004	decreased slug size			
+DBS0235657	DDPHENO:0000009	aberrant fruiting body morphology			
+DBS0235661	DDPHENO:0000009	aberrant fruiting body morphology			
+DBS0235661	DDPHENO:0000424	abolished sporulation			
+DBS0235666	DDPHENO:0000158	decreased aggregate size			
+DBS0235670	DDPHENO:0000383	decreased stalk length			
+DBS0235678	DDPHENO:0000158	decreased aggregate size	tiny aggregates, yellow		
+DBS0235682	DDPHENO:0000484	curly fingers			
+DBS0235683	DDPHENO:0000165	increased stalk length			
+DBS0235689	DDPHENO:0000383	decreased stalk length			
+DBS0235689	DDPHENO:0000504	decreased sporulation			
+DBS0235692	DDPHENO:0000484	curly fingers			
+DBS0235891	DDPHENO:0000484	curly fingers			
+DBS0235895	DDPHENO:0000262	decreased prestalk 0 cell differentiation			
+DBS0235899	DDPHENO:0000262	decreased prestalk 0 cell differentiation			
+DBS0235945	DDPHENO:0001080	abolished aggregation			
+DBS0235950	DDPHENO:0000483	aberrant aggregation	tight mound		
+DBS0235951	DDPHENO:0000445	increased slug migration			
+DBS0235953	DDPHENO:0000165	increased stalk length			
+DBS0235974	DDPHENO:0000483	aberrant aggregation	tight mound		
+DBS0235986	DDPHENO:0001080	abolished aggregation			
+DBS0236000	DDPHENO:0000099	decreased chemotaxis rate			
+DBS0236006	DDPHENO:0000167	precocious development			
+DBS0236070	DDPHENO:0000394	decreased growth rate			
+DBS0236111	DDPHENO:0000019	abolished culmination			
+DBS0236128	DDPHENO:0001080	abolished aggregation			
+DBS0236132	DDPHENO:0001080	abolished aggregation			
+DBS0236133	DDPHENO:0001080	abolished aggregation			
+DBS0236134	DDPHENO:0001080	abolished aggregation			
+DBS0236135	DDPHENO:0001080	abolished aggregation			
+DBS0236136	DDPHENO:0001080	abolished aggregation			
+DBS0236137	DDPHENO:0001080	abolished aggregation			
+DBS0236138	DDPHENO:0001080	abolished aggregation			
+DBS0236139	DDPHENO:0001080	abolished aggregation			
+DBS0236140	DDPHENO:0001080	abolished aggregation			
+DBS0236150	DDPHENO:0001080	abolished aggregation			
+DBS0236151	DDPHENO:0000163	aberrant spore morphology	round spores		
+DBS0236159	DDPHENO:0000394	decreased growth rate			
+DBS0236192	DDPHENO:0001080	abolished aggregation			
+DBS0236194	DDPHENO:0000167	precocious development			
+DBS0236208	DDPHENO:0000001	aberrant spore color	white spores		
+DBS0236211	DDPHENO:0000165	increased stalk length			
+DBS0236214	DDPHENO:0000165	increased stalk length			
+DBS0236216	DDPHENO:0000165	increased stalk length			
+DBS0236219	DDPHENO:0000165	increased stalk length			
+DBS0236220	DDPHENO:0000162	delayed development			
+DBS0236221	DDPHENO:0000154	aberrant development			
+DBS0236222	DDPHENO:0000165	increased stalk length			
+DBS0236225	DDPHENO:0000165	increased stalk length			
+DBS0236227	DDPHENO:0000165	increased stalk length			
+DBS0236230	DDPHENO:0000001	aberrant spore color	white spores		
+DBS0236233	DDPHENO:0000145	decreased spore viability			
+DBS0236236	DDPHENO:0000145	decreased spore viability			
+DBS0236237	DDPHENO:0000145	decreased spore viability			
+DBS0236239	DDPHENO:0000001	aberrant spore color	white spores		
+DBS0236241	DDPHENO:0000001	aberrant spore color	white spores		
+DBS0236243	DDPHENO:0000165	increased stalk length			
+DBS0236244	DDPHENO:0000165	increased stalk length			
+DBS0236245	DDPHENO:0000165	increased stalk length			
+DBS0236247	DDPHENO:0000165	increased stalk length			
+DBS0236250	DDPHENO:0000165	increased stalk length			
+DBS0236251	DDPHENO:0000165	increased stalk length			
+DBS0236253	DDPHENO:0000165	increased stalk length			
+DBS0236256	DDPHENO:0000483	aberrant aggregation	loose mounds		
+DBS0236258	DDPHENO:0000032	increased sporulation			
+DBS0236260	DDPHENO:0000077	decreased fruiting body size			
+DBS0236263	DDPHENO:0000001	aberrant spore color	white spores		
+DBS0236263	DDPHENO:0000158	decreased aggregate size	tight mound		
+DBS0236263	DDPHENO:0000163	aberrant spore morphology	round spores		
+DBS0236265	DDPHENO:0000001	aberrant spore color	white spores		
+DBS0236265	DDPHENO:0000158	decreased aggregate size	tight mound		
+DBS0236265	DDPHENO:0000163	aberrant spore morphology	round spores		
+DBS0236268	DDPHENO:0000165	increased stalk length			
+DBS0236269	DDPHENO:0000483	aberrant aggregation	tight mound, sensitive		
+DBS0236270	DDPHENO:0000483	aberrant aggregation	tight mound, sensitive		
+DBS0236271	DDPHENO:0000158	decreased aggregate size	tight mound		
+DBS0236271	DDPHENO:0000167	precocious development			
+DBS0236272	DDPHENO:0000483	aberrant aggregation	tight mound, sensitive		
+DBS0236273	DDPHENO:0000001	aberrant spore color	white spores		
+DBS0236273	DDPHENO:0000158	decreased aggregate size	tight mound		
+DBS0236273	DDPHENO:0000163	aberrant spore morphology	round spores		
+DBS0236275	DDPHENO:0000483	aberrant aggregation	tight mound, sensitive		
+DBS0236278	DDPHENO:0000483	aberrant aggregation	tight mound, sensitive		
+DBS0236279	DDPHENO:0000003	increased slug length			
+DBS0236279	DDPHENO:0000165	increased stalk length			
+DBS0236280	DDPHENO:0000003	increased slug length			
+DBS0236280	DDPHENO:0000165	increased stalk length			
+DBS0236281	DDPHENO:0000483	aberrant aggregation	tight mound, sensitive		
+DBS0236283	DDPHENO:0000001	aberrant spore color	white spores		
+DBS0236284	DDPHENO:0000001	aberrant spore color	white spores		
+DBS0236284	DDPHENO:0000032	increased sporulation			
+DBS0236284	DDPHENO:0000167	precocious development			
+DBS0236285	DDPHENO:0000001	aberrant spore color	white spores		
+DBS0236285	DDPHENO:0000483	aberrant aggregation	tight mound		
+DBS0236286	DDPHENO:0000001	aberrant spore color	white spores		
+DBS0236289	DDPHENO:0000165	increased stalk length			
+DBS0236290	DDPHENO:0000445	increased slug migration			
+DBS0236292	DDPHENO:0000001	aberrant spore color	white spores		
+DBS0236292	DDPHENO:0000154	aberrant development			
+DBS0236293	DDPHENO:0000154	aberrant development			
+DBS0236294	DDPHENO:0000154	aberrant development			
+DBS0236295	DDPHENO:0000001	aberrant spore color	white spores		
+DBS0236295	DDPHENO:0000154	aberrant development			
+DBS0236298	DDPHENO:0000483	aberrant aggregation	tight mound		
+DBS0236300	DDPHENO:0000483	aberrant aggregation	loose mounds		
+DBS0236301	DDPHENO:0000483	aberrant aggregation	tight mound		
+DBS0236304	DDPHENO:0000193	abolished DIF production			
+DBS0236304	DDPHENO:0001080	abolished aggregation			
+DBS0236305	DDPHENO:0000193	abolished DIF production			
+DBS0236305	DDPHENO:0001080	abolished aggregation			
+DBS0236306	DDPHENO:0000193	abolished DIF production			
+DBS0236306	DDPHENO:0001080	abolished aggregation			
+DBS0236307	DDPHENO:0000193	abolished DIF production			
+DBS0236307	DDPHENO:0001080	abolished aggregation			
+DBS0236308	DDPHENO:0000193	abolished DIF production			
+DBS0236308	DDPHENO:0001080	abolished aggregation			
+DBS0236310	DDPHENO:0001080	abolished aggregation			
+DBS0236324	DDPHENO:0001080	abolished aggregation			
+DBS0236325	DDPHENO:0001080	abolished aggregation			
+DBS0236326	DDPHENO:0001080	abolished aggregation			
+DBS0236327	DDPHENO:0001080	abolished aggregation			
+DBS0236328	DDPHENO:0001080	abolished aggregation			
+DBS0236329	DDPHENO:0000165	increased stalk length			
+DBS0236334	DDPHENO:0000165	increased stalk length			
+DBS0236339	DDPHENO:0000165	increased stalk length			
+DBS0236342	DDPHENO:0000165	increased stalk length			
+DBS0236346	DDPHENO:0001080	abolished aggregation			
+DBS0236347	DDPHENO:0001080	abolished aggregation			
+DBS0236349	DDPHENO:0000165	increased stalk length			
+DBS0236354	DDPHENO:0000165	increased stalk length			
+DBS0236367	DDPHENO:0000504	decreased sporulation			
+DBS0236369	DDPHENO:0000165	increased stalk length			
+DBS0236370	DDPHENO:0000165	increased stalk length			
+DBS0236376	DDPHENO:0000165	increased stalk length			
+DBS0236377	DDPHENO:0001080	abolished aggregation			
+DBS0236391	DDPHENO:0000167	precocious development			
+DBS0236392	DDPHENO:0000167	precocious development			
+DBS0236393	DDPHENO:0000167	precocious development			
+DBS0236394	DDPHENO:0000167	precocious development			
+DBS0236395	DDPHENO:0000077	decreased fruiting body size			
+DBS0236395	DDPHENO:0000167	precocious development			
+DBS0236395	DDPHENO:0000383	decreased stalk length			
+DBS0236398	DDPHENO:0000001	aberrant spore color	white spores		
+DBS0236398	DDPHENO:0000032	increased sporulation			
+DBS0236400	DDPHENO:0000001	aberrant spore color	white spores		
+DBS0236400	DDPHENO:0000394	decreased growth rate			
+DBS0236401	DDPHENO:0000001	aberrant spore color	white spores		
+DBS0236401	DDPHENO:0000394	decreased growth rate			
+DBS0236414	DDPHENO:0001080	abolished aggregation			
+DBS0236415	DDPHENO:0001080	abolished aggregation			
+DBS0236436	DDPHENO:0001080	abolished aggregation			
+DBS0236438	DDPHENO:0001080	abolished aggregation			
+DBS0236439	DDPHENO:0001080	abolished aggregation			
+DBS0236441	DDPHENO:0000445	increased slug migration			
+DBS0236442	DDPHENO:0000445	increased slug migration			
+DBS0236443	DDPHENO:0000483	aberrant aggregation	nearly agg-		
+DBS0236444	DDPHENO:0001080	abolished aggregation			
+DBS0236456	DDPHENO:0001080	abolished aggregation			
+DBS0236458	DDPHENO:0000036	multiple tips			
+DBS0236459	DDPHENO:0000036	multiple tips			
+DBS0236460	DDPHENO:0000036	multiple tips			
+DBS0236461	DDPHENO:0000036	multiple tips			
+DBS0236462	DDPHENO:0000036	multiple tips			
+DBS0236463	DDPHENO:0000036	multiple tips			
+DBS0236464	DDPHENO:0001080	abolished aggregation			
+DBS0236465	DDPHENO:0000036	multiple tips			
+DBS0236467	DDPHENO:0001055	multiple tips in mound			
+DBS0236470	DDPHENO:0000036	multiple tips			
+DBS0236472	DDPHENO:0000036	multiple tips			
+DBS0236473	DDPHENO:0000036	multiple tips			
+DBS0236474	DDPHENO:0000036	multiple tips			
+DBS0236475	DDPHENO:0000036	multiple tips			
+DBS0236476	DDPHENO:0000036	multiple tips			
+DBS0236477	DDPHENO:0000036	multiple tips			
+DBS0236478	DDPHENO:0000036	multiple tips			
+DBS0236479	DDPHENO:0000036	multiple tips			
+DBS0236480	DDPHENO:0000036	multiple tips			
+DBS0236481	DDPHENO:0000036	multiple tips			
+DBS0236482	DDPHENO:0000036	multiple tips			
+DBS0236483	DDPHENO:0000036	multiple tips			
+DBS0236488	DDPHENO:0001080	abolished aggregation			
+DBS0236496	DDPHENO:0000445	increased slug migration			
+DBS0236517	DDPHENO:0001080	abolished aggregation			
+DBS0236527	DDPHENO:0001080	abolished aggregation			
+DBS0236528	DDPHENO:0001080	abolished aggregation			
+DBS0236530	DDPHENO:0001080	abolished aggregation			
+DBS0236533	DDPHENO:0000163	aberrant spore morphology	round spores		
+DBS0236546	DDPHENO:0000158	decreased aggregate size			
+DBS0236546	DDPHENO:0000394	decreased growth rate			
+DBS0236572	DDPHENO:0000154	aberrant development			
+DBS0236572	DDPHENO:0000394	decreased growth rate			
+DBS0236575	DDPHENO:0001080	abolished aggregation			
+DBS0236614	DDPHENO:0000001	aberrant spore color	white spores		
+DBS0236614	DDPHENO:0000163	aberrant spore morphology	round spores		
+DBS0236614	DDPHENO:0001080	abolished aggregation			
+DBS0236615	DDPHENO:0000001	aberrant spore color	white spores		
+DBS0236615	DDPHENO:0000163	aberrant spore morphology	round spores		
+DBS0236615	DDPHENO:0001080	abolished aggregation			
+DBS0236616	DDPHENO:0001080	abolished aggregation			
+DBS0236617	DDPHENO:0001080	abolished aggregation			
+DBS0236618	DDPHENO:0001080	abolished aggregation			
+DBS0236619	DDPHENO:0000001	aberrant spore color	white spores		
+DBS0236619	DDPHENO:0000163	aberrant spore morphology	round spores		
+DBS0236619	DDPHENO:0001080	abolished aggregation			
+DBS0236620	DDPHENO:0001080	abolished aggregation			
+DBS0236621	DDPHENO:0001080	abolished aggregation			
+DBS0236622	DDPHENO:0001080	abolished aggregation			
+DBS0236623	DDPHENO:0000158	decreased aggregate size			
+DBS0236623	DDPHENO:0000482	aberrant streaming			
+DBS0236624	DDPHENO:0001080	abolished aggregation			
+DBS0236625	DDPHENO:0001080	abolished aggregation			
+DBS0236626	DDPHENO:0001080	abolished aggregation			
+DBS0236627	DDPHENO:0001080	abolished aggregation			
+DBS0236628	DDPHENO:0001080	abolished aggregation			
+DBS0236629	DDPHENO:0001080	abolished aggregation			
+DBS0236630	DDPHENO:0001080	abolished aggregation			
+DBS0236631	DDPHENO:0001080	abolished aggregation	loose aggregates around the edge of plate		
+DBS0236634	DDPHENO:0001080	abolished aggregation			
+DBS0236635	DDPHENO:0001080	abolished aggregation			
+DBS0236636	DDPHENO:0001080	abolished aggregation			
+DBS0236641	DDPHENO:0000445	increased slug migration			
+DBS0236642	DDPHENO:0000483	aberrant aggregation	aggregate morphology resembles surface of a brain, small clubs, fairly sparse on SM/5		
+DBS0236643	DDPHENO:0000482	aberrant streaming			
+DBS0236644	DDPHENO:0000165	increased stalk length			
+DBS0236644	DDPHENO:0000445	increased slug migration			
+DBS0236645	DDPHENO:0000445	increased slug migration			
+DBS0236647	DDPHENO:0000482	aberrant streaming			
+DBS0236648	DDPHENO:0000003	increased slug length			
+DBS0236648	DDPHENO:0000165	increased stalk length			
+DBS0236648	DDPHENO:0000482	aberrant streaming			
+DBS0236649	DDPHENO:0001080	abolished aggregation			
+DBS0236650	DDPHENO:0000445	increased slug migration			
+DBS0236651	DDPHENO:0000445	increased slug migration			
+DBS0236652	DDPHENO:0001080	abolished aggregation			
+DBS0236653	DDPHENO:0000445	increased slug migration			
+DBS0236654	DDPHENO:0000445	increased slug migration			
+DBS0236655	DDPHENO:0000482	aberrant streaming			
+DBS0236656	DDPHENO:0001080	abolished aggregation			
+DBS0236658	DDPHENO:0000445	increased slug migration			
+DBS0236659	DDPHENO:0001080	abolished aggregation			
+DBS0236660	DDPHENO:0000445	increased slug migration			
+DBS0236661	DDPHENO:0000445	increased slug migration			
+DBS0236662	DDPHENO:0000445	increased slug migration			
+DBS0236663	DDPHENO:0000445	increased slug migration			
+DBS0236664	DDPHENO:0000445	increased slug migration			
+DBS0236665	DDPHENO:0000445	increased slug migration			
+DBS0236666	DDPHENO:0000445	increased slug migration			
+DBS0236667	DDPHENO:0000445	increased slug migration			
+DBS0236668	DDPHENO:0001080	abolished aggregation			
+DBS0236669	DDPHENO:0000445	increased slug migration			
+DBS0236670	DDPHENO:0000445	increased slug migration			
+DBS0236671	DDPHENO:0000445	increased slug migration			
+DBS0236672	DDPHENO:0000445	increased slug migration			
+DBS0236673	DDPHENO:0001080	abolished aggregation			
+DBS0236674	DDPHENO:0000445	increased slug migration			
+DBS0236675	DDPHENO:0000445	increased slug migration			
+DBS0236676	DDPHENO:0000445	increased slug migration			
+DBS0236677	DDPHENO:0000445	increased slug migration			
+DBS0236678	DDPHENO:0000445	increased slug migration			
+DBS0236679	DDPHENO:0001080	abolished aggregation			
+DBS0236680	DDPHENO:0000445	increased slug migration			
+DBS0236681	DDPHENO:0000445	increased slug migration			
+DBS0236684	DDPHENO:0001080	abolished aggregation			
+DBS0236685	DDPHENO:0001080	abolished aggregation			
+DBS0236686	DDPHENO:0001080	abolished aggregation			
+DBS0236687	DDPHENO:0001080	abolished aggregation			
+DBS0236689	DDPHENO:0001080	abolished aggregation			
+DBS0236690	DDPHENO:0001080	abolished aggregation			
+DBS0236691	DDPHENO:0001080	abolished aggregation			
+DBS0236692	DDPHENO:0001080	abolished aggregation			
+DBS0236693	DDPHENO:0000001	aberrant spore color	white spores		
+DBS0236693	DDPHENO:0000163	aberrant spore morphology	round spores		
+DBS0236693	DDPHENO:0001080	abolished aggregation			
+DBS0236694	DDPHENO:0001080	abolished aggregation			
+DBS0236698	DDPHENO:0000165	increased stalk length			
+DBS0236750	DDPHENO:0001080	abolished aggregation			
+DBS0236762	DDPHENO:0001080	abolished aggregation			
+DBS0236765	DDPHENO:0001080	abolished aggregation			
+DBS0236766	DDPHENO:0000036	multiple tips			
+DBS0236767	DDPHENO:0001080	abolished aggregation			
+DBS0236783	DDPHENO:0000394	decreased growth rate		DDENVIR:0000004	on bacterial plate
+DBS0236783	DDPHENO:0001080	abolished aggregation			
+DBS0236798	DDPHENO:0001080	abolished aggregation			
+DBS0236844	DDPHENO:0000483	aberrant aggregation			
+DBS0236845	DDPHENO:0000109	increased cell-cell adhesion			
+DBS0236847	DDPHENO:0000483	aberrant aggregation			
+DBS0236853	DDPHENO:0001080	abolished aggregation			
+DBS0236854	DDPHENO:0001080	abolished aggregation			
+DBS0236867	DDPHENO:0000036	multiple tips			
+DBS0236867	DDPHENO:0000158	decreased aggregate size			
+DBS0236870	DDPHENO:0000222	aberrant phototaxis			
+DBS0236871	DDPHENO:0000222	aberrant phototaxis			
+DBS0236875	DDPHENO:0000158	decreased aggregate size			
+DBS0236876	DDPHENO:0000158	decreased aggregate size			
+DBS0236876	DDPHENO:0000394	decreased growth rate			
+DBS0236895	DDPHENO:0001080	abolished aggregation			
+DBS0236897	DDPHENO:0001080	abolished aggregation			
+DBS0236898	DDPHENO:0001080	abolished aggregation			
+DBS0236899	DDPHENO:0001080	abolished aggregation			
+DBS0236911	DDPHENO:0000158	decreased aggregate size			
+DBS0236924	DDPHENO:0000036	multiple tips			
+DBS0236939	DDPHENO:0000077	decreased fruiting body size			
+DBS0236955	DDPHENO:0000162	delayed development			
+DBS0236956	DDPHENO:0001080	abolished aggregation			
+DBS0236958	DDPHENO:0000009	aberrant fruiting body morphology			
+DBS0236958	DDPHENO:0000158	decreased aggregate size			
+DBS0236962	DDPHENO:0000156	delayed aggregation			
+DBS0236985	DDPHENO:0000019	abolished culmination			
+DBS0236987	DDPHENO:0000165	increased stalk length			
+DBS0236987	DDPHENO:0000165	abolished sporulation			
+DBS0236990	DDPHENO:0001080	abolished aggregation			
+DBS0236994	DDPHENO:0001080	abolished aggregation			
+DBS0237015	DDPHENO:0000518	increased stalk width	spores at base		
+DBS0237016	DDPHENO:0000518	increased stalk width	spores at base		
+DBS0237020	DDPHENO:0000001	aberrant spore color	white spores		
+DBS0237021	DDPHENO:0000001	aberrant spore color	white spores		
+DBS0237028	DDPHENO:0000009	aberrant fruiting body morphology			
+DBS0237029	DDPHENO:0001080	abolished aggregation			
+DBS0237030	DDPHENO:0001080	abolished aggregation			
+DBS0237043	DDPHENO:0000483	aberrant aggregation	no preaggregation zone		
+DBS0237048	DDPHENO:0000168	development arrests at slug stage			
+DBS0237049	DDPHENO:0000168	development arrests at slug stage			
+DBS0237051	DDPHENO:0000162	delayed development			
+DBS0237053	DDPHENO:0000001	aberrant spore color	white spores		
+DBS0237056	DDPHENO:0000167	precocious development			
+DBS0237060	DDPHENO:0000001	aberrant spore color	white spores		
+DBS0237060	DDPHENO:0000163	aberrant spore morphology	round spores		
+DBS0237062	DDPHENO:0000001	aberrant spore color	white spores		
+DBS0237063	DDPHENO:0000001	aberrant spore color	white spores		
+DBS0237065	DDPHENO:0000001	aberrant spore color	white spores		
+DBS0237069	DDPHENO:0000001	aberrant spore color	white spores		
+DBS0237070	DDPHENO:0000445	increased slug migration			
+DBS0237071	DDPHENO:0000001	aberrant spore color	white spores		
+DBS0237071	DDPHENO:0000163	aberrant spore morphology	round spores		
+DBS0237071	DDPHENO:0000445	increased slug migration			
+DBS0237072	DDPHENO:0000445	increased slug migration			
+DBS0237073	DDPHENO:0000001	aberrant spore color	white spores		
+DBS0237073	DDPHENO:0000482	aberrant streaming			
+DBS0237074	DDPHENO:0000001	aberrant spore color	white spores		
+DBS0237075	DDPHENO:0000445	increased slug migration			
+DBS0237076	DDPHENO:0000001	aberrant spore color	white spores		
+DBS0237077	DDPHENO:0000001	aberrant spore color	white spores		
+DBS0237077	DDPHENO:0000445	increased slug migration			
+DBS0237078	DDPHENO:0000445	increased slug migration			
+DBS0237079	DDPHENO:0000001	aberrant spore color	white spores		
+DBS0237079	DDPHENO:0000445	increased slug migration			
+DBS0237080	DDPHENO:0000445	increased slug migration			
+DBS0237081	DDPHENO:0000445	increased slug migration			
+DBS0237085	DDPHENO:0000001	aberrant spore color	white spores		
+DBS0237087	DDPHENO:0000394	decreased growth rate		DDENVIR:0000004	on bacterial plate
+DBS0237087	DDPHENO:0001080	abolished aggregation			
+DBS0237088	DDPHENO:0000394	decreased growth rate		DDENVIR:0000004	on bacterial plate
+DBS0237088	DDPHENO:0001080	abolished aggregation			
+DBS0238016	DDPHENO:0000193	abolished DIF production			
+DBS0238016	DDPHENO:0001080	abolished aggregation			
+DBS0238142	DDPHENO:0001055	multiple tips in mound			
+DBS0238233	DDPHENO:0000165	increased stalk length			
+DBS0238834	DDPHENO:0000077	decreased fruiting body size			
+DBS0238834	DDPHENO:0000394	decreased growth rate		DDENVIR:0000004	on bacterial plate
+DBS0252577	DDPHENO:0001080	abolished aggregation			
+DBS0252578	DDPHENO:0001080	abolished aggregation			
+DBS0266699	DDPHENO:0000510	aberrant stalk morphogenesis			
+DBS0302399	DDPHENO:0000158	decreased aggregate size			
+DBS0302399	DDPHENO:0000394	decreased growth rate			
+DBS0304597	DDPHENO:0000483	aberrant aggregation			
