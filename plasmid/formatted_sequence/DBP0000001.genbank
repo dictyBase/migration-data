@@ -1,0 +1,55 @@
+LOCUS       AY679163                 702 bp    DNA     linear   SYN 21-NOV-2004
+DEFINITION  Synthetic construct mRFPmars-HIS6 gene, complete cds.
+ACCESSION   AY679163
+VERSION     AY679163.1  GI:55793413
+KEYWORDS    .
+SOURCE      synthetic construct
+  ORGANISM  synthetic construct
+            other sequences; artificial sequences.
+REFERENCE   1  (bases 1 to 702)
+  AUTHORS   Fischer,M., Haase,I., Simmeth,E., Gerisch,G. and
+            Muller-Taubenberger,A.
+  TITLE     A brilliant monomeric red fluorescent protein to visualize
+            cytoskeleton dynamics in Dictyostelium
+  JOURNAL   FEBS Lett. 577 (1-2), 227-232 (2004)
+   PUBMED   15527790
+REFERENCE   2  (bases 1 to 702)
+  AUTHORS   Fischer,M.J. and Mueller-Taubenberger,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-JUL-2004) Chemistry, Technical University Munich,
+            Lichtenbergstr. 4, Garching 85747, Germany
+FEATURES             Location/Qualifiers
+     source          1..702
+                     /mol_type="other DNA"
+                     /db_xref="taxon:32630"
+                     /organism="synthetic construct"
+     CDS             1..702
+                     /db_xref="GI:55775541"
+                     /codon_start=1
+                     /protein_id="AAV65051.1"
+                     /translation="MASSEDVIKEFMRFKVKMEGSVNGHEFEIEGEGEGRPYEGTQTA
+                     KLKVTKGGPLPFAWDILSPQFQYGSKAYVKHPADIPDYLKLSFPEGFKWERIMNFEDG
+                     GVVTVTQDSTLQDGEFIYKVKLRGTNFPSDGPVMQKKTMGWEASTERMYPEDGALKGE
+                     IKMRLKLKDGGHYDAEVKTTYKAKKQVQLPGAYKTDIKLDIISHNEDYTIVEQYERAE
+                     GRHSTGAGSHHHHHH"
+                     /product="mRFPmars-HIS6"
+                     /transl_table=11
+                     /note="red fluorescent protein"
+     misc_feature    676..681
+                     /note="Region: linker"
+     misc_feature    682..699
+                     /note="Region: histidine-tag; 6xHis"
+ORIGIN      
+        1 atggcatcat cagaagatgt tattaaagaa tttatgagat tcaaagttaa aatggaaggt
+       61 tcagttaacg gtcatgaatt tgaaattgaa ggtgaaggtg aaggtagacc atatgaaggt
+      121 acacaaacag caaaattaaa agttacaaaa ggtggtccat taccatttgc atgggatatt
+      181 ctttcaccac aatttcaata tggtagtaaa gcatatgtta aacatccagc agatattcca
+      241 gattatctta aactttcatt tccagaaggt tttaaatggg aaagaattat gaattttgaa
+      301 gatggtggtg ttgtaacagt tactcaagat tcaacattac aagatggtga atttatttat
+      361 aaagttaaat taagaggtac caattttcca tcagatggtc cagtaatgca aaaaaaaact
+      421 atgggttggg aagcatcaac agaaagaatg tatccagaag atggtgcact aaaaggtgaa
+      481 attaaaatga gattaaaact taaggatggt ggtcattatg atgcagaagt taaaacaact
+      541 tataaagcta aaaaacaagt tcaattacca ggtgcttata aaacagatat taaattagat
+      601 attatttcac ataatgaaga ttatactatt gttgaacaat atgaaagagc agaaggtaga
+      661 cattcaacag gtgcaggatc ccatcatcac caccatcatt aa
+//

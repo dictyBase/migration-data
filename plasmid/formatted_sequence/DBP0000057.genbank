@@ -1,0 +1,101 @@
+LOCUS       AY282568                2310 bp    DNA     linear   INV 24-MAR-2004
+DEFINITION  Dictyostelium discoideum calcium up-regulated protein (cupB) gene,
+            complete cds.
+ACCESSION   AY282568
+VERSION     AY282568.1  GI:30984035
+KEYWORDS    .
+SOURCE      Dictyostelium discoideum
+  ORGANISM  Dictyostelium discoideum
+            Eukaryota; Amoebozoa; Mycetozoa; Dictyosteliida; Dictyostelium.
+REFERENCE   1  (bases 1 to 2310)
+  AUTHORS   Coukell,B., Li,Y., Moniakis,J. and Cameron,A.
+  TITLE     The Ca2+/calcineurin-regulated cup gene family in Dictyostelium
+            discoideum and its possible involvement in development
+  JOURNAL   Eukaryotic Cell 3 (1), 61-71 (2004)
+   PUBMED   14871937
+REFERENCE   2  (bases 1 to 2310)
+  AUTHORS   Coukell,B.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-APR-2003) Biology, York University, 4700 Keele St.,
+            Toronto, ON M3J 1P3, Canada
+FEATURES             Location/Qualifiers
+     source          1..2310
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:44689"
+                     /organism="Dictyostelium discoideum"
+     gene            <1..>2310
+                     /gene="cupB"
+     mRNA            <1..>2310
+                     /gene="cupB"
+                     /product="calcium up-regulated protein"
+     CDS             1..2310
+                     /db_xref="GI:30984036"
+                     /codon_start=1
+                     /protein_id="AAP40290.1"
+                     /gene="cupB"
+                     /translation="MINIEDISKSSNQSEEKQLKSTSSKPKYSFAAKSLFKGSNNITP
+                     YYLSTSNTFQCVASESIQTWLLSDDGHIFTSSGNFVLDVSSGGYFVELVQLNSNSKTQ
+                     IWTIDTTNNKIQNQGNGKYLDIDNLNICVAPLNGNATQQWTTFRRAPIPTGNWGYFQS
+                     KQMDSNNNYWGLSVLNNSKSYNTSVVMNKVQAKSKGQIWQMTNDGHILSRLDGSLVLD
+                     IGPSINGSTTNYYLDTNVYKANDLKQQWGINENNQIFNQYYPNLCIGFVGELGVDSTV
+                     NCVLAQPSSASDINFQWITNPTYSLNEIVSEVPEPFPAYTSGDLLASYQYLSNIATSN
+                     FTDDIRSLYTGINVSLQSFLSIVTNATCPSSIHSTEDFSNVQNQIKTELIYAIDVRLV
+                     FENYSGFYSKLFSQGSSNLTNLANLINVDMSSNQMVNANYTDAITSVFYSLISEIPVG
+                     GSIIANIGQSAVEWGELISQSNYQGASTYQVELSQLYSHLNTNYENEMANAQSMKDTI
+                     LQDWGMMSKTYALCFLPTNDPSSLNINGLNFEKISDVASVAYEIAMIQMLLPTTYQIY
+                     FTPAGYWVPYSDGDFAYSDNSGTYIMATIEYSNSYPPKELTDKLWNNGVSKQEFFWSA
+                     YGWNLATSLTYYNMANKFGNIYKLAFPTIKNFTGVPMQFVMTNDGDNLCNFPVKTHFA
+                     KFFSIYYSCGDLGHHYFDIAVNDINDNKVANFTVDINLEAIEGSYVSIKTGSLVVQPG
+                     YAVGNPICNQGSYSLMFSASILIPIYKSE"
+                     /product="calcium up-regulated protein"
+                     /note="CupB"
+     misc_feature    97..435
+                     /gene="cupB"
+                     /note="Region: putative Ricin domain"
+     misc_feature    499..888
+                     /gene="cupB"
+                     /note="Region: putative Ricin domain"
+     misc_feature    1446..1530
+                     /gene="cupB"
+                     /note="Region: coiled coil motif"
+ORIGIN      
+        1 atgattaata ttgaagatat ttcaaaatct tcaaaccaaa gtgaagaaaa acaattaaaa
+       61 agtacaagtt caaaaccaaa atactcattc gcagcaaaaa gtttattcaa aggttcaaat
+      121 aatattacac catattattt atcaaccagt aatacattcc aatgtgtagc atctgagtca
+      181 attcaaacat ggcttctttc agatgatggt catatcttta catccagtgg taattttgtt
+      241 ttagatgttt catcaggtgg ttattttgtt gaattagtac aacttaattc aaattcaaaa
+      301 actcaaattt ggacaattga tacaacaaat aataaaattc aaaaccaagg taatggtaaa
+      361 taccttgata tcgacaattt gaatatttgt gttgcacctc taaatggaaa cgcaactcaa
+      421 caatggacaa cttttagaag agcaccaatt ccaactggta attggggtta ctttcaaagc
+      481 aaacaaatgg attcaaataa taattattgg ggtttaagtg tattaaataa tagtaaatca
+      541 tataatacta gtgtagtaat gaataaagtt caagcaaaat caaaaggtca aatttggcaa
+      601 atgacaaacg atggtcacat tttatcacgt ttggatggta gtttggtatt agatattggt
+      661 ccatcaatta atggtagtac aacaaactat tatttagata ccaatgttta caaagcaaat
+      721 gatctaaagc aacaatgggg tatcaacgaa aataatcaaa tattcaatca atattatcca
+      781 aatttatgta ttggattcgt tggtgaactt ggagttgatt caactgttaa ttgtgtatta
+      841 gctcaaccaa gtagtgctag tgatattaat ttccaatgga ttacaaatcc aacctattca
+      901 ttaaatgaaa ttgttagtga agtaccagaa ccatttccag cttacacaag tggtgattta
+      961 ttagcatcat atcaatacct tagtaatatt gcaacttcta attttactga tgatattaga
+     1021 tcactttata caggaatcaa tgttagttta caatcctttt taagtattgt caccaatgca
+     1081 acttgtccat catcaattca ttcgactgaa gatttttcaa atgttcaaaa tcaaatcaaa
+     1141 actgaactca tctatgcaat cgatgtccgt ttagtatttg aaaactattc tggtttttat
+     1201 agtaaattat ttagtcaagg tagttcaaat ttaacaaatt tagcaaattt aattaatgtt
+     1261 gatatgtcat ctaatcaaat ggttaatgca aattatactg atgcaattac tagtgttttt
+     1321 tattcactta tttcagagat tccagtaggt ggttcaataa ttgcaaacat tggtcaatca
+     1381 gcagtagaat ggggtgaatt aatttctcaa agtaattatc aaggtgcatc aacctatcaa
+     1441 gttgaattaa gtcaactcta ctctcattta aatacaaact atgaaaatga aatggcaaat
+     1501 gctcaaagta tgaaggatac cattttacaa gattggggta tgatgagtaa aacttatgca
+     1561 ttatgtttct taccaaccaa tgatccatcc tcactcaata tcaatggatt aaactttgaa
+     1621 aaaatttcag atgttgcatc tgtagcttac gaaattgcaa tgattcaaat gttattacca
+     1681 actacttatc aaatttactt tacaccagct ggttattggg taccttattc agatggtgat
+     1741 ttcgcttata gtgataactc tggaacctat attatggcca ctatcgagta tagtaattct
+     1801 tatcctccaa aggaattgac cgataagtta tggaataatg gggtttcaaa acaagaattt
+     1861 ttctggtcag cttatggttg gaatttagct acctcactca cctattacaa tatggcaaac
+     1921 aagtttggta atatctataa attagctttt ccaacaatta aaaattttac aggagtacca
+     1981 atgcaatttg taatgaccaa tgatggtgat aatctttgta atttcccagt caaaactcat
+     2041 tttgcaaaat ttttttctat atattacagt tgtggagatc ttggtcatca ttatttcgac
+     2101 attgccgtaa atgatattaa cgataacaag gttgcaaatt tcacagttga tattaattta
+     2161 gaagctattg aaggaagtta tgtttcaatc aaaactggtt cattagttgt tcagccaggt
+     2221 tatgctgttg gtaatccaat ttgtaatcaa ggtagttatt ctctaatgtt ttctgcttca
+     2281 attttaattc caatttataa atcagaataa
+//

@@ -1,0 +1,47 @@
+LOCUS       A27020                   601 aa            linear   INV 22-NOV-1996
+DEFINITION  DIF-induced prestalk pDd63 protein precursor - slime mold
+            (Dictyostelium discoideum) (fragments).
+ACCESSION   A27020
+DBSOURCE    dates accession 31
+KEYWORDS    .
+SOURCE      Dictyostelium discoideum
+  ORGANISM  Dictyostelium discoideum
+            Eukaryota; Mycetozoa; Dictyosteliida; Dictyostelium.
+REFERENCE   1  (residues 1 to 601)
+  AUTHORS   Williams,J.G., Ceccarelli,A., McRobbie,S., Mahbubani,H., Kay,R.R.,
+            Early,A., Berks,M. and Jermyn,K.A.
+  TITLE     Direct induction of Dictyostelium prestalk gene expression by DIF
+            provides evidence that DIF is a morphogen
+  JOURNAL   Cell 49 (2), 185-192 (1987)
+   PUBMED   3568124
+COMMENT     [WARNING] On Sep 13, 2005 this sequence was replaced by
+            gi:74798347.
+FEATURES             Location/Qualifiers
+     source          1..601
+                     /db_xref="taxon:44689"
+                     /organism="Dictyostelium discoideum"
+     Protein         1..601
+                     /product="DIF-induced prestalk pDd63 protein precursor"
+     Region          1..20
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /region_name="domain"
+                     /note="signal sequence"
+     Region          21..601
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /region_name="product"
+                     /note="DIF-induced prestalk pDd63 protein"
+ORIGIN      
+        1 mkisifilll fissmviisv nsetetiqtn tacdcdddcd dgnrcttdmc sagllfgkyc
+       61 thtqiccdde dactidscsk tsgcvhtpin vddknpctid scikgfisht qiscddknac
+      121 tidscdcssg cqnkpmscdd nnpctvdscn nstgcrntpi svddnnpcti dscskstgvv
+      181 hipinvddln pctidactke ggvthtpvnv ddnnkcttds cslftgitht eiccddnnac
+      241 tddscspstg cvntpiscdd knpctvdscn nstgccytpi nvddnnpcti pvnvddnnkc
+      301 tidactkegg vthtpvntdd nnactldncs pltgvthtpi ncddkkactv dscsnstgcv
+      361 ntpiscddnn pctvdscddi tgccntpinv ddnnpctvda ctkstgvtht pvnvddnnkc
+      421 tidasdkcne asccdgvctl kpiscpkpkn kcqvakcdli kgctvsnvvc ddgnacteds
+      481 ccsdtgkcqf epiklpknkn kciiskcdpi kgtitnstvn cecddlcnig eccedtgkcn
+      541 yrqkdcddnn pktadsrdsk tgkcinkpyn vitsgsnlis gliggliggg tggkgdcktc
+      601 k
+//
