@@ -1,0 +1,837 @@
+DBP0000034	1(45,54)		in DH5alpha	18-SEP-03	 
+DBP0000098	3(23-24)		in DH5&#945;	18-MAR-05	 
+DBP0000099	3(21-22)		in DH5&alpha;	18-MAR-05	 
+DBP0000100	3(39-40)		in DH5&#945;	23-MAR-05	 
+DBP0000101	3(34-35)		in DH5&#945;	23-MAR-05	 
+DBP0000102	3(37-38)		in DH5&#945;	23-MAR-05	 
+DBP0000103	3(28-29)		in DH5&#945;	18-MAR-05	 
+DBP0000104	3(66-67)		in DH5&alpha;	21-APR-05	 
+DBP0000105	3(68-69)		in DH5&alpha;	21-APR-05	 
+DBP0000106	3(64-65)		in DH5&alpha;	17-APR-05	 
+DBP0000107	3(61-62)		in DH5&alpha;	15-APR-05	 
+DBP0000011	2(68-69)		in DH5&alpha;	18-JAN-05	11.1-kb plasmid
+DBP0000011	1-A13	MC vial	DNA	13-JAN-05	09-DEC-2009 PF
+DBP0000012	2(70-71)		in DH5&alpha;	18-JAN-05	 
+DBP0000012	1-A9		DNA		no date available 09-DEC-2009 PF
+DBP0000013	2(59-60)		in BL21-gold	07-JAN-05	 
+DBP0000014	2(55-56)		in BL21-gold	07-JAN-05	 
+DBP0000015	2(57-58)		in BL21-gold	06-JAN-05	 
+DBP0000016	2(52-53)		in DH5alpha	07-JAN-05	 
+DBP0000017	1(1-2)		in DH5&#945;	30-MAY-03	vials labeled calnexin
+DBP0000018	1(3-4)		in DH5&#945;	30-MAY-03	vials labeled calreticulin
+DBP0000020	1(9,18)		in XL1 Blue	12-JUL-03	 
+DBP0000022	1(12-13)		in XL1 Blue	11-AUG-03	 
+DBP0000023	1(14-15)		in XL1 Blue	11-AUG-03	 
+DBP0000025	1(28-29)		in XL1 Blue	09-SEP-03	 
+DBP0000026	1(30-31)		in XL1 Blue	09-SEP-03	labeled TorA
+DBP0000027	1(32-33)		in XL1 Blue	09-SEP-03	 
+DBP0000028	1(34-35)		in XL1 Blue	09-SEP-03	 
+DBP0000029	1(37-38)		in XL1 Blue	09-SEP-03	 
+DBP0000030	1(39-40)		in XL1 Blue	09-SEP-03	 
+DBP0000031	1(25-26)		in DH5&#945;	08-SEP-03	Colony A; colony B was stored in red vials at position 1(27,36) and discarded on 10/24/05.
+DBP0000031	1-A7		DNA		no date available 09-DEC-2009 PF
+DBP0000033	1(43-44)		in DH5&alpha;	18-SEP-03	 
+DBP0000035	1(46-47)		in DH5&alpha;	18-SEP-03	 
+DBP0000036	1(48-49)		in DH5&alpha;	18-SEP-03	 
+DBP0000037	1(57-58)		in DH5&alpha;	23-SEP-03	 
+DBP0000038	1(70-71)		in DH5&#945;	29-SEP-03	 
+DBP0000039	1(50-51)		in DH5&#945;	08-SEP-05	labeled pD56A (replaced pink vials from 9/18/03)
+DBP0000040	1(55-56)		in DH5&alpha;	18-SEP-03	 
+DBP0000041	1(52-53)		in DH5&#945;	18-SEP-03	 
+DBP0000043	1(77-78)		in HB101	11-NOV-03	 
+DBP0000044	2(1-2)		in Sure Cells	11-NOV-03	 
+DBP0000045	1(79-80)		in Sure Cells	11-NOV-03	 
+DBP0000046	1(64-65)		in DH5&alpha;	19-SEP-03	vials labeled 116
+DBP0000048	1(59-60)		in DH5&alpha;	24-SEP-03	vials labeled 019
+DBP0000117	3(73-74)		in DH5&alpha;	11-MAY-05	 
+DBP0000108	3(59-60)		in DH5&alpha;	14-APR-05	vials labeled Arp2
+DBP0000019	1(7-8)		in XL1 Blue	12-AUG-03	 
+DBP0000158	4(23-24)		in DH5&alpha;	21-JUN-05	Vials labeled "CS4"
+DBP0000021	1(10-11)		in XL1 Blue	11-AUG-03	 
+DBP0000118	6(10-11)		in DH5&#945;	10-FEB-06	Received 6/2/05 from Gerry Weeks
+DBP0000118	4(1-2)		in DH5&#945;	25-MAY-05	 
+DBP0000119	4(16-17)		DH5&alpha;	21-JUN-05	 
+DBP0000120	4(3-4)		DH5&alpha;	25-MAY-05	 
+DBP0000121	4(19-20)		DH5&alpha;	21-JUN-05	 
+DBP0000122	3(63,72)		in DH5&#945;	25-MAY-05	 
+DBP0000123	3(79-80)		DH5&alpha;	25-MAY-05	 
+DBP0000124	4(55-56)		DH5&alpha;	04-AUG-05	 
+DBP0000125	4(5-6)		DH5&alpha;	25-MAY-05	 
+DBP0000126	4(7-8)		DH5&alpha;	25-MAY-05	 
+DBP0000127	4(12-13)		DH5&alpha;	25-MAY-05	 
+DBP0000128	4(10-11)		DH5&alpha;	25-MAY-05	 
+DBP0000129	4(9, 18)		DH5&alpha;	25-MAY-05	 
+DBP0000047	1(68-69)		in DH5&#945;	24-SEP-03	vials labeled 092
+DBP0000051	1(66-67)		in DH5&#945;	24-SEP-03	vials labeled 044
+DBP0000178	3(27,36)		in DH5&alpha;	01-APR-05	 
+DBP0000179	4(34-35)		in DH5&#945;	19-JUL-05	Streaked 7/12/05 from box 27(23-24)(stored 1/20/98)
+DBP0000180	3(43-44)		in DH5&alpha;	01-APR-05	 
+DBP0000181	3-(46-47)		in DH5&alpha;	01-APR-05	 
+DBP0000182	4(32-33)		in DH5&alpha;	19-JUL-05	On 7/12/05 streaked out from box 27(23-24) (stored 1/20/98)
+DBP0000183	3-(50-51)		In DH5&alpha;	01-APR-05	 
+DBP0000184	3(52-53)			01-APR-05	 
+DBP0000184	3(52-53)			01-APR-05	 
+DBP0000185	3(75-76)		in DH5&#945;	11-MAY-05	 
+DBP0000186	4(25-26)		in DH5&alpha;	21-JUN-05	vials labeled pDXA-H
+DBP0000187	4(28-29)		In DH5&alpha;	19-JUL-05	 
+DBP0000188	4(14-15)		In DH5&#945;	26-MAY-05	4 green vials stored 7/19/05 were removed 10/24/05. Were shown to be identical (7/8/05 and 11/3/05), and discarded.
+DBP0000189	4(77-78)		in XL1 Blue	01-SEP-05	labeled B/8
+DBP0000190	4(43-44)		in DH5&alpha;	03-AUG-05	 
+DBP0000191	4(27,36)		in DH5&alpha;	19-JUL-05	 
+DBP0000192	4(46-47)		in DH5&alpha;	03-AUG-05	 
+DBP0000193	4(48-49)		in DH5&alpha;	03-AUG-05	 
+DBP0000198	4(70-71)		in DH5&#945;	15-AUG-05	vials labeled pDXD-3H
+DBP0000075	4(79-80)		in XL1 Blue	02-SEP-05	 
+DBP0000076	4(75-76)		in XL1 Blue	02-SEP-05	 
+DBP0000077	5(5-6)		in XL1 Blue	06-SEP-05	 
+DBP0000078	5(7-8)		in XL1 Blue	05-SEP-05	labeled pyc23
+DBP0000079	5(3-4)		in XL1 Blue	06-SEP-05	 
+DBP0000080	5(1-2)		in XL1 Blue	06-SEP-05	 
+DBP0000081	5(75-76)		in DH5&alpha;	09-DEC-05	 
+DBP0000082	4(73-74)		XL1 Blue	01-SEP-05	labeled 5cap3ura
+DBP0000083	5(52-53)		in XL1 Blue	15-NOV-05	vials labeled pRJ544
+DBP0000084	5(30-31)		in XL1 Blue	07-OCT-05	 
+DBP0000085	5(10-11)		in XL1 Blue	03-OCT-05	 
+DBP0000086	5(21-22)		in XL1 Blue	07-OCT-05	 
+DBP0000087	5(55-56)		in XL1 Blue	15-NOV-05	vials labeled ACA-KO
+DBP0000088	5(23-24)		in XL1 Blue	07-OCT-05	 
+DBP0000089	5(14-15)		in XL1 Blue	03-OCT-05	 
+DBP0000090	5(16-17)		in XL1 Blue	03-OCT-05	 
+DBP0000091	5(19-20)		in XL1 Blue	03-OCT-05	 
+DBP0000092	5(12-13)		in XL1 Blue	03-OCT-05	 
+DBP0000093	3(10-11)		in DH5&#945;	11-MAR-05	 
+DBP0000094	4(63,72)		in DH5&#945;	15-AUG-05	stored twice
+DBP0000094	3(12-13)		in DH5&#945;	11-MAR-05	stored again 8/15/05 by S.M.; green; one HindIII site (8/31/05); labeled cYFP
+DBP0000095	4(57-58)		in DH5&#945;	15-AUG-05	Plasmid received on 2/1/05 seemed identical (see restriction digest 11/3/05), but Dave Hilbert could not get expression with it. Vials stored 3/11/05 were discarded on 11/4/05. //More plasmid was received on 6/3/2005, and this stock was made on 8/10/2005. Not sure it was retested for expression. 4/7/2009 PG
+DBP0000096	3(16-17)		in DH5&alpha;	11-MAR-05	 
+DBP0000097	3(19-20)		in DH5&#945;	18-MAR-05	 
+DBP0000109	3(25-26)		in DH5&alpha;	23-MAR-05	 
+DBP0000110	3(32-33)		in DH5&alpha;	23-MAR-05	 
+DBP0000111	3(30-31)		in DH5&alpha;	23-MAR-05	 
+DBP0000049	1(63,72)		in DH5&#945;	24-SEP-03	vials labeled 042
+DBP0000050	9(32-33)		in DH5&alpha;	06-JUN-07	Replacement for old stock stored at 1(61-62).
+DBP0000050	1(61-62)		in DH5&#945;	24-SEP-03	vials labeled 043
+DBP0000052	2(3-4)		in DH5&alpha;	11-NOV-03	 
+DBP0000053	2(5-6)			11-NOV-03	 
+DBP0000054	2(14-15)		in DH5&alpha;	26-FEB-04	 
+DBP0000054	2-C2	MC vial	DNA		no date available; 09-DEC-2009 PF
+DBP0000055	2(16-17)		in DH5&alpha;	26-FEB-04	 
+DBP0000056	2(19-20)		in DH5&alpha;	26-FEB-04	 
+DBP0000057	2(21-22)		in DH5&alpha;	26-FEB-04	 
+DBP0000058	2(27,36)		DH5&alpha;	24-SEP-04	 
+DBP0000059	2(37-38)		in DH5&alpha;	24-SEP-05	 
+DBP0000060	2(46-47)		in TOP10 from Invitrogen	03-DEC-04	 
+DBP0000061	2(48-49)		in TOP10 from Invitrogen	03-DEC-04	 
+DBP0000062	2(50-51)		in DH5&alpha;	15-DEC-04	colony A is stored in red vial, colony B stored in blue vial.
+DBP0000062	1-E2/3	MC vial	DNA	14-DEC-05	clone A is in 1-E2, clone B in 1-E3. 09-DEC-2009 PF
+DBP0000063	2(61-62)		in DH5&alpha;	18-JAN-05	 
+DBP0000063	1-A8		DNA		no date available 09-DEC-2009 PF
+DBP0000064	3(1-2)		in XL1-Blue	09-MAR-05	 
+DBP0000065	3(3-4)		in XL1 Blue	09-MAR-05	labeled TorA-KO2
+DBP0000066	3(5-6)		in XL1 Blue	09-MAR-05	 
+DBP0000066	1-B13	MC vial	DNA		no date available; 09-DEC-2009 PF
+DBP0000067	3(7-8)		in XL1 Blue	09-MAR-05	 
+DBP0000067	1-B12	MC vial	DNA		no date available; 09-DEC-2009 PF
+DBP0000068	4(37-38)		in XL1 Blue	03-AUG-05	 
+DBP0000069	4(66-67)		in XL1 Blue	01-SEP-05	labeled WF38
+DBP0000070	4(41-42)		in XL1 Blue	03-AUG-05	 
+DBP0000071	4(50-51)		in XL1 Blue	03-AUG-05	 
+DBP0000072	4(39-40)		in XL1 Blue	13-AUG-05	 
+DBP0000073	4(68-69)		in XL1 Blue	01-SEP-05	 
+DBP0000074	3(41-42)		in DH5&#945;	01-APR-05	 
+DBP0000116	3(70-71)		in DH10&#945;	11-MAY-05	 
+DBP0000290	7(9,18)		in DH5&alpha;	13-MAR-06	 
+DBP0000290	9(46-47)		in DH5&#945;	10-JUL-07	labeled gfp-piawt  Date on vials is 7/9/07.
+DBP0000292	7(64-65)		in DH5&alpha;	16-MAY-06	 
+DBP0000293	7(68-69)		in DH5&alpha;	16-MAY-06	 
+DBP0000294	7(66-67)		in DH5&alpha;	16-MAY-06	 
+DBP0000295	7(73-74)		in DH5&alpha;	16-MAY-06	 
+DBP0000296	7(70-71)		in DH5&alpha;	16-MAY-06	 
+DBP0000297	7(12-13)		in DH5&alpha;	07-APR-06	 
+DBP0000298	7(7-8)		in DH5&#945;	07-APR-06	tubes labeled dyn-hp
+DBP0000299	6(63,72)		in DH5&alpha;	10-MAR-06	 
+DBP0000299	1-C7	MC vial	DNA	10-MAR-04	Chris Thompson, ko vector 1ug/ul; 09-DEC-2009 PF
+DBP0000300	6(66-67)		in DH5&#945;	27-MAR-06	 
+DBP0000301	6(68-69)		in DH5&alpha;	27-MAR-06	 
+DBP0000302	6(70-71)		in DH5&alpha;	27-MAR-06	 
+DBP0000303	9(28-29)		in DH5&#945;	29-JUN-07	12-B on vial
+DBP0000305	6(77-78)		in DH5&#945;	27-MAR-06	vials labeled pik2-gfp
+DBP0000306	6(79-80)		in DH5&#945;	27-MAR-06	 
+DBP0000307	7(1-2)		in DH5&alpha;	27-MAR-06	 
+DBP0000308	7(3-4)		in DH5&alpha;	27-MAR-06	 
+DBP0000309	7(5-6)		in DH5&#945;	07-APR-06	tubes labeled myoII-hp
+DBP0000310	7(10-11)		in DH5&#945;	07-APR-06	labled pLD1
+DBP0000311	7(32-33)		in DH5&alpha;	21-APR-06	 
+DBP0000312	10(9,18)		in DH5&#945;	17-AUG-07	 
+DBP0000313	8(14-15)		in ES28	20-JUL-06	 
+DBP0000313	8(25-26)		in XL1 Blue	20-JUL-06	 
+DBP0000314	8(12-13)		in XL1 Blue	20-JUL-06	 
+DBP0000315	7(45,54)		in DH5&alpha;	12-MAY-06	 
+DBP0000316	10(23-24)		in DH5&#945;	31-AUG-07	Vials labeled lim2- (4). No date on vials.
+DBP0000317	7(79-80)		in XL1 Blue	20-JUL-06	 
+DBP0000318	8(3-4)		in DH5&#945;	20-JUL-06	 
+DBP0000319	8(7-8)		in XL1 Blue	20-JUL-06	 
+DBP0000320	8(5-6)		in XL1 Blue	20-JUL-06	 
+DBP0000321	8(1-2)		in XL1 Blue	20-JUL-06	 
+DBP0000322	8(10-11)		in XL1 Blue	20-JUL-06	 
+DBP0000323	10(16-17)		in DH5&#945;	17-AUG-07	 
+DBP0000324	7(77-78)		in DH5&alpha;	16-MAY-06	 
+DBP0000325	8(16-17)		in ES28	20-JUL-06	 
+DBP0000325	8(30-31)		in XL1 Blue	20-JUL-06	#137-PS
+DBP0000326	8(9,18)		in XL1 Blue	26-JUL-06	 
+DBP0000327	8(19-20)		in XL1 Blue	20-JUL-06	 
+DBP0000328	8(21-22)		in XL1 Blue	20-JUL-06	 
+DBP0000329	8(23-24)		in XL1 Blue	20-JUL-06	 
+DBP0000331	8(28-29)		in XL1 Blue	20-JUL-06	 
+DBP0000333	8(32-33)		in XL1 Blue	20-JUL-06	 
+DBP0000334	8(34-35)		in XL1 Blue	20-JUL-06	 
+DBP0000335	8(37-38)		in XL1 Blue	20-JUL-06	 
+DBP0000336	8(27,36)		in TOP10F	30-AUG-06	Vials labeled pDXA-3H-1B
+DBP0000339	8(41-42)		in SureCells	08-FEB-06	 
+DBP0000340	8(39-40)		in SureCells	08-FEB-07	RFP-atg8
+DBP0000341	8(43-44)		in SureCells	08-FEB-07	GFP-atg8
+DBP0000342	8(46-47)		in SureCells	08-FEB-06	 
+DBP0000346	8(61-62)		in DH5&alpha;	16-FEB-07	vials labeled pChtA-gfp
+DBP0000330	8(48-49)		in DH5&alpha;	16-FEB-07	vials labeled MT-ChtA-pDXA
+DBP0000344	8(55-56)		in DH5&#945;	16-FEB-07	vials labeled V/63-MT-ChtA
+DBP0000345	8(50-51)		in DH5&aplha;	16-FEB-07	vials labeled V/Psa-MT-ChtA
+DBP0000332	8(52-53)		in DH5&alpha;	16-FEB-07	vials labeled MT-pDXA-pChtA
+DBP0000348	9(3-4)		in DH5&alpha;	06-APR-07	 
+DBP0000350	1-9(19-20)		in DH5&alpha;	04-MAY-07	 
+DBP0000351	6(73-74)		in DH5&alpha;	27-MAR-06	 
+DBP0000354	9(10-11)		in DH5&alpha;	18-APR-07	 
+DBP0000355	9(39-40)		in DH5&#945;	09-JUL-70	Probably in in DH5&#945;, but Dale was not sure about it.
+DBP0000356	9(23-24)		XL1Blue	13-JUN-07	 
+DBP0000357	9(25-26)		in XL1Blue	13-JUN-07	 
+DBP0000364	9(41-42)		in DH5&alpha;	10-JUL-07	Date on vials is 7/9/07.
+DBP0000365	9(30-31)		in DH5&alpha;	29-JUN-07	Vials labeled 10-1
+DBP0000366	9(48-49)		in DH5&#945;	10-JUL-07	Labeled gfp-HSB1  Date on vilas is 7/9/07
+DBP0000367	9(34-35)		in DH5&alpha;	06-JUL-07	 
+DBP0000368	9(9,18)		in DH5&alpha;	06-JUL-07	 
+DBP0000353	9(14-15)		in DH5&alpha;	18-APR-07	 
+DBP0000369	9(37-38)		in DH5&alpha;	07-JUL-07	Labeled 12-7.
+DBP0000370	9(50-51)		in DH5&#945;	13-JUL-07	Vials labeled 131-30
+DBP0000371	9(27,36)		in DH5&#945;	06-JUL-07	Vials labeled 33-1
+DBP0000373	9(68-69)		in DH5&#945;	27-JUL-07	Vials labeled 83-8
+DBP0000374	9(63,72)		in DH5&#945;	27-JUL-07	 
+DBP0000376	9(52-53)		in DH10B	13-JUL-07	Vials labeled PC
+DBP0000377	9(55-56)		in DH10B	13-JUL-07	Vials labeled EY
+DBP0000378	9(66-67)		in DH5&#945;	27-JUL-07	Vials labeled TM
+DBP0000379	9(59-60)		in DH5&#945;	27-JUL-07	vials labeled BA1
+DBP0000380	9(57-58)		in DH5&#945;	27-JUL-07	Vials labeled BA2
+DBP0000381	9(64-65)		in DH5&alpha;	27-JUL-07	vials labeled BG
+DBP0000382	9(61-62)		in DH5&#945;	27-JUL-07	Vials labeled MA1
+DBP0000383	9(36,45)		in DH5&alpha;	27-JUN-07	Vials labeled MA2
+DBP0000384	9(73-74)		in DH5&alpha;	27-JUL-07	Vials labeled III
+DBP0000385	9(75-76)		in DH5&alpha;	27-JUL-07	 
+DBP0000386	9(79-80)		in DH5&alpha;	15-AUG-07	 
+DBP0000387	10(21-22)		in DH5&alpha;	30-AUG-07	 
+DBP0000388	10((14-15)		in DH5&alpha;	30-AUG-07	 
+DBP0000389	10(19-20)		in DH5&alpha;	30-AUG-07	 
+DBP0000390	10(37-38)		in DH5&#945;	18-OCT-00	 
+DBP0000392	10(43-44)		in DH5&alpha;	18-OCT-07	 
+DBP0000392	10(61-62)		in DH5&alpha;	15-NOV-07	 
+DBP0000396	10(48-49)		in DH5&alpha;	18-OCT-07	 
+DBP0000397	10(50-51)		in DH5&alpha;	18-OCT-07	 
+DBP0000352	9(7-8)		in DH5&alpha;	18-APR-07	 
+DBP0000358	10(1-2)		in DB3.1	15-AUG-07	 
+DBP0000359	10(3-4)		in DB3.1	15-AUG-07	 
+DBP0000360	10(5-6)		in DB3.1	15-AUG-07	 
+DBP0000361	10(7-8)		in DB3.1	15-AUG-07	 
+DBP0000362	10(10-11)		in DB3.1	15-AUG-07	 
+DBP0000363	10(12-13)		in DB3.1	15-AUG-07	 
+DBP0000372	9(70-71)		in DH5&#945;	27-JUL-07	Vials labeled 9-10
+DBP0000375	9(43-44)		in DH5&alpha;	10-JUL-07	date on vials is 7/9/07
+DBP0000391	10(39-40)		in DH5&#945;	18-OCT-07	 
+DBP0000393	10(41-42)		in DH5&alpha;	18-OCT-07	 
+DBP0000394	10(27,36)		in DH5&alpha;	18-OCT-07	 
+DBP0000395	10(46-47)		in DH5&#945;	18-OCT-00	 
+DBP0000398	10(52-53)		in DH5&#945;	18-OCT-07	 
+DBP0000399	10(45,54)		in DH5&alpha;	18-OCT-07	 
+DBP0000400	10(55-56)		in DH5&alpha;	18-OCT-07	 
+DBP0000401	10(57-58)		in DH5&#945;	18-OCT-07	 
+DBP0000402	10(59-60)		in DH5&alpha;	18-OCT-07	 
+DBP0000403	10(70-71)		in DH5&alpha;	18-DEC-07	 
+DBP0000112	3(9,18)		in STBL2	01-APR-05	 
+DBP0000113	3(57-58)		in DH5&alpha;	13-APR-05	vials labeled Neo2-TRAP1
+DBP0000115	3(55-56)		in DH5&alpha;	13-APR-05	vials labeled TRAP1-RNAi
+DBP0000001	2(41-42)		in DH5&alpha; (colony A1)	10-NOV-04	 
+DBP0000001	2(43-44)		in DH5&#945; (colony A2)	10-NOV-04	 
+DBP0000002	2(79-80)		in DH5&alpha;	07-FEB-05	 
+DBP0000003	2(63,72)		in DH5&alpha;	10-FEB-05	 
+DBP0000004	2(45,54)		in DH5&alpha;	07-FEB-05	 
+DBP0000005	2(73-74)		in DH5&alpha;	07-FEB-05	 
+DBP0000006	2(75-76)		in DH5&alpha;	07-FEB-05	 
+DBP0000007	2(77-78)		in DH5&alpha;	07-FEB-05	 
+DBP0000008	2(64-65)		in DH5&#945;	17-JAN-05	labeled PDEX-cre
+DBP0000009	2(66-67)		in DH5&alpha;	18-JAN-05	 
+DBP0000010	1(73-75)		in DH5&#945;	29-SEP-03	labled EZTN
+DBP0000199	4(61-62)		in DH5&alpha;	15-AUG-05	 
+DBP0000201	4(64-65)		in DH5&#945;	15-AUG-05	vial labeled as pDXA-cYFP-mcs, note is pDXA-eYFP-mcs
+DBP0000202	5(43-44)		in DH5&#945;	02-NOV-05	 
+DBP0000203	4(45,54)		in DH5&alpha;	15-AUG-05	labeled pDXA-GST II
+DBP0000204	4(52-53)		in DH5&alpha;	15-AUG-05	 
+DBP0000205	4(59-60)		in DH5&#945;	15-AUG-05	 
+DBP0000206	5(28-29)		in DH5&#945;	07-OCT-05	vial labeled as pv18-ub1-eGFP
+DBP0000207	5(46-47)		in DH5&alpha;	02-NOV-05	 
+DBP0000208	5(37-38)		in DH5&alpha;	14-OCT-05	vials labeled MHCKD-KO
+DBP0000209	5(25-26)		in DH5&alpha;	07-OCT-05	 
+DBP0000210	5(39-40)		in DH5&alpha;	14-OCT-05	 
+DBP0000211	5(41-42)		in DH5&alpha;	14-OCT-05	 
+DBP0000212	5(27,36)		in DH5&alpha;	14-OCT-05	 
+DBP0000213	5(34-35)		in DH5&#945;	14-OCT-05	 
+DBP0000347	9(1-2)		in DH5&alpha;	06-APR-07	 
+DBP0000349	1-9(21-22)		in DH5&alpha;	04-MAY-07	 
+DBP0000214	5(9,18)		in DH5&#945;	14-OCT-05	 
+DBP0000215	6(7-8)		in DH5&#945;	10-FEB-06	 
+DBP0000216	6(5-6)		in DH5&#945;	10-FEB-06	 
+DBP0000218	5(50-51)		in DH5&alpha;	03-NOV-05	 
+DBP0000219	1(27,36)		in DH5&alpha; or SureCells	21-OCT-05	 
+DBP0000220	4(21-22)		in DH5&alpha; or Sure Cells	21-OCT-05	 
+DBP0000221	5(32-33)		in DH5&alpha; or Sure Cells	21-OCT-05	vials labeled DH11(1-6)
+DBP0000222	4(30-31)		in DH5&alpha; or Sure Cells	21-OCT-05	vials labeled PR3-gal16
+DBP0000223	5(48-49)		in DH5&alpha;	02-NOV-05	 
+DBP0000042	1(75-76)		in HB101	11-NOV-03	 
+DBP0000024	1(16-17)		in XL1 Blue	11-AUG-03	 
+DBP0000224	5(66-69)		in XL-1 Blue	09-DEC-05	2 yellow vials (colony A) and 2 pink vials (colony B)
+DBP0000032	1(41-42)		in DH5&alpha;	18-SEP-03	 
+DBP0000228	5(63,72)		in DH5&alpha;	09-DEC-05	 
+DBP0000229	5(45,54)		in DH5&alpha;	19-DEC-05	 
+DBP0000231	5(70-71)		in DH5&alpha;	09-DEC-05	 
+DBP0000232	3(48-49)		in DH5&alpha;	21-DEC-05	 
+DBP0000233	5(57-58)		in DH5&alpha;	21-DEC-05	 
+DBP0000234	5(73-74)		in DH5&#945;	23-DEC-05	 
+DBP0000234	5(77-78)		in DH5&alpha;	18-JAN-06	Jan.06: plasmid 9-10 kb (should be 7-8 kb). Restore 1/18/06 in blue vials: 5(77-78) (labeled pDT5-1)
+DBP0000235	3(14-15)		in DH5&alpha;	21-DEC-05	 
+DBP0000236	5(59-60)		in DH5&alpha;	21-DEC-05	 
+DBP0000237	3(45,54)		in DH5&alpha;		 
+DBP0000238	5(64-65)		in DH5&alpha;	21-DEC-05	 
+DBP0000240	5(79-80)		in DH5&#945;	18-JAN-06	labeled N-CAP
+DBP0000241	6(1-2)		in DH5&#945;	18-JAN-06	labeled C-CAP
+DBP0000242	6(3-4)		in DH5&alpha;	18-JAN-06	 
+DBP0000227	5(61-62)		in XL-1 Blue	09-NOV-05	 
+DBP0000243	6(25-26)		in DH5&#945;	10-FEB-06	pCTAP
+DBP0000244	6(28-29)		in DH5&#945;	10-FEB-06	 
+DBP0000245	6(46-47)		DH5&alpha;	17-FEB-06	 
+DBP0000246	6(12-13)		in DH5&alpha;	10-FEB-06	 
+DBP0000247	6(14-15)		in DH5&alpha;	10-FEB-06	 
+DBP0000248	6(19-20)		in DH5&alpha;	10-FEB-06	vials labeled R2P3-OE
+DBP0000249	6(16-17)		in DH5&alpha;	10-FEB-06	vials labeled R2P3-KO
+DBP0000250	6(21-22)		in DH5&alpha;	10-FEB-06	 
+DBP0000251	6(23-24)		in DH5&alpha;	10-FEB-06	 
+DBP0000252	6(45,54)		in DH5&alpha;	17-FEB-06	 
+DBP0000253	6(27,36)		in DH5&alpha;	17-FEB-06	vials labeled G-12
+DBP0000254	6(48-49)		in DH5&#945;	17-FEB-06	vials labeled G-17
+DBP0000255	6(55-56)		in DH5&alpha;	17-FEB-06	vials labeled 1-17
+DBP0000256	6(52-53)		in DH5&alpha;	17-FEB-06	vials labeled 1-12
+DBP0000257	6(9,18)		in DH5&alpha;	10-FEB-06	 
+DBP0000258	6(32-33)		in DH5&alpha;	10-FEB-06	 
+DBP0000259	6(30-31)		in DH5&alpha;	10-FEB-06	 
+DBP0000260	6(50-51)		in DH5&alpha;	17-FEB-06	 
+DBP0000261	6(57-58)		in DH5&alpha;	03-MAR-06	 
+DBP0000262	6(59-60)		in DH5&alpha;	03-MAR-06	 
+DBP0000263	6(64-65)		in DH5&alpha;	03-MAR-06	 
+DBP0000264	6(68-69)		in DH5&#945;	27-MAR-06	vial labeled as 621
+DBP0000265	7(14-15)		in DH5&#945;	21-APR-06	 
+DBP0000266	7(16-17)		in DH5&#945;	21-APR-06	 
+DBP0000267	7(19-20)		in DH5&alpha;	21-APR-06	 
+DBP0000268	7(63,72)		in DH5&alpha;	08-MAY-06	 
+DBP0000269	7(23-24)		in DH5&alpha;	21-APR-06	 
+DBP0000270	7(21-22)		in DH5&#945;	21-APR-06	 
+DBP0000271	7(25-26)		in DH5&alpha;	21-APR-06	 
+DBP0000272	7(28-29)		in DH5&#945;	21-APR-06	 
+DBP0000273	7(27,36)		in DH5&alpha;	05-MAY-06	 
+DBP0000274	7(34-35)		in DH5&alpha;	05-MAY-06	 
+DBP0000275	7(37-38)		in DH5&alpha;	05-MAY-06	 
+DBP0000276	7(39-40)		in DH5&alpha;	05-MAY-06	 
+DBP0000277	7(43-44)		in DH5&alpha;	05-MAY-06	 
+DBP0000278	7(41-42)		in DH5&alpha;	05-MAY-06	 
+DBP0000279	7(30-31)		in DH5&alpha;	21-APR-06	 
+DBP0000280	7(50-51)		in DH5&alpha;	05-MAY-06	 
+DBP0000281	7(48-49)		in DH5&alpha;	05-MAY-06	 
+DBP0000282	7(46-47)		in DH5&alpha;	05-MAY-06	 
+DBP0000283	7(52-53)		in DH5&alpha;	05-MAY-06	 
+DBP0000284	7(57-58)		in DH5&alpha;	12-MAY-06	 
+DBP0000285	7(59-60)		in DH5&alpha;	12-MAY-06	 
+DBP0000286	7(55-56)		in DH5&alpha;	12-APR-06	 
+DBP0000287	7(61-62)		in DH5&alpha;	12-MAY-06	 
+DBP0000288	7(75-76)		in DH5&alpha;	16-MAY-06	 
+DBP0000289	6(61-62)		in DH5&alpha;	10-MAR-06	 
+DBP0000410	11(10-11)		in DH5&alpha;	18-MAR-08	 
+DBP0000445	12(3-4)		in DH5&alpha;	22-MAY-08	 
+DBP0000463	12(45,54)		in DH5&alpha;	17-JUL-08	pDRH
+DBP0000466	12(50-51)		in DH5&alpha;	17-JUL-08	fimbrin-HP
+DBP0000499	14(14-15)		n DH5&#945;	10-NOV-08	 
+DBP0000500	14(27,36)		n DH5&#945;	17-OCT-08	 
+DBP0000501	14(16-17)		in DH5&#945;	10-NOV-08	 
+DBP0000502	14(5-6)		in DH5&#945;	10-NOV-08	 
+DBP0000503	14(3-4)		in DH5&#945;	10-NOV-08	 
+DBP0000505	14(10-11)		in DH5&#945;	10-NOV-08	 
+DBP0000506	14(12-13)		in DH5&#945;	10-NOV-08	 
+DBP0000507	13(21-22)		in XL1 Blue	08-OCT-08	 
+DBP0000511	13(30-31)		in XL1 Blue	08-SEP-08	 
+DBP0000516	DNA box 21(7B)	MC vial	DNA	04-MAR-11	NEW STOCK
+DBP0000516	20(12-13)		in DH10B cells	04-MAR-11	new stock, 03/04/2011
+DBP0000517	16(41-42)		XL10 GOLD	08-APR-09	a + b clones
+DBP0000517	DNA box 20(8E; 9A)	MC vial	DNA		Also available in DH5 alpha
+DBP0000518	16(45)		in DH5alpha	08-APR-09	 
+DBP0000518	DNA box 20(4E; 5A)	MC vial	DNA		Also available in DH5 alpha
+DBP0000519	16(64-65)		in DH5alpha	07-MAY-09	 
+DBP0000519	DNA box 20(16A-B)	MC vial	DNA		Also available in DH5alpha
+DBP0000408	11(14-15)		in Sure Cells	02-APR-08	labeled LAS3; culture 5B
+DBP0000415	11(12-13)		in Sure Cells	18-MAR-08	labeled LAS5
+DBP0000417	11(16-17)		in Sure Cells	18-MAR-08	labeled LAS7
+DBP0000419	11(23-24)		in Sure Cells	20-MAR-08	labeled LAS18
+DBP0000420	11(25-26)		in Sure Cells	20-MAR-08	labeled LAS19
+DBP0000422	11(28-29)		in Sure Cells	02-APR-08	from tube 13B
+DBP0000425	11(32-33)		in Sure Cells	20-MAR-08	labeled LAS32
+DBP0000427	11(37-38)		in Sure Cells	20-MAR-08	labeled LAS38
+DBP0000428	11(43-44)		in Sure Cells	01-APR-08	 
+DBP0000433	11(50-51)		in Sure Cells	01-APR-08	 
+DBP0000435	11(61-62)		in Sure Cells	03-APR-08	 
+DBP0000436	11(55-56)		in Sure Cells	01-APR-08	 
+DBP0000438	11(64-65)		in Sure Cells	03-APR-08	no date on vials
+DBP0000439	12(14-15)		in SureCells	04-JUN-08	 
+DBP0000444	11(73-74)		in DH5&#945;	23-JUN-08	 
+DBP0000446	12(1-2)		in DH5&alpha;	22-MAY-08	 
+DBP0000448	11(77-78)		in DH5&alpha;	21-MAY-08	 
+DBP0000464	12(56-57)		in DH5&alpha;	17-JUL-08	GFP2-tubulin
+DBP0000465	12(55-56)		in DH5&alpha;	17-JUL-08	 
+DBP0000467	12(52-53)		in DH5&alpha;	16-JUL-08	Fimbrin-GFP
+DBP0000479	13(12-13)		in DH5&#945;	19-AUG-08	 
+DBP0000482	12(77-78)		in XL1-Blue	11-AUG-08	tetR, ampR
+DBP0000483	12(61-62)		in DH5&#945;	17-JUL-08	 
+DBP0000487	12(48-49)		in DH5&#945;	17-JUL-08	 
+DBP0000495	14(23-24)		in DH5&#945;	12-NOV-08	 
+DBP0000496	14(21-22)		in DH5&#945;	17-NOV-08	 
+DBP0000504	14(7-8)		in DH5&#945;	10-NOV-08	 
+DBP0000508	13(19-20)		in XL1 Blue	08-OCT-08	 
+DBP0000509	13(37-38)		in XL1 Blue	08-OCT-08	 
+DBP0000510	13(34-35)		in XL1 Blue	08-OCT-08	 
+DBP0000512	13(23-24)		in XL1 Blue	08-OCT-08	 
+DBP0000513	13(28-29)		in XL1 Blue	08-OCT-08	 
+DBP0000514	13(25-26)		in XL1 Blue	08-OCT-08	 
+DBP0000515	13(32-33)		in XL1 Blue	08-OCT-08	 
+DBP0000520	16(27)		in DH5alpha	08-APR-09	 
+DBP0000520	DNA box 20(3D-E)	MC vial	DNA		Also available in DH5 alpha
+DBP0000405	11(3-4)		in DH5&alpha;	05-FEB-08	 
+DBP0000443	11(57-58)		in DH5&#945;	22-MAY-08	 
+DBP0000449	11(79-80)		in DH5&alpha;	22-MAY-08	 
+DBP0000454	11(59-60)		in DH5&alpha;	22-MAY-08	 
+DBP0000481	13(7-8)		in DH5&#945;	19-AUG-08	 
+DBP0000484	12(41-42)		in DH5&#945;	17-JUL-08	 
+DBP0000521	17(46-47)		in DH5alpha	12-JUN-09	 
+DBP0000522	DNA BOX 21(8E)	MC vial	DNA	01-JUL-11	new stock; no mutation
+DBP0000522	21(12-13)		BACTERIAL STOCK - DH10B	01-JUL-11	new stock; no mutation
+DBP0000523	16(57-58)		in DH5alpha	29-APR-09	Amp resistance (http://www.dictybase.org/db/cgi-bin/dictyBase/SC/plasmid_details.pl?id=523)
+DBP0000523	DNA box 20(16D)	MC vial	DNA		Also available in DH5alpha
+DBP0000524	17(45,54)		in DH5alpha	12-JUN-09	 
+DBP0000525	DNA box 20(12E;13E)	MC vial	DNA		Also available in DH5alpha
+DBP0000525	16(75-76)		in DH5alpha	07-MAY-09	Amp resistance (based on map in Dictybase http://www.dictybase.org/db/cgi-bin/dictyBase/SC/plasmid_details.pl?id=525
+DBP0000526	DNA box 20(15A-B)	MC vial	DNA		Also available in DH5alpha
+DBP0000526	16(59-60)		in DH5alpha	29-APR-09	Amp resistance, http://www.dictybase.org/db/cgi-bin/dictyBase/SC/plasmid_details.pl?id=526
+DBP0000527	17(43-44)		in DH5alpha	12-JUN-09	 
+DBP0000528	DNA box 21(5A)	MC vial	DNA	07-DEC-10	NEW STOCK OF PDM 370! DO NOT USE OTHER INCORRECT STOCKS! 12/7/2010
+DBP0000528	19(79)		bacterial stock (DH10B)	07-DEC-10	THIS IS THE NEW CORRECT STOCK - DO NOT USE PREVIOUS STOCK / 12/06/2010
+DBP0000529	17(32-33)		in DB3.1	19-MAY-09	 
+DBP0000529	DNA box 20(16C)	MC vial	DNA		Also available in DH5alpha
+DBP0000530	17(28-29)		in DB3.1	19-MAY-09	 
+DBP0000530	DNA box 20(11A-B)	MC vial	DNA		Also available in DH5alpha
+DBP0000531	DNA box 20(7B-C)	MC vial	DNA		Also available in DH5 alpha
+DBP0000531	17(9,18)		in DB3.1	12-MAY-09	 
+DBP0000532	DNA box 20(2B-C)	MC vial	DNA		Also available in DH5 alpha
+DBP0000532	16(37-38)		in DH5alpha	08-APR-09	 
+DBP0000404	10(63,72)		in DH5&alpha;	18-DEC-07	 
+DBP0000409	11(9,18)		in DH5&alpha;	17-MAR-08	 
+DBP0000414	11(5-6)		in DH5&alpha;	18-MAR-08	 
+DBP0000451	12(12-13)		in DH5&alpha;	16-JUN-08	 
+DBP0000453	12(19-20)		in DH5&#945;	04-JUN-08	 
+DBP0000461	12(63,72)		in DH5&alpha;	24-JUL-08	 
+DBP0000472	10(28-29)		DH5&alpha;	15-OCT-07	 
+DBP0000473	10(30-31)		in DH5&#945;	15-OCT-07	 
+DBP0000475	10(32-33)		in DH5&#945;	15-OCT-07	 
+DBP0000488	12(37-38)		in DH5&#945;	17-JUL-08	 
+DBP0000490	12(46-47)		in DH5&#945;	17-JUL-08	 
+DBP0000491	12(43-44)		in DH5&#945;	17-JUL-08	 
+DBP0000494	14(25-26)		n DH5&#945;	17-NOV-08	 
+DBP0000498	14(9,18)		n DH5&#945;	10-NOV-08	 
+DBP0000416	11(19-20)		in Sure Cells	18-MAR-08	labeled LAS6
+DBP0000418	11(21-22)		in Sure Cells	18-MAR-08	labeled LAS8
+DBP0000421	11(27,36)		in Sure Cells	04-JUN-08	12B vials from 4/3/08 replaced because the culture grew very slow.
+DBP0000423	11(30-31)		in Sure Cells	20-MAR-08	labeled LAS29
+DBP0000424	11(34-35)		in Sure Cells	20-MAR-08	labeled LAS31
+DBP0000426	11(39-40)		in Sure Cells	20-MAR-08	labeled LAS34
+DBP0000429	11(41-42)		in Sure Cells	01-APR-08	 
+DBP0000430	11(45,54)		in Sure Cells	01-APR-08	 
+DBP0000431	11(46-47)		in Sure Cells	01-APR-08	 
+DBP0000432	11(48-49)		in Sure Cells	01-APR-08	 
+DBP0000434	11(52-53)		in Sure Cells	01-APR-08	 
+DBP0000437	11(66-67)		in Sure Cells	03-APR-08	 
+DBP0000440	12(16-17)		in SureCells	04-JUN-08	Green vials stored on 5/22/08 were discarded.
+DBP0000441	11(68-69)		in Sure Cells	03-APR-08	 
+DBP0000447	11(63,72)		in DH5&alpha;	22-MAY-08	 
+DBP0000442	11(7-8)		in Sure Cells	18-MAR-08	tube 1A
+DBP0000450	12(5-8)		in DH5&alpha;	16-JUN-08	2 clones stored: A in 12(5-6) and B in 12(7-8).
+DBP0000450	12(7-8)		in DH5&alpha;	16-JUN-08	2 clones stored: A in 12(5-6) and B in 12(7-8).
+DBP0000450	12(5-6)		in DH5&alpha;	16-JUN-08	2 clones stored: A in 12(5-6) and B in 12(7-8).
+DBP0000452	12(10-11)		in DH5&alpha;	16-JUN-08	 
+DBP0000455	11(75-76)		in DH5&#945;	22-MAY-08	 
+DBP0000456	11(70-71)		in DH5&alpha;	22-MAY-08	 
+DBP0000457	12(27,36)		DH5&alpha;	02-JUL-08	 
+DBP0000458	12(9,18)		in DH5&alpha;	02-JUL-08	 
+DBP0000462	12(59-60)		in DH5&alpha;	24-JUL-08	 
+DBP0000471	10(25-26)		in DH5&#945;	15-OCT-07	 
+DBP0000474	10(34-35)		in DH5&#945;	15-OCT-07	 
+DBP0000476	13(14-15)		in TOP10	19-AUG-08	 
+DBP0000477	13(16-17)		in TOP10	19-AUG-08	mislabeled pVSE-Hyg
+DBP0000478	13(10-11)		in DH5&#945;	19-AUG-08	 
+DBP0000480	13(3-4)		in DH5&#945;	19-AUG-08	 
+DBP0000485	12(32-33)		in DH5&#945;	17-JUL-08	 
+DBP0000486	12(34-35)		in DH5&#945;	17-JUL-08	 
+DBP0000489	12(39-40)		in DH5&#945;	17-JUL-08	 
+DBP0000492	14(1-2)		in XL1-Blue	12-SEP-08	 
+DBP0000497	14(19-20)		in DH5&#945;	10-NOV-08	 
+DBP0000567	20(49-50)		BACTERIAL STOCK - DH10B	31-JUL-11	pdm312 2 - new stock - do not use other stocks!
+DBP0000567	DNA box 20(14A-B)	MC vial	DNA		Also available in DH5alpha
+DBP0000568	17(16-17)		in DB3.1	12-MAY-09	 
+DBP0000568	DNA box 20(5B-C)	MC vial	DNA		Also available in DH5 alpha
+DBP0000571	18(68-69)		bacterial stock	30-AUG-10	HM448 on cap
+DBP0000571	DNA box 21(3E)	MC vial	DNA	30-AUG-10	 
+DBP0000572	18(70-71)		bacterial stock	30-AUG-10	HM375 on cap
+DBP0000572	DNA box 21(4A)	MC vial	DNA	30-AUG-10	 
+DBP0000573	DNA box 21(4E)	MC vial	DNA	30-AUG-10	 
+DBP0000573	18(72-73)		bacterial stock	30-AUG-10	HM354 on cap
+DBP0000578	19(5-6)		bacterial stock	30-AUG-10	HM557 on cap
+DBP0000578	DNA box 21(2C)		DNA	30-AUG-10	 
+DBP0000635	20(9-10)		bacterial stock	18-FEB-11	DH10B
+DBP0000635	DNA box 21(6E)	MC vial	DNA	18-FEB-11	ALSO AVAILABLE IN DH10B CELLS
+DBP0000640	19(22)	MC vial	Bacterial stock	21-SEP-10	stored only in 1-19; only one tube sent
+DBP0000641	19(28)	MC vial	Bacterial stock	21-SEP-10	stored only in 1-19; only one tube sent
+DBP0000642	19(12)	MC vial	Bacterial stock	21-SEP-10	stored only in 1-19; only one tube sent
+DBP0000643	19(14)	MC vial	Bacterial stock	21-SEP-10	stored only in 1-19; only one tube sent
+DBP0000644	19(19)	MC vial	Bacterial stock	21-SEP-10	stored only in 1-19; only one tube sent
+DBP0000645	19(11)	MC vial	Bacterial stock	21-SEP-10	stored only in 1-19; only one tube sent
+DBP0000646	19(13)	MC vial	Bacterial stock	21-SEP-10	stored only in 1-19; only one tube sent
+DBP0000647	19(26)	MC vial	Bacterial stock	21-SEP-10	stored only in 1-19; only one tube sent
+DBP0000648	19(27)	MC vial	Bacterial stock	21-SEP-10	stored only in 1-19; only one tube sent
+DBP0000649	19(30)	MC vial	Bacterial stock	21-SEP-10	stored only in 1-19; only one tube sent
+DBP0000650	19(23)	MC vial	Bacterial stock	21-SEP-10	stored only in 1-19; only one tube sent
+DBP0000651	19(18)	MC vial	Bacterial stock	21-SEP-10	stored only in 1-19; only one tube sent
+DBP0000652	19(15)	MC vial	Bacterial stock	21-SEP-10	stored only in 1-19; only one tube sent
+DBP0000653	19(16)	MC vial	Bacterial stock	21-SEP-10	stored only in 1-19; only one tube sent
+DBP0000654	19(29)	MC vial	Bacterial stock	21-SEP-10	stored only in 1-19; only one tube sent
+DBP0000655	19(24)	MC vial	Bacterial stock	21-SEP-10	stored only in 1-19; only one tube sent
+DBP0000656	19(21)	MC vial	Bacterial stock	21-SEP-10	stored only in 1-19; only one tube sent
+DBP0000657	19(25)	MC vial	Bacterial stock	21-SEP-10	stored only in 1-19; only one tube sent
+DBP0000658	19(17)	MC vial	Bacterial stock	21-SEP-10	stored only in 1-19; only one tube sent
+DBP0000659	19(20)	MC vial	Bacterial stock	21-SEP-10	stored only in 1-19; only one tube sent
+DBP0000660	19(31)	MC vial	Bacterial stock	21-SEP-10	stored only in 1-19; only one tube sent
+DBP0000533	16(48-49)		in DH5alpha	03-APR-09	 
+DBP0000533	DNA box 20(17A-B)	MC vial	DNA		Also available in DH5alpha
+DBP0000534	17(23-24)		in DH5alpha	12-MAY-09	 
+DBP0000534	DNA box 20(14C-D)	MC vial	DNA		Also available in DH5alpha
+DBP0000541	16(52-53)		DH5alpha	29-APR-09	 
+DBP0000541	DNA box 20(13A-B)	MC vial	DNA		Also available in DH5alpha
+DBP0000544	DNA box 20(6A-B)	MC vial	DNA		Also available in DH5 alpha
+DBP0000544	17(37-38)		in DB3.1	19-MAY-09	 
+DBP0000545	DNA box 20(6C-D)	MC vial	DNA		Also available in DH5 alpha
+DBP0000545	17(27,36)		in DB3.1	19-MAY-09	 
+DBP0000546	17(21-22)		in DB3.1	12-MAY-09	 
+DBP0000546	DNA box 20(6E; 7A)	MC vial	DNA		Also available in DH5 alpha
+DBP0000547	17(30-31)		in DB3.1	19-MAY-09	 
+DBP0000547	DNA box 20(7D-E)	MC vial	DNA		 
+DBP0000547	DNA box 20(7D-E)	MC vial	DNA		Also available in DH5 alpha
+DBP0000558	17(55-56)		in DB3.1	24-JUN-09	 
+DBP0000560	17(57-58)		in DB3.1	24-JUN-09	 
+DBP0000562	17(1-2)		in DH5alpha	06-MAY-09	Plasmid DNA : in Box 13-C-3
+DBP0000563	16(68-69)		in DH5alpha	06-MAY-09	 
+DBP0000566	DNA box 20(13C-D)	MC vial	DNA		Also available in DH5alpha
+DBP0000566	17(3-4)		in DH5alpha	08-MAY-09	 
+DBP0000574	18(74-75)		bacterial stock	30-AUG-10	HM559 on cap
+DBP0000574	DNA box 21(2D)	MC vial	DNA	30-AUG-10	 
+DBP0000581	19(9-10)		bacterial stock	30-AUG-10	HM449 on cap
+DBP0000581	DNA box 21(3B)	MC vial	DNA	30-AUG-10	 
+DBP0000582	17(70-71)		in SURE cells	23-SEP-09	 
+DBP0000583	17(73-74)		in SURE cells	23-SEP-09	 
+DBP0000590	17(68-69)		DH5alpha	08-JUL-09	 
+DBP0000590	DNA box 20(1B)	MC vial	DNA		Also available in DH5 alpha
+DBP0000598	DNA BOX 21(7C)	MC vial	DNA	13-MAY-11	ALSO AVAILABLE IN DH10B
+DBP0000598	20(15-16)		BACTERIAL STOCK - DH10B	13-MAY-11	ALSO AVAILABLE AS DNA
+DBP0000634	DNA box 21(5E)	MC vial	dna	18-FEB-11	also available in dh10b cells
+DBP0000634	20(1-2)		bacterial stock	18-FEB-11	DH10B
+DBP0000636	20(3-4)		bacterial stock	18-FEB-11	DH10B
+DBP0000636	DNA box 21(6A)	MC vial	DNA	18-FEB-11	ALSO AVAILABLE IN DH10B CELLS
+DBP0000676	19(36)	MC vial	Bacterial stock	17-NOV-10	stored only in 1-19; only one tube sent
+DBP0000703	19(63)	MC vial	Bacterial stock	17-NOV-10	stored only in 1-19; only one tube sent
+DBP0000704	19(64)	MC vial	Bacterial stock	17-NOV-10	stored only in 1-19; only one tube sent
+DBP0000705	19(65)	MC vial	Bacterial stock	17-NOV-10	stored only in 1-19; only one tube sent
+DBP0000706	19(66)	MC vial	Bacterial stock	17-NOV-10	stored only in 1-19; only one tube sent
+DBP0000707	19(67)	MC vial	Bacterial stock	17-NOV-10	stored only in 1-19; only one tube sent
+DBP0000708	19(68)	MC vial	Bacterial stock	17-NOV-10	stored only in 1-19; only one tube sent
+DBP0000709	19(69)	MC vial	Bacterial stock	17-NOV-10	stored only in 1-19; only one tube sent
+DBP0000710	19(70)	MC vial	Bacterial stock	17-NOV-10	stored only in 1-19; only one tube sent
+DBP0000580	DNA box 21(4D)	MC vial	DNA	30-AUG-10	 
+DBP0000580	19(7-8)		bacterial stock	30-AUG-10	HM348 on cap
+DBP0000585	18(17-18)		bacterial stock	11-MAR-09	pAB3 on tube
+DBP0000592	DNA box 20(1E)	MC vial	DNA		Also available as DH5 alpha
+DBP0000592	17(63,72)		DH5alpha	08-JUL-09	 
+DBP0000593	DNA box 20(1D)	MC vial	DNA		Also available in DH5 alpha
+DBP0000593	17(59-60)		DH5alpha	08-JUL-09	 
+DBP0000604	18(5-6)		bacterial stock	11-JUN-10	two different clones in position 5 and 6
+DBP0000605	18(9-10)		bacterial stock	11-JUN-10	two different clones in position 9 and 10
+DBP0000606	18(7-8)		bacterial stock	11-JUN-10	 
+DBP0000621	18(45;54)		bacterial stock	04-AUG-10	NELLEN 679 ON CAP
+DBP0000621	DNA box 20(20B)	MC vial	DNA	06-AUG-10	IN DH5ALPHA
+DBP0000632	20(5)		bacterial stock	18-FEB-11	DH10B
+DBP0000632	DNA box 21(6B)	MC vial	DNA	18-FEB-11	ALSO AVAILABLE IN DH10B CELLS
+DBP0000711	19(71)	MC vial	Bacterial stock	17-NOV-10	stored only in 1-19; only one tube sent
+DBP0000712	19(72)	MC vial	Bacterial stock	17-NOV-10	stored only in 1-19; only one tube sent
+DBP0000713	19(73)	MC vial	Bacterial stock	17-NOV-10	stored only in 1-19; only one tube sent
+DBP0000714	19(74)	MC vial	Bacterial stock	17-NOV-10	stored only in 1-19; only one tube sent
+DBP0000715	19(75)	MC vial	Bacterial stock	17-NOV-10	stored only in 1-19; only one tube sent
+DBP0000716	19(76)	MC vial	Bacterial stock	17-NOV-10	stored only in 1-19; only one tube sent
+DBP0000717	19(77)	MC vial	Bacterial stock	17-NOV-10	stored only in 1-19; only one tube sent
+DBP0000718	20(14)		bacterial stock (DH10B)	28-FEB-11	NEW STOCK - CORRECT; CPJ1 ON CAP
+DBP0000719	DNA BOX 21(8D)	MC vial	DNA	01-JUL-11	 
+DBP0000719	21(5)		BACTERIAL STOCK - DH10B	12-MAY-11	1 clone; ipkb on cap
+DBP0000722	20(21)	MC vial	Bacterial stock	01-JAN-11	stored only in 1-19; only one tube sent
+DBP0000723	20(22)	MC vial	Bacterial stock	01-JAN-11	stored only in 1-19; only one tube sent
+DBP0000724	20(23)	MC vial	Bacterial stock	01-JAN-11	stored only in 1-19; only one tube sent
+DBP0000725	20(24)	MC vial	Bacterial stock	01-JAN-11	stored only in 1-19; only one tube sent
+DBP0000726	20(25)	MC vial	Bacterial stock	01-JAN-11	stored only in 1-19; only one tube sent
+DBP0000727	20(26)	MC vial	Bacterial stock	01-JAN-11	stored only in 1-19; only one tube sent
+DBP0000728	20(27)	MC vial	Bacterial stock	01-JAN-11	stored only in 1-19; only one tube sent
+DBP0000535	DNA box 20(9D-E)	MC vial	DNA		Also available in DH5alpha
+DBP0000535	17(5-6)		in DH5alpha	08-MAY-09	 
+DBP0000536	16(50-51)		DH5alpha	29-APR-09	 
+DBP0000536	DNA box 20(14E;15E)	MC vial	DNA		Also available in DH5alpha
+DBP0000538	16(61-62)		in DH5alpha	07-MAY-09	 
+DBP0000538	DNA box 20(16E)	MC vial	DNA		Also available in DH5alpha
+DBP0000540	DNA box 20(15C-D)	MC vial	DNA		Also available in DH5alpha
+DBP0000540	16(70-71)		in DH5alpha	07-MAY-09	 
+DBP0000542	16(46-47)		in DH5alpha	08-APR-09	 
+DBP0000542	DNA box 20(4A-B)	MC vial	DNA		Also available in DH5 alpha
+DBP0000543	DNA box 20(5D-E)	MC vial	DNA		Also available in DH5 alpha
+DBP0000543	17(14-15)		in DB3.1	12-MAY-09	 
+DBP0000548	17(34-35)		in DB3.1	19-MAY-09	 
+DBP0000548	DNA box 20(8A-B)	MC vial	DNA		Also available in DH5 alpha
+DBP0000549	17(19-20)		in DB3.1	12-MAY-09	 
+DBP0000549	DNA box 20(9B-C)	MC vial	DNA		Also available in DH5 alpha
+DBP0000556	17(52-53)		in DB3.1	24-JUN-09	 
+DBP0000557	17(50-51)		in DB3.1	24-JUN-09	 
+DBP0000559	17(48-49)		in DB3.1	14-JUN-09	 
+DBP0000570	18(66-67)		bacterial stock	30-AUG-10	HM514 on cap
+DBP0000570	DNA box 21(3A)	MC vial	DNA	30-AUG-10	 
+DBP0000575	18(76-77)		bacterial stock	30-AUG-10	HM517 on cap
+DBP0000575	DNA box 21(3D)	MC vial	DNA	30-AUG-10	 
+DBP0000576	DNA box 21(2E)	MC vial	DNA	30-AUG-10	 
+DBP0000576	18(78-79)		bacterial stock	30-AUG-10	HM324 on cap
+DBP0000577	DNA box 21(4B)	MC vial	DNA	30-AUG-10	 
+DBP0000577	19(1-2)		bacterial stock	30-AUG-10	HM323 on cap
+DBP0000579	19(3-4)		bacterial stock	30-AUG-10	HM333 on cap
+DBP0000579	DNA box 21(4C)	MC vial	DNA	30-AUG-10	 
+DBP0000599	DNA box 20(1C)	MC vial	DNA		 
+DBP0000599	17(77-78)			31-JUL-09	 
+DBP0000619	18(41-42)		bacterial stock	04-AUG-10	NELLEN 667 ON CAP
+DBP0000619	DNA box 21(1B)	MC vial	DNA	06-AUG-10	IN DH5ALPHA
+DBP0000623	18(48-49)		bacterial stock	06-AUG-10	Also available as DNA  Nellen 681 on cap
+DBP0000623	DNA box 20(18E)	MC vial	DNA	06-AUG-10	ALSO IN DH5ALPHA
+DBP0000625	18(57-58)		bacterial stock	06-AUG-10	Also available as DNA  Nellen 737 on cap
+DBP0000625	DNA box 20(18D)	MC vial	DNA	06-AUG-10	AVAILABLE IN DH5ALPHA
+DBP0000629	DNA box 20(18A)	MC vial	DNA	06-AUG-10	Also in DH5alpha
+DBP0000629	18(52-53)		bacterial stock	06-AUG-10	Also available as DNA  Nellen 735 on cap
+DBP0000661	19(80)		bacterial stock (DH10B)	16-DEC-10	 
+DBP0000661	DNA box 21(5B)	MC vial	DNA	18-FEB-11	also available in dh10b
+DBP0000729	20(28)	MC vial	Bacterial stock	01-JAN-11	stored only in 1-19; only one tube sent
+DBP0000730	20(29)	MC vial	Bacterial stock	01-JAN-11	stored only in 1-19; only one tube sent
+DBP0000731	20(30)	MC vial	Bacterial stock	01-JAN-11	stored only in 1-19; only one tube sent
+DBP0000732	20(31)	MC vial	Bacterial stock	01-JAN-11	stored only in 1-19; only one tube sent
+DBP0000733	20(32)	MC vial	Bacterial stock	01-JAN-11	stored only in 1-19; only one tube sent
+DBP0000734	20(33)	MC vial	Bacterial stock	01-JAN-11	stored only in 1-19; only one tube sent
+DBP0000735	20(34)	MC vial	Bacterial stock	01-JAN-11	stored only in 1-19; only one tube sent
+DBP0000633	DNA box 21(6D)	MC vial	dna	18-FEB-11	ALSO AVAILABLE IN DH10B CELLS
+DBP0000633	20(8)		bacterial stock	18-FEB-11	DH10B
+DBP0000589	17(61-62)		in DH5alpha	08-JUL-09	 
+DBP0000589	DNA box 20(1A)	MC vial	DNA		Also available in DH5 alpha
+DBP0000591	17(66-67)		DH5alpha	08-JUL-09	 
+DBP0000591	DNA box 20(2A)	MC vial	DNA		Also available in DH5 alpha
+DBP0000602	18(3-4)		DH5alpha	01-OCT-09	 
+DBP0000736	20(35)	MC vial	Bacterial stock	01-JAN-11	stored only in 1-19; only one tube sent
+DBP0000737	20(36)	MC vial	Bacterial stock	01-JAN-11	stored only in 1-19; only one tube sent
+DBP0000738	20(37)	MC vial	Bacterial stock	01-JAN-11	stored only in 1-19; only one tube sent
+DBP0000739	20(38)	MC vial	Bacterial stock	01-JAN-11	stored only in 1-19; only one tube sent
+DBP0000740	20(39)	MC vial	Bacterial stock	01-JAN-11	stored only in 1-19; only one tube sent
+DBP0000741	20(40)	MC vial	Bacterial stock	01-JAN-11	stored only in 1-19; only one tube sent
+DBP0000742	20(41)	MC vial	Bacterial stock	01-JAN-11	stored only in 1-19; only one tube sent
+DBP0000743	20(42)	MC vial	Bacterial stock	01-JAN-11	stored only in 1-19; only one tube sent
+DBP0000744	20(43)	MC vial	Bacterial stock	01-JAN-11	stored only in 1-19; only one tube sent
+DBP0000745	20(44)	MC vial	Bacterial stock	01-JAN-11	stored only in 1-19; only one tube sent
+DBP0000746	20(45)	MC vial	Bacterial stock	01-JAN-11	stored only in 1-19; only one tube sent
+DBP0000747	20(46)	MC vial	Bacterial stock	01-JAN-11	stored only in 1-19; only one tube sent
+DBP0000748	20(47)	MC vial	Bacterial stock	01-JAN-11	stored only in 1-19; only one tube sent
+DBP0000749	20(48)	MC vial	Bacterial stock	01-JAN-11	stored only in 1-19; only one tube sent
+DBP0000778	20(76-77)		Bacterial stock	25-JUL-11	TOP10
+DBP0000779	20(79)		Bacterial stock	25-JUL-11	ccdBR
+DBP0000780	20(51-52)		Bacterial stock	25-JUL-11	TOP10
+DBP0000781	20(80)		Bacterial stock	25-JUL-11	TOP10
+DBP0000782	20(71-72)		Bacterial stock	25-JUL-11	TOP10
+DBP0000783	21(3)		Bacterial stock	25-JUL-11	TOP10
+DBP0000784	20(57-58)		Bacterial stock	25-JUL-11	TOP10
+DBP0000785	20(53)		Bacterial stock	25-JUL-11	ccdBR
+DBP0000553	17(7-8)		in DH5alpha	08-MAY-09	 
+DBP0000553	DNA box 20(11C-D)	MC vial	DNA		Also available in DH5alpha
+DBP0000555	DNA box 20(12C-D)	MC vial	DNA		Also available in DH5alpha
+DBP0000555	17(10-11)		in DH5alpha	08-MAY-09	 
+DBP0000569	18(64-65)		bacterial stock	30-AUG-10	HM513 on cap
+DBP0000569	DNA box 21(3C)	MC vial	DNA	30-AUG-10	 
+DBP0000611	18(25-26)		bacterial stock	04-JUL-10	NELLEN P8 ON CAP
+DBP0000611	DNA box 20(19D)	MC vial	DNA	06-AUG-10	ALSO IN DH5ALPHA
+DBP0000614	18(30-31)		bacterial stock	04-AUG-10	NELLEN 492 ON CAP
+DBP0000614	DNA box 21(1C)	MC vial	DNA	06-AUG-10	IN DH5ALPHA
+DBP0000620	18(43-44)		bacterial stock	04-AUG-10	NELLEN 678 ON CAP
+DBP0000620	DNA box 20(20C)	MC vial	DNA	06-AUG-10	IN DH5ALPHA
+DBP0000622	18(46-47)		bacterial stock	04-AUG-10	NELLEN 680 ON CAP
+DBP0000622	DNA box 20(19B)	MC vial	DNA	06-AUG-10	AVAILABLE IN DH5ALPHA
+DBP0000624	18(59-60)		bacterial stock	06-AUG-10	Also available as DNA  Nellen 738 on cap
+DBP0000624	DNA box 20(18C)	MC vial	DNA	06-AUG-10	available in dh5alpha also
+DBP0000626	18(50)		bacterial stock	06-AUG-10	Also available as DNA  Nellen 732 on cap
+DBP0000626	DNA box 20(19A)	MC vial	DNA	06-AUG-10	also in DH5ALPHA
+DBP0000627	18(51)		bacterial stock	06-AUG-10	Also available as DNA  Nellen 733 on cap
+DBP0000627	DNA box 20(C)	MC vial	DNA	06-AUG-10	available in dh5alpha
+DBP0000639	DNA box 21(5C)	MC vial	DNA	18-FEB-11	also available in dh10b
+DBP0000639	19(32-33)		bacterial stock	22-SEP-10	ecmAO on cap
+DBP0000677	19(37)	MC vial	Bacterial stock	17-NOV-10	stored only in 1-19; only one tube sent
+DBP0000678	19(38)	MC vial	Bacterial stock	17-NOV-10	stored only in 1-19; only one tube sent
+DBP0000679	19(39)	MC vial	Bacterial stock	17-NOV-10	stored only in 1-19; only one tube sent
+DBP0000680	19(40)	MC vial	Bacterial stock	17-NOV-10	stored only in 1-19; only one tube sent
+DBP0000681	19(41)	MC vial	Bacterial stock	17-NOV-10	stored only in 1-19; only one tube sent
+DBP0000682	19(42)	MC vial	Bacterial stock	17-NOV-10	stored only in 1-19; only one tube sent
+DBP0000683	19(43)	MC vial	Bacterial stock	17-NOV-10	stored only in 1-19; only one tube sent
+DBP0000684	19(44)	MC vial	Bacterial stock	17-NOV-10	stored only in 1-19; only one tube sent
+DBP0000685	19(45)	MC vial	Bacterial stock	17-NOV-10	stored only in 1-19; only one tube sent
+DBP0000686	19(46)	MC vial	Bacterial stock	17-NOV-10	stored only in 1-19; only one tube sent
+DBP0000687	19(47)	MC vial	Bacterial stock	17-NOV-10	stored only in 1-19; only one tube sent
+DBP0000688	19(48)	MC vial	Bacterial stock	17-NOV-10	stored only in 1-19; only one tube sent
+DBP0000689	19(49)	MC vial	Bacterial stock	17-NOV-10	stored only in 1-19; only one tube sent
+DBP0000690	19(50)	MC vial	Bacterial stock	17-NOV-10	stored only in 1-19; only one tube sent
+DBP0000691	19(51)	MC vial	Bacterial stock	17-NOV-10	stored only in 1-19; only one tube sent
+DBP0000692	19(52)	MC vial	Bacterial stock	17-NOV-10	stored only in 1-19; only one tube sent
+DBP0000693	19(53)	MC vial	Bacterial stock	17-NOV-10	stored only in 1-19; only one tube sent
+DBP0000694	19(54)	MC vial	Bacterial stock	17-NOV-10	stored only in 1-19; only one tube sent
+DBP0000695	19(55)	MC vial	Bacterial stock	17-NOV-10	stored only in 1-19; only one tube sent
+DBP0000696	19(56)	MC vial	Bacterial stock	17-NOV-10	stored only in 1-19; only one tube sent
+DBP0000552	DNA box 20(12A-B)	MC vial	DNA		Also available in DH5alpha
+DBP0000552	16(66-67)		in DH5alpha	07-MAY-09	 
+DBP0000554	16(79-80)		in DH5alpha	08-MAY-09	 
+DBP0000554	DNA box 20(10E;11E)	MC vial	DNA		Also available in DH5alpha
+DBP0000561	17(12-13)		in DH5alpha	08-MAY-09	 
+DBP0000561	DNA box 20(20D-E)	MC vial	DNA		Also available in DH5 alpha
+DBP0000564	16(54,63)		in DH5alpha	06-MAY-09	 
+DBP0000565	17(25-26)		in DH5alpha	13-MAY-09	 
+DBP0000584	17(75-76)		in SURE cells	23-SEP-09	 
+DBP0000601	18(1-2)		DH5alpha	01-OCT-09	 
+DBP0000608	18(19-20)		bacterial stock	04-AUG-10	Nellen p5 on cap
+DBP0000608	DNA box 20(17C)	MC vial	DNA	06-AUG-10	Also in DH5alpha
+DBP0000609	DNA box 20(17D)	MC vial	DNA	06-AUG-10	Also in DH5alpha
+DBP0000609	18(21-22)		bacterial stock	04-AUG-10	Nellen p6 on cap
+DBP0000610	18(23-24)		bacterial stock	04-AUG-10	NELLEN P7 ON CAP
+DBP0000610	DNA box 20(19E)	MC vial	DNA	06-AUG-10	AVAILABLE IN DH5ALPHA
+DBP0000612	18(27;36)		bacterial stock - dh10b	06-DEC-10	NELLEN 490 ON CAP - new stock - ok
+DBP0000612	DNA box 20(20A)	MC vial	DNA	06-AUG-10	IN DH5ALPHA ALSO
+DBP0000613	DNA box 20(3A)	MC vial	DNA	06-AUG-10	IN DH5ALPHA
+DBP0000613	18(28-29)		bacterial stock	04-AUG-10	NELLEN 491 ON CAP
+DBP0000615	18(32-33)		bacterial stock	04-AUG-10	NELLEN 493 ON CAP
+DBP0000615	DNA box 21(1D)	MC vial	DNA	06-AUG-10	IN DH5PLPHA
+DBP0000616	18(34-35)		bacterial stock	04-AUG-10	NELLEN 664 ON CAP
+DBP0000616	DNA box 21(1E)	MC vial	DNA	06-AUG-10	IN DH5ALPHA
+DBP0000617	DNA box 21(1A)	MC vial	DNA	06-AUG-10	IN DH5ALPHA
+DBP0000617	18(37-38)		bacterial stock	04-AUG-10	NELLEN 665 ON CAP
+DBP0000618	18(39-40)		bacterial stock	04-AUG-10	NELLEN 666 ON CAP
+DBP0000618	DNA box 21(2A)	MC vial	DNA	06-AUG-10	IN DH5ALPHA
+DBP0000638	DNA box 21(5D)	MC vial	dna	18-FEB-11	also available in dh10b cells
+DBP0000638	19(34-35)		bacterial stock	22-SEP-10	ecmB on cap
+DBP0000697	19(57)	MC vial	Bacterial stock	17-NOV-10	stored only in 1-19; only one tube sent
+DBP0000698	19(58)	MC vial	Bacterial stock	17-NOV-10	stored only in 1-19; only one tube sent
+DBP0000699	19(59)	MC vial	Bacterial stock	17-NOV-10	stored only in 1-19; only one tube sent
+DBP0000700	19(60)	MC vial	Bacterial stock	17-NOV-10	stored only in 1-19; only one tube sent
+DBP0000701	19(61)	MC vial	Bacterial stock	17-NOV-10	stored only in 1-19; only one tube sent
+DBP0000702	19(62)	MC vial	Bacterial stock	17-NOV-10	stored only in 1-19; only one tube sent
+DBP0000537	DNA box 20(10C-D)	MC vial	DNA		Also available in DH5alpha
+DBP0000537	16(73-74)		in DH5alpha	06-MAY-09	 
+DBP0000539	16(43-44)		in DH5alpha	08-APR-09	 
+DBP0000539	DNA box 20(3B-C)	MC vial	DNA		Also available in DH5 alpha
+DBP0000550	DNA box 21(7A)	MC vial	DNA	04-MAR-11	NEW STOCK, 03/04/2011
+DBP0000550	20(11)		in DB3.1	04-MAR-11	NEW STOCK, 03/04/2011
+DBP0000551	16(36)		in DH5alpha	08-APR-09	 
+DBP0000551	DNA box 20(4C-D)	MC vial	DNA		Also available in DH5 alpha
+DBP0000587	18(15-16)		bacterial stock	09-DEC-09	 
+DBP0000588	18(13-14)			09-DEC-09	 
+DBP0000596	DNA BOX 21(7E)	MC vial	DNA	13-MAY-11	ALSO AVAILABLE IN DH10B
+DBP0000596	20(19-20)		BACTERIAL STOCK - DH10B	13-MAY-11	ALSO AVAILABLE AS DNA
+DBP0000603	18(11-12)		bacterial stock		two different clones in position 11 and 12
+DBP0000630	DNA box 20(18B)	MC vial	DNA	06-AUG-10	ALSO AVAILABLE IN DH5ALPHA
+DBP0000630	18(55-56)		bacterial stock	06-AUG-10	Also available as DNA  Nellen 736 on cap
+DBP0000631	DNA box 21(2B)	MC vial	DNA	06-AUG-10	 
+DBP0000631	DNA box 21(2B)	MC vial	DNA	06-AUG-10	CP ON CAP
+DBP0000637	20(6-7)		bacterial stock	18-FEB-11	DH10B
+DBP0000637	DNA box 21(6C)	MC vial	DNA	18-FEB-11	ALSO AVAILABLE IN DH10B CELLS
+DBP0000662	19(36)	MC vial	Bacterial stock	17-NOV-10	stored only in 1-19; only one tube sent
+DBP0000663	19(37)	MC vial	Bacterial stock	17-NOV-10	stored only in 1-19; only one tube sent
+DBP0000664	19(38)	MC vial	Bacterial stock	17-NOV-10	stored only in 1-19; only one tube sent
+DBP0000665	19(39)	MC vial	Bacterial stock	17-NOV-10	stored only in 1-19; only one tube sent
+DBP0000666	19(40)	MC vial	Bacterial stock	17-NOV-10	stored only in 1-19; only one tube sent
+DBP0000667	19(41)	MC vial	Bacterial stock	17-NOV-10	stored only in 1-19; only one tube sent
+DBP0000668	19(42)	MC vial	Bacterial stock	17-NOV-10	stored only in 1-19; only one tube sent
+DBP0000669	19(43)	MC vial	Bacterial stock	17-NOV-10	stored only in 1-19; only one tube sent
+DBP0000670	19(44)	MC vial	Bacterial stock	17-NOV-10	stored only in 1-19; only one tube sent
+DBP0000671	19(45)	MC vial	Bacterial stock	17-NOV-10	stored only in 1-19; only one tube sent
+DBP0000672	19(46)	MC vial	Bacterial stock	17-NOV-10	stored only in 1-19; only one tube sent
+DBP0000673	19(47)	MC vial	Bacterial stock	17-NOV-10	stored only in 1-19; only one tube sent
+DBP0000674	19(48)	MC vial	Bacterial stock	17-NOV-10	stored only in 1-19; only one tube sent
+DBP0000675	19(49)	MC vial	Bacterial stock	17-NOV-10	stored only in 1-19; only one tube sent
+DBP0000801	DNA BOX 21(8B)	MC vial	DNA	01-JUL-11	 
+DBP0000801	21(8-9)		BACTERIAL STOCK - DH10B	01-JUL-11	 
+DBP0000803	21(10-11)		BACTERIAL STOCK - DH10B	01-JUL-11	 
+DBP0000803	DNA BOX 21(8C)	MC vial	DNA	01-JUL-11	 
+DBP0000804	21(18-19)		BACTERIAL STOCK - XL10- Gold (stratagene)	15-DEC-11	 
+DBP0000805	21(20-21)		bacterial stock	01-FEB-12	plp122
+DBP0000815	21(9A)	MC vial	DNA	10-OCT-12	DNA BOX
+DBP0000815	21(42-43)		XL10 GOLD	10-OCT-12	 
+DBP0000786	20(54)		Bacterial stock	25-JUL-11	TOP10
+DBP0000787	20(73)		Bacterial stock	25-JUL-11	TOP10
+DBP0000788	20(65-66)		Bacterial stock	25-JUL-11	TOP10
+DBP0000789	21(4)		Bacterial stock	25-JUL-11	TOP10
+DBP0000790	20(63-64)		Bacterial stock	25-JUL-11	TOP10
+DBP0000791	21(1-2)		Bacterial stock	25-JUL-11	TOP10
+DBP0000792	20(61-62)		Bacterial stock	25-JUL-11	TOP10
+DBP0000793	20(75)		Bacterial stock	25-JUL-11	TOP10
+DBP0000794	20(55-56)		Bacterial stock	25-JUL-11	TOP10
+DBP0000795	20(74)		Bacterial stock	25-JUL-11	TOP10
+DBP0000796	20(69-70)		Bacterial stock	25-JUL-11	TOP10
+DBP0000797	20(67-68)		Bacterial stock	25-JUL-11	TOP10
+DBP0000798	20(78)		Bacterial stock	25-JUL-11	TOP10
+DBP0000799	20(59)		Bacterial stock	25-JUL-11	TOP10
+DBP0000800	20(60)		Bacterial stock	25-JUL-11	TOP10
+DBP0000806	21(32-33)		bacterial stock		dox-alpha-catenin; 2 clones
+DBP0000807	21(22-23)		bacterial stock		aardvark; 2 clones
+DBP0000808	21(26-27)		bacterial stock		mrfp; 2 clones
+DBP0000812	21(34-35)		bacterial stock	01-JUN-12	L1 / L2
+DBP0000835	21(54-55)		bacterial stock		 
+DBP0000836	21(48-49)		bacterial stock		 
+DBP0000837	21(50-51)		bacterial stock		 
+DBP0000838	21(52-53)		bacterial stock		 
+DBP0000828	21(44-45)		bacterial stock (db3.1)		clones 1 and 2
+DBP0000828	21(9E)	MC vial	DNA		original dna deposit
+DBP0000828	21(10A-D)	MC vial	miniprep DNA		4 CLONES - MINIPREP DNA FOR SPOTTING
+DBP0000828	21(46-47)		bacterial stock (db3.1)		clones 3 and 4
+DBP0000802	21(6-7)		BACTERIAL STOCK - DH10B	01-JUL-11	 
+DBP0000802	DNA BOX 21(8A)	MC vial	DNA	01-JUL-11	 
+DBP0000809	21(30-31)		bacterial stock		golvesin; 2 clones
+DBP0000810	21(24-25)		bacterial stock		act15-alpha - catenin;; 2 clones
+DBP0000811	21(28-29)		bacterial stock		gst-alpha-catenin; 2 clones
+DBP0000813	21(38-39)		XL10 GOLD	10-OCT-12	 
+DBP0000813	21(9D)	MC vial	DNA	10-OCT-12	DNA BOX
+DBP0000814	21(9C)	MC vial	DNA	10-OCT-12	DNA BOX
+DBP0000814	21(36-37)		XL10 GOLD	10-OCT-12	 
+DBP0000816	21(9B)	MC vial	DNA	10-OCT-12	DNA BOX
+DBP0000816	21(40-41)		XL10 GOLD	10-OCT-12	 
