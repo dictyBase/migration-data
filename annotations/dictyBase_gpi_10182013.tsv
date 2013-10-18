@@ -748,7 +748,7 @@ DDB_G0282565	DDB_G0282565			gene	taxon:44689		UniProtKB:Q54SA9|UniProtKB:Q54SA9
 DDB_G0282573	DDB_G0282573	Retinal dehydrogenase 1		gene	taxon:44689		UniProtKB:Q54SA5|UniProtKB:Q54SA5	
 DDB_G0282603	DDB_G0282603	Retinal dehydrogenase 1		gene	taxon:44689		UniProtKB:Q54S89|UniProtKB:Q54S89	
 DDB_G0282609	DDB_G0282609	nuclear transport factor 2		gene	taxon:44689		UniProtKB:Q54S86|UniProtKB:Q54S86	
-DDB_G0282615	midA	Retinal dehydrogenase 1		gene	taxon:44689		UniProtKB:Q54S83|UniProtKB:Q54S83	
+DDB_G0282615	midA	Retinal dehydrogenase 1	Ndufaf7	gene	taxon:44689		UniProtKB:Q54S83|UniProtKB:Q54S83	
 DDB_G0282621	DDB_G0282621			gene	taxon:44689		UniProtKB:Q54S80	
 DDB_G0282623	wdr3	Retinal dehydrogenase 1	UTP12	gene	taxon:44689		UniProtKB:Q54S79|UniProtKB:Q54S79	
 DDB_G0282633	DDB_G0282633	Retinal dehydrogenase 1		gene	taxon:44689		UniProtKB:Q54S74|UniProtKB:Q54S74	
@@ -3313,7 +3313,7 @@ DDB_G0280181	DDB_G0280181	Retinal dehydrogenase 1		gene	taxon:44689		UniProtKB:Q
 DDB_G0280183	sglB	Retinal dehydrogenase 1		gene	taxon:44689		UniProtKB:Q54VR5|UniProtKB:Q54VR5	
 DDB_G0280251	DDB_G0280251	Retinal dehydrogenase 1	ribonuclease PH family	gene	taxon:44689		UniProtKB:Q54VM4|UniProtKB:Q54VM4	
 DDB_G0280265	DDB_G0280265	Retinal dehydrogenase 1		gene	taxon:44689		UniProtKB:Q54VL6|UniProtKB:Q54VL6	
-DDB_G0280267	allC	Retinal dehydrogenase 1		gene	taxon:44689		UniProtKB:Q54VL5|UniProtKB:Q54VL5	
+DDB_G0280267	allC	Retinal dehydrogenase 1	allantoate amidinohydrolase	gene	taxon:44689		UniProtKB:Q54VL5|UniProtKB:Q54VL5	
 DDB_G0280277	DDB_G0280277			gene	taxon:44689		UniProtKB:Q54VK7|UniProtKB:Q54VK7	
 DDB_G0280303	DDB_G0280303_ps	Retinal dehydrogenase 1		gene	taxon:44689			
 DDB_G0280315	DDB_G0280315			gene	taxon:44689		UniProtKB:Q54VI5|UniProtKB:Q54VI5	
@@ -3376,7 +3376,6 @@ DDB_G0271598	tgrS1	protein kinase SplB		gene	taxon:44689		UniProtKB:Q55B03|UniPr
 DDB_G0271606	DDB_G0271606			gene	taxon:44689		UniProtKB:Q86AF2|UniProtKB:Q86AF2	
 DDB_G0271630	sac1	Retinal dehydrogenase 1		gene	taxon:44689		UniProtKB:Q55AW9|UniProtKB:Q55AW9	
 DDB_G0271668	rpl36	Retinal dehydrogenase 1		gene	taxon:44689		UniProtKB:Q55AQ9|UniProtKB:Q55AQ9|UniProtKB:Q55AQ9	
-DDB_G0271670	DDB_G0271670			gene	taxon:44689		UniProtKB:Q75JC9|UniProtKB:Q75JC9	
 DDB_G0271704	DDB_G0271704			gene	taxon:44689		UniProtKB:Q75JB8	
 DDB_G0271726	DDB_G0271726	protein kinase SplB		gene	taxon:44689		UniProtKB:Q75JE1|UniProtKB:Q75JE1	
 DDB_G0274809	mppA1	Retinal dehydrogenase 1	&alpha;-MPP|alpha-MPP|mppA	gene	taxon:44689		UniProtKB:Q86A84|UniProtKB:Q86A84|UniProtKB:Q86A84	
@@ -10518,6 +10517,7 @@ DDB_G0271628	dlpC	WASP-related protein B		gene	taxon:44689		UniProtKB:Q55AX0|Uni
 DDB_G0271640	DDB_G0271640			gene	taxon:44689		UniProtKB:Q55AW1|UniProtKB:Q55AW1	
 DDB_G0271642	cks1	Retinal dehydrogenase 1		gene	taxon:44689		UniProtKB:B0G102|UniProtKB:B0G102|UniProtKB:B0G102	
 DDB_G0271666	prtB	Retinal dehydrogenase 1	M3R	gene	taxon:44689		UniProtKB:P11872|UniProtKB:P11872|UniProtKB:P11872	
+DDB_G0271670	lsr1			gene	taxon:44689		UniProtKB:Q75JC9|UniProtKB:Q75JC9	
 DDB_G0271696	prtA	Retinal dehydrogenase 1	M3L	gene	taxon:44689		UniProtKB:P18154|UniProtKB:P18154|UniProtKB:P18154	
 DDB_G0271710	DDB_G0271710_ps	Retinal dehydrogenase 1		gene	taxon:44689			
 DDB_G0271730	DDB_G0271730	protein kinase SplB		gene	taxon:44689		UniProtKB:Q75JA1|UniProtKB:Q75JA1	
@@ -11950,7 +11950,7 @@ DDB_G0284281	DDB_G0284281			gene	taxon:44689		UniProtKB:Q54PU7|UniProtKB:Q54PU7
 DDB_G0284305	DDB_G0284305_RTE	Retinal dehydrogenase 1		gene	taxon:44689		UniProtKB:Q54Q12	
 DDB_G0284321	DDB_G0284321	Retinal dehydrogenase 1		gene	taxon:44689		UniProtKB:Q54PW8|UniProtKB:Q54PW8	
 DDB_G0284325	DDB_G0284325			gene	taxon:44689		UniProtKB:Q54PV3|UniProtKB:Q54PV3	
-DDB_G0284331	regA	Retinal dehydrogenase 1	DG1030|pde2|DdPDE2	gene	taxon:44689		UniProtKB:Q23917|UniProtKB:Q23917|UniProtKB:Q23917|UniProtKB:Q23917	
+DDB_G0284331	regA	Retinal dehydrogenase 1	DG1030|pde2|response regulator receiver domain-containing protein|DdPDE2	gene	taxon:44689		UniProtKB:Q23917|UniProtKB:Q23917|UniProtKB:Q23917|UniProtKB:Q23917	
 DDB_G0284341	lyrm5	Retinal dehydrogenase 1		gene	taxon:44689		UniProtKB:Q54PT6|UniProtKB:Q54PT6	
 DDB_G0284343	DDB_G0284343	Retinal dehydrogenase 1		gene	taxon:44689		UniProtKB:Q54PT4|UniProtKB:Q54PT4	
 DDB_G0284347	vps4	Retinal dehydrogenase 1		gene	taxon:44689		UniProtKB:Q54PT2|UniProtKB:Q54PT2	
@@ -13703,7 +13703,7 @@ DDB_G0273301	DDB_G0273301			gene	taxon:44689		UniProtKB:Q556X6
 DDB_G0273317	DDB_G0273317			gene	taxon:44689			
 DDB_G0278497	DDB_G0278497			gene	taxon:44689			
 DDB_G0278509	DDB_G0278509	protein kinase SplB		gene	taxon:44689		UniProtKB:Q54XZ5|UniProtKB:Q54XZ5	
-DDB_G0278525	plaA	protein kinase SplB	PLA2A	gene	taxon:44689		UniProtKB:Q54XY1|UniProtKB:Q54XY1	
+DDB_G0278525	plaA	protein kinase SplB	PLA2A|calcium-independent PLA2 (iPLA2)	gene	taxon:44689		UniProtKB:Q54XY1|UniProtKB:Q54XY1	
 DDB_G0278591	DDB_G0278591			gene	taxon:44689		UniProtKB:Q54YV0|UniProtKB:Q54YV0	
 DDB_G0278605	DDB_G0278605			gene	taxon:44689			
 DDB_G0278617	DDB_G0278617			gene	taxon:44689		UniProtKB:Q54YN7|UniProtKB:Q54YN7|UniProtKB:Q54YN7	
