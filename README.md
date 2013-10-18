@@ -4,6 +4,7 @@ Data files required for migration
 
 | File | Description |
 | --- | --- |
+| annotations | Gene summaries & dictyBase GPI files |
 | plasmid/images/*.jpg | JPEG images for plasmid maps |
 | plasmid/plasmid_*.tsv | Exported plasmid data |
 | ontologies/*.obo | |
