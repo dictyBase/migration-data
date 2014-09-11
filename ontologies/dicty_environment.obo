@@ -1,8 +1,13 @@
 format-version: 1.2
-date: 14:02:2013 16:03
+date: 16:12:2013 16:50
 saved-by: pfey
 auto-generated-by: OBO-Edit 2.2
 default-namespace: Dicty Environment
+
+[Term]
+id: DDASSAY:0000003
+name: in the presence of silicon
+is_obsolete: true
 
 [Term]
 id: DDENVIR:0000001
@@ -21,7 +26,7 @@ is_a: DDENVIR:0000001 ! environmental condition
 
 [Term]
 id: DDENVIR:0000004
-name: on bacterial plates
+name: on bacterial plate
 is_a: DDENVIR:0000001 ! environmental condition
 
 [Term]
@@ -52,12 +57,6 @@ is_a: DDENVIR:0000001 ! environmental condition
 [Term]
 id: DDENVIR:0000010
 name: in the presence of lithium
-is_a: DDENVIR:0000001 ! environmental condition
-
-[Term]
-id: DDENVIR:0000011
-name: in the presence of high Ca2+
-synonym: "in the presence of high calcium" RELATED []
 is_a: DDENVIR:0000001 ! environmental condition
 
 [Term]
@@ -181,7 +180,6 @@ is_a: DDENVIR:0000001 ! environmental condition
 id: DDENVIR:0000035
 name: in bacterial suspension
 alt_id: DDASSAY:0000001
-synonym: "in bacterial susppension" NARROW []
 is_a: DDENVIR:0000001 ! environmental condition
 
 [Term]
@@ -234,7 +232,10 @@ is_a: DDENVIR:0000001 ! environmental condition
 [Term]
 id: DDENVIR:0000045
 name: in the presence of Ca2+
-synonym: "in the presence of calcium" RELATED []
+alt_id: DDENVIR:0000011
+synonym: "in the presence of calcium" EXACT []
+synonym: "in the presence of high Ca2+" NARROW []
+synonym: "in the presence of high calcium" NARROW []
 is_a: DDENVIR:0000001 ! environmental condition
 created_by: pfey
 creation_date: 2012-10-03T16:59:59Z
@@ -245,4 +246,18 @@ name: in conditioned medium
 is_a: DDENVIR:0000001 ! environmental condition
 created_by: pfey
 creation_date: 2013-02-14T16:00:42Z
+
+[Term]
+id: DDENVIR:0000048
+name: in the presence of silicon
+is_a: DDENVIR:0000001 ! environmental condition
+created_by: pfey
+creation_date: 2013-08-28T10:29:36Z
+
+[Term]
+id: DDENVIR:0000049
+name: folate stimulation
+is_a: DDENVIR:0000001 ! environmental condition
+created_by: pfey
+creation_date: 2013-12-16T16:49:54Z
 

@@ -1,9 +1,9 @@
 format-version: 1.2
-date: 27:08:2013 16:37
+date: 27:08:2014 11:21
 saved-by: pfey
 auto-generated-by: OBO-Edit 2.2
 default-namespace: Dicty Phenotypes
-remark: cvs version: $Revision: 1.213 $
+remark: cvs version: $Revision: 1.225 $
 
 [Term]
 id: DDPHENO:0000001
@@ -40,10 +40,113 @@ created_by: pfey
 creation_date: 2013-08-27T16:36:33Z
 
 [Term]
+id: DDPHENO:0000005
+name: aberrant autophagy
+def: "Deviation from the normal, usual, or expected events during autophagy." [DDB:pf]
+is_a: DDPHENO:0001005 ! aberrant cellular metabolic process
+created_by: pfey
+creation_date: 2013-09-23T14:27:57Z
+
+[Term]
+id: DDPHENO:0000006
+name: increased autophagy
+def: "Increase in extent, amount, or degree of autophagy." [DDB:pf]
+is_a: DDPHENO:0000005 ! aberrant autophagy
+created_by: pfey
+creation_date: 2013-09-23T14:29:45Z
+
+[Term]
+id: DDPHENO:0000007
+name: decreased autophagy
+def: "Reduction in extent, amount, or degree of autophagy." [DDB:pf]
+is_a: DDPHENO:0000005 ! aberrant autophagy
+created_by: pfey
+creation_date: 2013-09-23T14:30:03Z
+
+[Term]
+id: DDPHENO:0000008
+name: aberrant post-transciptional gene silencing by RNA
+def: "Deviation from the normal, usual, or expected events during post-transciptional gene silencing by RNA." [DDB:pf]
+is_a: DDPHENO:0001005 ! aberrant cellular metabolic process
+created_by: pfey
+creation_date: 2013-10-28T15:52:58Z
+
+[Term]
 id: DDPHENO:0000009
 name: aberrant fruiting body morphology
 def: "Deviation from the normal, usual, or expected morphology of the fruiting body." [DDB:pg]
+synonym: "aberrant sorocarp morphology" EXACT []
 is_a: DDPHENO:0000154 ! aberrant development
+
+[Term]
+id: DDPHENO:0000010
+name: abolished post-transciptional gene silencing by RNA
+def: "Complete inability for post-transciptional gene silencing by RNA." [DDB:pf]
+is_a: DDPHENO:0000008 ! aberrant post-transciptional gene silencing by RNA
+created_by: pfey
+creation_date: 2013-10-28T15:57:20Z
+
+[Term]
+id: DDPHENO:0000011
+name: decreased post-transciptional gene silencing by RNA
+def: "Reduction in level of modification of post-transciptional gene silencing by RNA." [DDB:pf]
+is_a: DDPHENO:0000008 ! aberrant post-transciptional gene silencing by RNA
+created_by: pfey
+creation_date: 2013-10-28T15:59:10Z
+
+[Term]
+id: DDPHENO:0000012
+name: aberrant microRNA processing
+def: "Deviation from the normal, usual, or expected events during microRNA processing." [DDB:pf]
+synonym: "aberrant miRNA processing" EXACT []
+is_a: DDPHENO:0001005 ! aberrant cellular metabolic process
+created_by: pfey
+creation_date: 2013-10-28T18:00:23Z
+
+[Term]
+id: DDPHENO:0000014
+name: abolished microRNA processing
+def: "Complete inability for microRNA processing." [DDB:pf]
+synonym: "abolished miRNA processing" EXACT []
+is_a: DDPHENO:0000012 ! aberrant microRNA processing
+created_by: pfey
+creation_date: 2013-10-28T18:01:47Z
+
+[Term]
+id: DDPHENO:0000015
+name: increased microRNA processing
+def: "Increase in level of microRNA processing." [DDB:pf]
+synonym: "increased miRNA processing" EXACT []
+is_a: DDPHENO:0000012 ! aberrant microRNA processing
+created_by: pfey
+creation_date: 2013-10-28T18:03:08Z
+
+[Term]
+id: DDPHENO:0000016
+name: decreased microRNA processing
+def: "Reduction in level of microRNA processing." [DDB:pf]
+synonym: "decreased miRNA processing" EXACT []
+is_a: DDPHENO:0000012 ! aberrant microRNA processing
+created_by: pfey
+creation_date: 2013-10-28T18:03:53Z
+
+[Term]
+id: DDPHENO:0000017
+name: aberrant transitive RNA interference
+def: "Deviation from the normal, usual, or expected events during transitive RNA interference." [DDB:pf]
+synonym: "aberrant transitive RNAi" EXACT []
+is_a: DDPHENO:0000020 ! aberrant RNA interference
+created_by: pfey
+creation_date: 2013-11-06T10:25:06Z
+
+[Term]
+id: DDPHENO:0000018
+name: abolished transitive RNA interference
+def: "Complete inability for transitive RNA interference." [DDB:pf]
+synonym: "abolished transitive RNAi" EXACT []
+is_a: DDPHENO:0000017 ! aberrant transitive RNA interference
+created_by: pfey
+creation_date: 2013-11-06T10:26:55Z
 
 [Term]
 id: DDPHENO:0000019
@@ -53,9 +156,60 @@ synonym: "culmination defective" RELATED []
 is_a: DDPHENO:0001015 ! aberrant culmination
 
 [Term]
+id: DDPHENO:0000020
+name: aberrant RNA interference
+def: "Deviation from the normal, usual, or expected events during RNA interference." [DDB:pf]
+synonym: "aberrant RNAi" RELATED []
+is_a: DDPHENO:0000008 ! aberrant post-transciptional gene silencing by RNA
+created_by: pfey
+creation_date: 2013-11-06T10:35:04Z
+
+[Term]
+id: DDPHENO:0000021
+name: abolished RNA interference
+synonym: "abolished RNAi" RELATED []
+is_a: DDPHENO:0000020 ! aberrant RNA interference
+created_by: pfey
+creation_date: 2013-11-06T10:38:10Z
+
+[Term]
+id: DDPHENO:0000022
+name: aberrant production of siRNA involved in RNA interference
+def: "Deviation from the normal, usual, or expected events during production of siRNA involved in RNA interference." [DDB:pf]
+synonym: "aberrant production of siRNA involved in RNAi" RELATED []
+is_a: DDPHENO:0000020 ! aberrant RNA interference
+created_by: pfey
+creation_date: 2013-11-06T11:17:36Z
+
+[Term]
+id: DDPHENO:0000024
+name: abolished production of siRNA involved in RNA interference
+def: "Complete inability for production of siRNA involved in RNA interference." [DDB:pf]
+synonym: "abolished production of siRNA involved in RNAi" RELATED []
+is_a: DDPHENO:0000022 ! aberrant production of siRNA involved in RNA interference
+created_by: pfey
+creation_date: 2013-11-06T11:20:17Z
+
+[Term]
+id: DDPHENO:0000025
+name: abolished exocytosis
+def: "Complete inability for exocytosis." [DDB:pf]
+is_a: DDPHENO:0001110 ! aberrant exocytosis
+created_by: pfey
+creation_date: 2013-12-02T17:36:22Z
+
+[Term]
 id: DDPHENO:0000026
 name: development arrests at mound stage
 is_a: DDPHENO:0000154 ! aberrant development
+
+[Term]
+id: DDPHENO:0000027
+name: abolished phagosome re-neutralization
+def: "Complete inability for phagosome re-neutralization." [DDB:pf]
+is_a: DDPHENO:0001488 ! aberrant phagosome maturation
+created_by: pfey
+creation_date: 2013-12-02T17:39:10Z
 
 [Term]
 id: DDPHENO:0000028
@@ -64,12 +218,59 @@ def: "Complete inability for formation of the stalk. " [DDB:pg]
 is_a: DDPHENO:0001012 ! aberrant stalk formation
 
 [Term]
+id: DDPHENO:0000029
+name: increased resistance to N-phenylthiourea
+is_a: DDPHENO:0000041 ! aberrant response to N-phenylthiourea
+created_by: pfey
+creation_date: 2014-01-16T15:06:08Z
+
+[Term]
+id: DDPHENO:0000030
+name: abolished slug formation
+def: "Complete inability to form slugs during development." [DDB:pf]
+is_a: DDPHENO:0001014 ! aberrant slug formation
+created_by: pfey
+creation_date: 2014-01-24T13:54:53Z
+
+[Term]
+id: DDPHENO:0000031
+name: abolished rate of endocytosis
+def: "Complete inability for endocytosis." [DDB:pf]
+is_a: DDPHENO:0000090 ! aberrant endocytosis
+created_by: pfey
+creation_date: 2014-01-27T14:30:48Z
+
+[Term]
 id: DDPHENO:0000032
 name: increased sporulation
-def: "Increase in extent, amount, or degree of sporulation. " [DDB:pg]
+def: "Increase in extent, amount, or degree of sporulation." [DDB:pg]
 synonym: "increased number of spore cells" RELATED []
 synonym: "increased number of spores" RELATED []
 is_a: DDPHENO:0000513 ! aberrant sporulation
+
+[Term]
+id: DDPHENO:0000033
+name: aberrant secretion
+def: "Deviation from the normal, usual, or expected events during secretion of a substance." [DDB:pf]
+is_a: DDPHENO:0001047 ! aberrant transport
+created_by: pfey
+creation_date: 2014-01-27T14:34:52Z
+
+[Term]
+id: DDPHENO:0000034
+name: aberrant contractile vacuole discharge
+def: "Deviation from the normal, usual, or expected events during contractile vacuole discharge." [DDB:pf]
+is_a: DDPHENO:0000033 ! aberrant secretion
+created_by: pfey
+creation_date: 2014-01-27T16:14:28Z
+
+[Term]
+id: DDPHENO:0000035
+name: abolished contractile vacuole discharge
+def: "Complete inability for contractile vacuole discharge." [DDB:pf]
+is_a: DDPHENO:0000034 ! aberrant contractile vacuole discharge
+created_by: pfey
+creation_date: 2014-01-27T16:15:45Z
 
 [Term]
 id: DDPHENO:0000036
@@ -78,11 +279,469 @@ is_a: DDPHENO:0000009 ! aberrant fruiting body morphology
 is_a: DDPHENO:0001431 ! aberrant tip formation
 
 [Term]
+id: DDPHENO:0000037
+name: decreased contractile vacuole discharge
+def: "Reduction in extent, amount, or degree of contractile vacuole discharge." [DDB:pf]
+is_a: DDPHENO:0000034 ! aberrant contractile vacuole discharge
+created_by: pfey
+creation_date: 2014-01-27T16:16:48Z
+
+[Term]
+id: DDPHENO:0000038
+name: increased contractile vacuole discharge
+def: "Increase in extent, amount, or degree of contractile vacuole discharge." [DDB:pf]
+is_a: DDPHENO:0000034 ! aberrant contractile vacuole discharge
+created_by: pfey
+creation_date: 2014-01-27T16:17:55Z
+
+[Term]
+id: DDPHENO:0000039
+name: aberrant plasma membrane organization and biogenesis
+def: "Deviation from the normal, usual, or expected events during plasma membrane organization and biogenesis." [DDB:pf]
+synonym: "aberrant plasma membrane circulation" RELATED []
+synonym: "aberrant plasma membrane organization" NARROW []
+is_a: DDPHENO:0001042 ! aberrant cellular component organization or biogenesis
+created_by: pfey
+creation_date: 2014-01-27T16:39:23Z
+
+[Term]
+id: DDPHENO:0000040
+name: aberrant response to chemical stimulus
+def: "Deviation from the normal, usual, or expected events during the response to a chemical stimulus." [DDB:pf]
+is_a: DDPHENO:0001003 ! aberrant response to stimulus
+created_by: pfey
+creation_date: 2014-03-20T12:02:35Z
+
+[Term]
+id: DDPHENO:0000041
+name: aberrant response to N-phenylthiourea
+def: "Deviation from the normal, usual, or expected events during the response to  N-phenylthiourea." [DDB:pf]
+is_a: DDPHENO:0000040 ! aberrant response to chemical stimulus
+created_by: pfey
+creation_date: 2014-03-20T12:09:31Z
+
+[Term]
+id: DDPHENO:0000042
+name: aberrant membrane ruffling
+def: "Deviation from the normal, usual, or expected events during membrane ruffling." [DDB:pf]
+synonym: "aberrant ruffle assembly" RELATED []
+is_a: DDPHENO:0001042 ! aberrant cellular component organization or biogenesis
+created_by: pfey
+creation_date: 2014-03-20T13:02:03Z
+
+[Term]
+id: DDPHENO:0000043
+name: decreased membrane ruffling
+def: "Reduction in extent, amount, or degree of membrane ruffling." [DDB:pf]
+synonym: "decreased ruffle assembly" RELATED []
+is_a: DDPHENO:0000042 ! aberrant membrane ruffling
+created_by: pfey
+creation_date: 2014-03-20T13:04:44Z
+
+[Term]
+id: DDPHENO:0000044
+name: aberrant SDF production
+def: "Deviation from the normal, usual, or expected during SDF production." [DDB:pf]
+is_a: DDPHENO:0001005 ! aberrant cellular metabolic process
+created_by: pfey
+creation_date: 2014-03-20T13:59:32Z
+
+[Term]
+id: DDPHENO:0000045
+name: aberrant phosphatidylinositol metabolism
+def: "Deviation from the normal, usual, or expected events during phosphatidylinositol metabolism." [DDB:pf]
+synonym: "aberrant phosphoinositide metabolism" EXACT []
+is_a: DDPHENO:0001005 ! aberrant cellular metabolic process
+created_by: pfey
+creation_date: 2014-03-20T14:03:28Z
+
+[Term]
+id: DDPHENO:0000046
+name: aberrant phosphatidylinositol biosynthesis
+def: "Deviation from the normal, usual, or expected events during phosphatidylinositol biosynthesis." [DDB:pf]
+is_a: DDPHENO:0000045 ! aberrant phosphatidylinositol metabolism
+created_by: pfey
+creation_date: 2014-03-20T14:07:21Z
+
+[Term]
+id: DDPHENO:0000047
+name: decreased phosphatidylinositol biosynthesis
+def: "Reduction in extent, amount, or degree of phosphatidylinositol biosynthesis." [DDB:pf]
+is_a: DDPHENO:0000046 ! aberrant phosphatidylinositol biosynthesis
+created_by: pfey
+creation_date: 2014-03-20T14:09:34Z
+
+[Term]
+id: DDPHENO:0000048
+name: increased phosphatidylinositol biosynthesis
+def: "Increase in amount or accumulation of  phosphatidylinositol biosynthesis." [DDB:pf]
+is_a: DDPHENO:0000046 ! aberrant phosphatidylinositol biosynthesis
+created_by: pfey
+creation_date: 2014-03-20T14:10:51Z
+
+[Term]
+id: DDPHENO:0000049
+name: abolished phosphatidylinositol biosynthesis
+def: "Complete inability for the production of  phosphatidylinositol." [DDB:pf]
+is_a: DDPHENO:0000046 ! aberrant phosphatidylinositol biosynthesis
+created_by: pfey
+creation_date: 2014-03-20T14:12:10Z
+
+[Term]
+id: DDPHENO:0000050
+name: abolished response to hypo-osmotic stress
+def: "Complete inability to respond to hypo-osmotic stress." [DDB:pf]
+synonym: "abolished response to hypotonic stress" EXACT []
+is_a: DDPHENO:0001068 ! aberrant response to hypo-osmotic stress
+created_by: pfey
+creation_date: 2014-03-26T09:43:34Z
+
+[Term]
+id: DDPHENO:0000051
+name: decreased response to hypo-osmotic stress
+def: "Reduction in extent, amount, or degree of the response to hypo-osmotic stress." [DDB:pf]
+synonym: "decreased response to hypotonic stress" EXACT []
+is_a: DDPHENO:0001068 ! aberrant response to hypo-osmotic stress
+created_by: pfey
+creation_date: 2014-03-26T09:45:52Z
+
+[Term]
+id: DDPHENO:0000052
+name: increased response to hypo-osmotic stress
+def: "Increase in extent, amount, or degree of the response to hypo=osmotic stress." [DDB:pf]
+synonym: "increased response to hypotonic stress" EXACT []
+is_a: DDPHENO:0001068 ! aberrant response to hypo-osmotic stress
+created_by: pfey
+creation_date: 2014-03-26T09:49:08Z
+
+[Term]
+id: DDPHENO:0000053
+name: decreased contractile vacuole size
+def: "Decrease in relative or proportionate dimensions of the contractile vacuole." [DDB:pf]
+is_a: DDPHENO:0001066 ! aberrant contractile vacuole morphology
+created_by: pfey
+creation_date: 2014-03-26T09:52:55Z
+
+[Term]
+id: DDPHENO:0000054
+name: aberrant localization to cell cortex
+def: "Deviation from the normal, usual, or expected localization to the cell cortex." [DDB:pf]
+is_a: DDPHENO:0001217 ! aberrant cellular localization
+created_by: pfey
+creation_date: 2014-05-21T10:23:59Z
+
+[Term]
+id: DDPHENO:0000055
+name: abolished localization to cell cortex
+def: "Complete inability to localize to the cell cortex." [DDB:pf]
+is_a: DDPHENO:0000054 ! aberrant localization to cell cortex
+is_a: DDPHENO:0000110 ! abolished cellular localization
+created_by: pfey
+creation_date: 2014-05-21T10:25:02Z
+
+[Term]
+id: DDPHENO:0000056
+name: increased localization to cell cortex
+def: "Increase in amount or accumulation at the cell cortex." [DDB:pf]
+is_a: DDPHENO:0000054 ! aberrant localization to cell cortex
+is_a: DDPHENO:0000113 ! increased cellular localization
+created_by: pfey
+creation_date: 2014-05-21T10:25:31Z
+
+[Term]
+id: DDPHENO:0000057
+name: decreased localization to cell cortex
+def: "Reduction in amount or accumulation at the cell cortex." [DDB:pf]
+is_a: DDPHENO:0000054 ! aberrant localization to cell cortex
+is_a: DDPHENO:0000112 ! decreased cellular localization
+created_by: pfey
+creation_date: 2014-05-21T10:26:03Z
+
+[Term]
+id: DDPHENO:0000058
+name: aberrant localization to cell surface
+def: "Deviation from the normal, usual, or expected localization to the cell surface." [DDB:pf]
+is_a: DDPHENO:0001217 ! aberrant cellular localization
+created_by: pfey
+creation_date: 2014-05-21T10:26:59Z
+
+[Term]
+id: DDPHENO:0000059
+name: abolished localization to cell surface
+def: "Complete inability to localize to the cell surface." [DDB:pf]
+is_a: DDPHENO:0000058 ! aberrant localization to cell surface
+is_a: DDPHENO:0000110 ! abolished cellular localization
+created_by: pfey
+creation_date: 2014-05-21T10:27:37Z
+
+[Term]
+id: DDPHENO:0000060
+name: increased localization to cell surface
+def: "Increase in amount or accumulation on the cell surface." [DDB:pf]
+is_a: DDPHENO:0000058 ! aberrant localization to cell surface
+is_a: DDPHENO:0000113 ! increased cellular localization
+created_by: pfey
+creation_date: 2014-05-21T10:28:27Z
+
+[Term]
+id: DDPHENO:0000061
+name: decreased localization to cell surface
+def: "Reduction in amount or accumulation on the cell surface." [DDB:pf]
+is_a: DDPHENO:0000058 ! aberrant localization to cell surface
+is_a: DDPHENO:0000112 ! decreased cellular localization
+created_by: pfey
+creation_date: 2014-05-21T10:29:01Z
+
+[Term]
+id: DDPHENO:0000062
+name: aberrant localization to coated pits
+def: "Deviation from the normal, usual, or expected localization to coated pits." [DDB:pf]
+is_a: DDPHENO:0001217 ! aberrant cellular localization
+created_by: pfey
+creation_date: 2014-05-21T10:29:31Z
+
+[Term]
+id: DDPHENO:0000063
+name: abolished localization to coated pits
+def: "Complete inability to localize to coated pits." [DDB:pf]
+is_a: DDPHENO:0000062 ! aberrant localization to coated pits
+is_a: DDPHENO:0000110 ! abolished cellular localization
+created_by: pfey
+creation_date: 2014-05-21T10:30:14Z
+
+[Term]
+id: DDPHENO:0000064
+name: increased localization to coated pits
+def: "Increase in amount or accumulation at coated pits." [DDB:pf]
+is_a: DDPHENO:0000062 ! aberrant localization to coated pits
+is_a: DDPHENO:0000113 ! increased cellular localization
+created_by: pfey
+creation_date: 2014-05-21T10:30:34Z
+
+[Term]
+id: DDPHENO:0000065
+name: decreased localization to coated pits
+def: "Reduction in amount or accumulation at coated pits." [DDB:pf]
+is_a: DDPHENO:0000062 ! aberrant localization to coated pits
+is_a: DDPHENO:0000112 ! decreased cellular localization
+created_by: pfey
+creation_date: 2014-05-21T10:30:49Z
+
+[Term]
+id: DDPHENO:0000066
+name: aberrant localization to cytoplasm
+def: "Deviation from the normal, usual, or expected localization to the cytoplasm." [DDB:pf]
+is_a: DDPHENO:0001217 ! aberrant cellular localization
+created_by: pfey
+creation_date: 2014-05-21T10:31:22Z
+
+[Term]
+id: DDPHENO:0000067
+name: abolished localization to cytoplasm
+def: "Complete inability to localize to the cytoplasm." [DDB:pf]
+is_a: DDPHENO:0000066 ! aberrant localization to cytoplasm
+is_a: DDPHENO:0000110 ! abolished cellular localization
+created_by: pfey
+creation_date: 2014-05-21T10:32:06Z
+
+[Term]
+id: DDPHENO:0000068
+name: increased localization to cytoplasm
+def: "Increase in amount or accumulation in the cytoplasm." [DDB:pf]
+is_a: DDPHENO:0000066 ! aberrant localization to cytoplasm
+is_a: DDPHENO:0000113 ! increased cellular localization
+created_by: pfey
+creation_date: 2014-05-21T10:32:18Z
+
+[Term]
+id: DDPHENO:0000069
+name: decreased localization to cytoplasm
+def: "Reduction in amount or accumulation in the cytoplasm." [DDB:pf]
+is_a: DDPHENO:0000066 ! aberrant localization to cytoplasm
+is_a: DDPHENO:0000112 ! decreased cellular localization
+created_by: pfey
+creation_date: 2014-05-21T10:32:39Z
+
+[Term]
+id: DDPHENO:0000070
+name: aberrant localization to microtubule organizing center
+def: "Deviation from the normal, usual, or expected localization to the microtubule organizing center." [DDB:pf]
+synonym: "aberrant localization to the MTOC" EXACT []
+is_a: DDPHENO:0001217 ! aberrant cellular localization
+created_by: pfey
+creation_date: 2014-05-21T10:33:13Z
+
+[Term]
+id: DDPHENO:0000071
+name: abolished localization to microtubule organizing center
+def: "Complete inability to localize to the microtubule organizing center." [DDB:pf]
+synonym: "abolished localization to the MTOC" EXACT []
+is_a: DDPHENO:0000070 ! aberrant localization to microtubule organizing center
+is_a: DDPHENO:0000110 ! abolished cellular localization
+created_by: pfey
+creation_date: 2014-05-21T10:33:38Z
+
+[Term]
+id: DDPHENO:0000072
+name: increased localization to microtubule organizing center
+def: "Increase in amount or accumulation at the microtubule organizing center." [DDB:pf]
+synonym: "increased localization to the MTOC" EXACT []
+is_a: DDPHENO:0000070 ! aberrant localization to microtubule organizing center
+is_a: DDPHENO:0000113 ! increased cellular localization
+created_by: pfey
+creation_date: 2014-05-21T10:33:54Z
+
+[Term]
+id: DDPHENO:0000073
+name: decreased localization to microtubule organizing center
+def: "Reduction in amount or accumulation at the microtubule organizing center." [DDB:pf]
+synonym: "decreased localization to the MTOC" EXACT []
+is_a: DDPHENO:0000070 ! aberrant localization to microtubule organizing center
+is_a: DDPHENO:0000112 ! decreased cellular localization
+created_by: pfey
+creation_date: 2014-05-21T10:34:07Z
+
+[Term]
+id: DDPHENO:0000074
+name: aberrant localization to microtubules
+def: "Deviation from the normal, usual, or expected localization to the microtubules." [DDB:pf]
+is_a: DDPHENO:0001217 ! aberrant cellular localization
+created_by: pfey
+creation_date: 2014-05-21T10:34:45Z
+
+[Term]
+id: DDPHENO:0000075
+name: abolished localization to microtubules
+def: "Complete inability to localize to the microtubules." [DDB:pf]
+is_a: DDPHENO:0000074 ! aberrant localization to microtubules
+is_a: DDPHENO:0000110 ! abolished cellular localization
+created_by: pfey
+creation_date: 2014-05-21T10:35:28Z
+
+[Term]
+id: DDPHENO:0000076
+name: decreased localization to microtubules
+def: "Reduction in amount or accumulation at the microtubules." [DDB:pf]
+is_a: DDPHENO:0000074 ! aberrant localization to microtubules
+is_a: DDPHENO:0000112 ! decreased cellular localization
+created_by: pfey
+creation_date: 2014-05-21T10:35:41Z
+
+[Term]
 id: DDPHENO:0000077
 name: decreased fruiting body size
 def: "Reduction in relative or proportionate dimensions of the fruiting body." [DDB:pf]
+synonym: "decreased sorocarp size" EXACT []
 synonym: "small fruiting body" EXACT []
 is_a: DDPHENO:0000009 ! aberrant fruiting body morphology
+
+[Term]
+id: DDPHENO:0000078
+name: increased localization to microtubules
+def: "Increase in amount or accumulation at the microtubules." [DDB:pf]
+is_a: DDPHENO:0000074 ! aberrant localization to microtubules
+is_a: DDPHENO:0000113 ! increased cellular localization
+created_by: pfey
+creation_date: 2014-05-21T10:35:57Z
+
+[Term]
+id: DDPHENO:0000079
+name: aberrant localization to nuclear envelope
+def: "Deviation from the normal, usual, or expected localization to the nuclear envelope." [DDB:pf]
+is_a: DDPHENO:0001217 ! aberrant cellular localization
+created_by: pfey
+creation_date: 2014-05-21T10:36:20Z
+
+[Term]
+id: DDPHENO:0000080
+name: abolished localization to nuclear envelope
+def: "Complete inability to localize to the nuclear envelope." [DDB:pf]
+is_a: DDPHENO:0000079 ! aberrant localization to nuclear envelope
+is_a: DDPHENO:0000110 ! abolished cellular localization
+created_by: pfey
+creation_date: 2014-05-21T10:36:52Z
+
+[Term]
+id: DDPHENO:0000081
+name: increased localization to nuclear envelope
+def: "Increase in amount or accumulation at the nuclear envelope." [DDB:pf]
+is_a: DDPHENO:0000079 ! aberrant localization to nuclear envelope
+is_a: DDPHENO:0000113 ! increased cellular localization
+created_by: pfey
+creation_date: 2014-05-21T10:37:15Z
+
+[Term]
+id: DDPHENO:0000082
+name: decreased localization to nuclear envelope
+def: "Reduction in amount or accumulation at the nuclear envelope." [DDB:pf]
+is_a: DDPHENO:0000079 ! aberrant localization to nuclear envelope
+is_a: DDPHENO:0000112 ! decreased cellular localization
+created_by: pfey
+creation_date: 2014-05-21T10:37:27Z
+
+[Term]
+id: DDPHENO:0000083
+name: aberrant localization to nucleus
+def: "Deviation from the normal, usual, or expected localization to the nucleus." [DDB:pf]
+synonym: "aberrant nuclear localization" EXACT []
+is_a: DDPHENO:0001217 ! aberrant cellular localization
+created_by: pfey
+creation_date: 2014-05-21T10:38:50Z
+
+[Term]
+id: DDPHENO:0000084
+name: abolished localization to nucleus
+def: "Complete inability to localize to the nucleus." [DDB:pf]
+synonym: "abolished nuclear localization" EXACT []
+is_a: DDPHENO:0000083 ! aberrant localization to nucleus
+is_a: DDPHENO:0000110 ! abolished cellular localization
+created_by: pfey
+creation_date: 2014-05-21T10:39:27Z
+
+[Term]
+id: DDPHENO:0000085
+name: increased localization to nucleus
+def: "Increase in amount or accumulation in the nucleus." [DDB:pf]
+synonym: "increased nuclear localization" EXACT []
+is_a: DDPHENO:0000083 ! aberrant localization to nucleus
+is_a: DDPHENO:0000113 ! increased cellular localization
+created_by: pfey
+creation_date: 2014-05-21T10:39:47Z
+
+[Term]
+id: DDPHENO:0000086
+name: decreased localization to nucleus
+def: "Reduction in amount or accumulation in the nucleus." [DDB:pf]
+is_a: DDPHENO:0000083 ! aberrant localization to nucleus
+is_a: DDPHENO:0000112 ! decreased cellular localization
+created_by: pfey
+creation_date: 2014-05-21T10:40:02Z
+
+[Term]
+id: DDPHENO:0000087
+name: aberrant localization to plasma membrane
+def: "Deviation from the normal, usual, or expected localization to the plasma membrane." [DDB:pf]
+is_a: DDPHENO:0001217 ! aberrant cellular localization
+created_by: pfey
+creation_date: 2014-05-21T10:40:53Z
+
+[Term]
+id: DDPHENO:0000088
+name: abolished localization to plasma membrane
+def: "Complete inability to localize to the plasma membrane." [DDB:pf]
+is_a: DDPHENO:0000087 ! aberrant localization to plasma membrane
+is_a: DDPHENO:0000110 ! abolished cellular localization
+created_by: pfey
+creation_date: 2014-05-21T10:41:22Z
+
+[Term]
+id: DDPHENO:0000089
+name: decreased localization to plasma membrane
+def: "Reduction in amount or accumulation at the plasma membrane." [DDB:pf]
+is_a: DDPHENO:0000087 ! aberrant localization to plasma membrane
+is_a: DDPHENO:0000112 ! decreased cellular localization
+created_by: pfey
+creation_date: 2014-05-21T10:41:35Z
 
 [Term]
 id: DDPHENO:0000090
@@ -92,9 +751,61 @@ synonym: "endocytosis defect" RELATED []
 is_a: DDPHENO:0001047 ! aberrant transport
 
 [Term]
+id: DDPHENO:0000091
+name: increased localization to plasma membrane
+def: "Increase in amount or accumulation at the plasma membrane." [DDB:pf]
+is_a: DDPHENO:0000087 ! aberrant localization to plasma membrane
+is_a: DDPHENO:0000113 ! increased cellular localization
+created_by: pfey
+creation_date: 2014-05-21T10:41:49Z
+
+[Term]
+id: DDPHENO:0000092
+name: aberrant localization to pseudopodium
+def: "Deviation from the normal, usual, or expected localization to pseudopodia." [DDB:pf]
+is_a: DDPHENO:0001217 ! aberrant cellular localization
+created_by: pfey
+creation_date: 2014-05-21T10:43:03Z
+
+[Term]
+id: DDPHENO:0000093
+name: abolished localization to pseudopodium
+def: "Complete inability to localize to pseudopodia." [DDB:pf]
+is_a: DDPHENO:0000092 ! aberrant localization to pseudopodium
+is_a: DDPHENO:0000110 ! abolished cellular localization
+created_by: pfey
+creation_date: 2014-05-21T10:43:49Z
+
+[Term]
 id: DDPHENO:0000094
 name: spores inviable
 is_a: DDPHENO:0001046 ! aberrant spore germination
+
+[Term]
+id: DDPHENO:0000095
+name: decreased localization to pseudopodium
+def: "Reduction in amount or accumulation at pseudopodia." [DDB:pf]
+is_a: DDPHENO:0000092 ! aberrant localization to pseudopodium
+is_a: DDPHENO:0000112 ! decreased cellular localization
+created_by: pfey
+creation_date: 2014-05-21T10:44:00Z
+
+[Term]
+id: DDPHENO:0000096
+name: increased localization to pseudopodium
+def: "Increase in amount or accumulation at pseudopodia." [DDB:pf]
+is_a: DDPHENO:0000092 ! aberrant localization to pseudopodium
+is_a: DDPHENO:0000113 ! increased cellular localization
+created_by: pfey
+creation_date: 2014-05-21T10:44:26Z
+
+[Term]
+id: DDPHENO:0000097
+name: aberrant localization to nucleolus
+def: "Deviation from the normal, usual, or expected localization to the nucleolus." [DDB:pf]
+is_a: DDPHENO:0001217 ! aberrant cellular localization
+created_by: pfey
+creation_date: 2014-05-21T10:45:17Z
 
 [Term]
 id: DDPHENO:0000098
@@ -112,10 +823,67 @@ is_a: DDPHENO:0001122 ! aberrant chemotaxis
 is_a: DDPHENO:0001130 ! decreased taxis
 
 [Term]
+id: DDPHENO:0000100
+name: abolished localization to nucleolus
+def: "Complete inability to localize to the nucleolus." [DDB:pf]
+is_a: DDPHENO:0000097 ! aberrant localization to nucleolus
+is_a: DDPHENO:0000110 ! abolished cellular localization
+created_by: pfey
+creation_date: 2014-05-21T10:45:50Z
+
+[Term]
+id: DDPHENO:0000101
+name: increased localization to nucleolus
+def: "Increase in amount or accumulation in the nucleolus." [DDB:pf]
+is_a: DDPHENO:0000097 ! aberrant localization to nucleolus
+is_a: DDPHENO:0000113 ! increased cellular localization
+created_by: pfey
+creation_date: 2014-05-21T10:46:03Z
+
+[Term]
 id: DDPHENO:0000102
 name: increased number of aggregates
 def: "Quantitative increase in aggregates." [DDB:pg]
 is_a: DDPHENO:0000483 ! aberrant aggregation
+
+[Term]
+id: DDPHENO:0000103
+name: decreased localization to nucleolus
+def: "Reduction in amount or accumulation in the nucleolus." [DDB:pf]
+synonym: "decreased nuclear localization" EXACT []
+is_a: DDPHENO:0000097 ! aberrant localization to nucleolus
+is_a: DDPHENO:0000112 ! decreased cellular localization
+created_by: pfey
+creation_date: 2014-05-21T10:46:16Z
+
+[Term]
+id: DDPHENO:0000104
+name: aberrant protein localization to nucleolus
+def: "Deviation from the normal, usual, or expected events during localization of a protein to the nucleolus." [DDB:pf]
+is_a: DDPHENO:0000471 ! aberrant protein localization
+created_by: pfey
+creation_date: 2014-05-21T10:46:32Z
+
+[Term]
+id: DDPHENO:0000105
+name: abolished protein localization to nucleolus
+is_a: DDPHENO:0000104 ! aberrant protein localization to nucleolus
+created_by: pfey
+creation_date: 2014-05-21T10:46:58Z
+
+[Term]
+id: DDPHENO:0000106
+name: decreased protein localization to nucleolus
+is_a: DDPHENO:0000104 ! aberrant protein localization to nucleolus
+created_by: pfey
+creation_date: 2014-05-21T10:47:16Z
+
+[Term]
+id: DDPHENO:0000107
+name: increased protein localization to nucleolus
+is_a: DDPHENO:0000104 ! aberrant protein localization to nucleolus
+created_by: pfey
+creation_date: 2014-05-21T10:47:28Z
 
 [Term]
 id: DDPHENO:0000108
@@ -131,6 +899,14 @@ def: "Increase in extent, amount, or degree of cell-cell adhesion." [DDB:pg]
 is_a: DDPHENO:0000412 ! aberrant cell-cell adhesion
 
 [Term]
+id: DDPHENO:0000110
+name: abolished cellular localization
+def: "Complete inability to localize to a cellular compartment or structure." [DDB:pf]
+is_a: DDPHENO:0001217 ! aberrant cellular localization
+created_by: pfey
+creation_date: 2014-06-02T11:45:51Z
+
+[Term]
 id: DDPHENO:0000111
 name: increased aggregate size
 alt_id: DDPHENO:0001018
@@ -139,10 +915,69 @@ synonym: "aberrant negative regulation of aggregate size" RELATED []
 is_a: DDPHENO:0001017 ! aberrant regulation of aggregate size
 
 [Term]
+id: DDPHENO:0000112
+name: decreased cellular localization
+def: "Reduction in amount or accumulation at a certain cellular location." [DDB:pf]
+is_a: DDPHENO:0001217 ! aberrant cellular localization
+created_by: pfey
+creation_date: 2014-06-02T11:49:54Z
+
+[Term]
+id: DDPHENO:0000113
+name: increased cellular localization
+def: "Increase in amount or accumulation at a certain cellular location." []
+is_a: DDPHENO:0001217 ! aberrant cellular localization
+created_by: pfey
+creation_date: 2014-06-02T11:50:23Z
+
+[Term]
+id: DDPHENO:0000115
+name: aberrant substrate adhesion-dependent cell spreading
+def: "Deviation from the normal, usual, or expected events during substrate adhesion-dependent cell spreading." [DDB:pf]
+synonym: "aberrant cell spreading during cell substrate adhesion" EXACT []
+synonym: "aberrant substrate adhesion dependent cell spreading" EXACT []
+is_a: DDPHENO:0000187 ! aberrant cell-substrate adhesion
+created_by: pfey
+creation_date: 2014-08-27T11:05:50Z
+
+[Term]
 id: DDPHENO:0000116
 name: increased cell motility
 def: "Increase in extent, amount, or degree of cell motility." [DD:pg]
 is_a: DDPHENO:0000264 ! aberrant cell motility
+
+[Term]
+id: DDPHENO:0000117
+name: abolished substrate adhesion-dependent cell spreading
+def: "Complete inability for substrate adhesion-dependent cell spreading." [DDB:pf]
+synonym: "abolished cell spreading during cell substrate adhesion" EXACT []
+synonym: "abolished substrate adhesion dependent cell spreading" EXACT []
+is_a: DDPHENO:0000115 ! aberrant substrate adhesion-dependent cell spreading
+created_by: pfey
+creation_date: 2014-08-27T11:08:28Z
+
+[Term]
+id: DDPHENO:0000118
+name: decreased substrate adhesion-dependent cell spreading
+def: "Reduction in extent, amount, or degree of substrate adhesion-dependent cell spreading." [DDB:pf]
+synonym: "decreased cell spreading during cell substrate adhesion" EXACT []
+synonym: "decreased substrate adhesion dependent cell spreading" EXACT []
+synonym: "reduced cell spreading during cell substrate adhesion" EXACT []
+synonym: "reduced substrate adhesion dependent cell spreading" EXACT []
+synonym: "reduced substrate adhesion-dependent cell spreading" EXACT []
+is_a: DDPHENO:0000115 ! aberrant substrate adhesion-dependent cell spreading
+created_by: pfey
+creation_date: 2014-08-27T11:10:54Z
+
+[Term]
+id: DDPHENO:0000119
+name: increased substrate adhesion-dependent cell spreading
+def: "Increase in extent, amount, or degree of substrate adhesion-dependent cell spreading." [DDB:pf]
+synonym: "increased cell spreading during cell substrate adhesion" EXACT []
+synonym: "increased substrate adhesion dependent cell spreading" EXACT []
+is_a: DDPHENO:0000115 ! aberrant substrate adhesion-dependent cell spreading
+created_by: pfey
+creation_date: 2014-08-27T11:11:10Z
 
 [Term]
 id: DDPHENO:0000121
@@ -467,7 +1302,7 @@ is_a: DDPHENO:0000397 ! aberrant cytoskeleton organisation
 [Term]
 id: DDPHENO:0000185
 name: increased sensitivity to nocodazole
-is_a: DDPHENO:0001031 ! aberrant response to abiotic stimulus
+is_a: DDPHENO:0000040 ! aberrant response to chemical stimulus
 
 [Term]
 id: DDPHENO:0000187
@@ -574,7 +1409,7 @@ is_a: DDPHENO:0001001 ! aberrant initiation of development
 [Term]
 id: DDPHENO:0000206
 name: precocious aggregation
-def: "Early onset or faster progression through aggregation. " [DDB:pg]
+def: "Early onset or faster progression through aggregation." [DDB:pg]
 is_a: DDPHENO:0000483 ! aberrant aggregation
 
 [Term]
@@ -595,6 +1430,7 @@ is_a: DDPHENO:0000002 ! aberrant standing slug morphology
 id: DDPHENO:0000209
 name: aberrant response to osmotic stress
 def: "Deviation from the normal, usual, or expected events during the response to osmotic stress." [DDB:pg]
+is_a: DDPHENO:0001031 ! aberrant response to abiotic stimulus
 is_a: DDPHENO:0001034 ! aberrant response to stress
 
 [Term]
@@ -644,7 +1480,7 @@ is_a: DDPHENO:0000163 ! aberrant spore morphology
 [Term]
 id: DDPHENO:0000222
 name: aberrant phototaxis
-def: "Deviation from the normal, usual, or expected events during the response to light. " [DDB:pf]
+def: "Deviation from the normal, usual, or expected events during the response to light." [DDB:pf]
 is_a: DDPHENO:0001121 ! aberrant taxis
 
 [Term]
@@ -777,15 +1613,15 @@ is_a: DDPHENO:0001234 ! aberrant mitochondrion organization
 id: DDPHENO:0000273
 name: decreased SDF production
 def: "Reduction in extent, amount, or degree of production of SDF-1 or SDF-2, peptides that promote terminal spore differentiation" [DDB:pg]
-synonym: "decreased spore differentiation factor production" RELATED []
-is_a: DDPHENO:0001005 ! aberrant cellular metabolic process
+synonym: "decreased spore differentiation factor production" EXACT []
+is_a: DDPHENO:0000044 ! aberrant SDF production
 
 [Term]
 id: DDPHENO:0000274
 name: abolished SDF production
 def: "Complete inability for the production of SDF-1 or SDF-2, peptides that promote terminal spore differentiation." [DDB:pg]
-synonym: "abolished spore differentiation factor production" RELATED []
-is_a: DDPHENO:0001005 ! aberrant cellular metabolic process
+synonym: "abolished spore differentiation factor production" EXACT []
+is_a: DDPHENO:0000044 ! aberrant SDF production
 
 [Term]
 id: DDPHENO:0000276
@@ -848,7 +1684,8 @@ is_a: DDPHENO:0000397 ! aberrant cytoskeleton organisation
 id: DDPHENO:0000304
 name: increased membrane ruffling
 def: "Increase in extent, amount, or degree of membrane ruffling." [DDB:pg]
-is_a: DDPHENO:0001043 ! aberrant organelle organization and biogenesis
+synonym: "increased ruffle assembly" RELATED []
+is_a: DDPHENO:0000042 ! aberrant membrane ruffling
 
 [Term]
 id: DDPHENO:0000305
@@ -883,7 +1720,8 @@ is_a: DDPHENO:0000236 ! aberrant cell morphology
 [Term]
 id: DDPHENO:0000381
 name: increased sensitivity to TMB-8
-is_a: DDPHENO:0001031 ! aberrant response to abiotic stimulus
+synonym: "increased sensitivity to 8-(N,N-diethylamino)octyl-3,4,5-trimethoxybenzoate" EXACT []
+is_a: DDPHENO:0000040 ! aberrant response to chemical stimulus
 
 [Term]
 id: DDPHENO:0000382
@@ -1120,8 +1958,9 @@ is_a: DDPHENO:0000513 ! aberrant sporulation
 
 [Term]
 id: DDPHENO:0000425
-name: increased sensitivity to H2O2 (peroxide)
-is_a: DDPHENO:0001031 ! aberrant response to abiotic stimulus
+name: increased sensitivity to hydrogen peroxide
+synonym: "increased sensitivity to H2O2" EXACT []
+is_a: DDPHENO:0000040 ! aberrant response to chemical stimulus
 
 [Term]
 id: DDPHENO:0000426
@@ -1190,7 +2029,7 @@ is_a: DDPHENO:0001031 ! aberrant response to abiotic stimulus
 [Term]
 id: DDPHENO:0000439
 name: increased resistance to 5-fluoroorotic acid (5-FOA)
-is_a: DDPHENO:0001031 ! aberrant response to abiotic stimulus
+is_a: DDPHENO:0000040 ! aberrant response to chemical stimulus
 
 [Term]
 id: DDPHENO:0000440
@@ -1273,9 +2112,8 @@ is_a: DDPHENO:0001010 ! aberrant macrocyst differentiation
 [Term]
 id: DDPHENO:0000453
 name: abolished protein localization to nucleus
-def: "Complete inability for a protein to localize to the nucleus." [DDB:pf, DDB:pg]
-synonym: "abolished nuclear localization" NARROW []
-synonym: "abolished nuclear protein localization" EXACT []
+def: "Complete inability to localize a protein to the nucleus." [DDB:pf, DDB:pg]
+synonym: "abolished nuclear protein localization" RELATED []
 is_a: DDPHENO:0001336 ! aberrant protein localization to nucleus
 is_a: DDPHENO:0001393 ! abolished protein localization
 
@@ -1337,7 +2175,7 @@ is_a: DDPHENO:0001131 ! abolished taxis
 [Term]
 id: DDPHENO:0000471
 name: aberrant protein localization
-def: "Deviation from the normal, usual, or expected location of a protein." [DDB:pg]
+def: "Deviation from the normal, usual, or expected localization of a protein." [DDB:pf, DDB:pg]
 is_a: DDPHENO:0001009 ! aberrant localization
 
 [Term]
@@ -1361,7 +2199,7 @@ is_a: DDPHENO:0001027 ! aberrant pseudopod formation
 [Term]
 id: DDPHENO:0000475
 name: increased resistance to bisphosphonates
-is_a: DDPHENO:0001031 ! aberrant response to abiotic stimulus
+is_a: DDPHENO:0000040 ! aberrant response to chemical stimulus
 
 [Term]
 id: DDPHENO:0000476
@@ -1428,7 +2266,7 @@ is_a: DDPHENO:0000002 ! aberrant standing slug morphology
 [Term]
 id: DDPHENO:0000486
 name: increased resistance to spectinomycin
-is_a: DDPHENO:0001031 ! aberrant response to abiotic stimulus
+is_a: DDPHENO:0000040 ! aberrant response to chemical stimulus
 
 [Term]
 id: DDPHENO:0000487
@@ -1655,9 +2493,9 @@ is_a: DDPHENO:0000546 ! aberrant stalk cell differentiation
 
 [Term]
 id: DDPHENO:0000530
-name: increased gene silencing by RNA interference
-def: "Increase in extent, amount, or degree of gene silencing by RNA interference." [DDB:pg]
-is_a: DDPHENO:0001005 ! aberrant cellular metabolic process
+name: increased post-transciptional gene silencing by RNA
+def: "Increase in extent, amount, or degree of post-transciptional gene silencing by RNA." [DDB:pf]
+is_a: DDPHENO:0000008 ! aberrant post-transciptional gene silencing by RNA
 
 [Term]
 id: DDPHENO:0000533
@@ -1713,7 +2551,7 @@ is_a: DDPHENO:0001194 ! increased infection rate by a microorganism
 [Term]
 id: DDPHENO:0000544
 name: abolished iron ion transport
-def: "Complete inability to transport iron. " [DDB:pg]
+def: "Complete inability to transport iron." [DDB:pg]
 is_a: DDPHENO:0001026 ! aberrant ion transport
 
 [Term]
@@ -1751,8 +2589,8 @@ is_a: DDPHENO:0001007 ! aberrant pinocytosis
 [Term]
 id: DDPHENO:0000551
 name: increased pseudopod formation
-def: "Increase in extent, amount, or degree of formation of pseudopods. " [DDB:pg]
-synonym: "increased pseudopod extension" EXACT []
+def: "Increase in extent, amount, or degree of formation of pseudopods." [DDB:pg]
+synonym: "increased pseudopod extension" NARROW []
 is_a: DDPHENO:0001027 ! aberrant pseudopod formation
 
 [Term]
@@ -1765,7 +2603,7 @@ is_a: DDPHENO:0000154 ! aberrant development
 id: DDPHENO:0001002
 name: aberrant organelle morphology
 def: "Deviation from the normal, usual, or expected morphology of organelles." [DDB:pg]
-comment: child of GO:0006996 : organelle organization and biogenesis
+comment: Child of GO:0006996 : organelle organization and biogenesis.
 is_a: DDPHENO:0001043 ! aberrant organelle organization and biogenesis
 
 [Term]
@@ -1794,7 +2632,7 @@ is_a: DDPHENO:0001008 ! aberrant cellular process
 id: DDPHENO:0001006
 name: aberrant phagocytosis
 def: "Deviation from the normal, usual, or expected events during phagocytosis." [DDB:pg]
-comment: child of GO:0006909 : phagocytosis
+comment: Child of GO:0006909 : phagocytosis.
 is_a: DDPHENO:0000090 ! aberrant endocytosis
 
 [Term]
@@ -1863,6 +2701,7 @@ is_a: DDPHENO:0000154 ! aberrant development
 id: DDPHENO:0001016
 name: aberrant regulation of fruiting body formation
 def: "Deviation from the normal, usual, or expected events during the regulation of fruiting body formation." [DDB:pg]
+synonym: "aberrant regulation of sorocarp formation" EXACT []
 is_a: DDPHENO:0000154 ! aberrant development
 
 [Term]
@@ -1881,13 +2720,13 @@ is_a: DDPHENO:0000546 ! aberrant stalk cell differentiation
 [Term]
 id: DDPHENO:0001021
 name: aberrant negative regulation of stalk cell differentiation
-def: "Deviation from the normal, usual, or expected events during negative regulation of stalk cell differentiation. " [DDB:pg]
+def: "Deviation from the normal, usual, or expected events during negative regulation of stalk cell differentiation." [DDB:pg]
 is_a: DDPHENO:0001020 ! aberrant regulation of stalk cell differentiation
 
 [Term]
 id: DDPHENO:0001022
 name: aberrant positive regulation of stalk cell differentiation
-def: "Deviation from the normal, usual, or expected events during positive regulation of stalk cell differentiation. " [DDB:pg]
+def: "Deviation from the normal, usual, or expected events during positive regulation of stalk cell differentiation." [DDB:pg]
 is_a: DDPHENO:0001020 ! aberrant regulation of stalk cell differentiation
 
 [Term]
@@ -1953,7 +2792,7 @@ is_a: DDPHENO:0001003 ! aberrant response to stimulus
 [Term]
 id: DDPHENO:0001032
 name: aberrant response to biotic stimulus
-def: "Deviation from the normal, usual, or expected events during the response to biotic stimulus. " [DDB:pg]
+def: "Deviation from the normal, usual, or expected events during the response to biotic stimulus." [DDB:pg]
 is_a: DDPHENO:0001003 ! aberrant response to stimulus
 
 [Term]
@@ -2020,15 +2859,15 @@ is_a: DDPHENO:0001043 ! aberrant organelle organization and biogenesis
 
 [Term]
 id: DDPHENO:0001042
-name: aberrant cell organization and biogenesis
-def: "Deviation from the normal, usual, or expected events during cell organization and biogenesis." [DDB:pg]
+name: aberrant cellular component organization or biogenesis
+def: "Deviation from the normal, usual, or expected events during  cellular component organization or biogenesis." [DDB:pf]
 is_a: DDPHENO:0001008 ! aberrant cellular process
 
 [Term]
 id: DDPHENO:0001043
 name: aberrant organelle organization and biogenesis
 def: "Deviation from the normal, usual, or expected events during organelle organization and biogenesis." [DDB:pg]
-is_a: DDPHENO:0001042 ! aberrant cell organization and biogenesis
+is_a: DDPHENO:0001042 ! aberrant cellular component organization or biogenesis
 
 [Term]
 id: DDPHENO:0001044
@@ -2058,7 +2897,7 @@ is_a: DDPHENO:0001008 ! aberrant cellular process
 id: DDPHENO:0001048
 name: aberrant cell projection biogenesis
 def: "Deviation from the normal, usual, or expected events during cell projection biogenesis." [DDB:pg]
-is_a: DDPHENO:0001042 ! aberrant cell organization and biogenesis
+is_a: DDPHENO:0001042 ! aberrant cellular component organization or biogenesis
 
 [Term]
 id: DDPHENO:0001049
@@ -2195,18 +3034,20 @@ is_a: DDPHENO:0001067 ! aberrant response to hyperosmotic stress
 id: DDPHENO:0001071
 name: precocious response to hypo-osmotic stress
 def: "Early onset or faster progression in the response to hypo-osmotic stress." [DDB:pg]
+synonym: "precocious response to hypotonic stress" EXACT []
 is_a: DDPHENO:0001068 ! aberrant response to hypo-osmotic stress
 
 [Term]
 id: DDPHENO:0001072
 name: delayed response to hypo-osmotic stress
 def: "Late onset or slower progression in the response to hypo-osmotic stress." [DDB:pg]
+synonym: "delayed response to hypotonic stress" EXACT []
 is_a: DDPHENO:0001068 ! aberrant response to hypo-osmotic stress
 
 [Term]
 id: DDPHENO:0001074
 name: aberrant osmosensory signaling pathway
-def: "Deviation from the normal, usual, or expected events during the osmosensory signaling pathway" [DDB:pg]
+def: "Deviation from the normal, usual, or expected events during the osmosensory signaling pathway." [DDB:pg]
 is_a: DDPHENO:0001067 ! aberrant response to hyperosmotic stress
 
 [Term]
@@ -2306,7 +3147,7 @@ is_a: DDPHENO:0001168 ! aberrant chemotaxis to folate
 [Term]
 id: DDPHENO:0001088
 name: aberrant response to DIF
-def: "Deviation from the normal, usual, or expected during the response to differentiation inducing factor" [DDB:pg]
+def: "Deviation from the normal, usual, or expected during the response to differentiation inducing factor." [DDB:pg]
 synonym: "aberrant response to DIF-1" NARROW []
 synonym: "aberrant response to differentiation inducing factor" EXACT []
 is_a: DDPHENO:0001032 ! aberrant response to biotic stimulus
@@ -2314,7 +3155,7 @@ is_a: DDPHENO:0001032 ! aberrant response to biotic stimulus
 [Term]
 id: DDPHENO:0001090
 name: decreased response to DIF
-def: "Reduction in extent, amount, or degree of response to DIF." [DDB:pg]
+def: "Reduction in extent, amount, or degree of the response to DIF." [DDB:pg]
 synonym: "decreased response to DIF-1" NARROW []
 synonym: "decreased response to differentiation inducing factor" EXACT []
 is_a: DDPHENO:0001088 ! aberrant response to DIF
@@ -2445,15 +3286,15 @@ is_a: DDPHENO:0001256 ! increased catalytic activity
 [Term]
 id: DDPHENO:0001108
 name: aberrant response to lithium
-def: "Deviation from the normal, usual, or expected events during the response to lithium" [DDB:pf]
-is_a: DDPHENO:0001031 ! aberrant response to abiotic stimulus
+def: "Deviation from the normal, usual, or expected events during the response to lithium." [DDB:pf]
+is_a: DDPHENO:0000040 ! aberrant response to chemical stimulus
 
 [Term]
 id: DDPHENO:0001109
 name: aberrant response to valproic acid
-def: "Deviation from the normal, usual, or expected events during the response to valproic acid" [DDB:pf]
+def: "Deviation from the normal, usual, or expected events during the response to valproic acid." [DDB:pf]
 synonym: "aberrant response to VPA" RELATED []
-is_a: DDPHENO:0001031 ! aberrant response to abiotic stimulus
+is_a: DDPHENO:0000040 ! aberrant response to chemical stimulus
 
 [Term]
 id: DDPHENO:0001110
@@ -2479,7 +3320,7 @@ name: aberrant gene expression
 alt_id: DDPHENO:0001000
 alt_id: DDPHENO:0001089
 def: "Deviation from the normal, usual, or expected expression of genes." [DDB:kp]
-synonym: "aberrant expression of post aggregation-specific genes" EXACT []
+synonym: "aberrant expression of post aggregation-specific genes" NARROW []
 synonym: "merged_aberrant expression of aggregation genes" NARROW [DDB:kp]
 synonym: "merged_aberrant expression of post-aggregative genes" NARROW [DDB:kp]
 is_a: DDPHENO:0001005 ! aberrant cellular metabolic process
@@ -2564,6 +3405,7 @@ is_a: DDPHENO:0001003 ! aberrant response to stimulus
 id: DDPHENO:0001122
 name: aberrant chemotaxis
 def: "Deviation from the normal, usual, or expected events during the locomotory response to a chemical concentration gradient." [DD:pg]
+is_a: DDPHENO:0000040 ! aberrant response to chemical stimulus
 is_a: DDPHENO:0000264 ! aberrant cell motility
 is_a: DDPHENO:0001121 ! aberrant taxis
 
@@ -2612,7 +3454,7 @@ is_a: DDPHENO:0001130 ! decreased taxis
 [Term]
 id: DDPHENO:0001129
 name: increased taxis
-def: "Increase in extent, amount, or degree of the response to an external stimulus. " [DDB:pg]
+def: "Increase in extent, amount, or degree of the response to an external stimulus." [DDB:pg]
 is_a: DDPHENO:0001121 ! aberrant taxis
 
 [Term]
@@ -2825,7 +3667,7 @@ is_a: DDPHENO:0001005 ! aberrant cellular metabolic process
 [Term]
 id: DDPHENO:0001162
 name: increased superoxide production
-def: "Increase in amount or accumulation of superoxide" [DDB:pf]
+def: "Increase in amount or accumulation of superoxide." [DDB:pf]
 is_a: DDPHENO:0001005 ! aberrant cellular metabolic process
 
 [Term]
@@ -3101,7 +3943,7 @@ is_a: DDPHENO:0000151 ! aberrant F-actin organization
 id: DDPHENO:0001203
 name: aberrant response to nutrients
 def: "Deviation from the normal, usual, or expected events during the response to nutrients." [DDB:pf]
-is_a: DDPHENO:0001003 ! aberrant response to stimulus
+is_a: DDPHENO:0000040 ! aberrant response to chemical stimulus
 
 [Term]
 id: DDPHENO:0001204
@@ -3973,13 +4815,13 @@ is_a: DDPHENO:0001256 ! increased catalytic activity
 [Term]
 id: DDPHENO:0001335
 name: aberrant protein localization to plasma membrane
-def: "Deviation from the normal, usual, or expected events during protein localization from the cytoplasm to the plasma membrane in response to a stimulus." [DDB:pg]
+def: "Deviation from the normal, usual, or expected events during  localization of a protein from the cytoplasm to the plasma membrane." [DDB:pf]
 is_a: DDPHENO:0000471 ! aberrant protein localization
 
 [Term]
 id: DDPHENO:0001336
 name: aberrant protein localization to nucleus
-def: "Deviation from the normal, usual, or expected events during protein localization to the nucleus." [DDB:pg]
+def: "Deviation from the normal, usual, or expected events during localization of a protein to the nucleus." [DDB:pg]
 is_a: DDPHENO:0000471 ! aberrant protein localization
 
 [Term]
@@ -4310,7 +5152,7 @@ is_a: DDPHENO:0001396 ! increased protein localization to plasma membrane
 [Term]
 id: DDPHENO:0001389
 name: aberrant protein localization to cytoplasm
-def: "Deviation from the normal, usual, or expected events during protein localization of a protein to the cytoplasm." [DDB:pg]
+def: "Deviation from the normal, usual, or expected events during localization of a protein to the cytoplasm." [DDB:pg]
 is_a: DDPHENO:0000471 ! aberrant protein localization
 
 [Term]
@@ -4330,34 +5172,34 @@ is_a: DDPHENO:0001389 ! aberrant protein localization to cytoplasm
 [Term]
 id: DDPHENO:0001392
 name: abolished protein localization to cytoplasm
-def: "Complete inability for a protein to localize to the cytoplasm." [DDB:pf, DDB:pg]
+def: "Complete inability to localize a protein to the cytoplasm." [DDB:pf, DDB:pg]
 is_a: DDPHENO:0001389 ! aberrant protein localization to cytoplasm
 is_a: DDPHENO:0001393 ! abolished protein localization
 
 [Term]
 id: DDPHENO:0001393
 name: abolished protein localization
-def: "Complete inability for a protein to localize to a cellular compartment or structure." [DDB:pf, DDB:pg]
+def: "Complete inability to localize a protein to a cellular compartment or structure." [DDB:pf, DDB:pg]
 is_a: DDPHENO:0000471 ! aberrant protein localization
 
 [Term]
 id: DDPHENO:0001394
 name: abolished protein localization to plasma membrane
-def: "Complete inability for a protein to localize to the plasma membrane." [DDB:pf, DDB:pg]
+def: "Complete inability to localize a protein to the plasma membrane." [DDB:pf, DDB:pg]
 is_a: DDPHENO:0001335 ! aberrant protein localization to plasma membrane
 is_a: DDPHENO:0001393 ! abolished protein localization
 
 [Term]
 id: DDPHENO:0001395
 name: decreased protein localization to plasma membrane
-def: "Reduction in the ability for localization of a protein from the cytoplasm to the plasma membrane in response to a stimulus." [DDB:pg]
+def: "Reduction in the ability for localization of a protein from the cytoplasm to the plasma." [DDB:pf, DDB:pg]
 is_a: DDPHENO:0001335 ! aberrant protein localization to plasma membrane
 is_a: DDPHENO:0001338 ! decreased protein localization
 
 [Term]
 id: DDPHENO:0001396
 name: increased protein localization to plasma membrane
-def: "Increase in the ability for localization of a protein from the cytoplasm to the plasma membrane in response to a stimulus." [DDB:pg]
+def: "Increase in the ability for localization of a protein from the cytoplasm to the plasma membrane." [DDB:pf, DDB:pg]
 is_a: DDPHENO:0001335 ! aberrant protein localization to plasma membrane
 is_a: DDPHENO:0001337 ! increased protein localization
 
@@ -4378,22 +5220,22 @@ is_a: DDPHENO:0001245 ! aberrant cAMP wave formation
 [Term]
 id: DDPHENO:0001399
 name: abolished protein localization to microtubules
-def: "Complete inability for a protein to localize to microtubules." [DDB:pf]
+def: "Complete inability to localize a protein to the to microtubules." [DDB:pf]
 is_a: DDPHENO:0001393 ! abolished protein localization
 is_a: DDPHENO:0001514 ! aberrant protein localization to microtubules
 
 [Term]
 id: DDPHENO:0001400
 name: abolished protein localization to microtubule organizing center
-def: "Complete inability for a protein to localize to microtubule organizing center." [DDB:pf]
-synonym: "abolished localization of protein to MTOC" EXACT []
+def: "Complete inability to localize a protein to the microtubule organizing center." [DDB:pf]
+synonym: "abolished localization of a protein to the MTOC" EXACT []
 is_a: DDPHENO:0001393 ! abolished protein localization
 is_a: DDPHENO:0001513 ! aberrant protein localization to microtubule organizing center
 
 [Term]
 id: DDPHENO:0001401
 name: decreased protein localization to microtubule organizing center
-def: "Reduction in amount or accumulation of a protein in the microtubule organizing center." [DDB:pf]
+def: "Reduction in amount or accumulation of a protein to the microtubule organizing center." [DDB:pf]
 synonym: "decreased localization of protein to the MTOC" EXACT []
 is_a: DDPHENO:0001338 ! decreased protein localization
 is_a: DDPHENO:0001513 ! aberrant protein localization to microtubule organizing center
@@ -4415,7 +5257,7 @@ is_a: DDPHENO:0001514 ! aberrant protein localization to microtubules
 [Term]
 id: DDPHENO:0001404
 name: increased protein localization to microtubule organizing center
-def: "Increase in amount or accumulation of a protein in the microtubule organizing center." [DDB:pf]
+def: "Increase in amount or accumulation of a protein to the microtubule organizing center." [DDB:pf]
 synonym: "increased localization of protein to the MTOC" EXACT []
 is_a: DDPHENO:0001337 ! increased protein localization
 is_a: DDPHENO:0001513 ! aberrant protein localization to microtubule organizing center
@@ -4423,7 +5265,7 @@ is_a: DDPHENO:0001513 ! aberrant protein localization to microtubule organizing 
 [Term]
 id: DDPHENO:0001405
 name: abolished protein localization to coated pits
-def: "Complete inability for a protein to localize to coated pits." [DDB:pf]
+def: "Complete inability to localize a protein to coated pits." [DDB:pf]
 synonym: "abolished localization of protein to clathrin-coated pits" EXACT []
 is_a: DDPHENO:0001393 ! abolished protein localization
 is_a: DDPHENO:0001408 ! aberrant protein localization to coated pits
@@ -4447,7 +5289,7 @@ is_a: DDPHENO:0001408 ! aberrant protein localization to coated pits
 [Term]
 id: DDPHENO:0001408
 name: aberrant protein localization to coated pits
-def: "Deviation from the normal, usual, or expected events during protein localization of a protein to coated pits." [DDB:pf]
+def: "Deviation from the normal, usual, or expected events during localization of a protein to coated pits." [DDB:pf]
 synonym: "aberrant localization of a protein to clathrin-coated pits" RELATED []
 is_a: DDPHENO:0000471 ! aberrant protein localization
 
@@ -4473,7 +5315,7 @@ is_a: DDPHENO:0001226 ! aberrant cellular response to extracellular stimulus
 [Term]
 id: DDPHENO:0001412
 name: aberrant protein localization to pseudopodium
-def: "Deviation from the normal, usual, or expected events during protein localization to pseudopodia." [DDB:pf]
+def: "Deviation from the normal, usual, or expected events during localization of a protein to pseudopodia." [DDB:pf]
 is_a: DDPHENO:0000471 ! aberrant protein localization
 
 [Term]
@@ -4486,7 +5328,7 @@ is_a: DDPHENO:0001412 ! aberrant protein localization to pseudopodium
 [Term]
 id: DDPHENO:0001414
 name: increased protein localization to pseudopodium
-def: "Increase in amount or accumulation of a protein in the pseudopodium." [DDB:pf]
+def: "Increase in amount or accumulation of a protein in pseudopodia." [DDB:pf]
 is_a: DDPHENO:0001337 ! increased protein localization
 is_a: DDPHENO:0001412 ! aberrant protein localization to pseudopodium
 
@@ -4494,7 +5336,8 @@ is_a: DDPHENO:0001412 ! aberrant protein localization to pseudopodium
 id: DDPHENO:0001415
 name: increased fruiting body size
 def: "Increase in relative or proportionate dimensions of the fruiting body." [DDB:pf]
-synonym: "large fruiting body" RELATED []
+synonym: "increased sorocarp size" EXACT []
+synonym: "large fruiting body" EXACT []
 is_a: DDPHENO:0000009 ! aberrant fruiting body morphology
 
 [Term]
@@ -4568,19 +5411,20 @@ is_a: DDPHENO:0001425 ! aberrant centrosome organization
 [Term]
 id: DDPHENO:0001427
 name: aberrant protein localization to nuclear envelope
-def: "Deviation from the normal, usual, or expected events during protein localization to the nuclear envelope." [DDB:pf]
+def: "Deviation from the normal, usual, or expected events during localization of a protein to the nuclear envelope." [DDB:pf]
 is_a: DDPHENO:0000471 ! aberrant protein localization
 
 [Term]
 id: DDPHENO:0001428
 name: abolished protein localization to nuclear envelope
-def: "Complete inability for a protein to localize to the nuclear envelope." [DDB:pf]
+def: "Complete inability to localize a protein to the nuclear envelope." [DDB:pf]
 is_a: DDPHENO:0001393 ! abolished protein localization
 is_a: DDPHENO:0001427 ! aberrant protein localization to nuclear envelope
 
 [Term]
 id: DDPHENO:0001429
 name: decreased protein localization to nuclear envelope
+def: "Reduction in amount or accumulation of a protein at the nuclear envelope." [DDB:pf]
 is_a: DDPHENO:0001338 ! decreased protein localization
 is_a: DDPHENO:0001427 ! aberrant protein localization to nuclear envelope
 
@@ -5096,7 +5940,7 @@ creation_date: 2012-05-30T05:59:28Z
 [Term]
 id: DDPHENO:0001497
 name: abolished protein localization to cell surface
-def: "Complete inability for a protein to localize to the cell surface." [DDB:pf]
+def: "Complete inability to localize a protein to the cell surface." [DDB:pf]
 is_a: DDPHENO:0001393 ! abolished protein localization
 is_a: DDPHENO:0001511 ! aberrant protein localization to cell surface
 created_by: pfey
@@ -5181,7 +6025,7 @@ creation_date: 2012-11-01T15:39:11Z
 [Term]
 id: DDPHENO:0001507
 name: aberrant protein localization to cell cortex
-def: "Deviation from the normal, usual, or expected events during protein localization of a protein to cell cortex." [DDB:pf]
+def: "Deviation from the normal, usual, or expected events during localization of a protein to the cell cortex." [DDB:pf]
 is_a: DDPHENO:0000471 ! aberrant protein localization
 created_by: pfey
 creation_date: 2012-11-21T14:21:05Z
@@ -5189,7 +6033,7 @@ creation_date: 2012-11-21T14:21:05Z
 [Term]
 id: DDPHENO:0001508
 name: abolished protein localization to cell cortex
-def: "Complete inability for a protein to localize to cell cortex." [DDB:pf]
+def: "Complete inability to localize a protein to the cell cortex." [DDB:pf]
 is_a: DDPHENO:0001393 ! abolished protein localization
 is_a: DDPHENO:0001507 ! aberrant protein localization to cell cortex
 created_by: pfey
@@ -5198,7 +6042,7 @@ creation_date: 2012-11-21T14:57:02Z
 [Term]
 id: DDPHENO:0001509
 name: decreased protein localization to cell cortex
-def: "Reduction in amount or accumulation of a protein to cell cortex." [DDB:pf]
+def: "Reduction in amount or accumulation of a protein to the cell cortex." [DDB:pf]
 is_a: DDPHENO:0001338 ! decreased protein localization
 is_a: DDPHENO:0001507 ! aberrant protein localization to cell cortex
 created_by: pfey
@@ -5207,7 +6051,7 @@ creation_date: 2012-11-21T14:59:13Z
 [Term]
 id: DDPHENO:0001510
 name: increased protein localization to cell cortex
-def: "Increase in amount or accumulation of a protein to cell cortex." [DDB:pf]
+def: "Increase in amount or accumulation of a protein to the cell cortex." [DDB:pf]
 is_a: DDPHENO:0001337 ! increased protein localization
 is_a: DDPHENO:0001507 ! aberrant protein localization to cell cortex
 created_by: pfey
@@ -5216,7 +6060,7 @@ creation_date: 2012-11-21T15:00:30Z
 [Term]
 id: DDPHENO:0001511
 name: aberrant protein localization to cell surface
-def: "Deviation from the normal, usual, or expected events during protein localization of a protein to cell surface." [DDB:pf]
+def: "Deviation from the normal, usual, or expected events during localization of a protein to the cell surface." [DDB:pf]
 is_a: DDPHENO:0000471 ! aberrant protein localization
 created_by: pfey
 creation_date: 2012-11-21T16:19:40Z
@@ -5224,7 +6068,7 @@ creation_date: 2012-11-21T16:19:40Z
 [Term]
 id: DDPHENO:0001512
 name: abolished protein localization to pseudopodium
-def: "Complete inability for a protein to localize to pseudopodia." [DDB:pf]
+def: "Complete inability to localize a protein pseudopodia." [DDB:pf]
 is_a: DDPHENO:0001393 ! abolished protein localization
 is_a: DDPHENO:0001412 ! aberrant protein localization to pseudopodium
 created_by: pfey
@@ -5233,7 +6077,8 @@ creation_date: 2012-11-21T16:33:42Z
 [Term]
 id: DDPHENO:0001513
 name: aberrant protein localization to microtubule organizing center
-def: "Deviation from the normal, usual, or expected events during protein localization to the microtubule organizing center." [DDB:pf]
+def: "Deviation from the normal, usual, or expected events during localization of a protein to the microtubule organizing center." [DDB:pf]
+synonym: "aberrant localization of a protein to the MTOC" EXACT []
 is_a: DDPHENO:0000471 ! aberrant protein localization
 created_by: pfey
 creation_date: 2012-11-21T16:41:09Z
@@ -5241,7 +6086,7 @@ creation_date: 2012-11-21T16:41:09Z
 [Term]
 id: DDPHENO:0001514
 name: aberrant protein localization to microtubules
-def: "Deviation from the normal, usual, or expected events during protein localization to microtubules." [DDB:pf]
+def: "Deviation from the normal, usual, or expected events during localization of a protein to the microtubules." [DDB:pf]
 is_a: DDPHENO:0000471 ! aberrant protein localization
 created_by: pfey
 creation_date: 2012-11-21T16:42:51Z

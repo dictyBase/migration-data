@@ -65,3 +65,4 @@ def: "Conditions the obtained plasmid is stored in the stock center." [DDB:pf]
 is_a: PLASMIDINVENT:0000001 ! plasmid inventory
 created_by: pfey
 creation_date: 2013-03-29T17:41:48Z
+

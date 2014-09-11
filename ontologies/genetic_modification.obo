@@ -1,0 +1,73 @@
+format-version: 1.0
+date: 15:02:2007 15:21
+saved-by: pfey
+auto-generated-by: OBO-Edit 1.002
+default-namespace: genetic modification
+
+[Term]
+id: DDGENMOD:0000001
+name: genetic modification
+
+[Term]
+id: DDGENMOD:0000002
+name: endogenous mutation
+def: "Any mutation in the genomic sequence of a gene." [DDB:PF]
+is_a: DDGENMOD:0000001 ! genetic modification
+
+[Term]
+id: DDGENMOD:0000003
+name: endogenous deletion
+def: "The removal of one or more nucleotides in a gene sequence." [DDB:PF]
+is_a: DDGENMOD:0000002 ! endogenous mutation
+
+[Term]
+id: DDGENMOD:0000004
+name: endogenous insertion
+def: "The addition of one or more nucleotides in the gene sequence." [DDB:PF]
+is_a: DDGENMOD:0000002 ! endogenous mutation
+
+[Term]
+id: DDGENMOD:0000005
+name: exogenous deletion with insertion
+is_a: DDGENMOD:0000008 ! exogenous insertion
+is_a: DDGENMOD:0000010 ! exogenous deletion
+
+[Term]
+id: DDGENMOD:0000006
+name: endogenous substitution
+def: "One or more mutations in the gene sequence resulting in the replacement of an equivalent number of residues in the gene product sequence. Substitution mutations can result in missense mutations, nonsense mutations or silent mutations." [DDB:PF]
+is_a: DDGENMOD:0000002 ! endogenous mutation
+
+[Term]
+id: DDGENMOD:0000007
+name: exogenous mutation
+def: "Any gene expressed from a plasmid or under the control of a promoter other than its own promoter." [DDB:PF]
+related_synonym: "transgene" []
+is_a: DDGENMOD:0000001 ! genetic modification
+
+[Term]
+id: DDGENMOD:0000008
+name: exogenous insertion
+def: "Any fusion of two or more genes, or parts of genes, expressed from a plasmid or under the control of a promoter other than any of the participating genes' promoters." [DDB:PF]
+narrow_synonym: "chimera" []
+is_a: DDGENMOD:0000007 ! exogenous mutation
+
+[Term]
+id: DDGENMOD:0000009
+name: exogenous substitution
+def: "Any gene expressed from a plasmid or under the control of a promoter other than its own promoter with a mutation in its sequence resulting in the replacement of an equivalent number of residues in the gene product sequence." [DDB:PF]
+is_a: DDGENMOD:0000007 ! exogenous mutation
+
+[Term]
+id: DDGENMOD:0000010
+name: exogenous deletion
+def: "Any gene expressed from a plasmid or under the control of a promoter other than its own promoter with the removal of one or more nucleotides in its gene sequence." [DDB:PF]
+is_a: DDGENMOD:0000007 ! exogenous mutation
+
+[Term]
+id: DDGENMOD:0000011
+name: endogenous deletion with insertion
+def: "The removal of one or more nucleotides in a gene sequence with the simultaneous addition of one or more nucleotides of different origin in the gene sequence." [DDB:PF]
+is_a: DDGENMOD:0000003 ! endogenous deletion
+is_a: DDGENMOD:0000004 ! endogenous insertion
+

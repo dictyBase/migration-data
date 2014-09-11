@@ -1,7 +1,7 @@
-format-version: 1.0
-date: 06:09:2011 17:02
+format-version: 1.2
+date: 26:03:2014 11:10
 saved-by: pfey
-auto-generated-by: OBO-Edit 1.101
+auto-generated-by: OBO-Edit 2.2
 default-namespace: strain_characteristics
 
 [Term]
@@ -21,25 +21,25 @@ is_a: DDSTRAINCHAR:0000001 ! strain characteristic
 [Term]
 id: DDSTRAINCHAR:0000004
 name: blasticidin resistant
-exact_synonym: "bsR" []
+synonym: "bsR" EXACT []
 is_a: DDSTRAINCHAR:0000008 ! drug resistant
 
 [Term]
 id: DDSTRAINCHAR:0000005
 name: bleomycin resistant
-exact_synonym: "bleR" []
+synonym: "bleR" EXACT []
 is_a: DDSTRAINCHAR:0000008 ! drug resistant
 
 [Term]
 id: DDSTRAINCHAR:0000006
 name: hygromycin resistant
-exact_synonym: "hygR" []
+synonym: "hygR" EXACT []
 is_a: DDSTRAINCHAR:0000008 ! drug resistant
 
 [Term]
 id: DDSTRAINCHAR:0000007
 name: neomycin resistant
-exact_synonym: "neoR" []
+synonym: "neoR" EXACT []
 is_a: DDSTRAINCHAR:0000008 ! drug resistant
 
 [Term]
@@ -55,8 +55,8 @@ is_a: DDSTRAINCHAR:0000038 ! mutant
 [Term]
 id: DDSTRAINCHAR:0000010
 name: dominant negative mutant
-related_synonym: "dominant-negative mutant" []
-related_synonym: "dominant/negative mutant" []
+synonym: "dominant-negative mutant" RELATED []
+synonym: "dominant/negative mutant" RELATED []
 is_a: DDSTRAINCHAR:0000038 ! mutant
 
 [Term]
@@ -253,4 +253,11 @@ is_a: DDSTRAINCHAR:0000046 ! diploid
 id: DDSTRAINCHAR:0000049
 name: tetracycline resistant
 is_a: DDSTRAINCHAR:0000008 ! drug resistant
+
+[Term]
+id: DDSTRAINCHAR:0000050
+name: bacterial food source
+is_a: DDSTRAINCHAR:0000001 ! strain characteristic
+created_by: pfey
+creation_date: 2014-03-26T11:07:42Z
 

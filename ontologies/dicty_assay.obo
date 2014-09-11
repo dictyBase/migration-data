@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 28:01:2013 18:03
+date: 28:01:2014 16:06
 saved-by: pfey
 auto-generated-by: OBO-Edit 2.2
 default-namespace: Dictyostelium Assay
@@ -296,4 +296,18 @@ name: uptake of TRITC-dextran
 is_a: DDASSAY:0000001 ! Dictyostelium Assay
 created_by: pfey
 creation_date: 2013-01-28T17:53:39Z
+
+[Term]
+id: DDASSAY:0000058
+name: development of chimeras
+is_a: DDASSAY:0000001 ! Dictyostelium Assay
+created_by: pfey
+creation_date: 2014-01-22T15:15:41Z
+
+[Term]
+id: DDASSAY:0000059
+name: differential interference contrast microscopy (DIC)
+is_a: DDASSAY:0000001 ! Dictyostelium Assay
+created_by: pfey
+creation_date: 2014-01-28T16:04:02Z
 
