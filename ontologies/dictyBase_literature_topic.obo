@@ -1,0 +1,466 @@
+format-version: 1.2
+date: 25:09:2014 16:16
+saved-by: pfey
+auto-generated-by: OBO-Edit 2.2
+default-namespace: dictyBase_literature_topic
+
+[Term]
+id: DDLIT:0000000
+name: Literature topic
+def: "Root of literature topic." [DDLIT:12345]
+comment: Originated from SGD literature topic.
+creation_date: 2010-04-12T02:57:26Z
+
+[Term]
+id: DDLIT:0000001
+name: Related Genes/Proteins
+def: "Predictions of functions based on comparative studies using such measures as orthology." [DDB:pf]
+is_a: DDLIT:0000000 ! Literature topic
+created_by: sid
+creation_date: 2010-04-12T03:19:15Z
+
+[Term]
+id: DDLIT:0000002
+name: Disease Related
+def: "Homology between the Dictyostelium gene and a gene that is disease-related." [DDB:pf]
+is_a: DDLIT:0000001 ! Related Genes/Proteins
+created_by: sid
+creation_date: 2010-04-12T03:20:33Z
+
+[Term]
+id: DDLIT:0000003
+name: Non-mammalian Gene Related
+def: "Sequence and/or functional homologs of non-mammalian genes." [DDB:pf]
+is_a: DDLIT:0000001 ! Related Genes/Proteins
+created_by: sid
+creation_date: 2010-04-12T03:20:33Z
+
+[Term]
+id: DDLIT:0000004
+name: Mammalian Gene Related
+def: "Sequence and/or functional homologs of mammalian genes." [DDB:pf]
+is_a: DDLIT:0000001 ! Related Genes/Proteins
+created_by: sid
+creation_date: 2010-04-12T03:21:08Z
+
+[Term]
+id: DDLIT:0000005
+name: Life Cycle
+def: "Information describing all processes involved during the Dictyostelium life cycle." [DDB:pf]
+is_a: DDLIT:0000000 ! Literature topic
+created_by: sid
+creation_date: 2010-04-12T03:22:53Z
+
+[Term]
+id: DDLIT:0000006
+name: Additional Information
+is_a: DDLIT:0000000 ! Literature topic
+created_by: sid
+creation_date: 2010-04-12T03:22:53Z
+
+[Term]
+id: DDLIT:0000007
+name: Nucleic Acid Information
+def: "Information describing the status, actions and processes involving nucleic acids." [DDB:pf]
+is_a: DDLIT:0000000 ! Literature topic
+created_by: sid
+creation_date: 2010-04-12T03:22:53Z
+
+[Term]
+id: DDLIT:0000008
+name: Genetics/Cell Biology
+def: "Information describing the processes involved in cell biology and genetics of Dictyostelium." [DDB:pf]
+is_a: DDLIT:0000000 ! Literature topic
+created_by: sid
+creation_date: 2010-04-12T03:22:53Z
+
+[Term]
+id: DDLIT:0000009
+name: Curated Literature
+def: "References where literature topics have been added to all attached genes." [DDB:pf]
+is_a: DDLIT:0000000 ! Literature topic
+created_by: sid
+creation_date: 2010-04-12T03:22:53Z
+
+[Term]
+id: DDLIT:0000010
+name: Protein Information
+def: "Information describing the status, actions and processes involving proteins." [DDB:pf]
+is_a: DDLIT:0000000 ! Literature topic
+created_by: sid
+creation_date: 2010-04-12T03:22:53Z
+
+[Term]
+id: DDLIT:0000011
+name: Research Aids
+def: "Materials, analyses and nomenclature used to describe the gene or its gene product." [DDB:pf]
+is_a: DDLIT:0000000 ! Literature topic
+created_by: sid
+creation_date: 2010-04-12T03:22:53Z
+
+[Term]
+id: DDLIT:0000012
+name: Development/Morphogenesis
+def: "Studies of the gene product in development and morphogenesis, including all multicellular stages." [DDB:pf]
+is_a: DDLIT:0000005 ! Life Cycle
+created_by: sid
+creation_date: 2010-04-12T03:26:06Z
+
+[Term]
+id: DDLIT:0000013
+name: Growth
+def: "Role and effect of the gene product on growth rates; includes studies of the gene product during growth as a life cycle phase." [DDB:pf]
+is_a: DDLIT:0000005 ! Life Cycle
+created_by: sid
+creation_date: 2010-04-12T03:26:06Z
+
+[Term]
+id: DDLIT:0000014
+name: Cell Type Localization
+def: "Expression of the gene product in the multicellular organism as determined by gene-fusion or in situ hybridization experiments." [DDB:pf]
+is_a: DDLIT:0000005 ! Life Cycle
+created_by: sid
+creation_date: 2010-04-12T03:26:06Z
+
+[Term]
+id: DDLIT:0000015
+name: Sexual Cycle
+def: "Role of the gene product in the sexual cycle, including mating types and meiosis." [DDB:pf]
+is_a: DDLIT:0000005 ! Life Cycle
+created_by: sid
+creation_date: 2010-04-12T03:26:06Z
+
+[Term]
+id: DDLIT:0000016
+name: Sporulation/Germination
+def: "Role of the gene product in its ability to form spores and spore viability studies." [DDB:pf]
+is_a: DDLIT:0000005 ! Life Cycle
+created_by: sid
+creation_date: 2010-04-12T03:26:06Z
+
+[Term]
+id: DDLIT:0000017
+name: Not yet curated
+is_obsolete: true
+created_by: sid
+creation_date: 2010-04-12T03:26:42Z
+
+[Term]
+id: DDLIT:0000018
+name: Transcriptional Regulation
+def: "How the expression of the gene is controlled at the level of transcription, for example, what RNA polymerase is used, what transcription factors are needed, what other factors (such as metabolic conditions) affect transcription." [DDB:pf]
+is_a: DDLIT:0000007 ! Nucleic Acid Information
+created_by: sid
+creation_date: 2010-04-12T03:27:51Z
+
+[Term]
+id: DDLIT:0000019
+name: DNA/RNA Sequence Features
+def: "Overall sequence features for DNA  (promoters, exons, introns, etc.) and RNA  (splice sites, poly-A sites, etc.)." [DDB:pf]
+is_a: DDLIT:0000007 ! Nucleic Acid Information
+created_by: sid
+creation_date: 2010-04-12T03:27:51Z
+
+[Term]
+id: DDLIT:0000020
+name: Mapping
+def: "Physical or genetic mapping results." [DDB:pf]
+is_a: DDLIT:0000007 ! Nucleic Acid Information
+created_by: sid
+creation_date: 2010-04-12T03:27:51Z
+
+[Term]
+id: DDLIT:0000021
+name: RNA Levels and Processing
+def: "The RNA prior to translation (levels of RNA in the cell (expression), stability, structure, splicing, etc.)." [DDB:pf]
+is_a: DDLIT:0000007 ! Nucleic Acid Information
+created_by: sid
+creation_date: 2010-04-12T03:27:51Z
+
+[Term]
+id: DDLIT:0000022
+name: Cellular Location
+def: "Where in the cell the protein or gene is located; information on the regulation and transport of the gene/protein in its compartmentalization is listed under this topic." [DDB:pf]
+is_a: DDLIT:0000008 ! Genetics/Cell Biology
+created_by: sid
+creation_date: 2010-04-12T03:29:25Z
+
+[Term]
+id: DDLIT:0000023
+name: Adhesion
+def: "Role of the gene product in cell-substrate or cell-cell adhesion." [DDB:pf]
+is_a: DDLIT:0000008 ! Genetics/Cell Biology
+created_by: sid
+creation_date: 2010-04-12T03:29:25Z
+
+[Term]
+id: DDLIT:0000024
+name: Chemotaxis/Motility
+def: "Involvement of the gene product in cell movement in general, and in response to a chemical attractant." [DDB:pf]
+is_a: DDLIT:0000008 ! Genetics/Cell Biology
+created_by: sid
+creation_date: 2010-04-12T03:29:25Z
+
+[Term]
+id: DDLIT:0000025
+name: Cytoskeleton
+def: "Evidence for the protein being part of or having an effect on the cytoskeleton." [DDB:pf]
+is_a: DDLIT:0000008 ! Genetics/Cell Biology
+created_by: sid
+creation_date: 2010-04-12T03:29:25Z
+
+[Term]
+id: DDLIT:0000026
+name: Function/Process
+def: "Role the protein or RNA plays,  i.e. what type of enzyme the protein is, or if it functions as part of a large complex or a multi-subunit enzyme." [DDB:pf]
+is_a: DDLIT:0000008 ! Genetics/Cell Biology
+created_by: sid
+creation_date: 2010-04-12T03:29:25Z
+
+[Term]
+id: DDLIT:0000027
+name: Transport/Endocytosis/Exocytosis
+def: "Role of the gene product in the process of transporting substances into, out of, or within the cell, including pinocytosis, 'macro-pinocytosis', phagocytosis, exocytosis and intracellular transport." [DDB:pf]
+is_a: DDLIT:0000008 ! Genetics/Cell Biology
+created_by: sid
+creation_date: 2010-04-12T03:29:25Z
+
+[Term]
+id: DDLIT:0000028
+name: Signal Transduction
+def: "Description of the gene product being part of intra - or inter-cell signaling events." [DDB:pf]
+is_a: DDLIT:0000008 ! Genetics/Cell Biology
+created_by: sid
+creation_date: 2010-04-12T03:29:25Z
+
+[Term]
+id: DDLIT:0000029
+name: Mutants/Phenotypes
+def: "Mutations of the gene, including substitutions, replacements, gene fusions or deletions, and resulting in phenotypes." [DDB:pf]
+is_a: DDLIT:0000008 ! Genetics/Cell Biology
+created_by: sid
+creation_date: 2010-04-12T03:29:25Z
+
+[Term]
+id: DDLIT:0000030
+name: Reviews
+def: "Literature review that refers to the gene." [DDB:pf]
+is_a: DDLIT:0000009 ! Curated Literature
+created_by: sid
+creation_date: 2010-04-12T03:29:43Z
+
+[Term]
+id: DDLIT:0000031
+name: Social Evolution
+def: "The role of the gene product in complex social behavior, including cooperation, self- and kin recognition, altruism, and cheating." [DDB:pf]
+is_a: DDLIT:0000005 ! Life Cycle
+created_by: pfey
+creation_date: 2014-09-23T14:56:13Z
+
+[Term]
+id: DDLIT:0000032
+name: Protein Physical Properties
+def: "The molecular weight or amino acid composition of the real or hypothetical protein product." [DDB:pf]
+is_a: DDLIT:0000010 ! Protein Information
+created_by: sid
+creation_date: 2010-04-12T03:31:03Z
+
+[Term]
+id: DDLIT:0000033
+name: Protein-Protein Interactions
+def: "Physical interactions that have been demonstrated between proteins by methods such as two-hybrid analysis, cross-linking studies, co-immunoprecipitations, etc." [DDB:pf]
+is_a: DDLIT:0000010 ! Protein Information
+created_by: sid
+creation_date: 2010-04-12T03:31:03Z
+
+[Term]
+id: DDLIT:0000034
+name: Protein Functional Domain
+def: "Features of the hypothetical or real primary amino acid sequence of the gene product (functional domains, hydrophilic analysis, ion-binding sites, active sites, homology regions, etc)." [DDB:pf]
+is_a: DDLIT:0000010 ! Protein Information
+created_by: sid
+creation_date: 2010-04-12T03:31:03Z
+
+[Term]
+id: DDLIT:0000035
+name: Protein/Nucleic Acid Structure
+def: "The known structure of the gene product, including known structural location of specific residues; includes predictions of protein structure." [DDB:pf]
+is_a: DDLIT:0000010 ! Protein Information
+created_by: sid
+creation_date: 2010-04-12T03:31:03Z
+
+[Term]
+id: DDLIT:0000036
+name: Synonym
+def: "Different names that are used for the gene or its gene product." [DDB:pf]
+is_a: DDLIT:0000011 ! Research Aids
+created_by: sid
+creation_date: 2010-04-12T03:32:10Z
+
+[Term]
+id: DDLIT:0000037
+name: Genome-wide Analysis
+def: "References dealing with systematic analysis of large numbers of genes, e.g. micro array  and mass spec studies, comparing expression of all the genes in a genome in two different conditions, but not systematic sequencing papers." [DDB:pf]
+is_a: DDLIT:0000011 ! Research Aids
+created_by: sid
+creation_date: 2010-04-12T03:32:10Z
+
+[Term]
+id: DDLIT:0000038
+name: Antibodies
+def: "New antibodies have been created and published in this paper." [DDB:pf]
+is_a: DDLIT:0000011 ! Research Aids
+created_by: sid
+creation_date: 2010-04-12T03:32:10Z
+
+[Term]
+id: DDLIT:0000039
+name: Techniques and Reagents
+def: "Novel techniques used in studying the gene as well as any reagents other than constructs that might help in experimentation, including antibodies, chemical inhibitors, and purified protein." [DDB:pf]
+is_a: DDLIT:0000011 ! Research Aids
+created_by: sid
+creation_date: 2010-04-12T03:32:10Z
+
+[Term]
+id: DDLIT:0000040
+name: Other Features
+def: "Items that appeared important to the curator but did not fit underneath a standard topic." [DDB:pf]
+is_a: DDLIT:0000011 ! Research Aids
+created_by: sid
+creation_date: 2010-04-12T03:32:10Z
+
+[Term]
+id: DDLIT:0000041
+name: Strains/Constructs
+def: "Mutant strains and constructs created for experimentation on the gene of interest." [DDB:pf]
+is_a: DDLIT:0000011 ! Research Aids
+created_by: sid
+creation_date: 2010-04-12T03:32:10Z
+
+[Term]
+id: DDLIT:0000042
+name: Mitosis
+def: "Describes the gene product's involvement in cytokinesis or karyokinesis." [DDB:pf]
+is_a: DDLIT:0000008 ! Genetics/Cell Biology
+created_by: sid
+creation_date: 2010-12-02T02:53:34Z
+
+[Term]
+id: DDLIT:0000043
+name: Phylogenetic Analysis
+def: "Phylogenetic analysis has been performed for this gene in this study." [DDB:pf]
+is_a: DDLIT:0000001 ! Related Genes/Proteins
+created_by: sid
+creation_date: 2010-12-02T02:55:34Z
+
+[Term]
+id: DDLIT:0000044
+name: Cell Cycle
+def: "Cell cycle-related changes in the expression or activity of the gene product." [DDB:pf]
+is_a: DDLIT:0000008 ! Genetics/Cell Biology
+created_by: sid
+creation_date: 2010-12-02T02:57:10Z
+
+[Term]
+id: DDLIT:0000045
+name: Post-Translational Modifications
+def: "How the protein is modified following translation, including regulatory and non-regulatory modifications, such as phosphorylation, attachment of sugars, etc." [DDB:pf]
+is_a: DDLIT:0000010 ! Protein Information
+created_by: sid
+creation_date: 2010-12-02T02:57:57Z
+
+[Term]
+id: DDLIT:0000046
+name: Protein-Nucleic Acid Interactions
+def: "Any association of  DNA or RNA molecules and genes with proteins; this includes association via other binding partners or  direct binding as well as information on binding sites." [DDB:pf]
+is_a: DDLIT:0000010 ! Protein Information
+created_by: sid
+creation_date: 2010-12-02T02:58:38Z
+
+[Term]
+id: DDLIT:0000047
+name: Translational Regulation
+def: "Refers to the control of the levels of protein (synthesized from its mRNA), where the mechanism is unknown." [DDB:pf]
+is_a: DDLIT:0000007 ! Nucleic Acid Information
+created_by: sid
+creation_date: 2010-12-02T02:59:21Z
+
+[Term]
+id: DDLIT:0000048
+name: Substrates/Ligands/Cofactors
+def: "The substrates or ligands of the protein, including cofactors that regulate the protein's activity." [DDB:pf]
+is_a: DDLIT:0000010 ! Protein Information
+created_by: sid
+creation_date: 2010-12-02T02:59:54Z
+
+[Term]
+id: DDLIT:0000049
+name: Phototaxis/Thermotaxis
+def: "Phototaxis or thermotaxis, usually in the slug, has been investigated in this study." [DDB:pf]
+is_a: DDLIT:0000008 ! Genetics/Cell Biology
+created_by: sid
+creation_date: 2010-12-02T03:01:21Z
+
+[Term]
+id: DDLIT:0000050
+name: Regulated By
+def: "The regulation of the gene product regulation by another protein, metabolic conditions, chemical inhibitors, or other factors; also includes auto-regulatory functions." [DDB:pf]
+is_a: DDLIT:0000010 ! Protein Information
+created_by: sid
+creation_date: 2010-12-02T03:03:20Z
+
+[Term]
+id: DDLIT:0000051
+name: Dictyostelium Genes/Proteins
+is_a: DDLIT:0000000 ! Literature topic
+created_by: sid
+creation_date: 2010-12-02T03:19:05Z
+
+[Term]
+id: DDLIT:0000052
+name: Genetic Interactions
+def: "Interactions between loci identified by genetic means, including suppression, complementation, synthetic lethality, etc." [DDB:pf]
+is_a: DDLIT:0000008 ! Genetics/Cell Biology
+created_by: sid
+creation_date: 2010-12-02T04:09:04Z
+
+[Term]
+id: DDLIT:0000053
+name: Regulatory Role
+def: "The role that the gene or gene product plays in regulating the activity of other genes or proteins such as by acting as a transcription factor or regulatory kinase." [DDB:pf]
+is_a: DDLIT:0000010 ! Protein Information
+created_by: sid
+creation_date: 2010-12-02T04:09:57Z
+
+[Term]
+id: DDLIT:0000054
+name: Protein Levels/Expression
+def: "The post-translational protein level in a cell or compartment (as measured by e.g. Western blot)." [DDB:rd]
+is_a: DDLIT:0000010 ! Protein Information
+created_by: pfey
+creation_date: 2014-09-24T15:09:29Z
+
+[Term]
+id: DDLIT:0000055
+name: Computation/Modelling
+def: "References which report algorithmic or statistical models to investigate certain aspects of cellular processes or behavior, but which do not perform classical experimental work." [DDB:pf]
+is_a: DDLIT:0000011 ! Research Aids
+created_by: pfey
+creation_date: 2014-09-24T15:15:17Z
+
+[Term]
+id: DDLIT:0000056
+name: Host/Pathogen Interactions
+def: "The interactions between a host and a pathogen, often resulting in disease; usually, Dictyostelium is used as an experimental host to study such interactions." [DDB:pf]
+is_a: DDLIT:0000008 ! Genetics/Cell Biology
+created_by: pfey
+creation_date: 2014-09-24T15:19:50Z
+
+[Term]
+id: DDLIT:0000057
+name: Transposable Elements
+def: "References reporting studies on or with transposons or retrotransposons, their functions and processing." [DDB:pf]
+is_a: DDLIT:0000007 ! Nucleic Acid Information
+created_by: pfey
+creation_date: 2014-09-24T15:23:39Z
+
