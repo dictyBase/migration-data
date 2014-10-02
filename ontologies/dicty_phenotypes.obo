@@ -1,9 +1,8 @@
 format-version: 1.2
-date: 27:08:2014 11:21
+date: 02:10:2014 16:48
 saved-by: pfey
 auto-generated-by: OBO-Edit 2.2
 default-namespace: Dicty Phenotypes
-remark: cvs version: $Revision: 1.225 $
 
 [Term]
 id: DDPHENO:0000001
@@ -980,11 +979,30 @@ created_by: pfey
 creation_date: 2014-08-27T11:11:10Z
 
 [Term]
+id: DDPHENO:0000120
+name: aberrant cell-cell recognition
+def: "Deviation from the normal, usual, or expected events during cell-cell recognition." [DDB:pf]
+is_a: DDPHENO:0001008 ! aberrant cellular process
+created_by: pfey
+creation_date: 2014-10-02T14:41:25Z
+
+[Term]
 id: DDPHENO:0000121
 name: decreased intracellular glucose level
 def: "Reduction in extent, amount or accumulation of cytosolic glucose." [DDB:pg]
 synonym: "decreased cytosolic glucose level" EXACT []
 is_a: DDPHENO:0001375 ! aberrant cellular homeostasis
+
+[Term]
+id: DDPHENO:0000122
+name: aberrant cell-cell self recognition
+def: "Deviation from the normal, usual, or expected events during cell-cell self recognition." [DDB:pf]
+synonym: "aberrant kin discrimination" RELATED []
+synonym: "aberrant kin recognition" BROAD []
+synonym: "aberrant self recognition" BROAD []
+is_a: DDPHENO:0000120 ! aberrant cell-cell recognition
+created_by: pfey
+creation_date: 2014-10-02T14:42:58Z
 
 [Term]
 id: DDPHENO:0000123
@@ -1001,10 +1019,37 @@ def: "Increase in extent, amount, or degree of cAMP pulse in response to cAMP. "
 is_a: DDPHENO:0001038 ! aberrant cAMP signaling during aggregation
 
 [Term]
+id: DDPHENO:0000125
+name: abolished cell-cell self recognition
+synonym: "abolished kin discrimination" RELATED []
+synonym: "abolished kin recognition" BROAD []
+synonym: "abolished self recognition" BROAD []
+is_a: DDPHENO:0000122 ! aberrant cell-cell self recognition
+created_by: pfey
+creation_date: 2014-10-02T14:52:26Z
+
+[Term]
 id: DDPHENO:0000126
 name: increased cAMP-induced cGMP pulse
 def: "Increase in extent, amount, or degree of cGMP pulse in response to cAMP. " [DDB:pg]
 is_a: DDPHENO:0001038 ! aberrant cAMP signaling during aggregation
+
+[Term]
+id: DDPHENO:0000127
+name: aberrant behavior
+def: "Deviation from the normal, usual, or expected behavior during development." [DDB:pf]
+is_a: DDPHENO:0001003 ! aberrant response to stimulus
+created_by: pfey
+creation_date: 2014-10-02T16:36:10Z
+
+[Term]
+id: DDPHENO:0000128
+name: aberrant social behavior
+comment: Involves cheating during development; cheaters make more spores than their normal share in chimeras.
+synonym: "aberrant cooperative behavior" NARROW []
+is_a: DDPHENO:0000127 ! aberrant behavior
+created_by: pfey
+creation_date: 2014-10-02T16:37:23Z
 
 [Term]
 id: DDPHENO:0000130
@@ -2610,7 +2655,7 @@ is_a: DDPHENO:0001043 ! aberrant organelle organization and biogenesis
 id: DDPHENO:0001003
 name: aberrant response to stimulus
 def: "Deviation from the normal, usual, or expected events during the response to stimulus." [DDB:pg]
-comment: child of GO:0050896 : response to stimulus
+comment: Child of GO:0050896 : response to stimulus.
 is_a: DDPHENO:0010000 ! Dicty Phenotypes
 
 [Term]

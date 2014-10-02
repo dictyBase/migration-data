@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 26:03:2014 11:10
+date: 29:09:2014 17:24
 saved-by: pfey
 auto-generated-by: OBO-Edit 2.2
 default-namespace: strain_characteristics
@@ -45,7 +45,7 @@ is_a: DDSTRAINCHAR:0000008 ! drug resistant
 [Term]
 id: DDSTRAINCHAR:0000008
 name: drug resistant
-is_a: DDSTRAINCHAR:0000001 ! strain characteristic
+is_a: DDSTRAINCHAR:0000052 ! selection/resistance
 
 [Term]
 id: DDSTRAINCHAR:0000009
@@ -111,7 +111,7 @@ is_a: DDSTRAINCHAR:0000008 ! drug resistant
 
 [Term]
 id: DDSTRAINCHAR:0000021
-name: cycloheximide resistance
+name: cycloheximide resistant
 is_a: DDSTRAINCHAR:0000008 ! drug resistant
 
 [Term]
@@ -202,6 +202,7 @@ is_a: DDSTRAINCHAR:0000001 ! strain characteristic
 [Term]
 id: DDSTRAINCHAR:0000039
 name: knock-in
+synonym: "gene replacement mutant" NARROW []
 is_a: DDSTRAINCHAR:0000038 ! mutant
 
 [Term]
@@ -260,4 +261,19 @@ name: bacterial food source
 is_a: DDSTRAINCHAR:0000001 ! strain characteristic
 created_by: pfey
 creation_date: 2014-03-26T11:07:42Z
+
+[Term]
+id: DDSTRAINCHAR:0000051
+name: 5-Fluoroorotic acid selection
+synonym: "5-FOA selection" EXACT []
+is_a: DDSTRAINCHAR:0000052 ! selection/resistance
+created_by: pfey
+creation_date: 2014-09-29T15:22:46Z
+
+[Term]
+id: DDSTRAINCHAR:0000052
+name: selection/resistance
+is_a: DDSTRAINCHAR:0000001 ! strain characteristic
+created_by: pfey
+creation_date: 2014-09-29T17:22:41Z
 
