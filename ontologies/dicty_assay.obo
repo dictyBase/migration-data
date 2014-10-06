@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 28:01:2014 16:06
+date: 06:10:2014 16:37
 saved-by: pfey
 auto-generated-by: OBO-Edit 2.2
 default-namespace: Dictyostelium Assay
@@ -310,4 +310,11 @@ name: differential interference contrast microscopy (DIC)
 is_a: DDASSAY:0000001 ! Dictyostelium Assay
 created_by: pfey
 creation_date: 2014-01-28T16:04:02Z
+
+[Term]
+id: DDASSAY:0000060
+name: spore count
+is_a: DDASSAY:0000001 ! Dictyostelium Assay
+created_by: pfey
+creation_date: 2014-10-06T16:29:34Z
 
