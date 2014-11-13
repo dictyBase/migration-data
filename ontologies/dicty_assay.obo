@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 06:10:2014 16:37
+date: 13:11:2014 15:43
 saved-by: pfey
 auto-generated-by: OBO-Edit 2.2
 default-namespace: Dictyostelium Assay
@@ -42,7 +42,7 @@ is_a: DDASSAY:0000001 ! Dictyostelium Assay
 [Term]
 id: DDASSAY:0000008
 name: immunofluorescence
-is_a: DDASSAY:0000001 ! Dictyostelium Assay
+is_a: DDASSAY:0000028 ! fluorescence microscopy
 
 [Term]
 id: DDASSAY:0000009
@@ -62,12 +62,12 @@ is_a: DDASSAY:0000001 ! Dictyostelium Assay
 [Term]
 id: DDASSAY:0000012
 name: uptake of latex beads
-is_a: DDASSAY:0000001 ! Dictyostelium Assay
+is_a: DDASSAY:0000062 ! phagocytosis assay
 
 [Term]
 id: DDASSAY:0000013
 name: uptake of yeast particles
-is_a: DDASSAY:0000001 ! Dictyostelium Assay
+is_a: DDASSAY:0000062 ! phagocytosis assay
 
 [Term]
 id: DDASSAY:0000014
@@ -82,12 +82,12 @@ is_a: DDASSAY:0000001 ! Dictyostelium Assay
 [Term]
 id: DDASSAY:0000017
 name: observation of a marker gene
-is_a: DDASSAY:0000001 ! Dictyostelium Assay
+is_a: DDASSAY:0000061 ! microscopy
 
 [Term]
 id: DDASSAY:0000018
 name: measurement of surface area
-is_a: DDASSAY:0000001 ! Dictyostelium Assay
+is_a: DDASSAY:0000024 ! size measurement
 
 [Term]
 id: DDASSAY:0000019
@@ -102,17 +102,17 @@ is_a: DDASSAY:0000001 ! Dictyostelium Assay
 [Term]
 id: DDASSAY:0000021
 name: phalloidin staining
-is_a: DDASSAY:0000001 ! Dictyostelium Assay
+is_a: DDASSAY:0000029 ! staining
 
 [Term]
 id: DDASSAY:0000022
 name: developmental time course
-is_a: DDASSAY:0000001 ! Dictyostelium Assay
+is_a: DDASSAY:0000066 ! fruiting body development
 
 [Term]
 id: DDASSAY:0000023
 name: micropipette chemotaxis assay
-is_a: DDASSAY:0000001 ! Dictyostelium Assay
+is_a: DDASSAY:0000009 ! motility assay
 
 [Term]
 id: DDASSAY:0000024
@@ -122,12 +122,12 @@ is_a: DDASSAY:0000001 ! Dictyostelium Assay
 [Term]
 id: DDASSAY:0000025
 name: electron microscopy
-is_a: DDASSAY:0000001 ! Dictyostelium Assay
+is_a: DDASSAY:0000061 ! microscopy
 
 [Term]
 id: DDASSAY:0000026
 name: relative diameter measurement
-is_a: DDASSAY:0000001 ! Dictyostelium Assay
+is_a: DDASSAY:0000024 ! size measurement
 
 [Term]
 id: DDASSAY:0000027
@@ -140,7 +140,7 @@ is_a: DDASSAY:0000001 ! Dictyostelium Assay
 [Term]
 id: DDASSAY:0000028
 name: fluorescence microscopy
-is_a: DDASSAY:0000001 ! Dictyostelium Assay
+is_a: DDASSAY:0000061 ! microscopy
 
 [Term]
 id: DDASSAY:0000029
@@ -155,26 +155,26 @@ is_a: DDASSAY:0000001 ! Dictyostelium Assay
 [Term]
 id: DDASSAY:0000031
 name: dark field microscopy
-is_a: DDASSAY:0000001 ! Dictyostelium Assay
+is_a: DDASSAY:0000061 ! microscopy
 
 [Term]
 id: DDASSAY:0000032
 name: bright field microscopy
 alt_id: DDASSAY:0000016
 synonym: "light microscopy" EXACT []
-is_a: DDASSAY:0000001 ! Dictyostelium Assay
+is_a: DDASSAY:0000061 ! microscopy
 
 [Term]
 id: DDASSAY:0000034
 name: high throughput bright field microscopy
 alt_id: DDASSAY:0000033
 synonym: "high throughput light microscopy" EXACT []
-is_a: DDASSAY:0000001 ! Dictyostelium Assay
+is_a: DDASSAY:0000061 ! microscopy
 
 [Term]
 id: DDASSAY:0000035
 name: high throughput dark field microscopy
-is_a: DDASSAY:0000001 ! Dictyostelium Assay
+is_a: DDASSAY:0000061 ! microscopy
 
 [Term]
 id: DDASSAY:0000036
@@ -199,17 +199,17 @@ is_a: DDASSAY:0000001 ! Dictyostelium Assay
 [Term]
 id: DDASSAY:0000040
 name: reflection interference contrast microscopy (RICM)
-is_a: DDASSAY:0000001 ! Dictyostelium Assay
+is_a: DDASSAY:0000061 ! microscopy
 
 [Term]
 id: DDASSAY:0000041
 name: confocal microscopy
-is_a: DDASSAY:0000001 ! Dictyostelium Assay
+is_a: DDASSAY:0000061 ! microscopy
 
 [Term]
 id: DDASSAY:0000042
 name: biochemical fractionation
-is_a: DDASSAY:0000001 ! Dictyostelium Assay
+is_a: DDASSAY:0000003 ! biochemical assay
 
 [Term]
 id: DDASSAY:0000043
@@ -229,38 +229,33 @@ is_a: DDASSAY:0000001 ! Dictyostelium Assay
 [Term]
 id: DDASSAY:0000046
 name: slug grafting
-is_a: DDASSAY:0000001 ! Dictyostelium Assay
-
-[Term]
-id: DDASSAY:0000047
-name: grafting experiment
-is_a: DDASSAY:0000001 ! Dictyostelium Assay
+is_a: DDASSAY:0000058 ! development of chimeras
 
 [Term]
 id: DDASSAY:0000048
 name: gradient chemotaxis assay
-is_a: DDASSAY:0000001 ! Dictyostelium Assay
+is_a: DDASSAY:0000009 ! motility assay
 
 [Term]
 id: DDASSAY:0000049
 name: chemotaxis chamber assay
-is_a: DDASSAY:0000001 ! Dictyostelium Assay
+is_a: DDASSAY:0000009 ! motility assay
 
 [Term]
 id: DDASSAY:0000050
 name: uptake of polystyrene particles
-is_a: DDASSAY:0000001 ! Dictyostelium Assay
+is_a: DDASSAY:0000062 ! phagocytosis assay
 
 [Term]
 id: DDASSAY:0000051
 name: phase contrast microscopy
-is_a: DDASSAY:0000001 ! Dictyostelium Assay
+is_a: DDASSAY:0000061 ! microscopy
 
 [Term]
 id: DDASSAY:0000052
 name: uptake of FITC-dextran
 synonym: "fluid-phase marker incubation" RELATED []
-is_a: DDASSAY:0000001 ! Dictyostelium Assay
+is_a: DDASSAY:0000062 ! phagocytosis assay
 
 [Term]
 id: DDASSAY:0000053
@@ -286,28 +281,30 @@ creation_date: 2012-10-02T12:31:35Z
 [Term]
 id: DDASSAY:0000056
 name: beta-galactosidase staining
-is_a: DDASSAY:0000001 ! Dictyostelium Assay
+is_a: DDASSAY:0000029 ! staining
 created_by: pfey
 creation_date: 2012-10-02T12:41:37Z
 
 [Term]
 id: DDASSAY:0000057
 name: uptake of TRITC-dextran
-is_a: DDASSAY:0000001 ! Dictyostelium Assay
+is_a: DDASSAY:0000062 ! phagocytosis assay
 created_by: pfey
 creation_date: 2013-01-28T17:53:39Z
 
 [Term]
 id: DDASSAY:0000058
 name: development of chimeras
-is_a: DDASSAY:0000001 ! Dictyostelium Assay
+alt_id: DDASSAY:0000047
+synonym: "grafting experiment" NARROW []
+is_a: DDASSAY:0000066 ! fruiting body development
 created_by: pfey
 creation_date: 2014-01-22T15:15:41Z
 
 [Term]
 id: DDASSAY:0000059
 name: differential interference contrast microscopy (DIC)
-is_a: DDASSAY:0000001 ! Dictyostelium Assay
+is_a: DDASSAY:0000061 ! microscopy
 created_by: pfey
 creation_date: 2014-01-28T16:04:02Z
 
@@ -317,4 +314,53 @@ name: spore count
 is_a: DDASSAY:0000001 ! Dictyostelium Assay
 created_by: pfey
 creation_date: 2014-10-06T16:29:34Z
+
+[Term]
+id: DDASSAY:0000061
+name: microscopy
+is_a: DDASSAY:0000001 ! Dictyostelium Assay
+created_by: pfey
+creation_date: 2014-11-13T14:41:17Z
+
+[Term]
+id: DDASSAY:0000062
+name: phagocytosis assay
+is_a: DDASSAY:0000001 ! Dictyostelium Assay
+created_by: pfey
+creation_date: 2014-11-13T14:48:06Z
+
+[Term]
+id: DDASSAY:0000063
+name: neutral red staining
+is_a: DDASSAY:0000029 ! staining
+created_by: pfey
+creation_date: 2014-11-13T15:24:06Z
+
+[Term]
+id: DDASSAY:0000064
+name: calcofluor white staining
+is_a: DDASSAY:0000029 ! staining
+created_by: pfey
+creation_date: 2014-11-13T15:24:22Z
+
+[Term]
+id: DDASSAY:0000065
+name: beta-glucoronidase staining
+is_a: DDASSAY:0000029 ! staining
+created_by: pfey
+creation_date: 2014-11-13T15:31:12Z
+
+[Term]
+id: DDASSAY:0000066
+name: fruiting body development
+is_a: DDASSAY:0000001 ! Dictyostelium Assay
+created_by: pfey
+creation_date: 2014-11-13T15:35:03Z
+
+[Term]
+id: DDASSAY:0000067
+name: early development in buffer
+is_a: DDASSAY:0000066 ! fruiting body development
+created_by: pfey
+creation_date: 2014-11-13T15:38:36Z
 
