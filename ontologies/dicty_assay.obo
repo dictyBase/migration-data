@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 14:11:2014 14:44
+date: 14:11:2014 16:00
 saved-by: pfey
 auto-generated-by: OBO-Edit 2.2
 default-namespace: Dictyostelium Assay
@@ -370,7 +370,7 @@ creation_date: 2014-11-14T13:41:31Z
 
 [Term]
 id: DDENVIR:0000002
-name: quantitative real time PCR ((qRT-PCR))
+name: quantitative real time PCR (qRT-PCR)
 is_a: DDASSAY:0000027 ! real time PCR
 created_by: pfey
 creation_date: 2014-11-14T13:43:52Z
