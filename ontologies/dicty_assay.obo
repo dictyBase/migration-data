@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 14:11:2014 13:49
+date: 14:11:2014 14:44
 saved-by: pfey
 auto-generated-by: OBO-Edit 2.2
 default-namespace: Dictyostelium Assay
@@ -132,9 +132,6 @@ is_a: DDASSAY:0000024 ! size measurement
 [Term]
 id: DDASSAY:0000027
 name: real time PCR
-synonym: "q-PCR" NARROW []
-synonym: "quantitative PCR" NARROW []
-synonym: "quantitative real time PCR" NARROW []
 is_a: DDENVIR:0000001 ! polymerase chain reaction (PCR)
 
 [Term]
