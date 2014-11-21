@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 14:11:2014 16:00
+date: 21:11:2014 15:59
 saved-by: pfey
 auto-generated-by: OBO-Edit 2.2
 default-namespace: Dictyostelium Assay
@@ -11,7 +11,7 @@ name: Dictyostelium Assay
 [Term]
 id: DDASSAY:0000002
 name: attachment to glass
-is_a: DDASSAY:0000001 ! Dictyostelium Assay
+is_a: DDASSAY:0000076 ! adhesion assay
 
 [Term]
 id: DDASSAY:0000003
@@ -22,17 +22,17 @@ is_a: DDASSAY:0000001 ! Dictyostelium Assay
 id: DDASSAY:0000004
 name: germination assay
 synonym: "plaque formation" BROAD []
-is_a: DDASSAY:0000001 ! Dictyostelium Assay
+is_a: DDASSAY:0000069 ! spore viability test
 
 [Term]
 id: DDASSAY:0000005
 name: cell count
-is_a: DDASSAY:0000001 ! Dictyostelium Assay
+is_a: DDASSAY:0000068 ! growth and development assay
 
 [Term]
 id: DDASSAY:0000006
 name: plaque count
-is_a: DDASSAY:0000001 ! Dictyostelium Assay
+is_a: DDASSAY:0000068 ! growth and development assay
 
 [Term]
 id: DDASSAY:0000007
@@ -52,7 +52,7 @@ is_a: DDASSAY:0000001 ! Dictyostelium Assay
 [Term]
 id: DDASSAY:0000010
 name: growth curve
-is_a: DDASSAY:0000001 ! Dictyostelium Assay
+is_a: DDASSAY:0000068 ! growth and development assay
 
 [Term]
 id: DDASSAY:0000011
@@ -72,12 +72,13 @@ is_a: DDASSAY:0000062 ! phagocytosis assay
 [Term]
 id: DDASSAY:0000014
 name: Northern blot
-is_a: DDASSAY:0000001 ! Dictyostelium Assay
+is_a: DDASSAY:0000070 ! expression study
+is_a: DDASSAY:0000073 ! electrophoresis and blotting
 
 [Term]
 id: DDASSAY:0000015
 name: viability assay
-is_a: DDASSAY:0000001 ! Dictyostelium Assay
+is_a: DDASSAY:0000068 ! growth and development assay
 
 [Term]
 id: DDASSAY:0000017
@@ -92,12 +93,12 @@ is_a: DDASSAY:0000024 ! size measurement
 [Term]
 id: DDASSAY:0000019
 name: attachment to plastic
-is_a: DDASSAY:0000001 ! Dictyostelium Assay
+is_a: DDASSAY:0000076 ! adhesion assay
 
 [Term]
 id: DDASSAY:0000020
 name: agglutination assay
-is_a: DDASSAY:0000001 ! Dictyostelium Assay
+is_a: DDASSAY:0000068 ! growth and development assay
 
 [Term]
 id: DDASSAY:0000021
@@ -147,7 +148,7 @@ is_a: DDASSAY:0000001 ! Dictyostelium Assay
 [Term]
 id: DDASSAY:0000030
 name: Western blot
-is_a: DDASSAY:0000001 ! Dictyostelium Assay
+is_a: DDASSAY:0000073 ! electrophoresis and blotting
 
 [Term]
 id: DDASSAY:0000031
@@ -176,7 +177,7 @@ is_a: DDASSAY:0000061 ! microscopy
 [Term]
 id: DDASSAY:0000036
 name: in situ hybridization
-is_a: DDASSAY:0000001 ! Dictyostelium Assay
+is_a: DDASSAY:0000070 ! expression study
 
 [Term]
 id: DDASSAY:0000037
@@ -186,7 +187,7 @@ is_a: DDASSAY:0000001 ! Dictyostelium Assay
 [Term]
 id: DDASSAY:0000038
 name: immunoblotting
-is_a: DDASSAY:0000001 ! Dictyostelium Assay
+is_a: DDASSAY:0000073 ! electrophoresis and blotting
 
 [Term]
 id: DDASSAY:0000039
@@ -211,12 +212,12 @@ is_a: DDASSAY:0000003 ! biochemical assay
 [Term]
 id: DDASSAY:0000043
 name: SDS protein gel electrophoresis
-is_a: DDASSAY:0000001 ! Dictyostelium Assay
+is_a: DDASSAY:0000073 ! electrophoresis and blotting
 
 [Term]
 id: DDASSAY:0000044
 name: 2D gel electrophoresis
-is_a: DDASSAY:0000001 ! Dictyostelium Assay
+is_a: DDASSAY:0000073 ! electrophoresis and blotting
 
 [Term]
 id: DDASSAY:0000045
@@ -257,14 +258,14 @@ is_a: DDASSAY:0000062 ! phagocytosis assay
 [Term]
 id: DDASSAY:0000053
 name: monolayer culture
-is_a: DDASSAY:0000001 ! Dictyostelium Assay
+is_a: DDASSAY:0000068 ! growth and development assay
 created_by: pfey
 creation_date: 2012-10-02T12:23:38Z
 
 [Term]
 id: DDASSAY:0000054
 name: total internal reflection fluorescence microscopy (TIRF)
-is_a: DDASSAY:0000001 ! Dictyostelium Assay
+is_a: DDASSAY:0000061 ! microscopy
 created_by: pfey
 creation_date: 2012-10-02T12:24:20Z
 
@@ -308,7 +309,7 @@ creation_date: 2014-01-28T16:04:02Z
 [Term]
 id: DDASSAY:0000060
 name: spore count
-is_a: DDASSAY:0000001 ! Dictyostelium Assay
+is_a: DDASSAY:0000069 ! spore viability test
 created_by: pfey
 creation_date: 2014-10-06T16:29:34Z
 
@@ -350,7 +351,7 @@ creation_date: 2014-11-13T15:31:12Z
 [Term]
 id: DDASSAY:0000066
 name: fruiting body development
-is_a: DDASSAY:0000001 ! Dictyostelium Assay
+is_a: DDASSAY:0000068 ! growth and development assay
 created_by: pfey
 creation_date: 2014-11-13T15:35:03Z
 
@@ -360,6 +361,71 @@ name: early development in buffer
 is_a: DDASSAY:0000066 ! fruiting body development
 created_by: pfey
 creation_date: 2014-11-13T15:38:36Z
+
+[Term]
+id: DDASSAY:0000068
+name: growth and development assay
+is_a: DDASSAY:0000001 ! Dictyostelium Assay
+created_by: pfey
+creation_date: 2014-11-21T15:28:07Z
+
+[Term]
+id: DDASSAY:0000069
+name: spore viability test
+is_a: DDASSAY:0000015 ! viability assay
+created_by: pfey
+creation_date: 2014-11-21T15:33:21Z
+
+[Term]
+id: DDASSAY:0000070
+name: expression study
+is_a: DDASSAY:0000001 ! Dictyostelium Assay
+created_by: pfey
+creation_date: 2014-11-21T15:36:13Z
+
+[Term]
+id: DDASSAY:0000071
+name: microRNA
+is_a: DDASSAY:0000070 ! expression study
+is_a: DDASSAY:0000074 ! large scale analysis
+created_by: pfey
+creation_date: 2014-11-21T15:39:14Z
+
+[Term]
+id: DDASSAY:0000072
+name: RNAseq
+is_a: DDASSAY:0000070 ! expression study
+is_a: DDASSAY:0000074 ! large scale analysis
+created_by: pfey
+creation_date: 2014-11-21T15:39:36Z
+
+[Term]
+id: DDASSAY:0000073
+name: electrophoresis and blotting
+is_a: DDASSAY:0000001 ! Dictyostelium Assay
+created_by: pfey
+creation_date: 2014-11-21T15:42:07Z
+
+[Term]
+id: DDASSAY:0000074
+name: large scale analysis
+is_a: DDASSAY:0000001 ! Dictyostelium Assay
+created_by: pfey
+creation_date: 2014-11-21T15:46:21Z
+
+[Term]
+id: DDASSAY:0000075
+name: mass spectrometry
+is_a: DDASSAY:0000074 ! large scale analysis
+created_by: pfey
+creation_date: 2014-11-21T15:50:03Z
+
+[Term]
+id: DDASSAY:0000076
+name: adhesion assay
+is_a: DDASSAY:0000001 ! Dictyostelium Assay
+created_by: pfey
+creation_date: 2014-11-21T15:51:32Z
 
 [Term]
 id: DDENVIR:0000001
