@@ -442,7 +442,7 @@ creation_date: 2014-09-24T15:09:29Z
 
 [Term]
 id: DDLIT:0000055
-name: Computation/Modelling
+name: Computation/Modeling
 def: "References which report algorithmic or statistical models to investigate certain aspects of cellular processes or behavior, but which do not perform classical experimental work." [DDB:pf]
 is_a: DDLIT:0000011 ! Research Aids
 created_by: pfey
