@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 26:09:2014 16:49
+date: 12:12:2014 10:49
 saved-by: pfey
 auto-generated-by: OBO-Edit 2.2
 default-namespace: strain_inventory
@@ -64,6 +64,7 @@ id: STRAININVENT:0000010
 name: tank A
 def: "Physical location of strain stock in liquid nitrogen tank A." [DDB:pf]
 is_a: STRAININVENT:0000002 ! location
+relationship: has_vial STRAININVENT:0000005 ! number of vials
 created_by: pfey
 creation_date: 2014-09-26T16:38:41Z
 
@@ -72,6 +73,7 @@ id: STRAININVENT:0000011
 name: tank B
 def: "Physical location of strain stock in liquid nitrogen tank B." [DDB:pf]
 is_a: STRAININVENT:0000002 ! location
+relationship: has_vial STRAININVENT:0000005 ! number of vials
 created_by: pfey
 creation_date: 2014-09-26T16:43:42Z
 
@@ -80,6 +82,7 @@ id: STRAININVENT:0000012
 name: tank C
 def: "Physical location of strain stock in liquid nitrogen tank C." [DDB:pf]
 is_a: STRAININVENT:0000002 ! location
+relationship: has_vial STRAININVENT:0000005 ! number of vials
 created_by: pfey
 creation_date: 2014-09-26T16:44:02Z
 
@@ -88,6 +91,13 @@ id: STRAININVENT:0000013
 name: - 80 freezer
 def: "Physical location of strain stock in the - 80 C freezer." [DDB:pf]
 is_a: STRAININVENT:0000002 ! location
+relationship: has_vial STRAININVENT:0000005 ! number of vials
 created_by: pfey
 creation_date: 2014-09-26T16:44:15Z
+
+[Typedef]
+id: has_vial
+name: has_vial
+created_by: pfey
+creation_date: 2014-09-30T14:36:15Z
 
