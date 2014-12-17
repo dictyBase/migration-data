@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 06:11:2014 16:45
+date: 17:12:2014 16:52
 saved-by: pfey
 auto-generated-by: OBO-Edit 2.2
 default-namespace: Dicty Phenotypes
@@ -1130,6 +1130,14 @@ name: weak slime trail
 is_a: DDPHENO:0001014 ! aberrant slug formation
 
 [Term]
+id: DDPHENO:0000141
+name: decreased negative chemotaxis
+def: "Reduction in extent, amount, or degree of  chemotaxis towards a decreasing chemical concentration." [DDB:pf]
+is_a: DDPHENO:0001225 ! aberrant negative chemotaxis
+created_by: pfey
+creation_date: 2014-12-17T16:11:58Z
+
+[Term]
 id: DDPHENO:0000142
 name: wild type
 def: "No phenotypic difference has been reported compared to wild type." [DDB:pf]
@@ -1137,10 +1145,36 @@ synonym: "no known phenotype" RELATED []
 is_a: DDPHENO:0010000 ! Dicty Phenotypes
 
 [Term]
+id: DDPHENO:0000144
+name: increased negative chemotaxis
+def: "Increase in extent, amount, or degree of  chemotaxis towards a decreasing chemical concentration." [DDB:pf]
+is_a: DDPHENO:0001225 ! aberrant negative chemotaxis
+created_by: pfey
+creation_date: 2014-12-17T16:14:48Z
+
+[Term]
 id: DDPHENO:0000145
 name: decreased spore viability
 def: "Reduction in extent, amount, or degree of spore viabilty." [DDB:pg]
 is_a: DDPHENO:0001046 ! aberrant spore germination
+
+[Term]
+id: DDPHENO:0000146
+name: abolished negative chemotaxis
+def: "Complete inability for negative chemotaxis." [DDB:pf]
+is_a: DDPHENO:0001225 ! aberrant negative chemotaxis
+created_by: pfey
+creation_date: 2014-12-17T16:15:30Z
+
+[Term]
+id: DDPHENO:0000147
+name: aberrant chemorepellant activity
+def: "Deviation from the normal, usual, or expected activity in the directed movement of a motile cell  towards a lower concentration of a signal." [DDB:pf]
+comment: Chemorepellant activity is the counter part_of DDPHENO:0001225 negative chemotaxis.
+synonym: "aberrant chemorepellent activity" EXACT []
+is_a: DDPHENO:0001171 ! aberrant molecular function
+created_by: pfey
+creation_date: 2014-12-17T16:19:14Z
 
 [Term]
 id: DDPHENO:0000148
@@ -1157,11 +1191,38 @@ def: "Deviation from the normal, usual, or expected events during cytokinesis." 
 is_a: DDPHENO:0001008 ! aberrant cellular process
 
 [Term]
+id: DDPHENO:0000150
+name: abolished chemorepellant activity
+def: "Complete inability for chemorepellant activity." [DDB:pf]
+synonym: "abolished chemorepellent activity" EXACT []
+is_a: DDPHENO:0000147 ! aberrant chemorepellant activity
+created_by: pfey
+creation_date: 2014-12-17T16:25:50Z
+
+[Term]
 id: DDPHENO:0000151
 name: aberrant F-actin organization
 def: "Deviation from the normal, usual, or expected events during actin filament organization." [DDB:pg]
 synonym: "actin filament organization" EXACT []
 is_a: DDPHENO:0001481 ! aberrant actin cytoskeleton organization
+
+[Term]
+id: DDPHENO:0000152
+name: increased chemorepellant activity
+def: "Increase in extent, amount, or degree of  chemorepellant activity." [DDB:pf]
+synonym: "increased chemorepellent activity" EXACT []
+is_a: DDPHENO:0000147 ! aberrant chemorepellant activity
+created_by: pfey
+creation_date: 2014-12-17T16:28:25Z
+
+[Term]
+id: DDPHENO:0000153
+name: decreased chemorepellant activity
+def: "Reduction in extent, amount, or degree of  chemorepellant activity." [DDB:pf]
+synonym: "decreased chemorepellent activity" EXACT []
+is_a: DDPHENO:0000147 ! aberrant chemorepellant activity
+created_by: pfey
+creation_date: 2014-12-17T16:29:56Z
 
 [Term]
 id: DDPHENO:0000154
@@ -1247,6 +1308,15 @@ is_a: DDPHENO:0000236 ! aberrant cell morphology
 is_a: DDPHENO:0000513 ! aberrant sporulation
 
 [Term]
+id: DDPHENO:0000164
+name: aberrant regulation of chemorepellant activity
+def: "Deviation from the normal, usual, or expected events during the regulation of chemorepellant activity." [DDB:pf]
+synonym: "aberrant regulation of chemorepellent activity" EXACT []
+is_a: DDPHENO:0000147 ! aberrant chemorepellant activity
+created_by: pfey
+creation_date: 2014-12-17T16:35:43Z
+
+[Term]
 id: DDPHENO:0000165
 name: increased stalk length
 def: "Having a relative long stalk." [DDB:pg]
@@ -1330,6 +1400,15 @@ is_a: DDPHENO:0000169 ! increased prestalk cell differentiation
 is_a: DDPHENO:0001024 ! aberrant prestalk 0 cell differentiation
 
 [Term]
+id: DDPHENO:0000177
+name: aberrant positive regulation of chemorepellant activity
+def: "Deviation from the normal, usual, or expected events during the positive regulation of chemorepellant activity." [DDB:pf]
+synonym: "aberrant positive regulation of chemorepellent activity" EXACT []
+is_a: DDPHENO:0000164 ! aberrant regulation of chemorepellant activity
+created_by: pfey
+creation_date: 2014-12-17T16:36:44Z
+
+[Term]
 id: DDPHENO:0000178
 name: precocious tip formation
 def: "Early onset or faster progression through tip formation." [DDB:pg]
@@ -1372,6 +1451,15 @@ id: DDPHENO:0000188
 name: decreased phagocytosis
 def: "Reduction in extent, amount, or degree of phagocytosis." [DDB:pg]
 is_a: DDPHENO:0001006 ! aberrant phagocytosis
+
+[Term]
+id: DDPHENO:0000190
+name: aberrant negative regulation of chemorepellant activity
+def: "Deviation from the normal, usual, or expected events during the negative regulation of chemorepellant activity." [DDB:pf]
+synonym: "aberrant negative regulation of chemorepellent activity" EXACT []
+is_a: DDPHENO:0000164 ! aberrant regulation of chemorepellant activity
+created_by: pfey
+creation_date: 2014-12-17T16:38:07Z
 
 [Term]
 id: DDPHENO:0000191
@@ -1529,7 +1617,7 @@ is_a: DDPHENO:0001046 ! aberrant spore germination
 [Term]
 id: DDPHENO:0000216
 name: aberrant spore coat morphology
-def: "Deviation from the normal, usual, or expected morphology of the spore coat. " [DDB:pg]
+def: "Deviation from the normal, usual, or expected morphology of the spore coat." [DDB:pg]
 is_a: DDPHENO:0000163 ! aberrant spore morphology
 
 [Term]
@@ -1559,6 +1647,33 @@ synonym: "increased number of pstA cells" RELATED []
 synonym: "increased pstA cell differentiation" EXACT []
 is_a: DDPHENO:0000098 ! aberrant prestalk A cell differentiation
 is_a: DDPHENO:0000169 ! increased prestalk cell differentiation
+
+[Term]
+id: DDPHENO:0000227
+name: abolished regulation of chemorepellant activity
+def: "Complete inability of the regulation of chemorepellant activity." [DDB:pf]
+synonym: "abolished regulation of chemorepellent activity" EXACT []
+is_a: DDPHENO:0000147 ! aberrant chemorepellant activity
+created_by: pfey
+creation_date: 2014-12-17T16:39:18Z
+
+[Term]
+id: DDPHENO:0000228
+name: abolished positive regulation of chemorepellant activity
+def: "Complete inability of the positive regulation of chemorepellant activity." [DDB:pf]
+synonym: "abolished positive regulation of chemorepellent activity" EXACT []
+is_a: DDPHENO:0000227 ! abolished regulation of chemorepellant activity
+created_by: pfey
+creation_date: 2014-12-17T16:39:53Z
+
+[Term]
+id: DDPHENO:0000229
+name: abolished negative regulation of chemorepellant activity
+def: "Complete inability of the negative regulation of chemorepellant activity." [DDB:pf]
+synonym: "abolished negative regulation of chemorepellent activity" EXACT []
+is_a: DDPHENO:0000227 ! abolished regulation of chemorepellant activity
+created_by: pfey
+creation_date: 2014-12-17T16:40:31Z
 
 [Term]
 id: DDPHENO:0000230
@@ -2225,10 +2340,10 @@ is_a: DDPHENO:0001038 ! aberrant cAMP signaling during aggregation
 
 [Term]
 id: DDPHENO:0000466
-name: abolished chemotaxis
+name: abolished positive chemotaxis
 def: "Complete inability for chemotaxis." [DDB:pg]
-is_a: DDPHENO:0001122 ! aberrant chemotaxis
 is_a: DDPHENO:0001131 ! abolished taxis
+is_a: DDPHENO:0001224 ! aberrant positive chemotaxis
 
 [Term]
 id: DDPHENO:0000471
@@ -3297,7 +3412,7 @@ id: DDPHENO:0001101
 name: abolished chemotaxis to cAMP
 def: "Complete inability for chemotaxis in response to cAMP." [DDB:pf]
 synonym: "abolished positive chemotaxis to cAMP" EXACT []
-is_a: DDPHENO:0000466 ! abolished chemotaxis
+is_a: DDPHENO:0000466 ! abolished positive chemotaxis
 is_a: DDPHENO:0001167 ! aberrant chemotaxis to cAMP
 
 [Term]
@@ -3307,7 +3422,7 @@ def: "Complete inability for chemotaxis in response to folate." [DDB:pf]
 synonym: "abolished chemotaxis to folic acid" EXACT [DDB:kp]
 synonym: "abolished positive chemotaxis to folate" RELATED []
 synonym: "abolished positive chemotaxis to folic acid" EXACT []
-is_a: DDPHENO:0000466 ! abolished chemotaxis
+is_a: DDPHENO:0000466 ! abolished positive chemotaxis
 is_a: DDPHENO:0001168 ! aberrant chemotaxis to folate
 
 [Term]
@@ -4154,7 +4269,8 @@ is_a: DDPHENO:0001122 ! aberrant chemotaxis
 [Term]
 id: DDPHENO:0001225
 name: aberrant negative chemotaxis
-def: "Deviation from the normal, usual, or expected events during the locomotory response guided by increasing chemical concentration gradient." [DDB:pg]
+def: "Deviation from the normal, usual, or expected events during the locomotory response towards a decreasing chemical concentration." [DDB:pf]
+synonym: "aberrant chemorepulsion" EXACT []
 is_a: DDPHENO:0001122 ! aberrant chemotaxis
 
 [Term]
@@ -5725,9 +5841,9 @@ creation_date: 2010-03-15T04:05:48Z
 
 [Term]
 id: DDPHENO:0001463
-name: aberrant regulation of chemotaxis
+name: aberrant regulation of positive chemotaxis
 def: "Deviation from the normal, usual, or expected events during the regulation of the locomotory response." [DDB:pf]
-is_a: DDPHENO:0001122 ! aberrant chemotaxis
+is_a: DDPHENO:0001224 ! aberrant positive chemotaxis
 created_by: Pascale
 creation_date: 2010-03-15T04:20:58Z
 
@@ -5735,8 +5851,8 @@ creation_date: 2010-03-15T04:20:58Z
 id: DDPHENO:0001464
 name: aberrant regulation of chemotaxis to cAMP in response to DIF-1
 def: "Deviation from the normal, usual, or expected events during the regulation of the locomotory response to cAMP in response to DIF-1." [DDB:pg]
-is_a: DDPHENO:0001167 ! aberrant chemotaxis to cAMP
-is_a: DDPHENO:0001463 ! aberrant regulation of chemotaxis
+is_a: DDPHENO:0001461 ! aberrant chemotaxis to cAMP in response to DIF-1
+is_a: DDPHENO:0001463 ! aberrant regulation of positive chemotaxis
 created_by: Pascale
 creation_date: 2010-03-15T04:24:28Z
 
@@ -5744,8 +5860,8 @@ creation_date: 2010-03-15T04:24:28Z
 id: DDPHENO:0001465
 name: aberrant regulation of chemotaxis to cAMP in response to DIF-2
 def: "Deviation from the normal, usual, or expected events during the regulation of the locomotory response to cAMP in response to DIF-2." [DDB:pg]
-is_a: DDPHENO:0001167 ! aberrant chemotaxis to cAMP
-is_a: DDPHENO:0001463 ! aberrant regulation of chemotaxis
+is_a: DDPHENO:0001462 ! aberrant chemotaxis to cAMP in response to DIF-2
+is_a: DDPHENO:0001463 ! aberrant regulation of positive chemotaxis
 created_by: Pascale
 creation_date: 2010-03-15T04:25:54Z
 
