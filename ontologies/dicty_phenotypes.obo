@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 17:12:2014 16:52
+date: 19:12:2014 15:59
 saved-by: pfey
 auto-generated-by: OBO-Edit 2.2
 default-namespace: Dicty Phenotypes
@@ -1069,7 +1069,7 @@ is_a: DDPHENO:0001038 ! aberrant cAMP signaling during aggregation
 [Term]
 id: DDPHENO:0000131
 name: increased secretion of counting factor (CF)
-def: "Increase in extent, amount, or degree of secretion of counting factor (CF). " [DDB:pg]
+def: "Increase in extent, amount, or degree of secretion of counting factor (CF)." [DDB:pg]
 is_a: DDPHENO:0001001 ! aberrant initiation of development
 
 [Term]
@@ -1155,7 +1155,7 @@ creation_date: 2014-12-17T16:14:48Z
 [Term]
 id: DDPHENO:0000145
 name: decreased spore viability
-def: "Reduction in extent, amount, or degree of spore viabilty." [DDB:pg]
+def: "Reduction in extent, amount, or degree of spore viability." [DDB:pg]
 is_a: DDPHENO:0001046 ! aberrant spore germination
 
 [Term]
@@ -1682,6 +1682,15 @@ def: "Deviation from the normal, usual, or expected morphology of the endosome."
 is_a: DDPHENO:0001002 ! aberrant organelle morphology
 
 [Term]
+id: DDPHENO:0000231
+name: increased cell death
+def: "Increase in extent, amount, or degree of cell death." [DDB:pf]
+synonym: "decreased cell viability" RELATED []
+is_a: DDPHENO:0001267 ! aberrant cell death
+created_by: pfey
+creation_date: 2014-12-19T15:32:33Z
+
+[Term]
 id: DDPHENO:0000232
 name: decreased spore germination
 def: "Reduction in extent, amount, or degree of spore germination." [DDB:pg]
@@ -1710,6 +1719,15 @@ name: aberrant cell morphology
 def: "Deviation from the normal, usual, or expected morphology of a cell." [DDB:pg]
 comment: Child of GO:0000902 : cellular morphogenesis.
 is_a: DDPHENO:0001008 ! aberrant cellular process
+
+[Term]
+id: DDPHENO:0000237
+name: decreased cell death
+def: "Reduction in extent, amount, or degree of cell death." []
+synonym: "increased cell viability" RELATED []
+is_a: DDPHENO:0001267 ! aberrant cell death
+created_by: pfey
+creation_date: 2014-12-19T15:35:54Z
 
 [Term]
 id: DDPHENO:0000260
@@ -2124,7 +2142,7 @@ is_a: DDPHENO:0001195 ! decreased infection rate by a microorganism
 [Term]
 id: DDPHENO:0000424
 name: abolished sporulation
-def: "Complete inability for sporulation. " [DDB:pg]
+def: "Complete inability for sporulation." [DDB:pg]
 synonym: "abolished spore differentiation" EXACT []
 is_a: DDPHENO:0000513 ! aberrant sporulation
 
@@ -4053,7 +4071,7 @@ is_a: DDPHENO:0001041 ! aberrant vacuole organization and biogenesis
 id: DDPHENO:0001193
 name: aberrant infection rate by a microorganism
 def: "Deviation from the normal, usual, or expected events during infection of Dictyostelium by a microorganism." [DDB:pf]
-is_a: DDPHENO:0001505 ! aberrant defense response
+is_a: DDPHENO:0001506 ! aberrant defense response to a microorganism
 
 [Term]
 id: DDPHENO:0001194
@@ -4547,7 +4565,7 @@ is_a: DDPHENO:0001263 ! aberrant autophagic cell death
 [Term]
 id: DDPHENO:0001267
 name: aberrant cell death
-def: "Deviation from the normal, usual, or expected events during cell death." [DDB:pf]
+def: "Deviation from the normal, usual, or expected events during regular cell death." [DDB:pf]
 is_a: DDPHENO:0001013 ! aberrant cell differentiation
 
 [Term]
@@ -6192,8 +6210,8 @@ creation_date: 2012-11-01T15:29:41Z
 
 [Term]
 id: DDPHENO:0001506
-name: aberrant defense response to bacterium
-def: "Deviation from the normal, usual, or expected response to the presence of a bacterium that acts to protect the cell." [DDB:pf]
+name: aberrant defense response to a microorganism
+def: "Deviation from the normal, usual, or expected response to the presence of a microorganism that acts to protect the cell." [DDB:pf]
 is_a: DDPHENO:0001505 ! aberrant defense response
 created_by: pfey
 creation_date: 2012-11-01T15:39:11Z
