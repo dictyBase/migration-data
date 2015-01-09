@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 13:11:2014 16:01
+date: 09:01:2015 14:25
 saved-by: pfey
 auto-generated-by: OBO-Edit 2.2
 default-namespace: Dicty Environment
@@ -27,7 +27,7 @@ is_a: DDENVIR:0000056 ! in liquid medium
 [Term]
 id: DDENVIR:0000004
 name: on bacterial plate
-is_a: DDENVIR:0000057 ! on solid medium
+is_a: DDENVIR:0000057 ! on or under solid medium
 
 [Term]
 id: DDENVIR:0000005
@@ -37,7 +37,7 @@ is_a: DDENVIR:0000056 ! in liquid medium
 [Term]
 id: DDENVIR:0000006
 name: at low cell density
-is_a: DDENVIR:0000001 ! environmental condition
+is_a: DDENVIR:0000037 ! during vegetative growth
 
 [Term]
 id: DDENVIR:0000007
@@ -47,7 +47,7 @@ is_a: DDENVIR:0000001 ! environmental condition
 [Term]
 id: DDENVIR:0000008
 name: on solid surfaces
-is_a: DDENVIR:0000057 ! on solid medium
+is_a: DDENVIR:0000057 ! on or under solid medium
 
 [Term]
 id: DDENVIR:0000009
@@ -67,7 +67,7 @@ is_a: DDENVIR:0000001 ! environmental condition
 [Term]
 id: DDENVIR:0000013
 name: at high cell density
-is_a: DDENVIR:0000001 ! environmental condition
+is_a: DDENVIR:0000037 ! during vegetative growth
 
 [Term]
 id: DDENVIR:0000014
@@ -82,7 +82,8 @@ is_a: DDENVIR:0000054 ! in the presence of biotic or abiotic stimulus
 [Term]
 id: DDENVIR:0000016
 name: cAMP stimulation
-is_a: DDENVIR:0000001 ! environmental condition
+synonym: "cyclic AMP stimulation" EXACT []
+is_a: DDENVIR:0000052 ! during the life cycle
 
 [Term]
 id: DDENVIR:0000017
@@ -126,7 +127,8 @@ is_a: DDENVIR:0000054 ! in the presence of biotic or abiotic stimulus
 
 [Term]
 id: DDENVIR:0000025
-name: in the presence of the PI3K inhibitor LY294002
+name: in the presence of  PI3K inhibitor
+synonym: "in the presence of  LY294002" NARROW []
 is_a: DDENVIR:0000054 ! in the presence of biotic or abiotic stimulus
 
 [Term]
@@ -147,12 +149,12 @@ is_a: DDENVIR:0000056 ! in liquid medium
 [Term]
 id: DDENVIR:0000029
 name: on non-nutrient agar
-is_a: DDENVIR:0000057 ! on solid medium
+is_a: DDENVIR:0000057 ! on or under solid medium
 
 [Term]
 id: DDENVIR:0000030
 name: on filter
-is_a: DDENVIR:0000057 ! on solid medium
+is_a: DDENVIR:0000057 ! on or under solid medium
 
 [Term]
 id: DDENVIR:0000031
@@ -257,7 +259,7 @@ creation_date: 2013-08-28T10:29:36Z
 [Term]
 id: DDENVIR:0000049
 name: folate stimulation
-is_a: DDENVIR:0000001 ! environmental condition
+is_a: DDENVIR:0000052 ! during the life cycle
 created_by: pfey
 creation_date: 2013-12-16T16:49:54Z
 
@@ -312,7 +314,7 @@ creation_date: 2014-11-13T15:55:01Z
 
 [Term]
 id: DDENVIR:0000057
-name: on solid medium
+name: on or under solid medium
 is_a: DDENVIR:0000053 ! in or on medium
 created_by: pfey
 creation_date: 2014-11-13T15:55:40Z
@@ -323,4 +325,20 @@ name: in the presence of latrunculin
 is_a: DDENVIR:0000054 ! in the presence of biotic or abiotic stimulus
 created_by: pfey
 creation_date: 2014-11-13T16:00:25Z
+
+[Term]
+id: DDENVIR:0000059
+name: in the presence of  proliferation inhibitor
+synonym: "in the presence of the autocrine factor  rCfaD" NARROW []
+synonym: "in the presence of the autocrine factor rAprA" NARROW []
+is_a: DDENVIR:0000054 ! in the presence of biotic or abiotic stimulus
+created_by: pfey
+creation_date: 2015-01-09T14:10:05Z
+
+[Term]
+id: DDENVIR:0000060
+name: under agarose overlay
+is_a: DDENVIR:0000057 ! on or under solid medium
+created_by: pfey
+creation_date: 2015-01-09T14:20:12Z
 
