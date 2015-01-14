@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 25:09:2014 16:16
+date: 14:01:2015 16:26
 saved-by: pfey
 auto-generated-by: OBO-Edit 2.2
 default-namespace: dictyBase_literature_topic
@@ -22,7 +22,7 @@ creation_date: 2010-04-12T03:19:15Z
 [Term]
 id: DDLIT:0000002
 name: Disease Related
-def: "Homology between the Dictyostelium gene and a gene that is disease-related." [DDB:pf]
+def: "Homology between the Dictyostelium gene and a gene that is disease-related or involvement of a homolog gene in a disease model." [DDB:pf]
 is_a: DDLIT:0000001 ! Related Genes/Proteins
 created_by: sid
 creation_date: 2010-04-12T03:20:33Z
@@ -463,4 +463,12 @@ def: "References reporting studies on or with transposons or retrotransposons, t
 is_a: DDLIT:0000007 ! Nucleic Acid Information
 created_by: pfey
 creation_date: 2014-09-24T15:23:39Z
+
+[Term]
+id: DDLIT:0000058
+name: cell death
+def: "Any biological process that results in permanent cessation of all vital functions of a cell." [DDB:pf]
+is_a: DDLIT:0000005 ! Life Cycle
+created_by: pfey
+creation_date: 2015-01-14T16:23:04Z
 
