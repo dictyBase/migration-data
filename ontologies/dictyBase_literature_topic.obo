@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 14:01:2015 16:26
+date: 16:01:2015 14:06
 saved-by: pfey
 auto-generated-by: OBO-Edit 2.2
 default-namespace: dictyBase_literature_topic
@@ -22,7 +22,7 @@ creation_date: 2010-04-12T03:19:15Z
 [Term]
 id: DDLIT:0000002
 name: Disease Related
-def: "Homology between the Dictyostelium gene and a gene that is disease-related or involvement of a homolog gene in a disease model." [DDB:pf]
+def: "Homology between the Dictyostelium gene and a gene that is disease-related or involvement of a gene in a disease model." [DDB:pf]
 is_a: DDLIT:0000001 ! Related Genes/Proteins
 created_by: sid
 creation_date: 2010-04-12T03:20:33Z
@@ -466,9 +466,17 @@ creation_date: 2014-09-24T15:23:39Z
 
 [Term]
 id: DDLIT:0000058
-name: cell death
+name: Cell Death
 def: "Any biological process that results in permanent cessation of all vital functions of a cell." [DDB:pf]
 is_a: DDLIT:0000005 ! Life Cycle
 created_by: pfey
 creation_date: 2015-01-14T16:23:04Z
+
+[Term]
+id: DDLIT:0000059
+name: Stress Response
+def: "Any process that results in a change in state or activity of a cell or the multicellular organism as a result of an external stimulus." [DDB:pf]
+is_a: DDLIT:0000008 ! Genetics/Cell Biology
+created_by: pfey
+creation_date: 2015-01-16T14:02:09Z
 
