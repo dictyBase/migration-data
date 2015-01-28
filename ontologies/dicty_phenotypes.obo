@@ -1,6 +1,6 @@
 format-version: 1.2
-date: 19:12:2014 15:59
-saved-by: pfey
+date: 28:01:2015 15:13
+saved-by: Petra
 auto-generated-by: OBO-Edit 2.2
 default-namespace: Dicty Phenotypes
 
@@ -1303,7 +1303,7 @@ is_a: DDPHENO:0000154 ! aberrant development
 [Term]
 id: DDPHENO:0000163
 name: aberrant spore morphology
-def: "Deviation from the normal, usual, or expected morphology of the spore. " [DDB:pg]
+def: "Deviation from the normal, usual, or expected morphology of the spore." [DDB:pg]
 is_a: DDPHENO:0000236 ! aberrant cell morphology
 is_a: DDPHENO:0000513 ! aberrant sporulation
 
@@ -1629,7 +1629,7 @@ is_a: DDPHENO:0001121 ! aberrant taxis
 [Term]
 id: DDPHENO:0000223
 name: aberrant thermotaxis
-def: "Deviation from the normal, usual, or expected events during the response to temperature changes. " [DDB:pf]
+def: "Deviation from the normal, usual, or expected events during the response to temperature changes." [DDB:pf]
 is_a: DDPHENO:0001121 ! aberrant taxis
 
 [Term]
@@ -1728,6 +1728,36 @@ synonym: "increased cell viability" RELATED []
 is_a: DDPHENO:0001267 ! aberrant cell death
 created_by: pfey
 creation_date: 2014-12-19T15:35:54Z
+
+[Term]
+id: DDPHENO:0000238
+name: aberrant DNA mediated transformation
+def: "Deviation from the normal, usual, or expected events during introduction and uptake of foreign genetic material (DNA or RNA)." [DDB:pf]
+synonym: "aberrant REMI efficiency" NARROW []
+synonym: "aberrant transformation efficiency" RELATED []
+is_a: DDPHENO:0001008 ! aberrant cellular process
+created_by: pfey
+creation_date: 2015-01-27T11:45:54Z
+
+[Term]
+id: DDPHENO:0000239
+name: decreased DNA mediated transformation
+def: "Reduction in extent, amount, or degree of DNA mediated transformation." [DDB:pf]
+synonym: "decreased REMI efficiency" NARROW []
+synonym: "decreased transformation efficiency" RELATED []
+is_a: DDPHENO:0000238 ! aberrant DNA mediated transformation
+created_by: pfey
+creation_date: 2015-01-27T11:48:35Z
+
+[Term]
+id: DDPHENO:0000240
+name: increased DNA mediated transformation
+def: "Increase in extent, amount, or degree of DNA mediated transformation." [DDB:pf]
+synonym: "increased REMI efficiency" NARROW []
+synonym: "increased transformation efficiency" RELATED []
+is_a: DDPHENO:0000238 ! aberrant DNA mediated transformation
+created_by: pfey
+creation_date: 2015-01-27T11:48:59Z
 
 [Term]
 id: DDPHENO:0000260
@@ -3591,7 +3621,7 @@ is_a: DDPHENO:0001062 ! abolished protein kinase activation
 [Term]
 id: DDPHENO:0001121
 name: aberrant taxis
-def: "Deviation from the normal, usual, or expected events during the response to an exteral stimulus." [DDB:pg]
+def: "Deviation from the normal, usual, or expected events during the response to an external stimulus." [DDB:pg]
 is_a: DDPHENO:0001003 ! aberrant response to stimulus
 
 [Term]
@@ -4044,13 +4074,13 @@ is_a: DDPHENO:0000212 ! aberrant macroautophagy
 [Term]
 id: DDPHENO:0001189
 name: decreased macroautophagy
-def: "Reduction in extent, amount, or degree of macroautophagy. " [DDB:pf]
+def: "Reduction in extent, amount, or degree of macroautophagy." [DDB:pf]
 is_a: DDPHENO:0000212 ! aberrant macroautophagy
 
 [Term]
 id: DDPHENO:0001190
 name: increased macroautophagy
-def: "Increase in extent, amount, or degree of macroautophagy. " [DDB:pf]
+def: "Increase in extent, amount, or degree of macroautophagy." [DDB:pf]
 is_a: DDPHENO:0000212 ! aberrant macroautophagy
 
 [Term]
@@ -5813,7 +5843,7 @@ creation_date: 2010-03-10T09:58:37Z
 id: DDPHENO:0001457
 name: aberrant DNA repair
 def: "Deviation from the normal, usual, or expected events during DNA repair." [DDB:pg]
-is_a: DDPHENO:0001045 ! aberrant response to DNA damaging agents
+is_obsolete: true
 created_by: Pascale
 creation_date: 2010-03-10T10:44:05Z
 
@@ -5821,21 +5851,21 @@ creation_date: 2010-03-10T10:44:05Z
 id: DDPHENO:0001458
 name: aberrant double-strand break repair via homologous recombination
 def: "Deviation from the normal, usual, or expected events during double-strand break repair via homologous recombination." [DDB:pg]
-is_a: DDPHENO:0001457 ! aberrant DNA repair
+is_obsolete: true
 created_by: Pascale
 creation_date: 2010-03-10T10:44:20Z
 
 [Term]
 id: DDPHENO:0001459
 name: decreased double-strand break repair via homologous recombination
-is_a: DDPHENO:0001458 ! aberrant double-strand break repair via homologous recombination
+is_obsolete: true
 created_by: Pascale
 creation_date: 2010-03-10T10:44:37Z
 
 [Term]
 id: DDPHENO:0001460
 name: increased double-strand break repair via homologous recombination
-is_a: DDPHENO:0001458 ! aberrant double-strand break repair via homologous recombination
+is_obsolete: true
 created_by: Pascale
 creation_date: 2010-03-10T10:44:51Z
 
