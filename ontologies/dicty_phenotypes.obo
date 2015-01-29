@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 28:01:2015 15:13
+date: 29:01:2015 15:05
 saved-by: Petra
 auto-generated-by: OBO-Edit 2.2
 default-namespace: Dicty Phenotypes
@@ -1733,6 +1733,7 @@ creation_date: 2014-12-19T15:35:54Z
 id: DDPHENO:0000238
 name: aberrant DNA mediated transformation
 def: "Deviation from the normal, usual, or expected events during introduction and uptake of foreign genetic material (DNA or RNA)." [DDB:pf]
+synonym: "aberrant homologous recombination" NARROW []
 synonym: "aberrant REMI efficiency" NARROW []
 synonym: "aberrant transformation efficiency" RELATED []
 is_a: DDPHENO:0001008 ! aberrant cellular process
@@ -1743,6 +1744,7 @@ creation_date: 2015-01-27T11:45:54Z
 id: DDPHENO:0000239
 name: decreased DNA mediated transformation
 def: "Reduction in extent, amount, or degree of DNA mediated transformation." [DDB:pf]
+synonym: "decreased homologous recombination" NARROW []
 synonym: "decreased REMI efficiency" NARROW []
 synonym: "decreased transformation efficiency" RELATED []
 is_a: DDPHENO:0000238 ! aberrant DNA mediated transformation
@@ -1753,11 +1755,22 @@ creation_date: 2015-01-27T11:48:35Z
 id: DDPHENO:0000240
 name: increased DNA mediated transformation
 def: "Increase in extent, amount, or degree of DNA mediated transformation." [DDB:pf]
+synonym: "increased homologous recombination" NARROW []
 synonym: "increased REMI efficiency" NARROW []
 synonym: "increased transformation efficiency" RELATED []
 is_a: DDPHENO:0000238 ! aberrant DNA mediated transformation
 created_by: pfey
 creation_date: 2015-01-27T11:48:59Z
+
+[Term]
+id: DDPHENO:0000241
+name: abolished DNA mediated transformation
+def: "Complete inability for DNA mediated transformation." [DDB:pf]
+synonym: "abolished homologous recombination" NARROW []
+synonym: "abolished REMI" NARROW []
+is_a: DDPHENO:0000238 ! aberrant DNA mediated transformation
+created_by: Petra
+creation_date: 2015-01-29T14:57:44Z
 
 [Term]
 id: DDPHENO:0000260
@@ -2597,7 +2610,7 @@ is_a: DDPHENO:0000162 ! delayed development
 [Term]
 id: DDPHENO:0000510
 name: aberrant stalk morphogenesis
-def: "Deviation from the normal, usual, or expected events during stalk morphogenesis. " [DDB:pg]
+def: "Deviation from the normal, usual, or expected events during stalk morphogenesis." [DDB:pg]
 is_a: DDPHENO:0000009 ! aberrant fruiting body morphology
 is_a: DDPHENO:0001015 ! aberrant culmination
 
@@ -3978,19 +3991,19 @@ is_a: DDPHENO:0001013 ! aberrant cell differentiation
 [Term]
 id: DDPHENO:0001174
 name: increased aspidocyte differentiation
-def: "Increase in extent, amount, or degree of differentiation into aspidocytes. " [DDB:pg, PMID:17259634]
+def: "Increase in extent, amount, or degree of differentiation into aspidocytes." [DDB:pg, PMID:17259634]
 is_a: DDPHENO:0001173 ! aberrant aspidocyte differentiation
 
 [Term]
 id: DDPHENO:0001175
 name: decreased aspidocyte differentiation
-def: "Decrease in extent, amount, or degree of differentiation into aspidocytes. " [DDB:pg, PMID:17259634]
+def: "Decrease in extent, amount, or degree of differentiation into aspidocytes." [DDB:pg, PMID:17259634]
 is_a: DDPHENO:0001173 ! aberrant aspidocyte differentiation
 
 [Term]
 id: DDPHENO:0001176
 name: abolished aspidocyte differentiation
-def: "Complete inability for differentiation of aspidocytes. " [DDB:pg, PMID:17259634]
+def: "Complete inability for differentiation of aspidocytes." [DDB:pg, PMID:17259634]
 is_a: DDPHENO:0001173 ! aberrant aspidocyte differentiation
 
 [Term]
