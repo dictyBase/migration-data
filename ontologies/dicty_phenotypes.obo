@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 29:01:2015 15:05
+date: 12:02:2015 16:26
 saved-by: Petra
 auto-generated-by: OBO-Edit 2.2
 default-namespace: Dicty Phenotypes
@@ -1574,7 +1574,7 @@ id: DDPHENO:0000209
 name: aberrant response to osmotic stress
 def: "Deviation from the normal, usual, or expected events during the response to osmotic stress." [DDB:pg]
 is_a: DDPHENO:0001031 ! aberrant response to abiotic stimulus
-is_a: DDPHENO:0001034 ! aberrant response to stress
+is_a: DDPHENO:0001034 ! aberrant cellular response to stress
 
 [Term]
 id: DDPHENO:0000210
@@ -1586,13 +1586,13 @@ is_a: DDPHENO:0001014 ! aberrant slug formation
 id: DDPHENO:0000211
 name: aberrant cellular response to nitrogen starvation
 def: "Deviation from the normal, usual, or expected events during the cellular response to nitrogen starvation." [DDB:pf]
-is_a: DDPHENO:0001003 ! aberrant response to stimulus
+is_a: DDPHENO:0001226 ! aberrant cellular response to extracellular stimulus
 
 [Term]
 id: DDPHENO:0000212
 name: aberrant macroautophagy
 def: "Deviation from the normal, usual, or expected events during macroautophagy." [DDB:pf]
-is_a: DDPHENO:0001008 ! aberrant cellular process
+is_a: DDPHENO:0001039 ! aberrant cellular response to starvation
 
 [Term]
 id: DDPHENO:0000213
@@ -1773,6 +1773,78 @@ created_by: Petra
 creation_date: 2015-01-29T14:57:44Z
 
 [Term]
+id: DDPHENO:0000242
+name: aberrant DNA repair
+def: "Deviation from the normal, usual, or expected events during DNA repair." [DDB:pf]
+is_a: DDPHENO:0001045 ! aberrant response to DNA damaging agents
+created_by: Petra
+creation_date: 2015-02-12T14:58:49Z
+
+[Term]
+id: DDPHENO:0000243
+name: aberrant single strand repair
+def: "Deviation from the normal, usual, or expected events during single strand repair." [DDB:pf]
+is_a: DDPHENO:0000242 ! aberrant DNA repair
+created_by: Petra
+creation_date: 2015-02-12T14:59:35Z
+
+[Term]
+id: DDPHENO:0000244
+name: aberrant double strand repair
+def: "Deviation from the normal, usual, or expected events during double strand repair." [DDB:pf]
+is_a: DDPHENO:0000242 ! aberrant DNA repair
+created_by: Petra
+creation_date: 2015-02-12T15:00:20Z
+
+[Term]
+id: DDPHENO:0000245
+name: decreased double strand repair
+def: "Reduction in extent, amount, or degree of double strand repair." [DDB:pf]
+is_a: DDPHENO:0000244 ! aberrant double strand repair
+created_by: Petra
+creation_date: 2015-02-12T15:03:53Z
+
+[Term]
+id: DDPHENO:0000246
+name: decreased single strand repair
+def: "Reduction in extent, amount, or degree of single strand repair." [DDB:pf]
+is_a: DDPHENO:0000243 ! aberrant single strand repair
+created_by: Petra
+creation_date: 2015-02-12T15:04:21Z
+
+[Term]
+id: DDPHENO:0000247
+name: abolished double strand repair
+def: "Complete inability for double strand repair." [DDB:pf]
+is_a: DDPHENO:0000244 ! aberrant double strand repair
+created_by: Petra
+creation_date: 2015-02-12T15:06:27Z
+
+[Term]
+id: DDPHENO:0000248
+name: abolished single strand repair
+def: "Complete inability for single strand repair." [DDB:pf]
+is_a: DDPHENO:0000243 ! aberrant single strand repair
+created_by: Petra
+creation_date: 2015-02-12T15:06:50Z
+
+[Term]
+id: DDPHENO:0000249
+name: increased double strand repair
+def: "Increased tolerance of the normal, usual, or expected events in double strand repair." [DDB:pf]
+is_a: DDPHENO:0000244 ! aberrant double strand repair
+created_by: Petra
+creation_date: 2015-02-12T16:01:50Z
+
+[Term]
+id: DDPHENO:0000250
+name: increased single strand repair
+def: "Increased tolerance of the normal, usual, or expected events in single strand repair." [DDB:pf]
+is_a: DDPHENO:0000243 ! aberrant single strand repair
+created_by: Petra
+creation_date: 2015-02-12T16:02:13Z
+
+[Term]
 id: DDPHENO:0000260
 name: decreased sorting to prestalk region
 def: "Reduction in extent, amount, or degree of cell sorting to prestalk region during the slug stage." [DDB:pg]
@@ -1857,6 +1929,7 @@ is_a: DDPHENO:0000044 ! aberrant SDF production
 [Term]
 id: DDPHENO:0000276
 name: increased resistance to DNA-damaging agents
+def: "Increased tolerance of the normal, usual, or expected events in the presence of DNA damaging agents." [DDB:pf]
 synonym: "decreased sensitivity to DNA-damaging agents" EXACT []
 is_a: DDPHENO:0001045 ! aberrant response to DNA damaging agents
 
@@ -2258,6 +2331,7 @@ is_a: DDPHENO:0000397 ! aberrant cytoskeleton organisation
 id: DDPHENO:0000438
 name: uracil auxotroph
 is_a: DDPHENO:0001031 ! aberrant response to abiotic stimulus
+is_a: DDPHENO:0001034 ! aberrant cellular response to stress
 
 [Term]
 id: DDPHENO:0000439
@@ -2269,6 +2343,7 @@ is_a: DDPHENO:0000040 ! aberrant response to chemical stimulus
 id: DDPHENO:0000440
 name: thymidine auxotroph
 is_a: DDPHENO:0001031 ! aberrant response to abiotic stimulus
+is_a: DDPHENO:0001034 ! aberrant cellular response to stress
 
 [Term]
 id: DDPHENO:0000441
@@ -2456,6 +2531,7 @@ is_a: DDPHENO:0001027 ! aberrant pseudopod formation
 [Term]
 id: DDPHENO:0000479
 name: increased sensitivity to DNA-damaging agents
+def: "Decreased tolerance of the normal, usual, or expected events in the presence of DNA damaging agents." [DDB:pf]
 is_a: DDPHENO:0001045 ! aberrant response to DNA damaging agents
 
 [Term]
@@ -3039,21 +3115,21 @@ is_a: DDPHENO:0000236 ! aberrant cell morphology
 
 [Term]
 id: DDPHENO:0001034
-name: aberrant response to stress
-def: "Deviation from the normal, usual, or expected events during the response to stress." [DDB:pg]
+name: aberrant cellular response to stress
+def: "Deviation from the normal, usual, or expected events during the cellular response to stress." [DDB:pf]
 is_a: DDPHENO:0001003 ! aberrant response to stimulus
 
 [Term]
 id: DDPHENO:0001035
 name: aberrant response to heat
 def: "Deviation from the normal, usual, or expected events during the response to heat." [DDB:pg]
-is_a: DDPHENO:0001034 ! aberrant response to stress
+is_a: DDPHENO:0001034 ! aberrant cellular response to stress
 
 [Term]
 id: DDPHENO:0001036
 name: aberrant response to oxidative stress
 def: "Deviation from the normal, usual, or expected events during the response to oxidative stress." [DDB:pg]
-is_a: DDPHENO:0001034 ! aberrant response to stress
+is_a: DDPHENO:0001034 ! aberrant cellular response to stress
 
 [Term]
 id: DDPHENO:0001037
@@ -3077,9 +3153,9 @@ is_a: DDPHENO:0001037 ! aberrant signal transduction during aggregation
 
 [Term]
 id: DDPHENO:0001039
-name: aberrant response to starvation
-def: "Deviation from the normal, usual, or expected events during the response to starvation." [DDB:pg]
-is_a: DDPHENO:0001034 ! aberrant response to stress
+name: aberrant cellular response to starvation
+def: "Deviation from the normal, usual, or expected events during the cellular response to starvation." [DDB:pf]
+is_a: DDPHENO:0001034 ! aberrant cellular response to stress
 
 [Term]
 id: DDPHENO:0001040
@@ -3116,6 +3192,7 @@ id: DDPHENO:0001045
 name: aberrant response to DNA damaging agents
 def: "Deviation from the normal, usual, or expected events during the response to DNA damaging agents." [DDB:pg]
 is_a: DDPHENO:0001031 ! aberrant response to abiotic stimulus
+is_a: DDPHENO:0001034 ! aberrant cellular response to stress
 
 [Term]
 id: DDPHENO:0001046
@@ -3145,7 +3222,7 @@ is_a: DDPHENO:0001008 ! aberrant cellular process
 [Term]
 id: DDPHENO:0001050
 name: abolished bleb formation
-def: "Complete inability to form blebs. " [DDB:pg]
+def: "Complete inability to form blebs." [DDB:pg]
 synonym: "abolished cell blebbing" RELATED []
 is_a: DDPHENO:0001049 ! aberrant bleb formation
 
@@ -6239,15 +6316,15 @@ creation_date: 2012-09-26T05:44:58Z
 id: DDPHENO:0001504
 name: aberrant response to cation stress
 def: "Deviation from the normal, usual, or expected events during the response to cation stress." [DDB:pf]
-is_a: DDPHENO:0001034 ! aberrant response to stress
+is_a: DDPHENO:0001034 ! aberrant cellular response to stress
 created_by: pfey
 creation_date: 2012-10-04T14:20:48Z
 
 [Term]
 id: DDPHENO:0001505
-name: aberrant defense response
+name: aberrant cellular defense response
 def: "Deviation from the normal, usual, or expected response triggered in response to the presence of a foreign body or the prevention/recovery from an infection." [DDB:pf]
-is_a: DDPHENO:0001003 ! aberrant response to stimulus
+is_a: DDPHENO:0001226 ! aberrant cellular response to extracellular stimulus
 created_by: pfey
 creation_date: 2012-11-01T15:29:41Z
 
@@ -6255,7 +6332,7 @@ creation_date: 2012-11-01T15:29:41Z
 id: DDPHENO:0001506
 name: aberrant defense response to a microorganism
 def: "Deviation from the normal, usual, or expected response to the presence of a microorganism that acts to protect the cell." [DDB:pf]
-is_a: DDPHENO:0001505 ! aberrant defense response
+is_a: DDPHENO:0001505 ! aberrant cellular defense response
 created_by: pfey
 creation_date: 2012-11-01T15:39:11Z
 
@@ -6381,7 +6458,7 @@ id: DDPHENO:0001521
 name: aberrant cellular response to fluid shear stress
 def: "Deviation from the normal, usual, or expected events during the cellular response to fluid shear stress." [DDB:pf]
 synonym: "aberrant cellular response to mechanical stress" RELATED []
-is_a: DDPHENO:0001034 ! aberrant response to stress
+is_a: DDPHENO:0001034 ! aberrant cellular response to stress
 created_by: pfey
 creation_date: 2013-01-21T11:10:47Z
 
