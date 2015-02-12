@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 12:02:2015 16:26
+date: 12:02:2015 17:36
 saved-by: Petra
 auto-generated-by: OBO-Edit 2.2
 default-namespace: Dicty Phenotypes
@@ -1782,49 +1782,49 @@ creation_date: 2015-02-12T14:58:49Z
 
 [Term]
 id: DDPHENO:0000243
-name: aberrant single strand repair
-def: "Deviation from the normal, usual, or expected events during single strand repair." [DDB:pf]
+name: aberrant single strand break repair
+def: "Deviation from the normal, usual, or expected events during single strand break repair." [DDB:pf]
 is_a: DDPHENO:0000242 ! aberrant DNA repair
 created_by: Petra
 creation_date: 2015-02-12T14:59:35Z
 
 [Term]
 id: DDPHENO:0000244
-name: aberrant double strand repair
-def: "Deviation from the normal, usual, or expected events during double strand repair." [DDB:pf]
+name: aberrant double strand break repair
+def: "Deviation from the normal, usual, or expected events during double strand break repair." [DDB:pf]
 is_a: DDPHENO:0000242 ! aberrant DNA repair
 created_by: Petra
 creation_date: 2015-02-12T15:00:20Z
 
 [Term]
 id: DDPHENO:0000245
-name: decreased double strand repair
-def: "Reduction in extent, amount, or degree of double strand repair." [DDB:pf]
-is_a: DDPHENO:0000244 ! aberrant double strand repair
+name: decreased double strand break repair
+def: "Reduction in extent, amount, or degree of double strand break repair." [DDB:pf]
+is_a: DDPHENO:0000244 ! aberrant double strand break repair
 created_by: Petra
 creation_date: 2015-02-12T15:03:53Z
 
 [Term]
 id: DDPHENO:0000246
-name: decreased single strand repair
-def: "Reduction in extent, amount, or degree of single strand repair." [DDB:pf]
-is_a: DDPHENO:0000243 ! aberrant single strand repair
+name: decreased single strand break repair
+def: "Reduction in extent, amount, or degree of single strand break repair." [DDB:pf]
+is_a: DDPHENO:0000243 ! aberrant single strand break repair
 created_by: Petra
 creation_date: 2015-02-12T15:04:21Z
 
 [Term]
 id: DDPHENO:0000247
-name: abolished double strand repair
-def: "Complete inability for double strand repair." [DDB:pf]
-is_a: DDPHENO:0000244 ! aberrant double strand repair
+name: abolished double strand break repair
+def: "Complete inability for double strand break repair." [DDB:pf]
+is_a: DDPHENO:0000244 ! aberrant double strand break repair
 created_by: Petra
 creation_date: 2015-02-12T15:06:27Z
 
 [Term]
 id: DDPHENO:0000248
-name: abolished single strand repair
-def: "Complete inability for single strand repair." [DDB:pf]
-is_a: DDPHENO:0000243 ! aberrant single strand repair
+name: abolished single strand break repair
+def: "Complete inability for single strand break repair." [DDB:pf]
+is_a: DDPHENO:0000243 ! aberrant single strand break repair
 created_by: Petra
 creation_date: 2015-02-12T15:06:50Z
 
@@ -1832,15 +1832,15 @@ creation_date: 2015-02-12T15:06:50Z
 id: DDPHENO:0000249
 name: increased double strand repair
 def: "Increased tolerance of the normal, usual, or expected events in double strand repair." [DDB:pf]
-is_a: DDPHENO:0000244 ! aberrant double strand repair
+is_a: DDPHENO:0000244 ! aberrant double strand break repair
 created_by: Petra
 creation_date: 2015-02-12T16:01:50Z
 
 [Term]
 id: DDPHENO:0000250
-name: increased single strand repair
-def: "Increased tolerance of the normal, usual, or expected events in single strand repair." [DDB:pf]
-is_a: DDPHENO:0000243 ! aberrant single strand repair
+name: increased single strand break repair
+def: "Increased tolerance of the normal, usual, or expected events in single strand break repair." [DDB:pf]
+is_a: DDPHENO:0000243 ! aberrant single strand break repair
 created_by: Petra
 creation_date: 2015-02-12T16:02:13Z
 
