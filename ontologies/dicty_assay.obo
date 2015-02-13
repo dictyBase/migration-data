@@ -1,6 +1,6 @@
 format-version: 1.2
-date: 21:11:2014 15:59
-saved-by: pfey
+date: 13:02:2015 13:48
+saved-by: Petra
 auto-generated-by: OBO-Edit 2.2
 default-namespace: Dictyostelium Assay
 
@@ -426,6 +426,29 @@ name: adhesion assay
 is_a: DDASSAY:0000001 ! Dictyostelium Assay
 created_by: pfey
 creation_date: 2014-11-21T15:51:32Z
+
+[Term]
+id: DDASSAY:0000077
+name: transformation efficiency test
+is_a: DDASSAY:0000001 ! Dictyostelium Assay
+created_by: Petra
+creation_date: 2015-02-13T11:20:56Z
+
+[Term]
+id: DDASSAY:0000078
+name: REMI efficiency test
+synonym: "restriction enzyme mediated transformation efficiency test" EXACT []
+is_a: DDASSAY:0000077 ! transformation efficiency test
+created_by: Petra
+creation_date: 2015-02-13T11:21:44Z
+
+[Term]
+id: DDASSAY:0000079
+name: HR efficiency test
+synonym: "homologous recombination efficiency test" EXACT []
+is_a: DDASSAY:0000077 ! transformation efficiency test
+created_by: Petra
+creation_date: 2015-02-13T11:25:25Z
 
 [Term]
 id: DDENVIR:0000001
