@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 12:02:2015 17:36
+date: 04:03:2015 17:43
 saved-by: Petra
 auto-generated-by: OBO-Edit 2.2
 default-namespace: Dicty Phenotypes
@@ -1845,6 +1845,30 @@ created_by: Petra
 creation_date: 2015-02-12T16:02:13Z
 
 [Term]
+id: DDPHENO:0000251
+name: aberrant regulation of mitochondrial membrane potential
+def: "Deviation from the normal, usual, or expected events during regulation of  the electric potential existing across the mitochondrial membrane arising from charges in the membrane itself and from the charges present in the media on either side of the membrane." [DDB:pf]
+is_a: DDPHENO:0001008 ! aberrant cellular process
+created_by: Petra
+creation_date: 2015-03-04T16:27:33Z
+
+[Term]
+id: DDPHENO:0000252
+name: aberrant positive regulation of mitochondrial membrane potential
+def: "Deviation from the normal, usual, or expected events during positive regulation of  the electric potential existing across the mitochondrial membrane arising from charges in the membrane itself and from the charges present in the media on either side of the membrane." [DDB:pf]
+is_a: DDPHENO:0000251 ! aberrant regulation of mitochondrial membrane potential
+created_by: Petra
+creation_date: 2015-03-04T17:40:26Z
+
+[Term]
+id: DDPHENO:0000253
+name: aberrant negative regulation of mitochondrial membrane potential
+def: "Deviation from the normal, usual, or expected events during negative regulation of  the electric potential existing across the mitochondrial membrane arising from charges in the membrane itself and from the charges present in the media on either side of the membrane." [DDB:pf]
+is_a: DDPHENO:0000251 ! aberrant regulation of mitochondrial membrane potential
+created_by: Petra
+creation_date: 2015-03-04T17:41:03Z
+
+[Term]
 id: DDPHENO:0000260
 name: decreased sorting to prestalk region
 def: "Reduction in extent, amount, or degree of cell sorting to prestalk region during the slug stage." [DDB:pg]
@@ -2649,7 +2673,7 @@ is_a: DDPHENO:0000388 ! abolished vacuolation
 [Term]
 id: DDPHENO:0000499
 name: abolished cell-substrate adhesion
-def: "Complete inability for cell-substrate adhesion. " [DDB:pg]
+def: "Complete inability for cell-substrate adhesion." [DDB:pg]
 synonym: "abolished substrate adhesion" RELATED []
 is_a: DDPHENO:0000187 ! aberrant cell-substrate adhesion
 
