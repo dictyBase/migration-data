@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 13:04:2015 17:16
+date: 13:04:2015 17:44
 saved-by: Petra
 auto-generated-by: OBO-Edit 2.2
 default-namespace: Dicty Phenotypes
@@ -1886,6 +1886,26 @@ synonym: "aberrant potassium-facilitated chemotaxis to cAMP" RELATED []
 is_a: DDPHENO:0001167 ! aberrant chemotaxis to cAMP
 created_by: Petra
 creation_date: 2015-04-13T16:57:18Z
+
+[Term]
+id: DDPHENO:0000256
+name: abolished  potassium-dependent chemotaxis to cAMP
+def: "Complete inability for chemotaxis in response to potassium-dependent cAMP chemotaxis." [DDB:pf]
+synonym: "abolished  potassium-facilitated chemotaxis to cAMP" RELATED []
+synonym: "abolished K+-dependent chemotaxis to cAMP" EXACT []
+is_a: DDPHENO:0000255 ! aberrant potassium-dependent chemotaxis to cAMP
+is_a: DDPHENO:0001101 ! abolished chemotaxis to cAMP
+created_by: Petra
+creation_date: 2015-04-13T17:39:42Z
+
+[Term]
+id: DDPHENO:0000257
+name: abolished chemotaxis to calcium
+def: "Complete inability for chemotaxis in response to calcium." [DDB:pf]
+synonym: "abolished chemotaxis to Ca2+" EXACT []
+is_a: DDPHENO:0000254 ! aberrant chemotaxis to calcium
+created_by: Petra
+creation_date: 2015-04-13T17:42:45Z
 
 [Term]
 id: DDPHENO:0000260
