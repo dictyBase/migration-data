@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 04:03:2015 17:43
+date: 13:04:2015 17:16
 saved-by: Petra
 auto-generated-by: OBO-Edit 2.2
 default-namespace: Dicty Phenotypes
@@ -1481,7 +1481,7 @@ is_a: DDPHENO:0001024 ! aberrant prestalk 0 cell differentiation
 [Term]
 id: DDPHENO:0000193
 name: abolished DIF production
-def: "Complete inability for DIF production. " [DDB:pg]
+def: "Complete inability for DIF production." [DDB:pg]
 synonym: "abolished DIF-1 production" NARROW []
 synonym: "abolished differentiation inducing factor production" EXACT []
 is_a: DDPHENO:0001095 ! aberrant DIF production
@@ -1867,6 +1867,25 @@ def: "Deviation from the normal, usual, or expected events during negative regul
 is_a: DDPHENO:0000251 ! aberrant regulation of mitochondrial membrane potential
 created_by: Petra
 creation_date: 2015-03-04T17:41:03Z
+
+[Term]
+id: DDPHENO:0000254
+name: aberrant chemotaxis to calcium
+def: "Deviation from the normal, usual, or expected events during the locomotory response guided by increasing chemical concentration of calcium." [DDB:pf]
+synonym: "aberrant chemotaxis to Ca2+" EXACT []
+is_a: DDPHENO:0001224 ! aberrant positive chemotaxis
+created_by: Petra
+creation_date: 2015-04-13T16:41:24Z
+
+[Term]
+id: DDPHENO:0000255
+name: aberrant potassium-dependent chemotaxis to cAMP
+def: "Deviation from the normal, usual, or expected events during the locomotory response to potassium-dependent  cAMP chemotaxis." [DDB:pf]
+synonym: "aberrant K+-dependent chemotaxis to cAMP" EXACT []
+synonym: "aberrant potassium-facilitated chemotaxis to cAMP" RELATED []
+is_a: DDPHENO:0001167 ! aberrant chemotaxis to cAMP
+created_by: Petra
+creation_date: 2015-04-13T16:57:18Z
 
 [Term]
 id: DDPHENO:0000260
