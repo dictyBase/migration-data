@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 13:04:2015 17:44
+date: 05:05:2015 17:19
 saved-by: Petra
 auto-generated-by: OBO-Edit 2.2
 default-namespace: Dicty Phenotypes
@@ -1908,6 +1908,13 @@ created_by: Petra
 creation_date: 2015-04-13T17:42:45Z
 
 [Term]
+id: DDPHENO:0000258
+name: aberrant defense response to bacterium
+is_a: DDPHENO:0001506 ! aberrant defense response to a microorganism
+created_by: Petra
+creation_date: 2015-05-05T14:26:26Z
+
+[Term]
 id: DDPHENO:0000260
 name: decreased sorting to prestalk region
 def: "Reduction in extent, amount, or degree of cell sorting to prestalk region during the slug stage." [DDB:pg]
@@ -1997,6 +2004,134 @@ synonym: "decreased sensitivity to DNA-damaging agents" EXACT []
 is_a: DDPHENO:0001045 ! aberrant response to DNA damaging agents
 
 [Term]
+id: DDPHENO:0000277
+name: aberrant infection rate by a bacterium
+def: "Deviation from the normal, usual, or expected events during infection of Dictyostelium by a bacterium." [DDB:pf]
+is_a: DDPHENO:0000258 ! aberrant defense response to bacterium
+created_by: Petra
+creation_date: 2015-05-05T14:56:22Z
+
+[Term]
+id: DDPHENO:0000278
+name: decreased infection rate by a bacterium
+is_a: DDPHENO:0000277 ! aberrant infection rate by a bacterium
+created_by: Petra
+creation_date: 2015-05-05T14:58:43Z
+
+[Term]
+id: DDPHENO:0000279
+name: increased infection rate by a bacterium
+is_a: DDPHENO:0000277 ! aberrant infection rate by a bacterium
+created_by: Petra
+creation_date: 2015-05-05T14:59:45Z
+
+[Term]
+id: DDPHENO:0000280
+name: aberrant defense response to yeast
+is_a: DDPHENO:0001506 ! aberrant defense response to a microorganism
+created_by: Petra
+creation_date: 2015-05-05T16:05:13Z
+
+[Term]
+id: DDPHENO:0000281
+name: aberrant infection rate by a yeast
+is_a: DDPHENO:0000280 ! aberrant defense response to yeast
+created_by: Petra
+creation_date: 2015-05-05T16:06:20Z
+
+[Term]
+id: DDPHENO:0000282
+name: decreased infection rate by a yeast
+is_a: DDPHENO:0000281 ! aberrant infection rate by a yeast
+created_by: Petra
+creation_date: 2015-05-05T16:07:54Z
+
+[Term]
+id: DDPHENO:0000283
+name: increased infection rate by a yeast
+is_a: DDPHENO:0000281 ! aberrant infection rate by a yeast
+created_by: Petra
+creation_date: 2015-05-05T16:08:09Z
+
+[Term]
+id: DDPHENO:0000284
+name: aberrant infection rate by a gram+ bacterium
+is_a: DDPHENO:0000277 ! aberrant infection rate by a bacterium
+created_by: Petra
+creation_date: 2015-05-05T16:38:31Z
+
+[Term]
+id: DDPHENO:0000285
+name: decreased infection rate by a gram+ bacterium
+is_a: DDPHENO:0000278 ! decreased infection rate by a bacterium
+is_a: DDPHENO:0000284 ! aberrant infection rate by a gram+ bacterium
+created_by: Petra
+creation_date: 2015-05-05T16:42:05Z
+
+[Term]
+id: DDPHENO:0000286
+name: increased  infection rate by a gram+ bacterium
+is_a: DDPHENO:0000279 ! increased infection rate by a bacterium
+is_a: DDPHENO:0000284 ! aberrant infection rate by a gram+ bacterium
+created_by: Petra
+creation_date: 2015-05-05T16:42:37Z
+
+[Term]
+id: DDPHENO:0000287
+name: aberrant infection rate by a gram- bacterium
+is_a: DDPHENO:0000277 ! aberrant infection rate by a bacterium
+created_by: Petra
+creation_date: 2015-05-05T16:48:58Z
+
+[Term]
+id: DDPHENO:0000288
+name: decreased infection rate by a gram- bacterium
+is_a: DDPHENO:0000278 ! decreased infection rate by a bacterium
+is_a: DDPHENO:0000287 ! aberrant infection rate by a gram- bacterium
+created_by: Petra
+creation_date: 2015-05-05T16:49:27Z
+
+[Term]
+id: DDPHENO:0000289
+name: increased infection rate by a gram- bacterium
+is_a: DDPHENO:0000279 ! increased infection rate by a bacterium
+is_a: DDPHENO:0000287 ! aberrant infection rate by a gram- bacterium
+created_by: Petra
+creation_date: 2015-05-05T16:49:39Z
+
+[Term]
+id: DDPHENO:0000290
+name: abolished resistance to a gram+ bacterium
+synonym: "abolished resistance to a pathogenic gram+ bacterium" NARROW []
+is_a: DDPHENO:0000284 ! aberrant infection rate by a gram+ bacterium
+is_a: DDPHENO:0000491 ! abolished resistance to a bacterium
+created_by: Petra
+creation_date: 2015-05-05T16:57:55Z
+
+[Term]
+id: DDPHENO:0000291
+name: abolished resistance to a gram- bacterium
+synonym: "abolished resistance to a pathogenic gram- bacterium" NARROW []
+is_a: DDPHENO:0000287 ! aberrant infection rate by a gram- bacterium
+is_a: DDPHENO:0000491 ! abolished resistance to a bacterium
+created_by: Petra
+creation_date: 2015-05-05T16:58:28Z
+
+[Term]
+id: DDPHENO:0000292
+name: decreased infection rate by Mycobacterium marinum
+is_a: DDPHENO:0000285 ! decreased infection rate by a gram+ bacterium
+created_by: Petra
+creation_date: 2015-05-05T17:02:13Z
+
+[Term]
+id: DDPHENO:0000293
+name: increased infection rate by Mycobacterium marinum
+is_a: DDPHENO:0000286 ! increased  infection rate by a gram+ bacterium
+created_by: Petra
+creation_date: 2015-05-05T17:03:59Z
+
+[Term]
 id: DDPHENO:0000300
 name: decreased gene expression
 alt_id: DDPHENO:0000174
@@ -2063,7 +2198,7 @@ is_a: DDPHENO:0001001 ! aberrant initiation of development
 [Term]
 id: DDPHENO:0000376
 name: abolished filopodium formation
-def: "Complete inability to form pseudopods. " [DDB:pg]
+def: "Complete inability to form pseudopods." [DDB:pg]
 is_a: DDPHENO:0001028 ! aberrant filopodium formation
 
 [Term]
@@ -2316,7 +2451,7 @@ id: DDPHENO:0000423
 name: decreased infection rate by Legionella pneumophila
 def: "Reduction in extent, amount, or degree of the infection rate by Legionella pneumophila." [DDB:pf]
 synonym: "increased resistance to infection by Legionella pneumophila" RELATED []
-is_a: DDPHENO:0001195 ! decreased infection rate by a microorganism
+is_a: DDPHENO:0000288 ! decreased infection rate by a gram- bacterium
 
 [Term]
 id: DDPHENO:0000424
@@ -2668,8 +2803,9 @@ is_a: DDPHENO:0001005 ! aberrant cellular metabolic process
 
 [Term]
 id: DDPHENO:0000491
-name: abolished resistance to pathogenic bacteria
-is_a: DDPHENO:0001193 ! aberrant infection rate by a microorganism
+name: abolished resistance to a bacterium
+synonym: "abolished resistance to a pathogenic bacterium" NARROW []
+is_a: DDPHENO:0000277 ! aberrant infection rate by a bacterium
 
 [Term]
 id: DDPHENO:0000492
@@ -2914,14 +3050,14 @@ id: DDPHENO:0000542
 name: increased infection rate by Legionella pneumophila
 def: "Increase in extent, amount, or degree of the infection rate by Legionella pneumophila." [DDB:pf]
 synonym: "increased sensitivity to infection by Legionella pneumophila" RELATED []
-is_a: DDPHENO:0001194 ! increased infection rate by a microorganism
+is_a: DDPHENO:0000289 ! increased infection rate by a gram- bacterium
 
 [Term]
 id: DDPHENO:0000543
 name: increased infection rate by Mycobacterium avium
 def: "Increase in extent, amount, or degree of the infection rate by Mycobacterium avium." [DDB:pf]
 synonym: "increased sensitivity to infection by Mycobacterium avium" RELATED []
-is_a: DDPHENO:0001194 ! increased infection rate by a microorganism
+is_a: DDPHENO:0000286 ! increased  infection rate by a gram+ bacterium
 
 [Term]
 id: DDPHENO:0000544
@@ -4254,42 +4390,42 @@ is_a: DDPHENO:0001041 ! aberrant vacuole organization and biogenesis
 id: DDPHENO:0001193
 name: aberrant infection rate by a microorganism
 def: "Deviation from the normal, usual, or expected events during infection of Dictyostelium by a microorganism." [DDB:pf]
-is_a: DDPHENO:0001506 ! aberrant defense response to a microorganism
+is_obsolete: true
 
 [Term]
 id: DDPHENO:0001194
 name: increased infection rate by a microorganism
 def: "Increase in extent, amount, or degree of the infection rate by a microorganism." [DDB:pf]
 synonym: "increased sensitivity to infection" RELATED []
-is_a: DDPHENO:0001193 ! aberrant infection rate by a microorganism
+is_obsolete: true
 
 [Term]
 id: DDPHENO:0001195
 name: decreased infection rate by a microorganism
 def: "Reduction in extent, amount, or degree of the infection rate by a microorganism." [DDB:pf]
 synonym: "increased resistance to infection" RELATED []
-is_a: DDPHENO:0001193 ! aberrant infection rate by a microorganism
+is_obsolete: true
 
 [Term]
 id: DDPHENO:0001196
 name: decreased infection rate by Mycobacterium avium
 def: "Reduction in extent, amount, or degree of the infection rate by Mycobacterium avium." [DDB:pf]
 synonym: "increased resistance to infection by Mycobacterium avium" RELATED []
-is_a: DDPHENO:0001195 ! decreased infection rate by a microorganism
+is_a: DDPHENO:0000285 ! decreased infection rate by a gram+ bacterium
 
 [Term]
 id: DDPHENO:0001197
 name: decreased infection rate by Cryptococcus neoformans
 def: "Reduction in extent, amount, or degree of the infection rate by Cryptococcus neoformans." [DDB:pf]
 synonym: "increased resistance to infection by Cryptococcus neoformans" RELATED []
-is_a: DDPHENO:0001195 ! decreased infection rate by a microorganism
+is_a: DDPHENO:0000282 ! decreased infection rate by a yeast
 
 [Term]
 id: DDPHENO:0001198
 name: increased infection rate by Cryptococcus neoformans
 def: "Increase in extent, amount, or degree of the infection rate by Cryptococcus neoformans." [DDB:pf]
 synonym: "increased sensitivity to infection by Cryptococcus neoformans" RELATED []
-is_a: DDPHENO:0001194 ! increased infection rate by a microorganism
+is_a: DDPHENO:0000283 ! increased infection rate by a yeast
 
 [Term]
 id: DDPHENO:0001199
