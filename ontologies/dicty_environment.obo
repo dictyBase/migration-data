@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 06:05:2015 16:02
+date: 07:05:2015 15:53
 saved-by: Petra
 auto-generated-by: OBO-Edit 2.2
 default-namespace: Dicty Environment
@@ -27,7 +27,7 @@ is_a: DDENVIR:0000056 ! in liquid medium
 [Term]
 id: DDENVIR:0000004
 name: on bacterial plate
-is_a: DDENVIR:0000057 ! on or under solid medium
+is_a: DDENVIR:0000008 ! on solid surfaces
 
 [Term]
 id: DDENVIR:0000005
@@ -149,12 +149,12 @@ is_a: DDENVIR:0000056 ! in liquid medium
 [Term]
 id: DDENVIR:0000029
 name: on non-nutrient agar
-is_a: DDENVIR:0000057 ! on or under solid medium
+is_a: DDENVIR:0000008 ! on solid surfaces
 
 [Term]
 id: DDENVIR:0000030
 name: on filter
-is_a: DDENVIR:0000057 ! on or under solid medium
+is_a: DDENVIR:0000008 ! on solid surfaces
 
 [Term]
 id: DDENVIR:0000031
@@ -349,4 +349,12 @@ synonym: "during bacterial infection" BROAD []
 is_a: DDENVIR:0000054 ! in the presence of biotic or abiotic stimulus
 created_by: Petra
 creation_date: 2015-05-06T16:00:37Z
+
+[Term]
+id: DDENVIR:0000062
+name: on soil plate
+synonym: "on soil medium" EXACT []
+is_a: DDENVIR:0000008 ! on solid surfaces
+created_by: Petra
+creation_date: 2015-05-07T15:48:39Z
 
