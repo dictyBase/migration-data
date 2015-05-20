@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 05:05:2015 17:19
+date: 20:05:2015 17:49
 saved-by: Petra
 auto-generated-by: OBO-Edit 2.2
 default-namespace: Dicty Phenotypes
@@ -2132,6 +2132,46 @@ created_by: Petra
 creation_date: 2015-05-05T17:03:59Z
 
 [Term]
+id: DDPHENO:0000294
+name: aberrant protein binding
+def: "Deviation from the normal, usual, or expected binding of a protein." [DDB:pf]
+is_a: DDPHENO:0001255 ! aberrant binding
+created_by: Petra
+creation_date: 2015-05-20T17:42:41Z
+
+[Term]
+id: DDPHENO:0000295
+name: abolished protein binding
+def: "Complete absence of protein binding." [DDB:pf]
+is_a: DDPHENO:0000294 ! aberrant protein binding
+created_by: Petra
+creation_date: 2015-05-20T17:43:34Z
+
+[Term]
+id: DDPHENO:0000296
+name: decreased protein binding
+def: "A reduction in extent, amount, or degree of binding to a protein." [DDB:pf]
+is_a: DDPHENO:0000294 ! aberrant protein binding
+created_by: Petra
+creation_date: 2015-05-20T17:44:30Z
+
+[Term]
+id: DDPHENO:0000297
+name: increased protein binding
+def: "Increased in extent, amount, or degree of binding a protein." [DDB:pf]
+is_a: DDPHENO:0000294 ! aberrant protein binding
+created_by: Petra
+creation_date: 2015-05-20T17:44:44Z
+
+[Term]
+id: DDPHENO:0000298
+name: aberrant lipid binding
+def: "Deviation from the normal, usual, or expected binding  a lipid." [DDB:pf]
+is_a: DDPHENO:0001255 ! aberrant binding
+created_by: Petra
+creation_date: 2015-05-20T17:46:27Z
+
+[Term]
 id: DDPHENO:0000300
 name: decreased gene expression
 alt_id: DDPHENO:0000174
@@ -2914,7 +2954,7 @@ is_a: DDPHENO:0000546 ! aberrant stalk cell differentiation
 [Term]
 id: DDPHENO:0000516
 name: abolished prespore cell differentiation
-def: "Complete inability for differentiation of prespore cells. " [DDB:pg]
+def: "Complete inability for differentiation of prespore cells." [DDB:pg]
 is_a: DDPHENO:0001025 ! aberrant prespore cell differentiation
 
 [Term]
@@ -5810,7 +5850,7 @@ is_a: DDPHENO:0000471 ! aberrant protein localization
 id: DDPHENO:0001409
 name: abolished phosphoinositide binding
 def: "Complete absence of phosphoinositide binding." [DDB:pf]
-is_a: DDPHENO:0001255 ! aberrant binding
+is_a: DDPHENO:0000298 ! aberrant lipid binding
 
 [Term]
 id: DDPHENO:0001410
