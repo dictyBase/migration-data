@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 07:05:2015 15:53
+date: 08:06:2015 16:42
 saved-by: Petra
 auto-generated-by: OBO-Edit 2.2
 default-namespace: Dicty Environment
@@ -357,4 +357,25 @@ synonym: "on soil medium" EXACT []
 is_a: DDENVIR:0000008 ! on solid surfaces
 created_by: Petra
 creation_date: 2015-05-07T15:48:39Z
+
+[Term]
+id: DDENVIR:0000063
+name: during chimeric development
+is_a: DDENVIR:0000040 ! during development
+created_by: Petra
+creation_date: 2015-06-08T16:37:07Z
+
+[Term]
+id: DDENVIR:0000064
+name: during chimeric early development
+is_a: DDENVIR:0000063 ! during chimeric development
+created_by: Petra
+creation_date: 2015-06-08T16:41:12Z
+
+[Term]
+id: DDENVIR:0000065
+name: during chimeric late development
+is_a: DDENVIR:0000063 ! during chimeric development
+created_by: Petra
+creation_date: 2015-06-08T16:41:37Z
 
