@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 13:02:2015 13:48
+date: 08:06:2015 16:34
 saved-by: Petra
 auto-generated-by: OBO-Edit 2.2
 default-namespace: Dictyostelium Assay
@@ -227,7 +227,15 @@ is_a: DDASSAY:0000001 ! Dictyostelium Assay
 [Term]
 id: DDASSAY:0000046
 name: slug grafting
-is_a: DDASSAY:0000058 ! development of chimeras
+is_a: DDASSAY:0000066 ! fruiting body development
+
+[Term]
+id: DDASSAY:0000047
+name: segregation  assay
+synonym: "co-aggregation" BROAD []
+is_a: DDASSAY:0000068 ! growth and development assay
+created_by: Petra
+creation_date: 2015-06-08T16:31:06Z
 
 [Term]
 id: DDASSAY:0000048
@@ -289,15 +297,6 @@ name: uptake of TRITC-dextran
 is_a: DDASSAY:0000062 ! phagocytosis assay
 created_by: pfey
 creation_date: 2013-01-28T17:53:39Z
-
-[Term]
-id: DDASSAY:0000058
-name: development of chimeras
-alt_id: DDASSAY:0000047
-synonym: "grafting experiment" NARROW []
-is_a: DDASSAY:0000066 ! fruiting body development
-created_by: pfey
-creation_date: 2014-01-22T15:15:41Z
 
 [Term]
 id: DDASSAY:0000059
