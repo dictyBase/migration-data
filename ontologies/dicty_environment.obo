@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 08:06:2015 16:42
+date: 16:06:2015 17:33
 saved-by: Petra
 auto-generated-by: OBO-Edit 2.2
 default-namespace: Dicty Environment
@@ -378,4 +378,11 @@ name: during chimeric late development
 is_a: DDENVIR:0000063 ! during chimeric development
 created_by: Petra
 creation_date: 2015-06-08T16:41:37Z
+
+[Term]
+id: DDENVIR:0000066
+name: in the presence of detergent
+is_a: DDENVIR:0000054 ! in the presence of biotic or abiotic stimulus
+created_by: Petra
+creation_date: 2015-06-16T17:32:06Z
 
