@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 20:05:2015 17:49
+date: 16:06:2015 17:43
 saved-by: Petra
 auto-generated-by: OBO-Edit 2.2
 default-namespace: Dicty Phenotypes
@@ -1918,7 +1918,7 @@ creation_date: 2015-05-05T14:26:26Z
 id: DDPHENO:0000260
 name: decreased sorting to prestalk region
 def: "Reduction in extent, amount, or degree of cell sorting to prestalk region during the slug stage." [DDB:pg]
-is_a: DDPHENO:0001014 ! aberrant slug formation
+is_a: DDPHENO:0000306 ! aberrant sorting to prestalk region
 
 [Term]
 id: DDPHENO:0000261
@@ -2234,6 +2234,14 @@ id: DDPHENO:0000305
 name: abolished down-regulation of growth phase genes
 def: "Complete inability to down-regulate growth pahse genes during development." [DDB:pg]
 is_a: DDPHENO:0001001 ! aberrant initiation of development
+
+[Term]
+id: DDPHENO:0000306
+name: aberrant sorting to prestalk region
+def: "Deviation from the normal, usual, or expected sorting to the prestalk region." [DDB:pf]
+is_a: DDPHENO:0001014 ! aberrant slug formation
+created_by: Petra
+creation_date: 2015-06-16T17:41:25Z
 
 [Term]
 id: DDPHENO:0000376
@@ -2822,7 +2830,7 @@ is_a: DDPHENO:0000040 ! aberrant response to chemical stimulus
 id: DDPHENO:0000487
 name: abolished sorting to prestalk region
 def: "Complete inability for cells to sort to the prestalk region during the slug stage." [DDB:pg]
-is_a: DDPHENO:0001014 ! aberrant slug formation
+is_a: DDPHENO:0000306 ! aberrant sorting to prestalk region
 
 [Term]
 id: DDPHENO:0000488
@@ -3009,7 +3017,7 @@ is_a: DDPHENO:0001168 ! aberrant chemotaxis to folate
 id: DDPHENO:0000524
 name: increased sorting to prestalk region
 def: "Increase in extent, amount, or degree of cell sorting to the prestalk region during the slug stage." [DDB:pg]
-is_a: DDPHENO:0001014 ! aberrant slug formation
+is_a: DDPHENO:0000306 ! aberrant sorting to prestalk region
 
 [Term]
 id: DDPHENO:0000525
