@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 16:06:2015 17:43
+date: 17:06:2015 15:00
 saved-by: Petra
 auto-generated-by: OBO-Edit 2.2
 default-namespace: Dicty Phenotypes
@@ -341,7 +341,7 @@ creation_date: 2014-03-20T13:04:44Z
 [Term]
 id: DDPHENO:0000044
 name: aberrant SDF production
-def: "Deviation from the normal, usual, or expected during SDF production." [DDB:pf]
+def: "Deviation from the normal, usual, or expected during SDF production, peptides that promote terminal spore differentiation." [DDB:pf]
 is_a: DDPHENO:0001005 ! aberrant cellular metabolic process
 created_by: pfey
 creation_date: 2014-03-20T13:59:32Z
@@ -1418,7 +1418,7 @@ is_a: DDPHENO:0001431 ! aberrant tip formation
 [Term]
 id: DDPHENO:0000181
 name: abolished slug migration
-def: "Complete inability for slugs to migrate. " [DDB:pg]
+def: "Complete inability for slugs to migrate." [DDB:pg]
 is_a: DDPHENO:0001077 ! aberrant slug migration
 
 [Term]
@@ -1985,7 +1985,7 @@ is_a: DDPHENO:0001234 ! aberrant mitochondrion organization
 [Term]
 id: DDPHENO:0000273
 name: decreased SDF production
-def: "Reduction in extent, amount, or degree of production of SDF-1 or SDF-2, peptides that promote terminal spore differentiation" [DDB:pg]
+def: "Reduction in extent, amount, or degree of production of SDF-1 or SDF-2, peptides that promote terminal spore differentiation." [DDB:pg]
 synonym: "decreased spore differentiation factor production" EXACT []
 is_a: DDPHENO:0000044 ! aberrant SDF production
 
@@ -2242,6 +2242,65 @@ def: "Deviation from the normal, usual, or expected sorting to the prestalk regi
 is_a: DDPHENO:0001014 ! aberrant slug formation
 created_by: Petra
 creation_date: 2015-06-16T17:41:25Z
+
+[Term]
+id: DDPHENO:0000307
+name: abolished SDF-1 production
+def: "Complete inability for the production of SDF-1, a  peptide that promote terminal spore differentiation." [DDB:pf]
+is_a: DDPHENO:0000274 ! abolished SDF production
+created_by: Petra
+creation_date: 2015-06-17T14:01:18Z
+
+[Term]
+id: DDPHENO:0000308
+name: abolished SDF-2 production
+def: "Complete inability for the production of SDF-2, a  peptide that promote terminal spore differentiation." [DDB:pf]
+is_a: DDPHENO:0000274 ! abolished SDF production
+created_by: Petra
+creation_date: 2015-06-17T14:01:46Z
+
+[Term]
+id: DDPHENO:0000309
+name: decreased SDF-1 production
+def: "Reduction in extent, amount, or degree of production of SDF-1, a peptide that promote terminal spore differentiation." [DDB:pf]
+is_a: DDPHENO:0000273 ! decreased SDF production
+created_by: Petra
+creation_date: 2015-06-17T14:02:06Z
+
+[Term]
+id: DDPHENO:0000310
+name: decreased SDF-2 production
+def: "Reduction in extent, amount, or degree of production of SDF-2, a peptide that promote terminal spore differentiation." [DDB:pf]
+is_a: DDPHENO:0000273 ! decreased SDF production
+created_by: Petra
+creation_date: 2015-06-17T14:03:53Z
+
+[Term]
+id: DDPHENO:0000311
+name: aberrant MPBD production
+def: "Deviation from the normal, usual, or expected during MPBD production, a polyketide." [DDB:pf]
+synonym: "aberrant MPBD (4-methyl5-pentylbenzene-1,3 diol production" EXACT []
+is_a: DDPHENO:0001005 ! aberrant cellular metabolic process
+created_by: Petra
+creation_date: 2015-06-17T14:37:07Z
+
+[Term]
+id: DDPHENO:0000312
+name: abolished MPBD production
+def: "Complete inability for the production of MPBD, a polyketide." [DDB:pf]
+synonym: "abolished MPBD (4-methyl5-pentylbenzene-1,3 diol production" EXACT []
+is_a: DDPHENO:0000311 ! aberrant MPBD production
+created_by: Petra
+creation_date: 2015-06-17T14:39:34Z
+
+[Term]
+id: DDPHENO:0000313
+name: decreased MPBD production
+def: "Reduction in extent, amount, or degree of production of MPBD, a polyketide." [DDB:pf]
+synonym: "decreased MPBD (4-methyl5-pentylbenzene-1,3 diol production" EXACT []
+is_a: DDPHENO:0000311 ! aberrant MPBD production
+created_by: Petra
+creation_date: 2015-06-17T14:40:21Z
 
 [Term]
 id: DDPHENO:0000376
@@ -2966,11 +3025,6 @@ def: "Complete inability for differentiation of prespore cells." [DDB:pg]
 is_a: DDPHENO:0001025 ! aberrant prespore cell differentiation
 
 [Term]
-id: DDPHENO:0000517
-name: increased sporulation in the presence of 8-Br-cAMP
-is_a: DDPHENO:0000032 ! increased sporulation
-
-[Term]
 id: DDPHENO:0000518
 name: increased stalk width
 def: "Having a relative thick stalk." [DDB:pg]
@@ -2979,20 +3033,10 @@ xref: PATO:0000599
 is_a: DDPHENO:0000510 ! aberrant stalk morphogenesis
 
 [Term]
-id: DDPHENO:0000519
-name: decreased sporulation in the presence of 8-Br-cAMP
-is_a: DDPHENO:0000504 ! decreased sporulation
-
-[Term]
 id: DDPHENO:0000520
 name: abolished stalk cell differentiation in vitro
-def: "Complete inability for differentiation into stalk cells in vitro. " [DDB:pg]
+def: "Complete inability for differentiation into stalk cells in vitro." [DDB:pg]
 is_a: DDPHENO:0000514 ! abolished stalk cell differentiation
-
-[Term]
-id: DDPHENO:0000521
-name: increased sporulation in vitro
-is_a: DDPHENO:0000032 ! increased sporulation
 
 [Term]
 id: DDPHENO:0000522
