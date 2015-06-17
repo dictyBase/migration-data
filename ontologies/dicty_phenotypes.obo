@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 17:06:2015 15:00
+date: 17:06:2015 17:39
 saved-by: Petra
 auto-generated-by: OBO-Edit 2.2
 default-namespace: Dicty Phenotypes
@@ -2246,7 +2246,7 @@ creation_date: 2015-06-16T17:41:25Z
 [Term]
 id: DDPHENO:0000307
 name: abolished SDF-1 production
-def: "Complete inability for the production of SDF-1, a  peptide that promote terminal spore differentiation." [DDB:pf]
+def: "Complete inability for the production of SDF-1, a  peptide that promotes terminal spore differentiation." [DDB:pf]
 is_a: DDPHENO:0000274 ! abolished SDF production
 created_by: Petra
 creation_date: 2015-06-17T14:01:18Z
@@ -2254,7 +2254,7 @@ creation_date: 2015-06-17T14:01:18Z
 [Term]
 id: DDPHENO:0000308
 name: abolished SDF-2 production
-def: "Complete inability for the production of SDF-2, a  peptide that promote terminal spore differentiation." [DDB:pf]
+def: "Complete inability for the production of SDF-2, a  peptide that promotes terminal spore differentiation." [DDB:pf]
 is_a: DDPHENO:0000274 ! abolished SDF production
 created_by: Petra
 creation_date: 2015-06-17T14:01:46Z
@@ -2262,7 +2262,7 @@ creation_date: 2015-06-17T14:01:46Z
 [Term]
 id: DDPHENO:0000309
 name: decreased SDF-1 production
-def: "Reduction in extent, amount, or degree of production of SDF-1, a peptide that promote terminal spore differentiation." [DDB:pf]
+def: "Reduction in extent, amount, or degree of production of SDF-1, a  peptide that promotes terminal spore differentiation." [DDB:pf]
 is_a: DDPHENO:0000273 ! decreased SDF production
 created_by: Petra
 creation_date: 2015-06-17T14:02:06Z
@@ -2270,7 +2270,7 @@ creation_date: 2015-06-17T14:02:06Z
 [Term]
 id: DDPHENO:0000310
 name: decreased SDF-2 production
-def: "Reduction in extent, amount, or degree of production of SDF-2, a peptide that promote terminal spore differentiation." [DDB:pf]
+def: "Reduction in extent, amount, or degree of production of SDF-2, a  peptide that promotes terminal spore differentiation." [DDB:pf]
 is_a: DDPHENO:0000273 ! decreased SDF production
 created_by: Petra
 creation_date: 2015-06-17T14:03:53Z
@@ -2279,7 +2279,7 @@ creation_date: 2015-06-17T14:03:53Z
 id: DDPHENO:0000311
 name: aberrant MPBD production
 def: "Deviation from the normal, usual, or expected during MPBD production, a polyketide." [DDB:pf]
-synonym: "aberrant MPBD (4-methyl5-pentylbenzene-1,3 diol production" EXACT []
+synonym: "aberrant 4-methyl5-pentylbenzene-1,3 diol production" EXACT []
 is_a: DDPHENO:0001005 ! aberrant cellular metabolic process
 created_by: Petra
 creation_date: 2015-06-17T14:37:07Z
@@ -2288,7 +2288,7 @@ creation_date: 2015-06-17T14:37:07Z
 id: DDPHENO:0000312
 name: abolished MPBD production
 def: "Complete inability for the production of MPBD, a polyketide." [DDB:pf]
-synonym: "abolished MPBD (4-methyl5-pentylbenzene-1,3 diol production" EXACT []
+synonym: "abolished 4-methyl5-pentylbenzene-1,3 diol production" EXACT []
 is_a: DDPHENO:0000311 ! aberrant MPBD production
 created_by: Petra
 creation_date: 2015-06-17T14:39:34Z
@@ -2297,10 +2297,43 @@ creation_date: 2015-06-17T14:39:34Z
 id: DDPHENO:0000313
 name: decreased MPBD production
 def: "Reduction in extent, amount, or degree of production of MPBD, a polyketide." [DDB:pf]
-synonym: "decreased MPBD (4-methyl5-pentylbenzene-1,3 diol production" EXACT []
+synonym: "decreased 4-methyl5-pentylbenzene-1,3 diol production" EXACT []
 is_a: DDPHENO:0000311 ! aberrant MPBD production
 created_by: Petra
 creation_date: 2015-06-17T14:40:21Z
+
+[Term]
+id: DDPHENO:0000314
+name: aberrant response to MPBD
+synonym: "aberrant response to 4-methyl5-pentylbenzene-1,3 diol" EXACT []
+is_a: DDPHENO:0001032 ! aberrant response to biotic stimulus
+created_by: Petra
+creation_date: 2015-06-17T17:18:33Z
+
+[Term]
+id: DDPHENO:0000315
+name: abolished response to MPBD
+def: "Complete inability for the response to MPBD." [DDB:pf]
+synonym: "abolished response to 4-methyl5-pentylbenzene-1,3 diol" EXACT []
+is_a: DDPHENO:0000314 ! aberrant response to MPBD
+created_by: Petra
+creation_date: 2015-06-17T17:20:55Z
+
+[Term]
+id: DDPHENO:0000316
+name: aberrant response to SDF-1
+def: "Deviation from the normal, usual, or expected during the response to SDF-1." [DDB:pf]
+is_a: DDPHENO:0001032 ! aberrant response to biotic stimulus
+created_by: Petra
+creation_date: 2015-06-17T17:27:25Z
+
+[Term]
+id: DDPHENO:0000317
+name: abolished response to SDF-1
+def: "Complete inability for the response to SDF-1, a  peptide that promotes terminal spore differentiation." [DDB:pf]
+is_a: DDPHENO:0000316 ! aberrant response to SDF-1
+created_by: Petra
+creation_date: 2015-06-17T17:29:11Z
 
 [Term]
 id: DDPHENO:0000376
@@ -3783,7 +3816,7 @@ is_a: DDPHENO:0001088 ! aberrant response to DIF
 [Term]
 id: DDPHENO:0001093
 name: delayed response to DIF
-def: "Late onset or slower progression in the response to DIF. " [DDB:pg]
+def: "Late onset or slower progression in the response to DIF." [DDB:pg]
 synonym: "delayed response to DIF-1" NARROW []
 synonym: "delayed response to differentiation inducing factor" EXACT []
 is_a: DDPHENO:0001088 ! aberrant response to DIF
