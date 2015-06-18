@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 16:06:2015 17:33
+date: 18:06:2015 17:10
 saved-by: Petra
 auto-generated-by: OBO-Edit 2.2
 default-namespace: Dicty Environment
@@ -139,12 +139,12 @@ is_a: DDENVIR:0000052 ! during the life cycle
 [Term]
 id: DDENVIR:0000027
 name: in buffer
-is_a: DDENVIR:0000056 ! in liquid medium
+is_a: DDENVIR:0000067 ! in solution
 
 [Term]
 id: DDENVIR:0000028
 name: in water
-is_a: DDENVIR:0000056 ! in liquid medium
+is_a: DDENVIR:0000067 ! in solution
 
 [Term]
 id: DDENVIR:0000029
@@ -204,7 +204,7 @@ id: DDENVIR:0000039
 name: submerged in buffer
 alt_id: DDENVIR:0000046
 synonym: "in non-nutrient buffer" EXACT []
-is_a: DDENVIR:0000056 ! in liquid medium
+is_a: DDENVIR:0000067 ! in solution
 
 [Term]
 id: DDENVIR:0000040
@@ -286,7 +286,7 @@ creation_date: 2014-11-13T15:47:22Z
 
 [Term]
 id: DDENVIR:0000053
-name: in or on medium
+name: in or on medium or solution
 is_a: DDENVIR:0000001 ! environmental condition
 created_by: pfey
 creation_date: 2014-11-13T15:50:01Z
@@ -308,14 +308,14 @@ creation_date: 2014-11-13T15:53:39Z
 [Term]
 id: DDENVIR:0000056
 name: in liquid medium
-is_a: DDENVIR:0000053 ! in or on medium
+is_a: DDENVIR:0000053 ! in or on medium or solution
 created_by: pfey
 creation_date: 2014-11-13T15:55:01Z
 
 [Term]
 id: DDENVIR:0000057
 name: on or under solid medium
-is_a: DDENVIR:0000053 ! in or on medium
+is_a: DDENVIR:0000053 ! in or on medium or solution
 created_by: pfey
 creation_date: 2014-11-13T15:55:40Z
 
@@ -381,8 +381,15 @@ creation_date: 2015-06-08T16:41:37Z
 
 [Term]
 id: DDENVIR:0000066
-name: in the presence of detergent
-is_a: DDENVIR:0000054 ! in the presence of biotic or abiotic stimulus
+name: after detergent treatment
+is_a: DDENVIR:0000067 ! in solution
 created_by: Petra
 creation_date: 2015-06-16T17:32:06Z
+
+[Term]
+id: DDENVIR:0000067
+name: in solution
+is_a: DDENVIR:0000053 ! in or on medium or solution
+created_by: Petra
+creation_date: 2015-06-18T17:04:13Z
 
