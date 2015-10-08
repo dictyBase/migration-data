@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 17:06:2015 17:39
+date: 08:10:2015 17:38
 saved-by: Petra
 auto-generated-by: OBO-Edit 2.2
 default-namespace: Dicty Phenotypes
@@ -200,6 +200,8 @@ creation_date: 2013-12-02T17:36:22Z
 [Term]
 id: DDPHENO:0000026
 name: development arrests at mound stage
+def: "Development cannot progress past the mound stage." [DDB:pf]
+synonym: "development arrests at aggregate stage" EXACT []
 is_a: DDPHENO:0000154 ! aberrant development
 
 [Term]
@@ -213,7 +215,7 @@ creation_date: 2013-12-02T17:39:10Z
 [Term]
 id: DDPHENO:0000028
 name: abolished stalk formation
-def: "Complete inability for formation of the stalk. " [DDB:pg]
+def: "Complete inability for formation of the stalk." [DDB:pg]
 is_a: DDPHENO:0001012 ! aberrant stalk formation
 
 [Term]
@@ -1239,7 +1241,9 @@ is_a: DDPHENO:0001003 ! aberrant response to stimulus
 [Term]
 id: DDPHENO:0000155
 name: development arrests at tipped mound stage
-is_a: DDPHENO:0000154 ! aberrant development
+def: "Development cannot progress past the tipped mound stage." [DDB:pf]
+synonym: "development arrests at tipped aggregate stage" EXACT []
+is_a: DDPHENO:0000026 ! development arrests at mound stage
 
 [Term]
 id: DDPHENO:0000156
@@ -1269,14 +1273,17 @@ is_a: DDPHENO:0001017 ! aberrant regulation of aggregate size
 
 [Term]
 id: DDPHENO:0000159
-name: development arrests at loose aggregate stage
+name: development arrests at loose mound stage
 alt_id: DDPHENO:0000505
 alt_id: DDPHENO:0000506
 alt_id: DDPHENO:0000507
-synonym: "development arrests at loose aggregate stage in the presence of EGTA" EXACT []
-synonym: "development arrests at loose aggregate stage in the presence of TMB-8" EXACT []
-synonym: "merged_development arrests at loose aggregate stage in the presence of lithium" EXACT []
-is_a: DDPHENO:0000154 ! aberrant development
+def: "Development cannot progress past the loose mound stage." [DDB:pf]
+synonym: "<new synonym>" RELATED []
+synonym: "development arrests at loose aggregate stage" EXACT []
+synonym: "development arrests at loose aggregate stage in the presence of EGTA" NARROW []
+synonym: "development arrests at loose aggregate stage in the presence of TMB-8" NARROW []
+synonym: "merged_development arrests at loose aggregate stage in the presence of lithium" NARROW []
+is_a: DDPHENO:0000026 ! development arrests at mound stage
 
 [Term]
 id: DDPHENO:0000160
@@ -2334,6 +2341,23 @@ def: "Complete inability for the response to SDF-1, a  peptide that promotes ter
 is_a: DDPHENO:0000316 ! aberrant response to SDF-1
 created_by: Petra
 creation_date: 2015-06-17T17:29:11Z
+
+[Term]
+id: DDPHENO:0000318
+name: abolished tip formation
+def: "Complete inability to form a tip." [DDB:pf]
+is_a: DDPHENO:0001431 ! aberrant tip formation
+created_by: Petra
+creation_date: 2015-10-08T17:23:04Z
+
+[Term]
+id: DDPHENO:0000319
+name: development arrests at tight mound stage
+def: "Development cannot progress past the tight mound stage." [DDB:pf]
+synonym: "development arrests at tight aggregate stage" EXACT []
+is_a: DDPHENO:0000026 ! development arrests at mound stage
+created_by: Petra
+creation_date: 2015-10-08T17:32:00Z
 
 [Term]
 id: DDPHENO:0000376
