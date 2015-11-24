@@ -1,7 +1,8 @@
 format-version: 1.2
-date: 18:03:2013 13:02
-saved-by: pfey
+date: 24:11:2015 17:11
+saved-by: Petra
 auto-generated-by: OBO-Edit 2.2
+default-namespace: plasmid_keywords
 
 [Term]
 id: DDPLASMIDKEY:0000001
