@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 08:06:2015 16:34
+date: 11:12:2015 14:57
 saved-by: Petra
 auto-generated-by: OBO-Edit 2.2
 default-namespace: Dictyostelium Assay
@@ -133,7 +133,7 @@ is_a: DDASSAY:0000024 ! size measurement
 [Term]
 id: DDASSAY:0000027
 name: real time PCR
-is_a: DDENVIR:0000001 ! polymerase chain reaction (PCR)
+is_a: DDASSAY:0000058 ! polymerase chain reaction (PCR)
 
 [Term]
 id: DDASSAY:0000028
@@ -280,7 +280,7 @@ creation_date: 2012-10-02T12:24:20Z
 [Term]
 id: DDASSAY:0000055
 name: reverse transcriptase PCR
-is_a: DDENVIR:0000001 ! polymerase chain reaction (PCR)
+is_a: DDASSAY:0000001 ! Dictyostelium Assay
 created_by: pfey
 creation_date: 2012-10-02T12:31:35Z
 
@@ -297,6 +297,13 @@ name: uptake of TRITC-dextran
 is_a: DDASSAY:0000062 ! phagocytosis assay
 created_by: pfey
 creation_date: 2013-01-28T17:53:39Z
+
+[Term]
+id: DDASSAY:0000058
+name: polymerase chain reaction (PCR)
+is_a: DDASSAY:0000001 ! Dictyostelium Assay
+created_by: Petra
+creation_date: 2015-12-11T14:55:47Z
 
 [Term]
 id: DDASSAY:0000059
@@ -450,16 +457,9 @@ created_by: Petra
 creation_date: 2015-02-13T11:25:25Z
 
 [Term]
-id: DDENVIR:0000001
-name: polymerase chain reaction (PCR)
-is_a: DDASSAY:0000001 ! Dictyostelium Assay
-created_by: pfey
-creation_date: 2014-11-14T13:41:31Z
-
-[Term]
-id: DDENVIR:0000002
+id: DDASSAY:0000080
 name: quantitative real time PCR (qRT-PCR)
-is_a: DDASSAY:0000027 ! real time PCR
-created_by: pfey
-creation_date: 2014-11-14T13:43:52Z
+is_a: DDASSAY:0000058 ! polymerase chain reaction (PCR)
+created_by: Petra
+creation_date: 2015-12-11T14:56:31Z
 
