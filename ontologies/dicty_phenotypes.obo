@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 08:10:2015 17:38
+date: 17:12:2015 18:21
 saved-by: Petra
 auto-generated-by: OBO-Edit 2.2
 default-namespace: Dicty Phenotypes
@@ -2360,6 +2360,86 @@ created_by: Petra
 creation_date: 2015-10-08T17:32:00Z
 
 [Term]
+id: DDPHENO:0000320
+name: aberrant polysaccharide binding
+def: "Deviation from the normal, usual, or expected binding  a polysaccharide." [DDB:pf]
+is_a: DDPHENO:0001255 ! aberrant binding
+created_by: Petra
+creation_date: 2015-12-17T17:14:53Z
+
+[Term]
+id: DDPHENO:0000321
+name: aberrant cellulose binding
+def: "Deviation from the normal, usual, or expected binding  of cellulose." [DDB:pf]
+is_a: DDPHENO:0000320 ! aberrant polysaccharide binding
+created_by: Petra
+creation_date: 2015-12-17T17:15:32Z
+
+[Term]
+id: DDPHENO:0000322
+name: abolished cellulose binding
+def: "Complete absence of cellulose binding." [DDB:pf]
+is_a: DDPHENO:0000321 ! aberrant cellulose binding
+created_by: Petra
+creation_date: 2015-12-17T17:16:25Z
+
+[Term]
+id: DDPHENO:0000323
+name: decreased cellulose binding
+def: "A reduction in extent, amount, or degree of binding to cellulose." [DDB:pf]
+is_a: DDPHENO:0000321 ! aberrant cellulose binding
+created_by: Petra
+creation_date: 2015-12-17T17:16:44Z
+
+[Term]
+id: DDPHENO:0000324
+name: aberrant cyclic nucleotide binding
+is_a: DDPHENO:0001255 ! aberrant binding
+created_by: Petra
+creation_date: 2015-12-17T17:18:19Z
+
+[Term]
+id: DDPHENO:0000325
+name: decreased lipid binding
+is_a: DDPHENO:0000298 ! aberrant lipid binding
+created_by: Petra
+creation_date: 2015-12-17T17:50:09Z
+
+[Term]
+id: DDPHENO:0000326
+name: abolished lipid binding
+is_a: DDPHENO:0000298 ! aberrant lipid binding
+created_by: Petra
+creation_date: 2015-12-17T17:50:52Z
+
+[Term]
+id: DDPHENO:0000327
+name: aberrant small molecule binding
+def: "Deviation from the normal, usual, or expected binding  a small molecule." [DDB:pf]
+comment: Small molecules include monosaccharides but exclude disaccharides and polysaccharides; includes organic cyclic compounds and single amino acids.
+is_a: DDPHENO:0001255 ! aberrant binding
+created_by: Petra
+creation_date: 2015-12-17T17:52:38Z
+
+[Term]
+id: DDPHENO:0000328
+name: abolished small molecule binding
+def: "Complete absence of small molecule binding." [DDB:pf]
+comment: Small molecules include monosaccharides but exclude disaccharides and polysaccharides; includes organic cyclic compounds and single amino acids.
+is_a: DDPHENO:0000327 ! aberrant small molecule binding
+created_by: Petra
+creation_date: 2015-12-17T17:53:02Z
+
+[Term]
+id: DDPHENO:0000329
+name: decreased small molecule binding
+def: "A reduction in extent, amount, or degree of binding to a small molecule." [DDB:pf]
+comment: Small molecules include monosaccharides but exclude disaccharides and polysaccharides; includes organic cyclic compounds and single amino acids.
+is_a: DDPHENO:0000327 ! aberrant small molecule binding
+created_by: Petra
+creation_date: 2015-12-17T17:53:44Z
+
+[Term]
 id: DDPHENO:0000376
 name: abolished filopodium formation
 def: "Complete inability to form pseudopods." [DDB:pg]
@@ -2974,7 +3054,7 @@ is_a: DDPHENO:0000277 ! aberrant infection rate by a bacterium
 [Term]
 id: DDPHENO:0000492
 name: abolished streaming
-def: "Complete inability for streaming. " [DDB:pg]
+def: "Complete inability for streaming." [DDB:pg]
 is_a: DDPHENO:0000482 ! aberrant streaming
 
 [Term]
@@ -4975,30 +5055,24 @@ def: "A reduction in extent, amount, or degree of catalysis by an enzyme." [DDB:
 is_a: DDPHENO:0001105 ! aberrant catalytic activity
 
 [Term]
-id: DDPHENO:0001258
-name: increased binding
-def: "Increase in extent, amount, or degree of binding." [DDB:pg]
-is_a: DDPHENO:0001255 ! aberrant binding
-
-[Term]
 id: DDPHENO:0001259
 name: decreased binding
 def: "A reduction in extent, amount, or degree of binding." [DDB:pg]
-is_a: DDPHENO:0001255 ! aberrant binding
+is_obsolete: true
 
 [Term]
 id: DDPHENO:0001260
 name: increased cAMP binding
 def: "Increased in extent, amount, or degree of binding to cAMP." [DDB:pg]
 synonym: "increased 3',5'-cyclic-AMP binding" EXACT []
-is_a: DDPHENO:0001258 ! increased binding
+is_a: DDPHENO:0000324 ! aberrant cyclic nucleotide binding
 
 [Term]
 id: DDPHENO:0001261
 name: decreased cAMP binding
 def: "A reduction in extent, amount, or degree of binding to cAMP." [DDB:pg]
 synonym: "decreased 3',5'-cyclic-AMP binding" EXACT []
-is_a: DDPHENO:0001259 ! decreased binding
+is_a: DDPHENO:0000324 ! aberrant cyclic nucleotide binding
 
 [Term]
 id: DDPHENO:0001262
@@ -5959,7 +6033,7 @@ is_a: DDPHENO:0000471 ! aberrant protein localization
 id: DDPHENO:0001409
 name: abolished phosphoinositide binding
 def: "Complete absence of phosphoinositide binding." [DDB:pf]
-is_a: DDPHENO:0000298 ! aberrant lipid binding
+is_a: DDPHENO:0000326 ! abolished lipid binding
 
 [Term]
 id: DDPHENO:0001410
