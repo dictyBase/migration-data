@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 11:12:2015 14:57
+date: 18:12:2015 18:31
 saved-by: Petra
 auto-generated-by: OBO-Edit 2.2
 default-namespace: Dictyostelium Assay
@@ -20,8 +20,7 @@ is_a: DDASSAY:0000001 ! Dictyostelium Assay
 
 [Term]
 id: DDASSAY:0000004
-name: germination assay
-synonym: "plaque formation" BROAD []
+name: spore germination assay
 is_a: DDASSAY:0000069 ! spore viability test
 
 [Term]
@@ -208,6 +207,7 @@ is_a: DDASSAY:0000061 ! microscopy
 id: DDASSAY:0000042
 name: biochemical fractionation
 is_a: DDASSAY:0000003 ! biochemical assay
+is_a: DDPHENO:0000001 ! centrifugation
 
 [Term]
 id: DDASSAY:0000043
@@ -280,7 +280,7 @@ creation_date: 2012-10-02T12:24:20Z
 [Term]
 id: DDASSAY:0000055
 name: reverse transcriptase PCR
-is_a: DDASSAY:0000001 ! Dictyostelium Assay
+is_a: DDASSAY:0000058 ! polymerase chain reaction (PCR)
 created_by: pfey
 creation_date: 2012-10-02T12:31:35Z
 
@@ -462,4 +462,11 @@ name: quantitative real time PCR (qRT-PCR)
 is_a: DDASSAY:0000058 ! polymerase chain reaction (PCR)
 created_by: Petra
 creation_date: 2015-12-11T14:56:31Z
+
+[Term]
+id: DDPHENO:0000001
+name: centrifugation
+is_a: DDASSAY:0000001 ! Dictyostelium Assay
+created_by: Petra
+creation_date: 2015-12-18T18:24:11Z
 
