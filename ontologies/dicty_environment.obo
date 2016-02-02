@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 24:11:2015 16:31
+date: 02:02:2016 14:05
 saved-by: Petra
 auto-generated-by: OBO-Edit 2.2
 default-namespace: Dicty Environment
@@ -169,12 +169,14 @@ is_a: DDENVIR:0000054 ! in the presence of biotic or abiotic stimulus
 [Term]
 id: DDENVIR:0000034
 name: in the absence of EDTA
+alt_id: DDASSAY:0000002
 synonym: "in the absense of EDTA" NARROW []
 is_a: DDENVIR:0000055 ! in the absence of biotic or abiotic stimulus
 
 [Term]
 id: DDENVIR:0000035
 name: in bacterial suspension
+alt_id: DDASSAY:0000001
 is_a: DDENVIR:0000056 ! in liquid medium
 
 [Term]
@@ -385,4 +387,11 @@ name: in solution
 is_a: DDENVIR:0000053 ! in or on medium or solution
 created_by: Petra
 creation_date: 2015-06-18T17:04:13Z
+
+[Term]
+id: DDENVIR:0000068
+name: in the presence of rapamycin
+is_a: DDENVIR:0000054 ! in the presence of biotic or abiotic stimulus
+created_by: Petra
+creation_date: 2016-02-02T14:04:45Z
 
