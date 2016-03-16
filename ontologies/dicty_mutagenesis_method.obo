@@ -1,0 +1,174 @@
+format-version: 1.2
+date: 16:03:2016 14:03
+saved-by: Petra
+auto-generated-by: OBO-Edit 2.2
+default-namespace: Dd Mutagenesis Method
+
+[Term]
+id: DDMUMET:0000001
+name: mutagenesis method
+creation_date: 2016-03-16T12:15:29Z
+
+[Term]
+id: DDMUMET:0000002
+name: extrachromosomal
+synonym: "EX" EXACT []
+is_a: DDMUMET:0000001 ! mutagenesis method
+created_by: Petra
+creation_date: 2016-03-16T12:16:10Z
+
+[Term]
+id: DDMUMET:0000003
+name: spontaneous
+synonym: "spont" EXACT []
+is_a: DDMUMET:0000001 ! mutagenesis method
+created_by: Petra
+creation_date: 2016-03-16T12:42:29Z
+
+[Term]
+id: DDMUMET:0000004
+name: regulated expression
+is_a: DDMUMET:0000001 ! mutagenesis method
+created_by: Petra
+creation_date: 2016-03-16T12:45:39Z
+
+[Term]
+id: DDMUMET:0000005
+name: knockdown
+synonym: "KD" EXACT []
+is_a: DDMUMET:0000004 ! regulated expression
+created_by: Petra
+creation_date: 2016-03-16T12:45:58Z
+
+[Term]
+id: DDMUMET:0000006
+name: RNAi
+synonym: "RNA interference" EXACT []
+is_a: DDMUMET:0000004 ! regulated expression
+is_a: DDMUMET:0000007 ! RNA mutagenesis
+created_by: Petra
+creation_date: 2016-03-16T12:47:09Z
+
+[Term]
+id: DDMUMET:0000007
+name: RNA mutagenesis
+is_a: DDMUMET:0000001 ! mutagenesis method
+created_by: Petra
+creation_date: 2016-03-16T12:48:24Z
+
+[Term]
+id: DDMUMET:0000008
+name: antisense
+synonym: "AS" EXACT []
+is_a: DDMUMET:0000007 ! RNA mutagenesis
+created_by: Petra
+creation_date: 2016-03-16T12:48:40Z
+
+[Term]
+id: DDMUMET:0000009
+name: genomic DNA insertion
+is_a: DDMUMET:0000001 ! mutagenesis method
+created_by: Petra
+creation_date: 2016-03-16T12:49:54Z
+
+[Term]
+id: DDMUMET:0000010
+name: homologous recombination
+synonym: "HR" EXACT []
+is_a: DDMUMET:0000009 ! genomic DNA insertion
+created_by: Petra
+creation_date: 2016-03-16T12:50:17Z
+
+[Term]
+id: DDMUMET:0000011
+name: random insertion
+synonym: "RI" EXACT []
+is_a: DDMUMET:0000009 ! genomic DNA insertion
+created_by: Petra
+creation_date: 2016-03-16T12:50:53Z
+
+[Term]
+id: DDMUMET:0000012
+name: REMI
+synonym: "restriction enzyme-mediated integration" EXACT []
+is_a: DDMUMET:0000009 ! genomic DNA insertion
+created_by: Petra
+creation_date: 2016-03-16T12:51:29Z
+
+[Term]
+id: DDMUMET:0000013
+name: REMI-seq
+synonym: "restriction enzyme-mediated integration and NGS sequencing" EXACT []
+is_a: DDMUMET:0000009 ! genomic DNA insertion
+created_by: Petra
+creation_date: 2016-03-16T12:52:56Z
+
+[Term]
+id: DDMUMET:0000014
+name: chemical mutagenesis
+is_a: DDMUMET:0000001 ! mutagenesis method
+created_by: Petra
+creation_date: 2016-03-16T13:49:43Z
+
+[Term]
+id: DDMUMET:0000015
+name: N-methyl-N-nitro-N-nitrosoguanidine
+synonym: "NG" EXACT []
+is_a: DDMUMET:0000014 ! chemical mutagenesis
+created_by: Petra
+creation_date: 2016-03-16T13:50:01Z
+
+[Term]
+id: DDMUMET:0000016
+name: 4-nitroquinolone-N-oxide
+synonym: "NQNO" EXACT []
+is_a: DDMUMET:0000014 ! chemical mutagenesis
+created_by: Petra
+creation_date: 2016-03-16T13:53:38Z
+
+[Term]
+id: DDMUMET:0000017
+name: irradiation
+is_a: DDMUMET:0000001 ! mutagenesis method
+created_by: Petra
+creation_date: 2016-03-16T13:54:18Z
+
+[Term]
+id: DDMUMET:0000018
+name: gamma-ray irradiation
+synonym: "gamma-ray" EXACT []
+is_a: DDMUMET:0000017 ! irradiation
+created_by: Petra
+creation_date: 2016-03-16T13:54:34Z
+
+[Term]
+id: DDMUMET:0000019
+name: ultraviolet light
+synonym: "UV" EXACT []
+is_a: DDMUMET:0000017 ! irradiation
+created_by: Petra
+creation_date: 2016-03-16T13:57:36Z
+
+[Term]
+id: DDMUMET:0000020
+name: genetics
+is_a: DDMUMET:0000001 ! mutagenesis method
+created_by: Petra
+creation_date: 2016-03-16T13:58:19Z
+
+[Term]
+id: DDMUMET:0000021
+name: haploid segregant
+synonym: "HS" EXACT []
+is_a: DDMUMET:0000020 ! genetics
+created_by: Petra
+creation_date: 2016-03-16T13:58:32Z
+
+[Term]
+id: DDMUMET:0000022
+name: meiotic recombination
+synonym: "MR" EXACT []
+is_a: DDMUMET:0000020 ! genetics
+created_by: Petra
+creation_date: 2016-03-16T14:00:31Z
+
