@@ -1,6 +1,6 @@
 format-version: 1.2
-date: 01:08:2013 12:06
-saved-by: pfey
+date: 21:03:2016 16:32
+saved-by: Petra
 auto-generated-by: OBO-Edit 2.2
 default-namespace: storage_conditions
 
@@ -364,7 +364,7 @@ creation_date: 2013-08-01T11:35:38Z
 
 [Term]
 id: DDSTORCON:0000046
-name: XL10 GOLD
+name: XL10-Gold
 def: "A plasmid stored or received in the bacterial host XL10-Gold." [DDB:pf]
 is_a: DDSTORCON:0000005 ! bacterial stock
 created_by: pfey
@@ -401,4 +401,12 @@ def: "A plasmid stored or received in the bacterial host ES28." [DDB:pf]
 is_a: DDSTORCON:0000005 ! bacterial stock
 created_by: pfey
 creation_date: 2013-08-01T11:37:43Z
+
+[Term]
+id: DDSTORCON:0000051
+name: axenic cells
+def: "Dictyostelid received or stored as axenic cells." [DDB:pf]
+is_a: DDSTORCON:0000006 ! cells
+created_by: Petra
+creation_date: 2016-03-21T16:27:06Z
 
