@@ -985,7 +985,6 @@ relationship: part_of DDANAT:0000033 ! prespore region of the migratory slug
 [Term]
 id: DDANAT:0000405
 name: prespore cell
-alt_id: DDANAT:0000003
 def: "Cell that is undergoing differentiation to become a spore. Characterized by the presence of prespore vesicles (PV)." [DDB:pg, DDB_REF:439, PMID:4330277]
 synonym: "psp cell" EXACT []
 xref: CL:0000267 "Cell Line Ontology"
