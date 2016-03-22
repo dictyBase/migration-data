@@ -1010,7 +1010,6 @@ is_a: DDANAT:0000401 ! cell
 [Term]
 id: DDANAT:0000407
 name: pstO cell
-alt_id: DDANAT:0000006
 def: "Cell that is undergoing differentiation to become a stalk cell. pstO cells express ecmA at a very low level and are located at the posterior half of the prestalk zone. Expresses ecmA from the distal region of its promoter (ecmO)." [DDB:pg]
 synonym: "prestalk O cell" RELATED []
 xref: CL:0000279 "Cell Line Ontology"
