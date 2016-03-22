@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 18:12:2015 18:31
+date: 22:03:2016 9:37
 saved-by: Petra
 auto-generated-by: OBO-Edit 2.2
 default-namespace: Dictyostelium Assay
@@ -207,7 +207,7 @@ is_a: DDASSAY:0000061 ! microscopy
 id: DDASSAY:0000042
 name: biochemical fractionation
 is_a: DDASSAY:0000003 ! biochemical assay
-is_a: DDPHENO:0000001 ! centrifugation
+is_a: DDASSAY:0000081 ! centrifugation
 
 [Term]
 id: DDASSAY:0000043
@@ -464,7 +464,7 @@ created_by: Petra
 creation_date: 2015-12-11T14:56:31Z
 
 [Term]
-id: DDPHENO:0000001
+id:  DDASSAY:0000081
 name: centrifugation
 is_a: DDASSAY:0000001 ! Dictyostelium Assay
 created_by: Petra
