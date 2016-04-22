@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 17:12:2015 18:21
+date: 21:04:2016 16:47
 saved-by: Petra
 auto-generated-by: OBO-Edit 2.2
 default-namespace: Dicty Phenotypes
@@ -2394,7 +2394,8 @@ creation_date: 2015-12-17T17:16:44Z
 [Term]
 id: DDPHENO:0000324
 name: aberrant cyclic nucleotide binding
-is_a: DDPHENO:0001255 ! aberrant binding
+def: "Deviation from the normal, usual, or expected binding of a cyclic nucleotide." [DDB:pf]
+is_a: DDPHENO:0000327 ! aberrant small molecule binding
 created_by: Petra
 creation_date: 2015-12-17T17:18:19Z
 
@@ -2438,6 +2439,49 @@ comment: Small molecules include monosaccharides but exclude disaccharides and p
 is_a: DDPHENO:0000327 ! aberrant small molecule binding
 created_by: Petra
 creation_date: 2015-12-17T17:53:44Z
+
+[Term]
+id: DDPHENO:0000330
+name: abolished cAMP binding
+def: "Complete absence of cAMP binding." [DDB:pf]
+is_a: DDPHENO:0000324 ! aberrant cyclic nucleotide binding
+is_a: DDPHENO:0000328 ! abolished small molecule binding
+created_by: Petra
+creation_date: 2016-04-21T16:35:28Z
+
+[Term]
+id: DDPHENO:0000331
+name: aberrant folic acid binding
+def: "Deviation from the normal, usual, or expected binding to folic acid." [DDB:pf]
+is_a: DDPHENO:0000327 ! aberrant small molecule binding
+created_by: Petra
+creation_date: 2016-04-21T16:37:34Z
+
+[Term]
+id: DDPHENO:0000332
+name: decreased folic acid binding
+def: "A reduction in extent, amount, or degree of binding to folic acid." [DDB:pf]
+is_a: DDPHENO:0000329 ! decreased small molecule binding
+is_a: DDPHENO:0000331 ! aberrant folic acid binding
+created_by: Petra
+creation_date: 2016-04-21T16:39:46Z
+
+[Term]
+id: DDPHENO:0000333
+name: increased folic acid binding
+def: "Increased in extent, amount, or degree of binding to folic acid." [DDB:pf]
+is_a: DDPHENO:0000331 ! aberrant folic acid binding
+created_by: Petra
+creation_date: 2016-04-21T16:40:08Z
+
+[Term]
+id: DDPHENO:0000334
+name: abolished folic acid binding
+def: "Complete absence of folic acid binding." [DDB:pf]
+is_a: DDPHENO:0000328 ! abolished small molecule binding
+is_a: DDPHENO:0000331 ! aberrant folic acid binding
+created_by: Petra
+creation_date: 2016-04-21T16:42:34Z
 
 [Term]
 id: DDPHENO:0000376
@@ -5073,6 +5117,7 @@ name: decreased cAMP binding
 def: "A reduction in extent, amount, or degree of binding to cAMP." [DDB:pg]
 synonym: "decreased 3',5'-cyclic-AMP binding" EXACT []
 is_a: DDPHENO:0000324 ! aberrant cyclic nucleotide binding
+is_a: DDPHENO:0000329 ! decreased small molecule binding
 
 [Term]
 id: DDPHENO:0001262
