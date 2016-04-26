@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 26:04:2016 16:28
+date: 26:04:2016 16:45
 saved-by: Petra
 auto-generated-by: OBO-Edit 2.2
 default-namespace: plasmid_inventory
@@ -69,7 +69,7 @@ creation_date: 2013-03-29T17:41:48Z
 [Term]
 id: PLASMIDINVENT:0000009
 name: stored by
-def: "The person who sores the strain." [DDB:pf]
+def: "The person who stores the strain." [DDB:pf]
 is_a: PLASMIDINVENT:0000001 ! plasmid inventory
 created_by: Petra
 creation_date: 2016-04-26T16:27:16Z
