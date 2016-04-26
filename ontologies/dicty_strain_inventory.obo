@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 26:04:2016 15:12
+date: 26:04:2016 16:46
 saved-by: Petra
 auto-generated-by: OBO-Edit 2.2
 default-namespace: strain_inventory
@@ -98,7 +98,7 @@ creation_date: 2014-09-26T16:44:15Z
 [Term]
 id: STRAININVENT:0000014
 name: stored by
-def: "The person who sores the strain." [DDB:pf]
+def: "The person who stores the strain." [DDB:pf]
 is_a: STRAININVENT:0000001 ! strain_inventory
 created_by: Petra
 creation_date: 2016-04-26T15:09:38Z
