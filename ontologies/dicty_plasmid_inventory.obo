@@ -1,6 +1,6 @@
 format-version: 1.2
-date: 29:03:2013 17:47
-saved-by: pfey
+date: 26:04:2016 16:28
+saved-by: Petra
 auto-generated-by: OBO-Edit 2.2
 default-namespace: plasmid_inventory
 
@@ -65,4 +65,12 @@ def: "Conditions the obtained plasmid is stored in the stock center." [DDB:pf]
 is_a: PLASMIDINVENT:0000001 ! plasmid inventory
 created_by: pfey
 creation_date: 2013-03-29T17:41:48Z
+
+[Term]
+id: PLASMIDINVENT:0000009
+name: stored by
+def: "The person who sores the strain." [DDB:pf]
+is_a: PLASMIDINVENT:0000001 ! plasmid inventory
+created_by: Petra
+creation_date: 2016-04-26T16:27:16Z
 

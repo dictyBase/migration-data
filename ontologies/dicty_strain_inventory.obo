@@ -1,6 +1,6 @@
 format-version: 1.2
-date: 12:12:2014 10:49
-saved-by: pfey
+date: 26:04:2016 15:12
+saved-by: Petra
 auto-generated-by: OBO-Edit 2.2
 default-namespace: strain_inventory
 
@@ -94,6 +94,14 @@ is_a: STRAININVENT:0000002 ! location
 relationship: has_vial STRAININVENT:0000005 ! number of vials
 created_by: pfey
 creation_date: 2014-09-26T16:44:15Z
+
+[Term]
+id: STRAININVENT:0000014
+name: stored by
+def: "The person who sores the strain." [DDB:pf]
+is_a: STRAININVENT:0000001 ! strain_inventory
+created_by: Petra
+creation_date: 2016-04-26T15:09:38Z
 
 [Typedef]
 id: has_vial
