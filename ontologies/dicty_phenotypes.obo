@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 21:04:2016 16:47
+date: 14:06:2016 12:30
 saved-by: Petra
 auto-generated-by: OBO-Edit 2.2
 default-namespace: Dicty Phenotypes
@@ -2484,6 +2484,38 @@ created_by: Petra
 creation_date: 2016-04-21T16:42:34Z
 
 [Term]
+id: DDPHENO:0000335
+name: aberrant electrotaxis
+def: "Deviation from the normal, usual, or expected events during the locomotory response to an electrical field." [DDB:pf]
+is_a: DDPHENO:0000264 ! aberrant cell motility
+created_by: Petra
+creation_date: 2016-06-14T12:24:22Z
+
+[Term]
+id: DDPHENO:0000336
+name: decreased electrotaxis
+def: "Reduction in extent, amount, or degree of electrotaxis rate during the locomotory response to an electrical field." [DDB:pf]
+is_a: DDPHENO:0000335 ! aberrant electrotaxis
+created_by: Petra
+creation_date: 2016-06-14T12:26:21Z
+
+[Term]
+id: DDPHENO:0000337
+name: increased electrotaxis
+def: "Increase in extent, amount, or degree of  electrotaxis rate during the locomotory response to an electrical field." [DDB:pf]
+is_a: DDPHENO:0000335 ! aberrant electrotaxis
+created_by: Petra
+creation_date: 2016-06-14T12:26:37Z
+
+[Term]
+id: DDPHENO:0000338
+name: abolished electrotaxis
+def: "Complete inability of  electrotaxis in response to an electrical field." [DDB:pf]
+is_a: DDPHENO:0000335 ! aberrant electrotaxis
+created_by: Petra
+creation_date: 2016-06-14T12:26:51Z
+
+[Term]
 id: DDPHENO:0000376
 name: abolished filopodium formation
 def: "Complete inability to form pseudopods." [DDB:pg]
@@ -4251,7 +4283,7 @@ is_a: DDPHENO:0001121 ! aberrant taxis
 [Term]
 id: DDPHENO:0001131
 name: abolished taxis
-def: "Complete inability to respond to an external stimulus. " [DDB:pg]
+def: "Complete inability to respond to an external stimulus." [DDB:pg]
 is_a: DDPHENO:0001121 ! aberrant taxis
 
 [Term]
