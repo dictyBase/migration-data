@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 14:06:2016 12:30
+date: 18:07:2016 11:05
 saved-by: Petra
 auto-generated-by: OBO-Edit 2.2
 default-namespace: Dicty Phenotypes
@@ -2516,6 +2516,21 @@ created_by: Petra
 creation_date: 2016-06-14T12:26:51Z
 
 [Term]
+id: DDPHENO:0000339
+name: aberrant response to SDF-2
+is_a: DDPHENO:0001032 ! aberrant response to biotic stimulus
+created_by: Petra
+creation_date: 2016-07-18T10:38:21Z
+
+[Term]
+id: DDPHENO:0000340
+name: abolished response to SDF-2
+def: "Complete inability for the response to SDF-2, a  peptide that promotes terminal spore differentiation." [DDB:pf]
+is_a: DDPHENO:0000339 ! aberrant response to SDF-2
+created_by: Petra
+creation_date: 2016-07-18T10:39:38Z
+
+[Term]
 id: DDPHENO:0000376
 name: abolished filopodium formation
 def: "Complete inability to form pseudopods." [DDB:pg]
@@ -2910,7 +2925,7 @@ is_obsolete: true
 [Term]
 id: DDPHENO:0000448
 name: increased pinocytosis
-def: "Increase in extent, amount, or degree of pinocytosis. " [DDB:pg]
+def: "Increase in extent, amount, or degree of pinocytosis." [DDB:pg]
 is_a: DDPHENO:0001007 ! aberrant pinocytosis
 
 [Term]
@@ -4472,7 +4487,7 @@ is_a: DDPHENO:0001156 ! aberrant cellulose biosynthesis
 [Term]
 id: DDPHENO:0001160
 name: abolished superoxide production
-def: "Complete inability for the production of superoxide" [DDB:pf]
+def: "Complete inability for the production of superoxide." [DDB:pf]
 is_a: DDPHENO:0001005 ! aberrant cellular metabolic process
 
 [Term]
