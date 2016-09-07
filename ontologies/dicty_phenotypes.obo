@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 18:07:2016 11:05
+date: 07:09:2016 17:47
 saved-by: Petra
 auto-generated-by: OBO-Edit 2.2
 default-namespace: Dicty Phenotypes
@@ -2529,6 +2529,22 @@ def: "Complete inability for the response to SDF-2, a  peptide that promotes ter
 is_a: DDPHENO:0000339 ! aberrant response to SDF-2
 created_by: Petra
 creation_date: 2016-07-18T10:39:38Z
+
+[Term]
+id: DDPHENO:0000341
+name: aberrant membrane organization during endocytosis
+def: "Deviation from the normal, usual, or expected plasma membrane organization during endocytosis." [DDB:pf]
+is_a: DDPHENO:0000039 ! aberrant plasma membrane organization and biogenesis
+created_by: Petra
+creation_date: 2016-09-07T17:43:13Z
+
+[Term]
+id: DDPHENO:0000342
+name: decreased membrane organization during endocytosis
+def: "Decrease from the normal, usual, or expected plasma membrane organization during endocytosis." [DDB:pf]
+is_a: DDPHENO:0000341 ! aberrant membrane organization during endocytosis
+created_by: Petra
+creation_date: 2016-09-07T17:44:39Z
 
 [Term]
 id: DDPHENO:0000376
