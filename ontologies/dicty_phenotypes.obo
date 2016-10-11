@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 07:09:2016 17:47
+date: 11:10:2016 13:19
 saved-by: Petra
 auto-generated-by: OBO-Edit 2.2
 default-namespace: Dicty Phenotypes
@@ -1505,7 +1505,7 @@ id: DDPHENO:0000196
 name: increased protein kinase A activity
 def: "Increase in extent, amount, or degree of  protein kinase A activity." [DDB:pg]
 synonym: "increased PKA activity" EXACT [DDB:kp]
-is_a: DDPHENO:0001256 ! increased catalytic activity
+is_obsolete: true
 
 [Term]
 id: DDPHENO:0000197
@@ -1536,7 +1536,7 @@ id: DDPHENO:0000201
 name: decreased glycogen synthase kinase 3 activity
 def: "Reduction in extent, amount, or degree of glycogen synthase kinase 3 activity." [DDB:pg]
 synonym: "decreased GSK3 activity" EXACT [DDB:kp]
-is_a: DDPHENO:0001257 ! decreased catalytic activity
+is_obsolete: true
 
 [Term]
 id: DDPHENO:0000203
@@ -2547,6 +2547,86 @@ created_by: Petra
 creation_date: 2016-09-07T17:44:39Z
 
 [Term]
+id: DDPHENO:0000343
+name: abolished activation of GTPase activity
+def: "Complete inability for activation of GTPase activity." [DDB:pf]
+is_a: DDPHENO:0001311 ! aberrant activation of GTPase activity
+created_by: Petra
+creation_date: 2016-10-07T13:24:37Z
+
+[Term]
+id: DDPHENO:0000344
+name: decreased activation of GTPase activity
+def: "Reduction in extent, amount, or degree of activation GTPase activity." [DDB:pf]
+is_a: DDPHENO:0001311 ! aberrant activation of GTPase activity
+created_by: Petra
+creation_date: 2016-10-07T13:25:29Z
+
+[Term]
+id: DDPHENO:0000345
+name: increased activation of GTPase activity
+def: "Increase in extent, amount, or degree of activation of  GTPase activity." [DDB:pf]
+is_a: DDPHENO:0001311 ! aberrant activation of GTPase activity
+created_by: Petra
+creation_date: 2016-10-07T13:25:54Z
+
+[Term]
+id: DDPHENO:0000346
+name: decreased protein kinase activity
+def: "Reduction in extent, amount, or degree of protein kinase activity." [DDB:pf]
+is_a: DDPHENO:0001257 ! decreased catalytic activity
+created_by: Petra
+creation_date: 2016-10-10T17:14:11Z
+
+[Term]
+id: DDPHENO:0000347
+name: abolished protein kinase activity
+def: "Complete absence of protein kinase activity." [DDB:pf]
+is_a: DDPHENO:0001289 ! abolished catalytic activity
+created_by: Petra
+creation_date: 2016-10-10T17:17:41Z
+
+[Term]
+id: DDPHENO:0000348
+name: increased protein kinase activity
+def: "Increase in extent, amount, or degree of protein kinase activity." [DDB:pf]
+is_a: DDPHENO:0001256 ! increased catalytic activity
+created_by: Petra
+creation_date: 2016-10-10T17:18:44Z
+
+[Term]
+id: DDPHENO:0000349
+name: aberrant Ca2+ signaling
+def: "Deviation from the normal, usual, or expected events during calcium signaling." [DDB:pf]
+is_a: DDPHENO:0001118 ! aberrant signal transduction
+created_by: Petra
+creation_date: 2016-10-11T12:46:12Z
+
+[Term]
+id: DDPHENO:0000350
+name: aberrant macropinocytosis
+def: "Deviation from the normal, usual, or expected events during macropinocytosis." [DDB:pf]
+is_a: DDPHENO:0001007 ! aberrant pinocytosis
+created_by: Petra
+creation_date: 2016-10-11T13:11:24Z
+
+[Term]
+id: DDPHENO:0000351
+name: abolished macropinocytosis
+def: "Complete inability to perform macropinocytosis." [DDB:pf]
+is_a: DDPHENO:0000350 ! aberrant macropinocytosis
+created_by: Petra
+creation_date: 2016-10-11T13:13:56Z
+
+[Term]
+id: DDPHENO:0000352
+name: decreased macropinocytosis
+def: "Reduction in extent, amount, or degree of macropinocytosis." [DDB:pf]
+is_a: DDPHENO:0000350 ! aberrant macropinocytosis
+created_by: Petra
+creation_date: 2016-10-11T13:14:51Z
+
+[Term]
 id: DDPHENO:0000376
 name: abolished filopodium formation
 def: "Complete inability to form pseudopods." [DDB:pg]
@@ -2684,7 +2764,7 @@ def: "Reduction in extent, amount, or degree of phosphorylation of protein kinas
 comment: Not sure this is legitimate. See SF for an item on PKB; I think it's a gee product.
 synonym: "decreased activation of PKB" RELATED []
 synonym: "decreased phosphorylation of PkbA (Akt/PKB)" RELATED []
-is_a: DDPHENO:0001058 ! decreased protein kinase activation
+is_obsolete: true
 
 [Term]
 id: DDPHENO:0000397
@@ -2785,7 +2865,7 @@ is_a: DDPHENO:0001035 ! aberrant response to heat
 [Term]
 id: DDPHENO:0000420
 name: decreased cAMP-induced Ca2+ influx
-is_a: DDPHENO:0001118 ! aberrant signal transduction
+is_a: DDPHENO:0000349 ! aberrant Ca2+ signaling
 
 [Term]
 id: DDPHENO:0000421
@@ -2795,7 +2875,7 @@ is_a: DDPHENO:0001038 ! aberrant cAMP signaling during aggregation
 [Term]
 id: DDPHENO:0000422
 name: decreased Ca2+-induced Ca2+ influx
-is_a: DDPHENO:0001118 ! aberrant signal transduction
+is_a: DDPHENO:0000349 ! aberrant Ca2+ signaling
 
 [Term]
 id: DDPHENO:0000423
@@ -2844,7 +2924,7 @@ is_a: DDPHENO:0001043 ! aberrant organelle organization and biogenesis
 [Term]
 id: DDPHENO:0000430
 name: decreased pinocytosis
-def: "Reduction in extent, amount, or degree of pinocytosis. " [DDD:pg]
+def: "Reduction in extent, amount, or degree of pinocytosis." [DDD:pg]
 is_a: DDPHENO:0001007 ! aberrant pinocytosis
 
 [Term]
@@ -3021,6 +3101,7 @@ is_a: DDPHENO:0001028 ! aberrant filopodium formation
 [Term]
 id: DDPHENO:0000465
 name: abolished cAMP-induced Ca2+ influx
+is_a: DDPHENO:0000349 ! aberrant Ca2+ signaling
 is_a: DDPHENO:0001038 ! aberrant cAMP signaling during aggregation
 
 [Term]
@@ -3088,7 +3169,7 @@ id: DDPHENO:0000480
 name: aberrant cAMP signaling
 def: "Deviation from the normal, usual, or expected events during cAMP signaling." [DDB:pg]
 comment: Child of: GO:0007165 : signal transduction.
-is_a: DDPHENO:0001118 ! aberrant signal transduction
+is_obsolete: true
 
 [Term]
 id: DDPHENO:0000481
@@ -3144,6 +3225,7 @@ is_a: DDPHENO:0001038 ! aberrant cAMP signaling during aggregation
 [Term]
 id: DDPHENO:0000489
 name: increased cytosolic Ca2+ response
+is_a: DDPHENO:0000349 ! aberrant Ca2+ signaling
 is_a: DDPHENO:0001038 ! aberrant cAMP signaling during aggregation
 
 [Term]
@@ -3206,12 +3288,13 @@ is_a: DDPHENO:0000187 ! aberrant cell-substrate adhesion
 [Term]
 id: DDPHENO:0000500
 name: small pinosomes
+def: "Decreased size of pinosomes." [DDB:pf]
 is_a: DDPHENO:0001007 ! aberrant pinocytosis
 
 [Term]
 id: DDPHENO:0000501
 name: increased number of pinosomes
-def: "Quantitative increase in pinosomes. " [DDB:pg]
+def: "Quantitative increase in pinosomes." [DDB:pg]
 is_a: DDPHENO:0001007 ! aberrant pinocytosis
 
 [Term]
@@ -3378,7 +3461,7 @@ is_a: DDPHENO:0001375 ! aberrant cellular homeostasis
 [Term]
 id: DDPHENO:0000540
 name: increased pseudopod size
-def: "Increase in relative or proportionate dimensions of the pseudopod. " [DDB:pg]
+def: "Increase in relative or proportionate dimensions of the pseudopod." [DDB:pg]
 is_a: DDPHENO:0001027 ! aberrant pseudopod formation
 
 [Term]
@@ -3430,7 +3513,7 @@ is_a: DDPHENO:0000510 ! aberrant stalk morphogenesis
 [Term]
 id: DDPHENO:0000550
 name: abolished pinocytosis
-def: "Complete inability for phagocytosis." [DDB:pg]
+def: "Complete inability to perform phagocytosis." [DDB:pg]
 is_a: DDPHENO:0001007 ! aberrant pinocytosis
 
 [Term]
@@ -3671,6 +3754,7 @@ id: DDPHENO:0001037
 name: aberrant signal transduction during aggregation
 def: "Deviation from the normal, usual, or expected events during signal transduction during development." [DDB:pg]
 is_a: DDPHENO:0000483 ! aberrant aggregation
+is_a: DDPHENO:0001118 ! aberrant signal transduction
 
 [Term]
 id: DDPHENO:0001038
@@ -3683,7 +3767,6 @@ comment: Merged with aberrant cAMP signaling during aggregation. PG 10-24-2006.
 synonym: "merged_aggregation hypersensitive to caffeine" EXACT []
 synonym: "merged_aggregation resistant to caffeine" EXACT []
 synonym: "merged_impaired cAMP signaling in the presence of gossypol" EXACT []
-is_a: DDPHENO:0000480 ! aberrant cAMP signaling
 is_a: DDPHENO:0001037 ! aberrant signal transduction during aggregation
 
 [Term]
@@ -3813,12 +3896,12 @@ is_a: DDPHENO:0001119 ! aberrant regulation of protein kinase activity
 id: DDPHENO:0001059
 name: abolished chemotaxis to cAMP during aggregation
 def: "Complete inability for chemotaxis to cAMP during aggregation." [DDB:pg]
-is_a: DDPHENO:0000483 ! aberrant aggregation
+is_a: DDPHENO:0001051 ! abolished chemotaxis during aggregation
 
 [Term]
 id: DDPHENO:0001061
 name: increased protein kinase activation
-def: "Increase in extent, amount, or degree of activation of protein kinases. " [DDB:pg]
+def: "Increase in extent, amount, or degree of activation of protein kinases." [DDB:pg]
 is_a: DDPHENO:0001119 ! aberrant regulation of protein kinase activity
 
 [Term]
@@ -3832,19 +3915,19 @@ is_a: DDPHENO:0001119 ! aberrant regulation of protein kinase activity
 id: DDPHENO:0001063
 name: abolished myosin light chain kinase activation
 def: "Complete inability for activation of myosin light chain kinase upon stimulus." [DDB:pg]
-is_a: DDPHENO:0001062 ! abolished protein kinase activation
+is_obsolete: true
 
 [Term]
 id: DDPHENO:0001064
 name: decreased myosin light chain kinase activation
-def: "Reduction in extent, amount, or degree of activation of myosin light chain kinase. " [DDB:pg]
-is_a: DDPHENO:0001058 ! decreased protein kinase activation
+def: "Reduction in extent, amount, or degree of activation of myosin light chain kinase." [DDB:pg]
+is_obsolete: true
 
 [Term]
 id: DDPHENO:0001065
 name: increased myosin light chain kinase activation
-def: "Increase in extent, amount, or degree of activation of myosin light chain kinase. " [DDB:pg]
-is_a: DDPHENO:0001061 ! increased protein kinase activation
+def: "Increase in extent, amount, or degree of activation of myosin light chain kinase." [DDB:pg]
+is_obsolete: true
 
 [Term]
 id: DDPHENO:0001066
@@ -4241,7 +4324,7 @@ is_a: DDPHENO:0001303 ! aberrant regulation of catalytic activity
 id: DDPHENO:0001120
 name: abolished protein kinase B activation
 def: "Complete inability for activation of protein kinase B." [DDB:pg]
-is_a: DDPHENO:0001062 ! abolished protein kinase activation
+is_obsolete: true
 
 [Term]
 id: DDPHENO:0001121
@@ -4374,101 +4457,91 @@ is_a: DDPHENO:0001137 ! aberrant regulation of GTPase activity
 id: DDPHENO:0001140
 name: aberrant regulation of Ras GTPase activity
 def: "Deviation from the normal, usual, or expected events during the regulation of the activity of a Ras GTPase." [DDB:pg]
-is_a: DDPHENO:0001137 ! aberrant regulation of GTPase activity
+is_obsolete: true
 
 [Term]
 id: DDPHENO:0001141
 name: aberrant regulation of Rac GTPase activity
 def: "Deviation from the normal, usual, or expected events during the regulation of the activity of a Rac GTPase." [DDB:pg]
-is_a: DDPHENO:0001137 ! aberrant regulation of GTPase activity
+is_obsolete: true
 
 [Term]
 id: DDPHENO:0001142
 name: aberrant regulation of Rab GTPase activity
 def: "Deviation from the normal, usual, or expected events during the regulation of the activity of a Rab GTPase." [DDB:pg]
-is_a: DDPHENO:0001137 ! aberrant regulation of GTPase activity
+is_obsolete: true
 
 [Term]
 id: DDPHENO:0001143
 name: aberrant regulation of Ran GTPase activity
 def: "Deviation from the normal, usual, or expected events during the regulation of the activity of a Ran GTPase." [DDB:pg]
-is_a: DDPHENO:0001137 ! aberrant regulation of GTPase activity
+is_obsolete: true
 
 [Term]
 id: DDPHENO:0001144
 name: aberrant regulation of Rap GTPase activity
 def: "Deviation from the normal, usual, or expected events during the regulation of the activity of a Rap GTPase." [DDB:pg]
-is_a: DDPHENO:0001137 ! aberrant regulation of GTPase activity
+is_obsolete: true
 
 [Term]
 id: DDPHENO:0001145
 name: decreased positive regulation of Rab GTPase activity
 def: "Reduction in extent, amount, or degree of positive regulation of Rab GTPase activity." [DDB:pg]
-is_a: DDPHENO:0001138 ! decreased positive regulation of GTPase activity
-is_a: DDPHENO:0001142 ! aberrant regulation of Rab GTPase activity
+is_obsolete: true
 
 [Term]
 id: DDPHENO:0001146
 name: increased positive regulation of Rab GTPase activity
 def: "Increase in extent, amount, or degree of positive regulation of Rab GTPase activity." [DDB:pg]
-is_a: DDPHENO:0001139 ! increased positive regulation of GTPase activity
-is_a: DDPHENO:0001142 ! aberrant regulation of Rab GTPase activity
+is_obsolete: true
 
 [Term]
 id: DDPHENO:0001147
 name: decreased positive regulation of Rac GTPase activity
 def: "Reduction in extent, amount, or degree of positive regulation of Rac GTPase activity." [DDB:pg]
-is_a: DDPHENO:0001138 ! decreased positive regulation of GTPase activity
-is_a: DDPHENO:0001141 ! aberrant regulation of Rac GTPase activity
+is_obsolete: true
 
 [Term]
 id: DDPHENO:0001148
 name: increased positive regulation of Rac GTPase activity
 def: "Increase in extent, amount, or degree of positive regulation of Rac GTPase activity." [DDB:pg]
-is_a: DDPHENO:0001139 ! increased positive regulation of GTPase activity
-is_a: DDPHENO:0001141 ! aberrant regulation of Rac GTPase activity
+is_obsolete: true
 
 [Term]
 id: DDPHENO:0001149
 name: decreased positive regulation of Ran GTPase activity
 def: "Reduction in extent, amount, or degree of positive regulation of Ran GTPase activity." [DDB:pg]
-is_a: DDPHENO:0001138 ! decreased positive regulation of GTPase activity
-is_a: DDPHENO:0001143 ! aberrant regulation of Ran GTPase activity
+is_obsolete: true
 
 [Term]
 id: DDPHENO:0001150
 name: increased positive regulation of Ran GTPase activity
 def: "Increase in extent, amount, or degree of positive regulation of Ran GTPase activity." [DDB:pg]
-is_a: DDPHENO:0001139 ! increased positive regulation of GTPase activity
-is_a: DDPHENO:0001143 ! aberrant regulation of Ran GTPase activity
+is_obsolete: true
 
 [Term]
 id: DDPHENO:0001151
 name: decreased positive regulation of Rap GTPase activity
 def: "Reduction in extent, amount, or degree of positive regulation of Rap GTPase activity." [DDB:pg]
-is_a: DDPHENO:0001138 ! decreased positive regulation of GTPase activity
-is_a: DDPHENO:0001144 ! aberrant regulation of Rap GTPase activity
+is_obsolete: true
 
 [Term]
 id: DDPHENO:0001152
 name: increased positive regulation of Rap GTPase activity
 def: "Increase in extent, amount, or degree of positive regulation of Rap GTPase activity." [DDB:pg]
-is_a: DDPHENO:0001139 ! increased positive regulation of GTPase activity
-is_a: DDPHENO:0001144 ! aberrant regulation of Rap GTPase activity
+is_obsolete: true
 
 [Term]
 id: DDPHENO:0001153
 name: increased positive regulation of Ras GTPase activity
 def: "Increase in extent, amount, or degree of positive regulation of Ras GTPase activity." [DDB:pg]
-is_a: DDPHENO:0001139 ! increased positive regulation of GTPase activity
-is_a: DDPHENO:0001140 ! aberrant regulation of Ras GTPase activity
+is_obsolete: true
 
 [Term]
 id: DDPHENO:0001154
 name: decreased positive regulation of Ras GTPase activity
 def: "Reduction in extent, amount, or degree of positive regulation of Ras GTPase activity." [DDB:pg]
-is_a: DDPHENO:0001138 ! decreased positive regulation of GTPase activity
-is_a: DDPHENO:0001140 ! aberrant regulation of Ras GTPase activity
+is_obsolete: true
 
 [Term]
 id: DDPHENO:0001155
@@ -5117,7 +5190,7 @@ is_a: DDPHENO:0001029 ! aberrant establishment and/or maintenance of cell polari
 id: DDPHENO:0001251
 name: increased protein kinase B activation
 def: "Increase in extent, amount, or degree of activation of protein kinase B." [DDB:pg]
-is_a: DDPHENO:0001061 ! increased protein kinase activation
+is_obsolete: true
 
 [Term]
 id: DDPHENO:0001252
@@ -5125,7 +5198,7 @@ name: abolished MAP kinase activation
 def: "Complete inability for activation of MAP kinase upon stimulus." [DDB:pg]
 synonym: "abolished erk2 activation" NARROW []
 synonym: "abolished erkB activation" NARROW []
-is_a: DDPHENO:0001062 ! abolished protein kinase activation
+is_obsolete: true
 
 [Term]
 id: DDPHENO:0001253
@@ -5133,7 +5206,7 @@ name: decreased MAP kinase activation
 def: "Reduction in extent, amount, or degree of activation of a MAP kinase." [DDB:pg]
 synonym: "decreased erk2 activation" RELATED []
 synonym: "decreased erkB activation" NARROW []
-is_a: DDPHENO:0001058 ! decreased protein kinase activation
+is_obsolete: true
 
 [Term]
 id: DDPHENO:0001254
@@ -5141,7 +5214,7 @@ name: increased MAP kinase activation
 def: "Increase in extent, amount, or degree of activation of a MAP kinase." [DDB:pg]
 synonym: "increased erk2 activation" NARROW []
 synonym: "increased erkB activation" NARROW []
-is_a: DDPHENO:0001061 ! increased protein kinase activation
+is_obsolete: true
 
 [Term]
 id: DDPHENO:0001255
@@ -5319,7 +5392,7 @@ id: DDPHENO:0001283
 name: decreased protein kinase A activity
 def: "Reduction in extent, amount, or degree of  protein kinase A activity." [DDB:pg]
 synonym: "decreased PKA activity" EXACT []
-is_a: DDPHENO:0001257 ! decreased catalytic activity
+is_obsolete: true
 
 [Term]
 id: DDPHENO:0001284
@@ -5394,7 +5467,7 @@ id: DDPHENO:0001294
 name: abolished glycogen synthase kinase 3 activity
 def: "Complete absence of glycogen synthase kinase 3 activity." [DDB:pg]
 synonym: "abolished GSK3 activity" EXACT []
-is_a: DDPHENO:0001289 ! abolished catalytic activity
+is_obsolete: true
 
 [Term]
 id: DDPHENO:0001295
@@ -5408,7 +5481,7 @@ id: DDPHENO:0001296
 name: abolished GTP-gamma-S-stimulated guanylyl cyclase activity
 def: "Complete absence of GTP-gamma-S-stimulated guanylyl cyclase activity." [DDB:pg]
 synonym: "abolished GTP-gamma-S-stimulated GSactivity" EXACT []
-is_a: DDPHENO:0001295 ! abolished guanylyl cyclase activity
+is_obsolete: true
 
 [Term]
 id: DDPHENO:0001297
@@ -5421,7 +5494,7 @@ id: DDPHENO:0001298
 name: abolished protein kinase A activity
 def: "Complete absence of protein kinase A activity." [DDB:pg]
 synonym: "abolished PKA activity" EXACT []
-is_a: DDPHENO:0001289 ! abolished catalytic activity
+is_obsolete: true
 
 [Term]
 id: DDPHENO:0001299
@@ -5435,21 +5508,21 @@ id: DDPHENO:0001300
 name: abolished protein kinase B activity
 def: "Complete absence of protein kinase B activity." [DDB:pg]
 synonym: "abolished PKB activity" EXACT []
-is_a: DDPHENO:0001289 ! abolished catalytic activity
+is_obsolete: true
 
 [Term]
 id: DDPHENO:0001301
 name: decreased protein kinase B activity
 def: "Reduction in extent, amount, or degree of protein kinase B activity." [DDB:pg]
 synonym: "decreased PKB activity" EXACT []
-is_a: DDPHENO:0001257 ! decreased catalytic activity
+is_obsolete: true
 
 [Term]
 id: DDPHENO:0001302
 name: increased protein kinase B activity
 def: "Increase in extent, amount, or degree of protein kinase B activity." [DDB:pg]
 synonym: "increased PKB activity" EXACT []
-is_a: DDPHENO:0001256 ! increased catalytic activity
+is_obsolete: true
 
 [Term]
 id: DDPHENO:0001303
@@ -5480,30 +5553,26 @@ is_a: DDPHENO:0001038 ! aberrant cAMP signaling during aggregation
 id: DDPHENO:0001307
 name: abolished activation of Rab GTPase activity
 def: "Complete inability to activate Rab GTPase activity." [DDB:pg]
-is_a: DDPHENO:0001142 ! aberrant regulation of Rab GTPase activity
-is_a: DDPHENO:0001311 ! aberrant activation of GTPase activity
+is_obsolete: true
 
 [Term]
 id: DDPHENO:0001308
 name: abolished activation of Rac GTPase activity
 def: "Complete inability to activate Rac GTPase activity." [DDB:pg]
 synonym: "abolished activation of Rho GTPase activity" RELATED []
-is_a: DDPHENO:0001141 ! aberrant regulation of Rac GTPase activity
-is_a: DDPHENO:0001311 ! aberrant activation of GTPase activity
+is_obsolete: true
 
 [Term]
 id: DDPHENO:0001309
 name: abolished activation of Ran GTPase activity
 def: "Complete inability to activate Ran GTPase activity." [DDB:pg]
-is_a: DDPHENO:0001143 ! aberrant regulation of Ran GTPase activity
-is_a: DDPHENO:0001311 ! aberrant activation of GTPase activity
+is_obsolete: true
 
 [Term]
 id: DDPHENO:0001310
 name: abolished activation of Rap GTPase activity
 def: "Complete inability to activate Rap GTPase activity." [DDB:pg]
-is_a: DDPHENO:0001144 ! aberrant regulation of Rap GTPase activity
-is_a: DDPHENO:0001311 ! aberrant activation of GTPase activity
+is_obsolete: true
 
 [Term]
 id: DDPHENO:0001311
@@ -5515,32 +5584,31 @@ is_a: DDPHENO:0001137 ! aberrant regulation of GTPase activity
 id: DDPHENO:0001312
 name: abolished activation of Ras GTPase activity
 def: "Complete inability to activate Ras GTPase activity." [DDB:pg]
-is_a: DDPHENO:0001140 ! aberrant regulation of Ras GTPase activity
-is_a: DDPHENO:0001311 ! aberrant activation of GTPase activity
+is_obsolete: true
 
 [Term]
 id: DDPHENO:0001313
 name: aberrant peptidyl-proline 4-dioxygenase activity
 def: "Deviation from the normal, usual, or expected activity of peptidyl-proline 4-dioxygenase." [DDB:pg]
-is_a: DDPHENO:0001105 ! aberrant catalytic activity
+is_obsolete: true
 
 [Term]
 id: DDPHENO:0001314
 name: decreased peptidyl-proline 4-dioxygenase activity
 def: "Reduction in extent, amount, or degree of peptidyl-proline 4-dioxygenase activity." [DDB:pg]
-is_a: DDPHENO:0001257 ! decreased catalytic activity
+is_obsolete: true
 
 [Term]
 id: DDPHENO:0001315
 name: increased peptidyl-proline 4-dioxygenase activity
 def: "Increase in extent, amount, or degree of peptidyl-proline 4-dioxygenase activity." [DDB:pg]
-is_a: DDPHENO:0001256 ! increased catalytic activity
+is_obsolete: true
 
 [Term]
 id: DDPHENO:0001316
 name: abolished peptidyl-proline 4-dioxygenase activity
 def: "Complete absence of peptidyl-proline 4-dioxygenase activity." [DDB:pg]
-is_a: DDPHENO:0001289 ! abolished catalytic activity
+is_obsolete: true
 
 [Term]
 id: DDPHENO:0001317
