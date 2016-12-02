@@ -1,13 +1,13 @@
 format-version: 1.2
-date: 15:01:2013 16:40
-saved-by: pfey
+date: 02:12:2016 11:28
+saved-by: Petra
 auto-generated-by: OBO-Edit 2.2
 default-namespace: Dictyostelium_discoideum_anatomy
 
 [Term]
 id: DDANAT:0000002
 name: vegetative amoebae
-def: "Unicellular haploid myxamoebae that feeds on bacteria by phagocytosis and divides by binary fission. The size of vegetative cells range from 12-20 microns by 8-12 microns. The cells exhibit a roughly rounded but rather irregular shape." [DDB:pg, DDB_REF:5048, PMID:4338436]
+def: "Unicellular haploid myxamoebae that feeds on bacteria by phagocytosis and divides by binary fission. The size of vegetative cells range from 12-20 microns by 8-12 microns. The cells exhibit a roughly rounded but rather irregular shape." [DDB:pg, PMID:4338436]
 synonym: "amoebae" BROAD []
 synonym: "vegetative cell" EXACT []
 synonym: "vegetative cell (sensu Mycetozoa)" EXACT [CL:0000263]
@@ -19,7 +19,7 @@ relationship: part_of DDANAT:0000013 ! stream
 [Term]
 id: DDANAT:0000003
 name: aggregation territory
-def: "Area covered by a group of chemotactic cells converging toward the same aggregation center. Can reach a diameter of up to 1 cm." [DDB:pg, DDB_REF:5048, DDB_REF:5054]
+def: "Area covered by a group of chemotactic cells converging toward the same aggregation center. Can reach a diameter of up to 1 cm." [DDB:pg, PMID:14458213, PMID:20268085]
 is_a: DDANAT:0010082 ! whole organism
 
 [Term]
@@ -33,9 +33,9 @@ relationship: develops_from DDANAT:0000003 ! aggregation territory
 [Term]
 id: DDANAT:0000005
 name: mound
-def: "Hemispherical structure composed of post-aggregative cells that are undergoing differentiation." [DDB:pg, PMID:52566]
-synonym: "pseudoplasmodium" BROAD [DDB_REF:5048]
-synonym: "tight aggrgate" EXACT []
+def: "Hemispherical structure composed of post-aggregative cells that are undergoing differentiation." [DDB:pg, PMID:20268085]
+synonym: "pseudoplasmodium" BROAD [PMID:18366659]
+synonym: "tight aggregate" EXACT []
 synonym: "tight mound" EXACT []
 is_a: DDANAT:0010082 ! whole organism
 relationship: develops_from DDANAT:0000004 ! loose aggregate
@@ -43,8 +43,8 @@ relationship: develops_from DDANAT:0000004 ! loose aggregate
 [Term]
 id: DDANAT:0000006
 name: tipped mound
-def: "Hemispherical structure composed of post-aggregative cells that are undergoing differentiation and that have formed a tip." [DDB:pg]
-synonym: "pseudoplasmodium" BROAD [DDB_REF:5048]
+def: "Hemispherical structure composed of post-aggregative cells that are undergoing differentiation and that have formed a tip." [DDB:pg, PMID:20268085]
+synonym: "pseudoplasmodium" BROAD []
 synonym: "tipped aggregate" EXACT [PMID:7553878]
 is_a: DDANAT:0010082 ! whole organism
 relationship: develops_from DDANAT:0000005 ! mound
@@ -52,11 +52,11 @@ relationship: develops_from DDANAT:0000005 ! mound
 [Term]
 id: DDANAT:0000007
 name: standing slug
-def: "Cylindrical structure that is formed by elongation of the mound under the control of the tip. The elongating tip is called the first finger." [DDB:pg]
+def: "Cylindrical structure that is formed by elongation of the mound under the control of the tip. The elongating tip is called the first finger." [DDB:pg, PMID:18366659]
 comment: Synonym from Kessin book p. 166.
 synonym: "finger" EXACT []
 synonym: "first finger" NARROW []
-synonym: "pseudoplasmodium" BROAD [DDB:http\://preserve.nal.usda.gov\:8300/jag/v50/v50i02/500135/a500135.htm]
+synonym: "pseudoplasmodium" BROAD []
 xref: ISBN:0521583640
 is_a: DDANAT:0010082 ! whole organism
 relationship: develops_from DDANAT:0000006 ! tipped mound
@@ -64,37 +64,37 @@ relationship: develops_from DDANAT:0000006 ! tipped mound
 [Term]
 id: DDANAT:0000008
 name: migratory slug
-def: "When the conditions are not optimal for the completion of development, the standing slug bends from a vertical position to a horizontal position, producing a migratory that slug has the ability to migrate towards more favorable environmental conditions. The slug is cylindrical in shape with a rounded, tapering region at its anterior end that is raised with respect to the substratum. It usually measures between 0.8 to 1.2 mm in length with a diameter of 0.15 to 0.25 mm. Slugs sense and respond to light, temperature and acidity, and do not enter culmination until the conditions are optimal. The slug can move at a speed of 0.5 to 2 mm per hour. A trail of slime is deposited on the surface during migration." [DDB:pg, DDB_REF:439, DDB_REF:5048, DDB_REF:5053, DDB_REF:5054]
-synonym: "pseudoplasmodium" BROAD [DDB_REF:5048]
+def: "When the conditions are not optimal for the completion of development, the standing slug bends from a vertical position to a horizontal position, producing a migratory that slug has the ability to migrate towards more favorable environmental conditions. The slug is cylindrical in shape with a rounded, tapering region at its anterior end that is raised with respect to the substratum. It usually measures between 0.8 to 1.2 mm in length with a diameter of 0.15 to 0.25 mm. Slugs sense and respond to light, temperature and acidity, and do not enter culmination until the conditions are optimal. The slug can move at a speed of 0.5 to 2 mm per hour. A trail of slime is deposited on the surface during migration." [DDB:pg, PMID:2513127, PMID:8223266]
+synonym: "pseudoplasmodium" BROAD [PMID:18366659]
 is_a: DDANAT:0010082 ! whole organism
 relationship: develops_from DDANAT:0000007 ! standing slug
 
 [Term]
 id: DDANAT:0000009
 name: early culminant
-def: "Structure formed after the arrest of slug migration formed when cells of the posterior region of the slug move under the tip. Stalk tube formation is initiated at this stage." [DDB:5059, DDB:pg, DDB_REF:5048]
+def: "Structure formed after the arrest of slug migration formed when cells of the posterior region of the slug move under the tip. Stalk tube formation is initiated at this stage." [DDB:pg, PMID:18366659, PMID:1879341]
 synonym: "culminant" BROAD []
 synonym: "mexican hat" NARROW []
-synonym: "pseudoplasmodium" BROAD [DDB:5048]
+synonym: "pseudoplasmodium" BROAD [PMID:18366659]
 is_a: DDANAT:0010082 ! whole organism
 relationship: develops_from DDANAT:0000007 ! standing slug
 
 [Term]
 id: DDANAT:0000010
 name: mid culminant
-def: "Structure in which stalk tube formation has progressed down the prespore zone. Basal disc formation begins at this stage, with the migration of pstA and pstB cells to the lower part of the culminant to form the basal disc." [DDB:pg, DDB_REF:5059]
+def: "Structure in which stalk tube formation has progressed down the prespore zone. Basal disc formation begins at this stage, with the migration of pstA and pstB cells to the lower part of the culminant to form the basal disc." [DDB:pg, PMID:9799430]
 synonym: "culminant" BROAD []
-synonym: "pseudoplasmodium" BROAD [DDB_REF:5048]
+synonym: "pseudoplasmodium" BROAD [PMID:18366659]
 is_a: DDANAT:0010082 ! whole organism
 relationship: develops_from DDANAT:0000009 ! early culminant
 
 [Term]
 id: DDANAT:0000011
 name: late culminant
-def: "Structure in which stalk tube formation has progressed down to the basal disc. The sorogen ascents up the stalk to it apical position dring this stage. Terminal differentiation occurs at this stage: death of the stalk cells and encapsulation of the spores." [DDB:pg, DDB_REF:5059]
+def: "Structure in which stalk tube formation has progressed down to the basal disc. The sorogen ascents up the stalk to it apical position during this stage. Terminal differentiation occurs at this stage: death of the stalk cells and encapsulation of the spores." [DDB:pg, PMID:1879341]
 comment: Kessin book p. 201.
 synonym: "culminant" BROAD []
-synonym: "pseudoplasmodium" RELATED [DDB_REF:5048]
+synonym: "pseudoplasmodium" RELATED [PMID:18366659]
 xref: ISBN:0521583640
 is_a: DDANAT:0010082 ! whole organism
 relationship: develops_from DDANAT:0000010 ! mid culminant
@@ -102,9 +102,9 @@ relationship: develops_from DDANAT:0000010 ! mid culminant
 [Term]
 id: DDANAT:0000012
 name: fruiting body
-def: "Dicty asexual organism which is terminally differentiated and consists of a long stalk on top of which sits the sorus that contains spores. The mature fruiting body measures between 1.5 to 3 mm in height." [DDB:pg, DDB_REF:5048]
+def: "Dicty asexual organism which is terminally differentiated and consists of a long stalk on top of which sits the sorus that contains spores. The mature fruiting body measures between 1.5 to 3 mm in height." [DDB:18366659, DDB:pg]
 comment: Synonym from Kessin book p. 12-13.
-synonym: "sorocarp" EXACT [DDB_REF:5048]
+synonym: "sorocarp" EXACT []
 xref: ISBN:0521583640
 is_a: DDANAT:0010082 ! whole organism
 relationship: develops_from DDANAT:0000011 ! late culminant
@@ -112,8 +112,8 @@ relationship: develops_from DDANAT:0000011 ! late culminant
 [Term]
 id: DDANAT:0000013
 name: stream
-def: "Macroscopic appearance of groups of chemotactic cells orienting themselves in a head to tail fashion as they are migrating in the direction of the chemotactic stimulus to form aggregates." [DDB:pg, DDB_REF:5048]
-synonym: "pseudoplasmodial stream" EXACT [DDB_REF:5048]
+def: "Macroscopic appearance of groups of chemotactic cells orienting themselves in a head to tail fashion as they are migrating in the direction of the chemotactic stimulus to form aggregates." [DDB:18366659, DDB:pg]
+synonym: "pseudoplasmodial stream" EXACT []
 is_a: DDANAT:0010085 ! subdivision
 relationship: part_of DDANAT:0000003 ! aggregation territory
 
@@ -129,7 +129,7 @@ relationship: part_of DDANAT:0000004 ! loose aggregate
 [Term]
 id: DDANAT:0000015
 name: surface sheath of the mound
-def: "Acellular material composed of polysaccharides and proteins that holds the cell mass together in the mound." [DDB:pg, PMID:4338436]
+def: "Acellular material composed of polysaccharides and proteins that holds the cell mass together in the mound." [DDB:pg, PMID:557037]
 synonym: "extracellular matrix (ECM)" RELATED []
 is_a: DDANAT:0000096 ! surface sheath
 relationship: develops_from DDANAT:0000014 ! surface sheath of the loose aggregate
@@ -168,7 +168,7 @@ relationship: part_of DDANAT:0000006 ! tipped mound
 [Term]
 id: DDANAT:0000019
 name: prestalk region of the standing slug
-def: "Elongated protusion of the standing slug located on top of the cell mass that contains pstA cells flanked by pstO cells (expressing ecmA from the proximal and the distal part of its promoter, respectively)." [DDB:pg]
+def: "Elongated protrusion of the standing slug located on top of the cell mass that contains pstA cells flanked by pstO cells (expressing ecmA from the proximal and the distal part of its promoter, respectively)." [DDB:pg]
 synonym: "pst region of the standing slug" EXACT []
 xref: PMID:10642783
 xref: PMID:2513127
@@ -240,7 +240,8 @@ relationship: part_of DDANAT:0000007 ! standing slug
 [Term]
 id: DDANAT:0000026
 name: peripheral layer of the standing slug
-def: "Outer-most cell layer surrounding the standing slug. The peripheral layer is composed of electron-dense cells that are connected to each other, forming a coherent tissue." [DDB:pg, DDB_REF:1910]
+def: "Outer-most cell layer surrounding the standing slug. The peripheral layer is composed of electron-dense cells that are connected to each other, forming a coherent tissue." [DDB:pg, ISSN:0021-9533]
+comment: Characterisation of an epithelium-like layer of cells in the multicellular Dictyostelium discoideum slug. \nM Fuchs, MK Jones, KL Williams - Journal of Cell Science, 1993. ISSN:0021-9533.\nnot indexed in PubMed.
 is_a: DDANAT:0000090 ! peripheral layer
 relationship: develops_from DDANAT:0000007 ! standing slug
 relationship: part_of DDANAT:0000007 ! standing slug
@@ -248,7 +249,7 @@ relationship: part_of DDANAT:0000007 ! standing slug
 [Term]
 id: DDANAT:0000027
 name: surface sheath of the standing slug
-def: "Acellular material composed of polysaccharides and proteins that holds the cell mass together in the standing slug." [DDB:pg]
+def: "Acellular material composed of polysaccharides and proteins that holds the cell mass together in the standing slug." [DDB:pg, PMID:557037]
 synonym: "extracellular matrix (ECM)" RELATED []
 is_a: DDANAT:0000096 ! surface sheath
 relationship: develops_from DDANAT:0000018 ! surface sheath of the tipped mound
@@ -267,7 +268,7 @@ relationship: part_of DDANAT:0000008 ! migratory slug
 [Term]
 id: DDANAT:0000029
 name: tip-organizer of the migratory slug
-def: "Part of the prestalk region of the migratory slug that acts as an organizer, that is, a signalling center that directs the morphological characteristics of the entire organism. The tip guides the moveement of the organism during migration." [DDB:pg, DDB_REF:5053]
+def: "Part of the prestalk region of the migratory slug that acts as an organizer, that is, a signalling center that directs the morphological characteristics of the entire organism. The tip guides the movement of the organism during migration." [DDB:pg, PMID:18366659, PMID:987586]
 synonym: "tip of the migratory slug" RELATED []
 is_a: DDANAT:0000103 ! tip-organizer
 relationship: develops_from DDANAT:0000020 ! tip-organizer of the standing slug
@@ -332,7 +333,8 @@ relationship: part_of DDANAT:0000008 ! migratory slug
 [Term]
 id: DDANAT:0000035
 name: peripheral layer of the migratory slug
-def: "Outer-most cell layer surrounding the migratory slug. The peripheral layer is composed of electron-dense cells that are connected to each other, forming a coherent tissue." [DDB:pg, DDB_REF:1910]
+def: "Outer-most cell layer surrounding the migratory slug. The peripheral layer is composed of electron-dense cells that are connected to each other, forming a coherent tissue." [DDB:pg, ISSN:0021-9533]
+comment: Characterisation of an epithelium-like layer of cells in the multicellular Dictyostelium discoideum slug. \nM Fuchs, MK Jones, KL Williams - Journal of Cell Science, 1993. ISSN:0021-9533.\nnot indexed in PubMed.
 is_a: DDANAT:0000090 ! peripheral layer
 relationship: develops_from DDANAT:0000026 ! peripheral layer of the standing slug
 relationship: part_of DDANAT:0000008 ! migratory slug
@@ -403,8 +405,8 @@ relationship: part_of DDANAT:0000041 ! prespore region of the early culminant
 [Term]
 id: DDANAT:0000043
 name: stalk tube of the early culminant
-def: "Open, cylindrical tube of the early culminant composed of cellulose and glycoprotein and surrounded by a ring of actin in which stalk cells accumulate." [DDB:pg, DDB_REF:5053, ISBN:0521583640, PMID:11130075, PMID:9799430]
-synonym: "sorophore sheath" BROAD [DDB_REF:5059]
+def: "Open, cylindrical tube of the early culminant composed of cellulose and glycoprotein and surrounded by a ring of actin in which stalk cells accumulate." [DDB:pg, ISBN:0521583640, PMID:11130075, PMID:9799430]
+synonym: "sorophore sheath" BROAD []
 is_a: DDANAT:0000097 ! stalk tube
 relationship: develops_from DDANAT:0000009 ! early culminant
 relationship: part_of DDANAT:0000041 ! prespore region of the early culminant
@@ -429,9 +431,8 @@ relationship: part_of DDANAT:0000009 ! early culminant
 [Term]
 id: DDANAT:0000046
 name: peripheral layer of the early culminant
-def: "Layer surrounding the mexican hat and composed of an electron-dense cell type." [DDB:pg, DDB_REF:1910]
+def: "Layer surrounding the mexican hat and composed of an electron-dense cell type." [DDB:pg, ISBN:0521583640]
 comment: Kessin book p. 195.
-xref: ISBN:0521583640
 is_a: DDANAT:0000090 ! peripheral layer
 relationship: develops_from DDANAT:0000026 ! peripheral layer of the standing slug
 relationship: part_of DDANAT:0000009 ! early culminant
@@ -489,7 +490,7 @@ id: DDANAT:0000052
 name: stalk of the mid culminant
 def: "Tubular structure of the mid culminant that consists of cellulose-covered cells stacked on top of each other and surrounded by an acellular stalk tube composed of cellulose and glycoprotein." [DDB:pg]
 comment: Synonym from Kessin book p. 12-13; Kessin book p. 193.
-synonym: "sorophore of the mid culminant" EXACT [DDB_REF:5053]
+synonym: "sorophore of the mid culminant" EXACT []
 xref: ISBN:0521583640
 is_a: DDANAT:0000093 ! stalk
 relationship: develops_from DDANAT:0000040 ! prestalk AB core region of the early culminant
@@ -499,7 +500,7 @@ relationship: part_of DDANAT:0000010 ! mid culminant
 id: DDANAT:0000053
 name: stalk tube of the mid culminant
 def: "Open, cylindrical tube of the mid culminant composed of cellulose and glycoprotein and surrounded by a ring of actin in which stalk cells accumulate." [DDB:pg, ISBN:0521583640, PMID:11130075, PMID:9799430]
-synonym: "sorophore sheath" BROAD [DDB_REF:5059]
+synonym: "sorophore sheath" BROAD []
 is_a: DDANAT:0000097 ! stalk tube
 relationship: develops_from DDANAT:0000043 ! stalk tube of the early culminant
 relationship: part_of DDANAT:0000052 ! stalk of the mid culminant
@@ -531,7 +532,7 @@ relationship: part_of DDANAT:0000054 ! prespore region of the mid culminant
 [Term]
 id: DDANAT:0000057
 name: basal disc of the mid culminant
-def: "Region located of the mid culminant located closest to the substratum and composed of pst cells (rearguard cells)." [DDB:pg, DDB_REF:5053]
+def: "Region located of the mid culminant located closest to the substratum and composed of pst cells (rearguard cells)." [DDB:pg, PMID:8631253]
 xref: PMID:10611970
 is_a: DDANAT:0000089 ! basal disc
 relationship: develops_from DDANAT:0000045 ! basal region of the early culminant
@@ -540,7 +541,7 @@ relationship: part_of DDANAT:0000010 ! mid culminant
 [Term]
 id: DDANAT:0000058
 name: peripheral layer of the mid culminant
-def: "Layer surrounding the mid culminant and composed of an electron-dense cell type." [DDB:pg, DDB_REF:1910]
+def: "Layer surrounding the mid culminant and composed of an electron-dense cell type." [DDB:pg]
 comment: Kessin book p. 195.
 xref: ISBN:0521583640
 is_a: DDANAT:0000090 ! peripheral layer
@@ -552,7 +553,7 @@ id: DDANAT:0000059
 name: stalk of the late culminant
 def: "Tubular structure of the late culminant that consists of cellulose-covered cells stacked on top of each other and surrounded by an acellular stalk tube composed of cellulose and glycoprotein." [DDB:pg]
 comment: Synonym from Kessin book p. 12-13, Kessin book p. 193.
-synonym: "sorophore of the late culminant" EXACT [DDB_REF:5053]
+synonym: "sorophore of the late culminant" EXACT []
 xref: ISBN:0521583640
 is_a: DDANAT:0000093 ! stalk
 relationship: develops_from DDANAT:0000052 ! stalk of the mid culminant
@@ -562,7 +563,7 @@ relationship: part_of DDANAT:0000011 ! late culminant
 id: DDANAT:0000060
 name: stalk tube of the late culminant
 def: "Open, cylindrical tube of the late culminant composed of cellulose and glycoprotein and surrounded by a ring of actin in which stalk cells accumulate." [DDB:pg, ISBN:0521583640, PMID:11130075, PMID:9799430]
-synonym: "sorophore sheath" BROAD [DDB_REF:5059]
+synonym: "sorophore sheath" BROAD []
 is_a: DDANAT:0000097 ! stalk tube
 relationship: develops_from DDANAT:0000053 ! stalk tube of the mid culminant
 relationship: part_of DDANAT:0000059 ! stalk of the late culminant
@@ -605,7 +606,7 @@ relationship: part_of DDANAT:0000061 ! sorus of the late culminant
 [Term]
 id: DDANAT:0000065
 name: basal disc of the late culminant
-def: "Conical-shaped structure of the late culminant that anchors the stalk to the substratum. Composed of anterior-like cells." [DDB:pg, DDB_REF:5053]
+def: "Conical-shaped structure of the late culminant that anchors the stalk to the substratum. Composed of anterior-like cells." [DDB:pg, PMID:8631253]
 is_a: DDANAT:0000089 ! basal disc
 relationship: develops_from DDANAT:0000057 ! basal disc of the mid culminant
 relationship: part_of DDANAT:0000011 ! late culminant
@@ -629,8 +630,8 @@ relationship: part_of DDANAT:0000065 ! basal disc of the late culminant
 [Term]
 id: DDANAT:0000068
 name: stalk of the fruiting body
-def: "Tubular structure of the fruiting body that consists of cellulose-covered cells stacked on top of each other and surrounded by an acellular stalk tube composed of cellulose and glycoprotein. The stalk of the mature fruiting body is usually 5-15 microns in diameter and between 1.5 to 3 cm in height." [DDB:pg, DDB_REF:5048, PMID:565220]
-synonym: "sorophore of the fruiting body" EXACT [DDB_REF:5053]
+def: "Tubular structure of the fruiting body that consists of cellulose-covered cells stacked on top of each other and surrounded by an acellular stalk tube composed of cellulose and glycoprotein. The stalk of the mature fruiting body is usually 5-15 microns in diameter and between 1.5 to 3 cm in height." [DDB:pg, PMID:565220]
+synonym: "sorophore of the fruiting body" EXACT []
 is_a: DDANAT:0000093 ! stalk
 relationship: develops_from DDANAT:0000059 ! stalk of the late culminant
 relationship: part_of DDANAT:0000012 ! fruiting body
@@ -638,8 +639,8 @@ relationship: part_of DDANAT:0000012 ! fruiting body
 [Term]
 id: DDANAT:0000069
 name: stalk tube of the fruiting body
-def: "Open, cylindrical tube of the fruiting body composed of cellulose and glycoprotein and surrounded by a ring of actin in which stalk cells accumulate." [DDB:pg, DDB_REF:5059, PMID:11130075]
-synonym: "sorophore sheath" BROAD [DDB_REF:5059]
+def: "Open, cylindrical tube of the fruiting body composed of cellulose and glycoprotein and surrounded by a ring of actin in which stalk cells accumulate." [DDB:pg, PMID:11130075]
+synonym: "sorophore sheath" BROAD []
 is_a: DDANAT:0000097 ! stalk tube
 relationship: develops_from DDANAT:0000060 ! stalk tube of the late culminant
 relationship: part_of DDANAT:0000068 ! stalk of the fruiting body
@@ -647,7 +648,7 @@ relationship: part_of DDANAT:0000068 ! stalk of the fruiting body
 [Term]
 id: DDANAT:0000070
 name: sorus of the fruiting body
-def: "Structure of the fruiting body supported by the stalk and that contains the spores. The sorus is 125-300 microns in diameter, lemon-shaped, and grayish white to pale yellow in color." [DDB:pg, DDB_REF:5048]
+def: "Structure of the fruiting body supported by the stalk and that contains the spores. The sorus is 125-300 microns in diameter, lemon-shaped, and grayish white to pale yellow in color." [DDB:pg]
 synonym: "spore head of the fruiting body" EXACT []
 is_a: DDANAT:0000094 ! sorus
 relationship: develops_from DDANAT:0000061 ! sorus of the late culminant
@@ -673,7 +674,7 @@ relationship: part_of DDANAT:0000070 ! sorus of the fruiting body
 [Term]
 id: DDANAT:0000073
 name: basal disc of the fruiting body
-def: "Conical-shaped structure of the fruiting body that anchors the stalk to the substratum, around 150 to 400 microns in diameter. Composed of anterior-like cells." [DDB:pg, DDB_REF:5048]
+def: "Conical-shaped structure of the fruiting body that anchors the stalk to the substratum, around 150 to 400 microns in diameter. Composed of anterior-like cells." [DDB:pg, PMID:8631253]
 is_a: DDANAT:0000089 ! basal disc
 relationship: develops_from DDANAT:0000065 ! basal disc of the late culminant
 relationship: part_of DDANAT:0000012 ! fruiting body
@@ -697,8 +698,8 @@ relationship: part_of DDANAT:0000073 ! basal disc of the fruiting body
 [Term]
 id: DDANAT:0000076
 name: slime trail
-def: "Acellular material from the surface sheath left behind the migratory slug as it moves. Can be up to 2-3 cm in length." [DDB:pg, DDB_REF:5048]
-synonym: "slime track" EXACT [DDB_REF:5059]
+def: "Acellular material from the surface sheath left behind the migratory slug as it moves. Can be up to 2-3 cm in length." [DDB:pg, PMID:4338436]
+synonym: "slime track" EXACT []
 is_a: DDANAT:0010081 ! acellular anatomical structure
 relationship: develops_from DDANAT:0000036 ! surface sheath of the migratory slug
 relationship: part_of DDANAT:0000008 ! migratory slug
@@ -706,7 +707,7 @@ relationship: part_of DDANAT:0000008 ! migratory slug
 [Term]
 id: DDANAT:0000077
 name: surface sheath of the mid culminant
-def: "Acellular material composed of polysaccharides and proteins. Covers the basal disc of the mid culminant." [DDB:pg, DDB_REF:5059]
+def: "Acellular material composed of polysaccharides and proteins. Covers the basal disc of the mid culminant." [DDB:pg, PMID:557037]
 is_a: DDANAT:0000096 ! surface sheath
 relationship: develops_from DDANAT:0000047 ! surface sheath of the early culminant
 relationship: part_of DDANAT:0000010 ! mid culminant
@@ -714,7 +715,7 @@ relationship: part_of DDANAT:0000010 ! mid culminant
 [Term]
 id: DDANAT:0000078
 name: surface sheath of the late culminant
-def: "Acellular material composed of polysaccharides and proteins. In the late culminant, covers only the basal disc." [DDB:pg, DDB_REF:5059]
+def: "Acellular material composed of polysaccharides and proteins. In the late culminant, covers only the basal disc." [DDB:pg, PMID:557037]
 is_a: DDANAT:0000096 ! surface sheath
 relationship: develops_from DDANAT:0000077 ! surface sheath of the mid culminant
 relationship: part_of DDANAT:0000011 ! late culminant
@@ -722,7 +723,7 @@ relationship: part_of DDANAT:0000011 ! late culminant
 [Term]
 id: DDANAT:0000079
 name: surface sheath of the fruiting body
-def: "Acellular material composed of polysaccharides and proteins. In the fruiting body, covers only the basal disc." [DDB:pg, DDB_REF:5059]
+def: "Acellular material composed of polysaccharides and proteins. In the fruiting body, covers only the basal disc." [DDB:pg, PMID:557037]
 is_a: DDANAT:0000096 ! surface sheath
 relationship: develops_from DDANAT:0000078 ! surface sheath of the late culminant
 relationship: part_of DDANAT:0000012 ! fruiting body
@@ -747,7 +748,7 @@ is_a: DDANAT:0000401 ! cell
 [Term]
 id: DDANAT:0000084
 name: macrocyst
-def: "Unicellular diplopid organism resulting from the fusion of two cells of opposite mating types." [DDB:pg, DDB_REF:398]
+def: "Unicellular diploid organism resulting from the fusion of two cells of opposite mating types." [DDB:pg, PMID:16592095]
 is_a: DDANAT:0000083 ! Dictyostelium discoideum single cell organism
 
 [Term]
@@ -818,7 +819,8 @@ is_a: DDANAT:0010085 ! subdivision
 [Term]
 id: DDANAT:0000095
 name: peripheral layer cell
-def: "Electron-dense cell connected to neighboring peripheral layer cells thus forming a coherent tissue around the multicellular organism." [DDB:pg, DDB_REF:1910]
+def: "Electron-dense cell connected to neighboring peripheral layer cells thus forming a coherent tissue around the multicellular organism." [DDB:pg, ISSN:0021-9533]
+comment: Characterisation of an epithelium-like layer of cells in the multicellular Dictyostelium discoideum slug. \nM Fuchs, MK Jones, KL Williams - Journal of Cell Science, 1993. ISSN:0021-9533.\nnot indexed in PubMed.
 is_a: DDANAT:0000401 ! cell
 relationship: part_of DDANAT:0000026 ! peripheral layer of the standing slug
 relationship: part_of DDANAT:0000035 ! peripheral layer of the migratory slug
@@ -834,7 +836,7 @@ is_a: DDANAT:0010081 ! acellular anatomical structure
 [Term]
 id: DDANAT:0000097
 name: stalk tube
-def: "Open, cylindrical tube that appears during culmination. The stalk tube is composed of cellulose and glycoprotein and surrounded by a ring of actin in which stalk cells accumulate." [DDB:pg, DDB_REF:5053, ISBN:0521583640, PMID:11130075, PMID:9799430]
+def: "Open, cylindrical tube that appears during culmination. The stalk tube is composed of cellulose and glycoprotein and surrounded by a ring of actin in which stalk cells accumulate." [DDB:pg, ISBN:0521583640, PMID:11130075, PMID:9799430]
 is_a: DDANAT:0010081 ! acellular anatomical structure
 
 [Term]
@@ -953,7 +955,7 @@ is_a: DDANAT:0010001 ! Dictyostelium discoideum anatomical structure
 id: DDANAT:0000402
 name: chemotactic amoeboid cell
 alt_id: DDANAT:0000001
-def: "Starved cell that secretes and responds to chemoattractants (cAMP)." [DDB:pg, DDB_REF:5048, PMID:4338436]
+def: "Starved cell that secretes and responds to chemoattractants (cAMP)." [DDB:pg, PMID:4338436]
 synonym: "amoebae" BROAD []
 synonym: "chemotactic amoeboid cell (sensu Mycetozoa)" EXACT [CL:0000289]
 xref: CL:0000289 "Cell Line Ontology"
@@ -964,6 +966,7 @@ relationship: part_of DDANAT:0000013 ! stream
 [Term]
 id: DDANAT:0000403
 name: aggregate cell
+alt_id: DDANAT:0000009
 def: "Differentiating cell composing the aggregate that has acquired adhesive properties." [DDB:pg]
 xref: CL:0000259 "Cell Line Ontology"
 is_a: DDANAT:0000401 ! cell
@@ -975,6 +978,7 @@ relationship: part_of DDANAT:0000005 ! mound
 [Term]
 id: DDANAT:0000404
 name: anterior like cell
+alt_id: DDANAT:0000019
 def: "Cell that has properties of anterior cells (for e.g., accumulate vital dyes in autophagic vesicles) but that is are scattered throughout the rear of the slug. Some but not all these cells express the ecmA gene and/or the ecmB gene. ALCs maintain an amoeboid appearance during culmination. ALCs that express the ecmO promoter have been called pstO/ALC." [DDB:pg]
 synonym: "ALC" EXACT []
 xref: CL:0000265 "Cell Line Ontology"
@@ -985,7 +989,8 @@ relationship: part_of DDANAT:0000033 ! prespore region of the migratory slug
 [Term]
 id: DDANAT:0000405
 name: prespore cell
-def: "Cell that is undergoing differentiation to become a spore. Characterized by the presence of prespore vesicles (PV)." [DDB:pg, DDB_REF:439, PMID:4330277]
+alt_id: DDANAT:0000003
+def: "Cell that is undergoing differentiation to become a spore. Characterized by the presence of prespore vesicles (PV)." [DDB:pg, PMID:4330277]
 synonym: "psp cell" EXACT []
 xref: CL:0000267 "Cell Line Ontology"
 is_a: DDANAT:0000401 ! cell
@@ -1001,7 +1006,7 @@ relationship: part_of DDANAT:0000061 ! sorus of the late culminant
 [Term]
 id: DDANAT:0000406
 name: prestalk cell
-def: "Cell that is undergoing differentiation to become a stalk cell and characterized by the ability to update vital dyes. Represents about one-quarter of the cells. During development, prestalk cells are located in the anterior portion of the organism." [DDB:pg, DDB_REF:448, DDB_REF:5059]
+def: "Cell that is undergoing differentiation to become a stalk cell and characterized by the ability to update vital dyes. Represents about one-quarter of the cells. During development, prestalk cells are located in the anterior portion of the organism." [DDB:pg, PMID:4330277]
 synonym: "anterior cell" EXACT []
 synonym: "pst cell" EXACT []
 xref: CL:0000269 "Cell Line Ontology"
@@ -1010,6 +1015,7 @@ is_a: DDANAT:0000401 ! cell
 [Term]
 id: DDANAT:0000407
 name: pstO cell
+alt_id: DDANAT:0000006
 def: "Cell that is undergoing differentiation to become a stalk cell. pstO cells express ecmA at a very low level and are located at the posterior half of the prestalk zone. Expresses ecmA from the distal region of its promoter (ecmO)." [DDB:pg]
 synonym: "prestalk O cell" RELATED []
 xref: CL:0000279 "Cell Line Ontology"
@@ -1094,7 +1100,7 @@ is_a: DDANAT:0000404 ! anterior like cell
 id: DDANAT:0000413
 name: stalk cell
 alt_id: DDANAT:0000025
-def: "Cell of polyhedric shape filling the stalk tube. Stack cells are large (around 8 icrons in diameter), highly vacuolated, and are surrounded by cell wall composed of cellulose. Stalk cells die upon terminal differentiation. Their role is to provide structural support for the fruiting body." [DDB:pg, DDB_REF:5059]
+def: "Cell of polyhedric shape filling the stalk tube. Stack cells are large (around 8 microns in diameter), highly vacuolated, and are surrounded by cell wall composed of cellulose. Stalk cells die upon terminal differentiation. Their role is to provide structural support for the fruiting body." [DDB:pg]
 xref: CL:0000285 "Cell Line Ontology"
 is_a: DDANAT:0000401 ! cell
 relationship: develops_from DDANAT:0000410 ! pstAB cell
@@ -1108,7 +1114,7 @@ relationship: part_of DDANAT:0000074 ! inner basal disc of the fruiting body
 id: DDANAT:0000414
 name: spore
 alt_id: DDANAT:0000026
-def: "Dormant cell protected by a tri-layer spore coat. The spore has an elliptical shape and is approximately 6-9 microns by 3 microns." [DDB:pg, DDB_REF:5048, PMID:4338436]
+def: "Dormant cell protected by a tri-layer spore coat. The spore has an elliptical shape and is approximately 6-9 microns by 3 microns." [DDB:pg, PMID:4338436]
 synonym: "spore (sensu Mycetozoa)" EXACT [CL:0000291]
 xref: CL:0000291 "Cell Line Ontology"
 is_a: DDANAT:0000083 ! Dictyostelium discoideum single cell organism
@@ -1134,18 +1140,9 @@ relationship: part_of DDANAT:0000005 ! mound
 [Term]
 id: DDANAT:0000418
 name: sentinel cell
-def: "Cell present in multicellular organism that has a high ability to engulf bacteria and toxin and is presumed to have a detoxification and immune-like role." [PMID:17673666]
+def: "Cell present in multicellular organism that has a high ability to engulf bacteria and toxin and is presumed to have a detoxification and immune-like role." [DDB:pf, PMID:17673666]
 synonym: "S cell" EXACT []
 is_a: DDANAT:0000401 ! cell
-
-[Term]
-id: DDANAT:0000430
-name: pstI cell
-alt_id: DDANAT:0000008
-def: "Initial population of prestalk cells that activate the ecmA promoter at the mound stage and that presumably further differentiate into pstA and pstO cells." [DDB:pg]
-synonym: "prestalk I cell" EXACT []
-xref: CL:0000277 "Cell Line Ontology"
-is_obsolete: true
 
 [Term]
 id: DDANAT:0001000
@@ -1202,6 +1199,5 @@ name: develops_from
 [Typedef]
 id: part_of
 name: part of
-xref: BFO:0000050
 is_transitive: true
 
