@@ -1,6 +1,6 @@
 format-version: 1.2
-date: 29:09:2014 17:24
-saved-by: pfey
+date: 06:01:2017 13:52
+saved-by: Petra
 auto-generated-by: OBO-Edit 2.2
 default-namespace: strain_characteristics
 
@@ -62,6 +62,10 @@ is_a: DDSTRAINCHAR:0000038 ! mutant
 [Term]
 id: DDSTRAINCHAR:0000011
 name: temperature sensitive mutant
+alt_id: DDSTRAINCHAR:0000018
+comment: Merged two terms as we should not make a difference and they have been quite randomly used in the past; temperature conditional mutant is a temperature sensitive mutant.
+synonym: "temperature conditional mutant" NARROW []
+xref: DDB:pf
 is_a: DDSTRAINCHAR:0000038 ! mutant
 
 [Term]
@@ -78,6 +82,7 @@ is_a: DDSTRAINCHAR:0000038 ! mutant
 id: DDSTRAINCHAR:0000014
 name: multiple null mutant
 is_a: DDSTRAINCHAR:0000013 ! null mutant
+is_a: DDSTRAINCHAR:0000023 ! multiple mutant
 
 [Term]
 id: DDSTRAINCHAR:0000015
@@ -93,11 +98,6 @@ is_a: DDSTRAINCHAR:0000038 ! mutant
 id: DDSTRAINCHAR:0000017
 name: FLAG-tagged
 is_a: DDSTRAINCHAR:0000037 ! tagged
-
-[Term]
-id: DDSTRAINCHAR:0000018
-name: temperature conditional mutant
-is_a: DDSTRAINCHAR:0000038 ! mutant
 
 [Term]
 id: DDSTRAINCHAR:0000019
