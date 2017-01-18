@@ -1,6 +1,6 @@
 format-version: 1.2
-date: 16:01:2015 14:06
-saved-by: pfey
+date: 18:01:2017 17:52
+saved-by: Petra
 auto-generated-by: OBO-Edit 2.2
 default-namespace: dictyBase_literature_topic
 
@@ -251,7 +251,7 @@ creation_date: 2010-04-12T03:29:43Z
 
 [Term]
 id: DDLIT:0000031
-name: Social Evolution
+name: Social Cooperation
 def: "The role of the gene product in complex social behavior, including cooperation, self- and kin recognition, altruism, and cheating." [DDB:pf]
 is_a: DDLIT:0000005 ! Life Cycle
 created_by: pfey
@@ -466,8 +466,8 @@ creation_date: 2014-09-24T15:23:39Z
 
 [Term]
 id: DDLIT:0000058
-name: Cell Death
-def: "Any biological process that results in permanent cessation of all vital functions of a cell." [DDB:pf]
+name: Cell Degradation
+def: "The process of any breakdown of cellular material, through processes such as apoptosis or autophagy, which may lead to cell death." [DDB:pf]
 is_a: DDLIT:0000005 ! Life Cycle
 created_by: pfey
 creation_date: 2015-01-14T16:23:04Z
