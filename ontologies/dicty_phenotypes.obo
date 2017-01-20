@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 11:10:2016 13:19
+date: 20:01:2017 12:30
 saved-by: Petra
 auto-generated-by: OBO-Edit 2.2
 default-namespace: Dicty Phenotypes
@@ -1039,18 +1039,23 @@ is_a: DDPHENO:0001038 ! aberrant cAMP signaling during aggregation
 
 [Term]
 id: DDPHENO:0000127
-name: aberrant behavior
-def: "Deviation from the normal, usual, or expected behavior during development." [DDB:pf]
-is_a: DDPHENO:0001003 ! aberrant response to stimulus
+name: aberrant socially cooperative development
+def: "Deviation from the normal, usual, or expected social cooperation during aggregation." [DDB:pf]
+synonym: "<new synonym>" RELATED []
+synonym: "aberrant social cooperation" BROAD []
+synonym: "aberrant socially cooperative aggregation" NARROW []
+is_a: DDPHENO:0000483 ! aberrant aggregation
 created_by: pfey
 creation_date: 2014-10-02T16:36:10Z
 
 [Term]
 id: DDPHENO:0000128
-name: aberrant social behavior
+name: decreased socially cooperative development
+def: "Reduction in social cooperation during development." [DDB:pf]
 comment: Involves cheating during development; cheaters make more spores than their normal share in chimeras.
-synonym: "aberrant cooperative behavior" NARROW []
-is_a: DDPHENO:0000127 ! aberrant behavior
+synonym: "cheating during development" NARROW []
+synonym: "decreased social cooperation" BROAD []
+is_a: DDPHENO:0000127 ! aberrant socially cooperative development
 created_by: pfey
 creation_date: 2014-10-02T16:37:23Z
 
@@ -2724,7 +2729,7 @@ is_a: DDPHENO:0001029 ! aberrant establishment and/or maintenance of cell polari
 [Term]
 id: DDPHENO:0000393
 name: decreased cell-substrate adhesion
-def: "Reduction in extent, amount, or degree of cell-substrate adhesion. " [DDB:pg]
+def: "Reduction in extent, amount, or degree of cell-substrate adhesion." [DDB:pg]
 synonym: "decreased substrate adhesion" RELATED []
 is_a: DDPHENO:0000187 ! aberrant cell-substrate adhesion
 
