@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 21:03:2016 16:32
+date: 25:01:2017 16:16
 saved-by: Petra
 auto-generated-by: OBO-Edit 2.2
 default-namespace: storage_conditions
@@ -409,4 +409,20 @@ def: "Dictyostelid received or stored as axenic cells." [DDB:pf]
 is_a: DDSTORCON:0000006 ! cells
 created_by: Petra
 creation_date: 2016-03-21T16:27:06Z
+
+[Term]
+id: DDSTORCON:0000052
+name: tube
+def: "A plasmid stored or received as DNA in a plastic tube." [DDB:pf]
+is_a: DDSTORCON:0000004 ! DNA
+created_by: Petra
+creation_date: 2017-01-25T16:08:38Z
+
+[Term]
+id: DDSTORCON:0000053
+name: filter paper
+def: "A plasmid stored or received as dry DNA on filter paper." [DDB:pf]
+is_a: DDSTORCON:0000004 ! DNA
+created_by: Petra
+creation_date: 2017-01-25T16:09:33Z
 
