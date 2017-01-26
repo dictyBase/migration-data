@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 26:04:2016 16:46
+date: 26:01:2017 16:28
 saved-by: Petra
 auto-generated-by: OBO-Edit 2.2
 default-namespace: strain_inventory
@@ -102,6 +102,63 @@ def: "The person who stores the strain." [DDB:pf]
 is_a: STRAININVENT:0000001 ! strain_inventory
 created_by: Petra
 creation_date: 2016-04-26T15:09:38Z
+
+[Term]
+id: STRAININVENT:0000015
+name: red
+is_a: STRAININVENT:0000003 ! color
+created_by: Petra
+creation_date: 2017-01-26T16:10:07Z
+
+[Term]
+id: STRAININVENT:0000016
+name: green
+is_a: STRAININVENT:0000003 ! color
+created_by: Petra
+creation_date: 2017-01-26T16:11:05Z
+
+[Term]
+id: STRAININVENT:0000017
+name: blue
+is_a: STRAININVENT:0000003 ! color
+created_by: Petra
+creation_date: 2017-01-26T16:11:16Z
+
+[Term]
+id: STRAININVENT:0000018
+name: yellow
+is_a: STRAININVENT:0000003 ! color
+created_by: Petra
+creation_date: 2017-01-26T16:11:27Z
+
+[Term]
+id: STRAININVENT:0000019
+name: pink
+is_a: STRAININVENT:0000003 ! color
+created_by: Petra
+creation_date: 2017-01-26T16:11:40Z
+
+[Term]
+id: STRAININVENT:0000020
+name: white
+is_a: STRAININVENT:0000003 ! color
+created_by: Petra
+creation_date: 2017-01-26T16:13:27Z
+
+[Term]
+id: STRAININVENT:0000021
+name: orange
+is_a: STRAININVENT:0000003 ! color
+created_by: Petra
+creation_date: 2017-01-26T16:13:40Z
+
+[Term]
+id: STRAININVENT:0000022
+name: 96 well plate
+def: "Physical location of stock materials stored in 96 well plates, frozen at -80 C." [DDB:pf]
+is_a: STRAININVENT:0000013 ! - 80 freezer
+created_by: Petra
+creation_date: 2017-01-26T16:16:15Z
 
 [Typedef]
 id: has_vial
