@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 26:01:2017 15:34
+date: 26:01:2017 16:01
 saved-by: Petra
 auto-generated-by: OBO-Edit 2.2
 default-namespace: storage_conditions
@@ -7,7 +7,7 @@ default-namespace: storage_conditions
 [Term]
 id: DDSTORCON:0000001
 name: Storage Condition
-def: "Conditions strains and plasmids are received or stored at the DSC." [DDB:pf]
+def: "Conditions strains and plasmids are stored at the DSC." [DDB:pf]
 
 [Term]
 id: DDSTORCON:0000002
@@ -21,6 +21,7 @@ creation_date: 2013-07-30T11:00:16Z
 id: DDSTORCON:0000003
 name: axenic medium
 def: "A liquid medium used to grow axenic Dictyostelium strains." [DDB:pf]
+synonym: "frozen HL5 medium" NARROW []
 is_obsolete: true
 created_by: pfey
 creation_date: 2013-07-30T11:03:53Z
@@ -28,23 +29,23 @@ creation_date: 2013-07-30T11:03:53Z
 [Term]
 id: DDSTORCON:0000004
 name: DNA
-def: "A plasmid stored as frozen DNA solution in a tube, at -20 C." [DDB:pf]
-is_a: DDSTORCON:0000005 ! frozen plasmid stock
+def: "A plasmid stored as DNA solution in a tube, frozen at -20 C." [DDB:pf]
+is_a: DDSTORCON:0000005 ! plasmid stock
 created_by: pfey
 creation_date: 2013-07-30T11:20:16Z
 
 [Term]
 id: DDSTORCON:0000005
 name: plasmid stock
-def: "A plasmid in a bacterial host, or as DNA solution, stored frozen." [DDB:pf]
+def: "A plasmid in a bacterial host or stored as DNA solution, stored frozen." [DDB:pf]
 is_a: DDSTORCON:0000001 ! Storage Condition
 created_by: pfey
 creation_date: 2013-07-30T11:21:57Z
 
 [Term]
 id: DDSTORCON:0000006
-name: strain stock
-def: "Storage of Dictyostelid cells in HL5, supplemented with 5% DMSO, frozen in liquid nitrogen." [DDB:pf]
+name: Dicty stock
+def: "Storage of Dictyostelid cells in HL5, supplemented with 5% DMSO, stored frozen in liquid nitrogen." [DDB:pf]
 is_a: DDSTORCON:0000001 ! Storage Condition
 created_by: pfey
 creation_date: 2013-07-30T11:23:34Z
@@ -302,8 +303,8 @@ creation_date: 2013-08-01T11:25:18Z
 id: DDSTORCON:0000038
 name: cells
 def: "Bacterially grown cells stored frozen in HL5 supplemented with 5% DMSO." [DDB:pf]
-synonym: "bacterially grown cells" EXACT []
-is_a: DDSTORCON:0000006 ! strain stock
+synonym: "frozen bacterially grown cells" EXACT []
+is_a: DDSTORCON:0000006 ! Dicty stock
 created_by: pfey
 creation_date: 2013-08-01T11:26:48Z
 
@@ -311,7 +312,7 @@ creation_date: 2013-08-01T11:26:48Z
 id: DDSTORCON:0000039
 name: spores
 def: "Bacterially grown cells that sporulated, spores stored frozen in HL5 supplemented with 5% DMSO." [DDB:pf]
-is_a: DDSTORCON:0000006 ! strain stock
+is_a: DDSTORCON:0000006 ! Dicty stock
 created_by: pfey
 creation_date: 2013-08-01T11:28:08Z
 
@@ -326,80 +327,80 @@ creation_date: 2013-08-01T11:29:10Z
 [Term]
 id: DDSTORCON:0000041
 name: XL1-Blue
-def: "A plasmid stored in the bacterial host XL1-Blue, at -80 C.” [DDB:pf]
-is_a: DDSTORCON:0000005 ! frozen plasmid stock
+def: "A plasmid stored in the bacterial host XL1-Blue, frozen at -80 C." [DDB:pf]
+is_a: DDSTORCON:0000005 ! plasmid stock
 created_by: pfey
 creation_date: 2013-08-01T11:34:16Z
 
 [Term]
 id: DDSTORCON:0000042
 name: DH5alpha
-def: "A plasmid stored in the bacterial host DH5alpha, at -80 C." [DDB:pf]
-is_a: DDSTORCON:0000005 ! frozen plasmid stock
+def: "A plasmid stored in the bacterial host DH5alpha, frozen at -80 C." [DDB:pf]
+is_a: DDSTORCON:0000005 ! plasmid stock
 created_by: pfey
 creation_date: 2013-08-01T11:34:34Z
 
 [Term]
 id: DDSTORCON:0000043
 name: SURE
-def: "A plasmid stored in the bacterial host SURE, at -80 C." [DDB:pf]
-is_a: DDSTORCON:0000005 ! frozen plasmid stock
+def: "A plasmid stored in the bacterial host SURE, frozen at -80 C." [DDB:pf]
+is_a: DDSTORCON:0000005 ! plasmid stock
 created_by: pfey
 creation_date: 2013-08-01T11:35:11Z
 
 [Term]
 id: DDSTORCON:0000044
 name: TOP10
-def: "A plasmid stored in the bacterial host TOP10, at -80 C." [DDB:pf]
-is_a: DDSTORCON:0000005 ! frozen plasmid stock
+def: "A plasmid stored in the bacterial host TOP10, frozen at -80 C." [DDB:pf]
+is_a: DDSTORCON:0000005 ! plasmid stock
 created_by: pfey
 creation_date: 2013-08-01T11:35:24Z
 
 [Term]
 id: DDSTORCON:0000045
 name: DH10B
-def: "A plasmid stored in the bacterial host DH10B, at -80 C." [DDB:pf]
-is_a: DDSTORCON:0000005 ! frozen plasmid stock
+def: "A plasmid stored in the bacterial host DH10B, frozen at -80 C." [DDB:pf]
+is_a: DDSTORCON:0000005 ! plasmid stock
 created_by: pfey
 creation_date: 2013-08-01T11:35:38Z
 
 [Term]
 id: DDSTORCON:0000046
 name: XL10-Gold
-def: "A plasmid stored in the bacterial host XL10-Gold, at -80 C." [DDB:pf]
-is_a: DDSTORCON:0000005 ! frozen plasmid stock
+def: "A plasmid stored in the bacterial host XL10-Gold, frozen at -80 C." [DDB:pf]
+is_a: DDSTORCON:0000005 ! plasmid stock
 created_by: pfey
 creation_date: 2013-08-01T11:35:50Z
 
 [Term]
 id: DDSTORCON:0000047
 name: BL21-Gold
-def: "A plasmid stored in the bacterial host BL21-Gold, at -80 C." [DDB:pf]
-is_a: DDSTORCON:0000005 ! frozen plasmid stock
+def: "A plasmid stored in the bacterial host BL21-Gold, frozen at -80 C." [DDB:pf]
+is_a: DDSTORCON:0000005 ! plasmid stock
 created_by: pfey
 creation_date: 2013-08-01T11:36:05Z
 
 [Term]
 id: DDSTORCON:0000048
 name: STBL2
-def: "A plasmid stored in the bacterial host STBL2, at -80 C." [DDB:pf]
-is_a: DDSTORCON:0000005 ! frozen plasmid stock
+def: "A plasmid stored in the bacterial host STBL2, frozen at -80 C." [DDB:pf]
+is_a: DDSTORCON:0000005 ! plasmid stock
 created_by: pfey
 creation_date: 2013-08-01T11:36:19Z
 
 [Term]
 id: DDSTORCON:0000049
 name: DB3.1
-def: "A plasmid stored  in the bacterial host DB3.1, at -80 C." [DDB:pf]
-is_a: DDSTORCON:0000005 ! frozen plasmid stock
+def: "A plasmid stored  in the bacterial host DB3.1, frozen at -80 C." [DDB:pf]
+is_a: DDSTORCON:0000005 ! plasmid stock
 created_by: pfey
 creation_date: 2013-08-01T11:37:29Z
 
 [Term]
 id: DDSTORCON:0000050
 name: ES28
-def: "A plasmid stored in the bacterial host ES28, at -80 C." [DDB:pf]
-is_a: DDSTORCON:0000005 ! frozen plasmid stock
+def: "A plasmid stored in the bacterial host ES28, frozen at -80 C." [DDB:pf]
+is_a: DDSTORCON:0000005 ! plasmid stock
 created_by: pfey
 creation_date: 2013-08-01T11:37:43Z
 
@@ -407,7 +408,7 @@ creation_date: 2013-08-01T11:37:43Z
 id: DDSTORCON:0000051
 name: axenic cells
 def: "Axenically grown cells stored frozen in HL5 supplemented with 5% DMSO." [DDB:pf]
-is_a: DDSTORCON:0000006 ! strain stock
+is_a: DDSTORCON:0000006 ! Dicty stock
 created_by: Petra
 creation_date: 2016-03-21T16:27:06Z
 
