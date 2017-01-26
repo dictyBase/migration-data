@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 26:01:2017 16:28
+date: 26:01:2017 17:07
 saved-by: Petra
 auto-generated-by: OBO-Edit 2.2
 default-namespace: strain_inventory
@@ -37,7 +37,7 @@ is_a: STRAININVENT:0000001 ! strain_inventory
 id: STRAININVENT:0000006
 name: obtained as
 def: "Conditions that the strain is obtained in at the stock center." [DDB:pf]
-is_a: STRAININVENT:0000001 ! strain_inventory
+is_obsolete: true
 
 [Term]
 id: STRAININVENT:0000007
@@ -156,7 +156,7 @@ creation_date: 2017-01-26T16:13:40Z
 id: STRAININVENT:0000022
 name: 96 well plate
 def: "Physical location of stock materials stored in 96 well plates, frozen at -80 C." [DDB:pf]
-is_a: STRAININVENT:0000013 ! - 80 freezer
+is_a: STRAININVENT:0000002 ! location
 created_by: Petra
 creation_date: 2017-01-26T16:16:15Z
 

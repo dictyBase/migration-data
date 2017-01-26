@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 26:04:2016 16:45
+date: 26:01:2017 16:57
 saved-by: Petra
 auto-generated-by: OBO-Edit 2.2
 default-namespace: plasmid_inventory
@@ -54,7 +54,7 @@ creation_date: 2013-03-29T17:13:11Z
 id: PLASMIDINVENT:0000007
 name: obtained as
 def: "Conditions that the plasmid is obtained in at the stock center." [DDB:pf]
-is_a: PLASMIDINVENT:0000001 ! plasmid inventory
+is_obsolete: true
 created_by: pfey
 creation_date: 2013-03-29T17:40:45Z
 
@@ -73,4 +73,55 @@ def: "The person who stores the strain." [DDB:pf]
 is_a: PLASMIDINVENT:0000001 ! plasmid inventory
 created_by: Petra
 creation_date: 2016-04-26T16:27:16Z
+
+[Term]
+id: PLASMIDINVENT:0000010
+name: red
+is_a: PLASMIDINVENT:0000003 ! color
+created_by: Petra
+creation_date: 2017-01-26T16:47:29Z
+
+[Term]
+id: PLASMIDINVENT:0000011
+name: green
+is_a: PLASMIDINVENT:0000003 ! color
+created_by: Petra
+creation_date: 2017-01-26T16:47:40Z
+
+[Term]
+id: PLASMIDINVENT:0000012
+name: blue
+is_a: PLASMIDINVENT:0000003 ! color
+created_by: Petra
+creation_date: 2017-01-26T16:47:50Z
+
+[Term]
+id: PLASMIDINVENT:0000013
+name: yellow
+is_a: PLASMIDINVENT:0000003 ! color
+created_by: Petra
+creation_date: 2017-01-26T16:48:00Z
+
+[Term]
+id: PLASMIDINVENT:0000014
+name: white
+is_a: PLASMIDINVENT:0000003 ! color
+created_by: Petra
+creation_date: 2017-01-26T16:48:10Z
+
+[Term]
+id: PLASMIDINVENT:0000015
+name: pink
+is_a: PLASMIDINVENT:0000003 ! color
+created_by: Petra
+creation_date: 2017-01-26T16:48:19Z
+
+[Term]
+id: PLASMIDINVENT:0000016
+name: clear
+comment: A clear Microcentrifuge tube to store DNA solutions.
+synonym: "MC vial color" RELATED []
+is_a: PLASMIDINVENT:0000003 ! color
+created_by: Petra
+creation_date: 2017-01-26T16:48:29Z
 
