@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 20:01:2017 12:30
+date: 08:02:2017 16:12
 saved-by: Petra
 auto-generated-by: OBO-Edit 2.2
 default-namespace: Dicty Phenotypes
@@ -2630,6 +2630,46 @@ def: "Reduction in extent, amount, or degree of macropinocytosis." [DDB:pf]
 is_a: DDPHENO:0000350 ! aberrant macropinocytosis
 created_by: Petra
 creation_date: 2016-10-11T13:14:51Z
+
+[Term]
+id: DDPHENO:0000353
+name: aberrant endosomal transport
+def: "Deviation from the normal, usual, or expected events during endosomal transport." [DDB:pf]
+is_a: DDPHENO:0001047 ! aberrant transport
+created_by: Petra
+creation_date: 2017-02-08T15:22:57Z
+
+[Term]
+id: DDPHENO:0000354
+name: aberrant endocytic recycling
+def: "Deviation from the normal, usual, or expected events during endocytic recycling." [DDB:pf]
+is_a: DDPHENO:0000353 ! aberrant endosomal transport
+created_by: Petra
+creation_date: 2017-02-08T15:26:07Z
+
+[Term]
+id: DDPHENO:0000355
+name: abolished endocytic recycling
+def: "Complete inability of endocytic recycling." [DDB:pf]
+is_a: DDPHENO:0000354 ! aberrant endocytic recycling
+created_by: Petra
+creation_date: 2017-02-08T15:27:20Z
+
+[Term]
+id: DDPHENO:0000356
+name: decreased endocytic recycling
+def: "Reduction in extent, amount, or degree of endocytic recycling." [DDB:pf]
+is_a: DDPHENO:0000354 ! aberrant endocytic recycling
+created_by: Petra
+creation_date: 2017-02-08T15:29:59Z
+
+[Term]
+id: DDPHENO:0000357
+name: increased endocytic recycling
+def: "Increase in extent, amount, or degree of endocytic recycling." [DDB:pf]
+is_a: DDPHENO:0000354 ! aberrant endocytic recycling
+created_by: Petra
+creation_date: 2017-02-08T15:31:07Z
 
 [Term]
 id: DDPHENO:0000376
