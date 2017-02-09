@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 22:03:2016 9:37
+date: 08:02:2017 18:00
 saved-by: Petra
 auto-generated-by: OBO-Edit 2.2
 default-namespace: Dictyostelium Assay
@@ -464,9 +464,16 @@ created_by: Petra
 creation_date: 2015-12-11T14:56:31Z
 
 [Term]
-id:  DDASSAY:0000081
+id: DDASSAY:0000081
 name: centrifugation
 is_a: DDASSAY:0000001 ! Dictyostelium Assay
 created_by: Petra
 creation_date: 2015-12-18T18:24:11Z
+
+[Term]
+id: DDASSAY:0000082
+name: time-lapse microscopy
+is_a: DDASSAY:0000061 ! microscopy
+created_by: Petra
+creation_date: 2017-02-08T17:59:31Z
 
