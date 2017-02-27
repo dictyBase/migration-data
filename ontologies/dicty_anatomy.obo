@@ -400,6 +400,7 @@ id: DDANAT:0000042
 name: upper cup region of the early culminant
 def: "Region of the prespore zone of the early culminant that borders the prestalk region. This region gives rise to the upper cup of the fruiting body." [DDB:pg, PMID:1879341, PMID:8016318]
 synonym: "prespore/anterior region of the early culminant" RELATED []
+is_a: DDANAT:0000107 ! upper cup
 relationship: develops_from DDANAT:0000041 ! prespore region of the early culminant
 relationship: part_of DDANAT:0000041 ! prespore region of the early culminant
 
@@ -416,6 +417,7 @@ relationship: part_of DDANAT:0000041 ! prespore region of the early culminant
 id: DDANAT:0000044
 name: prespore/base region of the early culminant
 def: "Region of the prespore zone of the early culminant that borders the base. This region gives rise to the lower cup of the fruiting body." [DDB:pg, PMID:1879341]
+is_a: DDANAT:0000110 ! basal region
 relationship: develops_from DDANAT:0000041 ! prespore region of the early culminant
 relationship: part_of DDANAT:0000041 ! prespore region of the early culminant
 
@@ -520,6 +522,7 @@ id: DDANAT:0000055
 name: upper cup region of the mid culminant
 def: "Region of the prespore zone of the mid culminant that borders the prestalk region." [DDB:pg, PMID:8016318]
 synonym: "prespore/anterior region of the mid culminant" RELATED []
+is_a: DDANAT:0000107 ! upper cup
 relationship: develops_from DDANAT:0000042 ! upper cup region of the early culminant
 relationship: part_of DDANAT:0000054 ! prespore region of the mid culminant
 
@@ -527,6 +530,7 @@ relationship: part_of DDANAT:0000054 ! prespore region of the mid culminant
 id: DDANAT:0000056
 name: prespore/base region of the mid culminant
 def: "Region of the prespore zone of the mid culminant that borders the base." [DDB:pg]
+is_a: DDANAT:0000110 ! basal region
 relationship: develops_from DDANAT:0000044 ! prespore/base region of the early culminant
 relationship: part_of DDANAT:0000054 ! prespore region of the mid culminant
 
@@ -955,7 +959,6 @@ is_a: DDANAT:0010001 ! Dictyostelium discoideum anatomical structure
 [Term]
 id: DDANAT:0000402
 name: chemotactic amoeboid cell
-alt_id: DDANAT:0000001
 def: "Starved cell that secretes and responds to chemoattractants (cAMP)." [DDB:pg, PMID:4338436]
 synonym: "amoebae" BROAD []
 synonym: "chemotactic amoeboid cell (sensu Mycetozoa)" EXACT [CL:0000289]
@@ -967,7 +970,6 @@ relationship: part_of DDANAT:0000013 ! stream
 [Term]
 id: DDANAT:0000403
 name: aggregate cell
-alt_id: DDANAT:0000009
 def: "Differentiating cell composing the aggregate that has acquired adhesive properties." [DDB:pg]
 xref: CL:0000259 "Cell Line Ontology"
 is_a: DDANAT:0000401 ! cell
@@ -979,7 +981,6 @@ relationship: part_of DDANAT:0000005 ! mound
 [Term]
 id: DDANAT:0000404
 name: anterior like cell
-alt_id: DDANAT:0000019
 def: "Cell that has properties of anterior cells (for e.g., accumulate vital dyes in autophagic vesicles) but that is are scattered throughout the rear of the slug. Some but not all these cells express the ecmA gene and/or the ecmB gene. ALCs maintain an amoeboid appearance during culmination. ALCs that express the ecmO promoter have been called pstO/ALC." [DDB:pg]
 synonym: "ALC" EXACT []
 xref: CL:0000265 "Cell Line Ontology"
@@ -990,7 +991,6 @@ relationship: part_of DDANAT:0000033 ! prespore region of the migratory slug
 [Term]
 id: DDANAT:0000405
 name: prespore cell
-alt_id: DDANAT:0000003
 def: "Cell that is undergoing differentiation to become a spore. Characterized by the presence of prespore vesicles (PV)." [DDB:pg, PMID:4330277]
 synonym: "psp cell" EXACT []
 xref: CL:0000267 "Cell Line Ontology"
@@ -1016,7 +1016,6 @@ is_a: DDANAT:0000401 ! cell
 [Term]
 id: DDANAT:0000407
 name: pstO cell
-alt_id: DDANAT:0000006
 def: "Cell that is undergoing differentiation to become a stalk cell. pstO cells express ecmA at a very low level and are located at the posterior half of the prestalk zone. Expresses ecmA from the distal region of its promoter (ecmO)." [DDB:pg]
 synonym: "prestalk O cell" RELATED []
 xref: CL:0000279 "Cell Line Ontology"
@@ -1032,7 +1031,6 @@ relationship: part_of DDANAT:0000102 ! prestalk O region of the tipped mound
 [Term]
 id: DDANAT:0000408
 name: pstA cell
-alt_id: DDANAT:0000021
 def: "Cell that is undergoing differentiation to become a stalk cell. pstA cells express the ecmA marker from a promoter region that is proximal to the ATG (ecmAO promoter). They are located at the anterior-most region of the slug. During culmination pstA cells differentiate into pstAB cells." [DDB:pg]
 synonym: "prestalk A cell" EXACT []
 synonym: "pstAO cell" EXACT []
@@ -1049,7 +1047,6 @@ relationship: part_of DDANAT:0000100 ! prestalk A region of the tipped mound
 [Term]
 id: DDANAT:0000409
 name: rearguard cell
-alt_id: DDANAT:0000024
 def: "Cell expressing ecmB but not ecmA. Rearguard cells are located at the very rear of the slug (rearguard region). These cells form the outer basal disc of the fruiting body. If a migratory slug is formed, these cells are left behind." [DDB:pg, PMID:8631253]
 synonym: "prestalk B cell" EXACT []
 synonym: "pstB cell" RELATED []
@@ -1066,7 +1063,6 @@ relationship: part_of DDANAT:0000075 ! outer basal disc of the fruiting body
 [Term]
 id: DDANAT:0000410
 name: pstAB cell
-alt_id: DDANAT:0000022
 def: "Cell that is undergoing differentiation to become a stalk cell. pstAB cells express both ecmA and ecmB either simultaneously or sequentially. During culmination pstA differentiate into pstAB cells." [DDB:pg]
 synonym: "prestalk AB cell" EXACT []
 xref: CL:0000273 "Cell Line Ontology"
@@ -1082,7 +1078,6 @@ relationship: part_of DDANAT:0000101 ! prestalk AB core region of the tipped mou
 [Term]
 id: DDANAT:0000411
 name: pstAB/ALC
-alt_id: DDANAT:0000031
 def: "Anterior-like cell expressing both ecmA and ecmB." [DDB:pg]
 synonym: "prestalk AB/anterior like cell" EXACT []
 xref: CL:0000281 "Cell Line Ontology"
@@ -1091,7 +1086,6 @@ is_a: DDANAT:0000404 ! anterior like cell
 [Term]
 id: DDANAT:0000412
 name: pstO/ALC
-alt_id: DDANAT:0000007
 def: "Anterior-like cell that expresses the ecmO promoter and that can move to the position normally occupied by the pstO cells." [DDB:pg, PMID:8205618]
 synonym: "prestalk O/anterior like cell" EXACT []
 xref: CL:0000283 "Cell Line Ontology"
@@ -1100,7 +1094,6 @@ is_a: DDANAT:0000404 ! anterior like cell
 [Term]
 id: DDANAT:0000413
 name: stalk cell
-alt_id: DDANAT:0000025
 def: "Cell of polyhedric shape filling the stalk tube. Stack cells are large (around 8 microns in diameter), highly vacuolated, and are surrounded by cell wall composed of cellulose. Stalk cells die upon terminal differentiation. Their role is to provide structural support for the fruiting body." [DDB:pg]
 xref: CL:0000285 "Cell Line Ontology"
 is_a: DDANAT:0000401 ! cell
@@ -1114,7 +1107,6 @@ relationship: part_of DDANAT:0000074 ! inner basal disc of the fruiting body
 [Term]
 id: DDANAT:0000414
 name: spore
-alt_id: DDANAT:0000026
 def: "Dormant cell protected by a tri-layer spore coat. The spore has an elliptical shape and is approximately 6-9 microns by 3 microns." [DDB:pg, PMID:4338436]
 synonym: "spore (sensu Mycetozoa)" EXACT [CL:0000291]
 xref: CL:0000291 "Cell Line Ontology"
