@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 02:02:2016 14:05
+date: 09:03:2017 15:10
 saved-by: Petra
 auto-generated-by: OBO-Edit 2.2
 default-namespace: Dicty Environment
@@ -394,4 +394,37 @@ name: in the presence of rapamycin
 is_a: DDENVIR:0000054 ! in the presence of biotic or abiotic stimulus
 created_by: Petra
 creation_date: 2016-02-02T14:04:45Z
+
+[Term]
+id: DDENVIR:0000069
+name: on Micrococcus luteus lawn
+is_a: DDENVIR:0000004 ! on bacterial plate
+created_by: Petra
+creation_date: 2017-03-09T14:53:57Z
+
+[Term]
+id: DDENVIR:0000070
+name: on Klebsiella aerogenes lawn
+synonym: " on Klebsiella pneumoniae lawn" EXACT []
+synonym: "on Aerobacter aerogenes lawn" EXACT []
+synonym: "on K. aerogenes lawn" EXACT []
+is_a: DDENVIR:0000004 ! on bacterial plate
+created_by: Petra
+creation_date: 2017-03-09T15:02:09Z
+
+[Term]
+id: DDENVIR:0000071
+name: on Bacillus subtilis lawn
+synonym: "on B. subtilis lawn" RELATED []
+is_a: DDENVIR:0000004 ! on bacterial plate
+created_by: Petra
+creation_date: 2017-03-09T15:05:20Z
+
+[Term]
+id: DDENVIR:0000072
+name: on Escherichia coli lawn
+synonym: "on E. coli lawn" EXACT []
+is_a: DDENVIR:0000004 ! on bacterial plate
+created_by: Petra
+creation_date: 2017-03-09T15:05:58Z
 
