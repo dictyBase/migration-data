@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 07:03:2017 16:46
+date: 13:03:2017 10:26
 saved-by: Petra
 auto-generated-by: OBO-Edit 2.2
 default-namespace: Dicty Phenotypes
@@ -1552,7 +1552,7 @@ is_a: DDPHENO:0000413 ! aberrant microtubule cytoskeleton organization
 [Term]
 id: DDPHENO:0000204
 name: decreased extracellular counting factor component(s) level
-def: "Reduction in amount or accumulation of extracellular counting factor component(s). " [DDB:pg]
+def: "Reduction in amount or accumulation of extracellular counting factor component(s)." [DDB:pg]
 synonym: "decreased level of extracellular CF component(s)" EXACT []
 is_a: DDPHENO:0001001 ! aberrant initiation of development
 
@@ -2718,6 +2718,14 @@ def: "Increase in extent, amount, or degree of resistance to nocodazole." [DDB:p
 is_a: DDPHENO:0000362 ! aberrant response to nocodazole
 created_by: Petra
 creation_date: 2017-03-07T16:41:38Z
+
+[Term]
+id: DDPHENO:0000364
+name: increased macropinocytosis
+def: "Increase in extent, amount, or degree of macropinocytosis." [DDB:pf]
+is_a: DDPHENO:0000350 ! aberrant macropinocytosis
+created_by: Petra
+creation_date: 2017-03-13T10:24:42Z
 
 [Term]
 id: DDPHENO:0000376
