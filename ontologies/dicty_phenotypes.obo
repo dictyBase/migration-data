@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 13:03:2017 10:26
+date: 23:03:2017 16:03
 saved-by: Petra
 auto-generated-by: OBO-Edit 2.2
 default-namespace: Dicty Phenotypes
@@ -2204,7 +2204,7 @@ alt_id: DDPHENO:0000114
 alt_id: DDPHENO:0000224
 alt_id: DDPHENO:0000266
 alt_id: DDPHENO:0000372
-def: "Increase in extent, amount, or degree of gene expression. " [DDB:pg]
+def: "Increase in extent, amount, or degree of gene expression." [DDB:pg]
 synonym: "merged_increased discoidin level" NARROW [DDB:kp]
 synonym: "merged_increased expression of post-aggregative genes" NARROW [DDB:kp]
 synonym: "merged_increased expression of prespore genes" NARROW [DDB:kp]
@@ -2728,6 +2728,76 @@ created_by: Petra
 creation_date: 2017-03-13T10:24:42Z
 
 [Term]
+id: DDPHENO:0000365
+name: aberrant prestalk gene expression
+def: "Deviation from the normal, usual, or expected expression of prestalk genes." [DDB:pf]
+is_a: DDPHENO:0001113 ! aberrant gene expression
+created_by: Petra
+creation_date: 2017-03-23T09:52:00Z
+
+[Term]
+id: DDPHENO:0000366
+name: precocious prestalk gene expression
+def: "Early onset or faster progression in the expression of prestalk genes." [DDB:pf]
+is_a: DDPHENO:0000365 ! aberrant prestalk gene expression
+is_a: DDPHENO:0001116 ! precocious gene expression
+created_by: Petra
+creation_date: 2017-03-23T09:53:39Z
+
+[Term]
+id: DDPHENO:0000367
+name: mislocalized prestalk gene expression
+def: "Prestalk gene expression occurring in an abnormal position or in an unusual manner or form." [DDB:pf]
+is_a: DDPHENO:0000365 ! aberrant prestalk gene expression
+is_a: DDPHENO:0001117 ! mislocalized gene expression
+created_by: Petra
+creation_date: 2017-03-23T13:29:35Z
+
+[Term]
+id: DDPHENO:0000368
+name: delayed prestalk gene expression
+def: "Late onset or slower progression in the expression of prestalk genes." [DDB:pf]
+is_a: DDPHENO:0000365 ! aberrant prestalk gene expression
+is_a: DDPHENO:0001115 ! delayed gene expression
+created_by: Petra
+creation_date: 2017-03-23T14:54:09Z
+
+[Term]
+id: DDPHENO:0000369
+name: decreased prestalk gene expression
+def: "Reduction in extent, amount, or degree of prestalk gene expression." [DDB:pf]
+is_a: DDPHENO:0000300 ! decreased gene expression
+is_a: DDPHENO:0000365 ! aberrant prestalk gene expression
+created_by: Petra
+creation_date: 2017-03-23T14:54:56Z
+
+[Term]
+id: DDPHENO:0000370
+name: aberrant prespore gene expression
+def: "Deviation from the normal, usual, or expected expression of prespore genes." [DDB:pf]
+is_a: DDPHENO:0001113 ! aberrant gene expression
+created_by: Petra
+creation_date: 2017-03-23T15:35:42Z
+
+[Term]
+id: DDPHENO:0000371
+name: decreased prespore gene expression
+def: "Reduction in extent, amount, or degree of prespore gene expression." [DDB:pf]
+is_a: DDPHENO:0000300 ! decreased gene expression
+is_a: DDPHENO:0000370 ! aberrant prespore gene expression
+created_by: Petra
+creation_date: 2017-03-23T15:36:45Z
+
+[Term]
+id: DDPHENO:0000375
+name: delayed prespore gene expression
+def: "Late onset or slower progression in the expression of prespore genes." [DDB:pf]
+is_a: DDPHENO:0000370 ! aberrant prespore gene expression
+is_a: DDPHENO:0001115 ! delayed gene expression
+created_by: Petra
+creation_date: 2017-03-23T15:38:40Z
+
+[Term]
 id: DDPHENO:0000376
 name: abolished filopodium formation
 def: "Complete inability to form pseudopods." [DDB:pg]
@@ -2906,6 +2976,24 @@ def: "Increase in amount or accumulation of intracellular cAMP." [DDB:pg]
 is_a: DDPHENO:0001038 ! aberrant cAMP signaling during aggregation
 
 [Term]
+id: DDPHENO:0000403
+name: increased prestalk gene expression
+def: "Increase in extent, amount, or degree of expression of prestalk genes." [DDB:pf]
+is_a: DDPHENO:0000301 ! increased gene expression
+is_a: DDPHENO:0000365 ! aberrant prestalk gene expression
+created_by: Petra
+creation_date: 2017-03-23T15:39:41Z
+
+[Term]
+id: DDPHENO:0000404
+name: increased prespore gene expression
+def: "Increase in extent, amount, or degree of expression of prespore genes." [DDB:pf]
+is_a: DDPHENO:0000301 ! increased gene expression
+is_a: DDPHENO:0000370 ! aberrant prespore gene expression
+created_by: Petra
+creation_date: 2017-03-23T15:54:24Z
+
+[Term]
 id: DDPHENO:0000405
 name: increased phagocytosis
 def: "Increase in extent, amount, or degree of phagocytosis. " [DDB:pg]
@@ -2962,6 +3050,15 @@ name: increased sensitivity to heat shock
 def: "Decreased tolerance of the normal, usual, or expected events towards heat." [DDB:pf]
 synonym: "decreased resistance to heat shock" EXACT []
 is_a: DDPHENO:0001035 ! aberrant response to heat
+
+[Term]
+id: DDPHENO:0000415
+name: mislocalized prespore gene expression
+def: "Prestalk gene expression occurring in an abnormal position or in an unusual manner or form." [DDB:pf]
+is_a: DDPHENO:0000370 ! aberrant prespore gene expression
+is_a: DDPHENO:0001117 ! mislocalized gene expression
+created_by: Petra
+creation_date: 2017-03-23T15:55:17Z
 
 [Term]
 id: DDPHENO:0000420
@@ -3199,6 +3296,15 @@ id: DDPHENO:0000462
 name: decreased filopodium formation
 def: "Reduction in extent, amount, or degree of filopodium formation. " [DDB:pg]
 is_a: DDPHENO:0001028 ! aberrant filopodium formation
+
+[Term]
+id: DDPHENO:0000463
+name: precocious prespore gene expression
+def: "Early onset or faster progression in the expression of prespore genes." [DDB:pf]
+is_a: DDPHENO:0000370 ! aberrant prespore gene expression
+is_a: DDPHENO:0001116 ! precocious gene expression
+created_by: Petra
+creation_date: 2017-03-23T15:57:06Z
 
 [Term]
 id: DDPHENO:0000465
@@ -3644,7 +3750,7 @@ id: DDPHENO:0001003
 name: aberrant response to stimulus
 def: "Deviation from the normal, usual, or expected events during the response to stimulus." [DDB:pg]
 comment: Child of GO:0050896 : response to stimulus.
-is_a: DDPHENO:0010000 ! Dicty Phenotypes
+is_a: DDPHENO:0001008 ! aberrant cellular process
 
 [Term]
 id: DDPHENO:0001004
