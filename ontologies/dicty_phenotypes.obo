@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 20:04:2017 11:09
+date: 20:04:2017 17:29
 saved-by: Petra
 auto-generated-by: OBO-Edit 2.2
 default-namespace: Dicty Phenotypes
@@ -929,7 +929,7 @@ creation_date: 2014-06-02T11:49:54Z
 [Term]
 id: DDPHENO:0000113
 name: increased cellular localization
-def: "Increase in amount or accumulation at a certain cellular location." []
+def: "Increase in amount or accumulation at a certain cellular location." [DDB:pf]
 comment: Use for mutated gene products that do not localize to their typical cellular compartment compared to the wild type gene product.
 is_a: DDPHENO:0001217 ! aberrant cellular localization
 created_by: pfey
@@ -1370,7 +1370,7 @@ is_a: DDPHENO:0001023 ! aberrant prestalk cell differentiation
 [Term]
 id: DDPHENO:0000170
 name: increased prespore cell differentiation
-def: "Increase in extent, amount, or degree of differentiation into prespore cells.  " [DDB:pg]
+def: "Increase in extent, amount, or degree of differentiation into prespore cells." [DDB:pg]
 synonym: "increased number of prespore cells" RELATED []
 is_a: DDPHENO:0001025 ! aberrant prespore cell differentiation
 
@@ -1400,7 +1400,7 @@ is_a: DDPHENO:0001046 ! aberrant spore germination
 [Term]
 id: DDPHENO:0000175
 name: decreased prespore cell differentiation
-def: "Reduction in extent, amount, or degree of differentiation into prespore cells.  " [DDB:pg]
+def: "Reduction in extent, amount, or degree of differentiation into prespore cells." [DDB:pg]
 synonym: "decreased number of prespore cells" RELATED []
 is_a: DDPHENO:0001025 ! aberrant prespore cell differentiation
 
@@ -1738,7 +1738,7 @@ is_a: DDPHENO:0001008 ! aberrant cellular process
 [Term]
 id: DDPHENO:0000237
 name: decreased cell death
-def: "Reduction in extent, amount, or degree of cell death." []
+def: "Reduction in extent, amount, or degree of cell death." [DDB:pf]
 synonym: "increased cell viability" RELATED []
 is_a: DDPHENO:0001267 ! aberrant cell death
 created_by: pfey
@@ -3310,6 +3310,14 @@ created_by: Petra
 creation_date: 2017-03-23T15:57:06Z
 
 [Term]
+id: DDPHENO:0000464
+name: aberrant localization to contractile vacuole
+def: "Deviation from the normal, usual, or expected localization to contractile vacuole." [DDB:pf]
+is_a: DDPHENO:0001217 ! aberrant cellular localization
+created_by: Petra
+creation_date: 2017-04-20T17:03:31Z
+
+[Term]
 id: DDPHENO:0000465
 name: abolished cAMP-induced Ca2+ influx
 is_a: DDPHENO:0000349 ! aberrant Ca2+ signaling
@@ -3482,7 +3490,7 @@ is_a: DDPHENO:0001247 ! aberrant protein amino acid methylation
 [Term]
 id: DDPHENO:0000497
 name: decreased number of vacuoles
-def: "Quantitative reduction in vacuoles. " [DDB:pg]
+def: "Quantitative reduction in vacuoles." [DDB:pg]
 is_a: DDPHENO:0001041 ! aberrant vacuole organization and biogenesis
 
 [Term]
@@ -3565,6 +3573,15 @@ def: "Complete inability for differentiation of prespore cells." [DDB:pg]
 is_a: DDPHENO:0001025 ! aberrant prespore cell differentiation
 
 [Term]
+id: DDPHENO:0000517
+name: abolished localization to contractile vacuole
+def: "Complete inability to localize to the contractile vacuole." [DDB:pf]
+is_a: DDPHENO:0000110 ! abolished cellular localization
+is_a: DDPHENO:0000464 ! aberrant localization to contractile vacuole
+created_by: Petra
+creation_date: 2017-04-20T17:07:45Z
+
+[Term]
 id: DDPHENO:0000518
 name: increased stalk width
 def: "Having a relative thick stalk." [DDB:pg]
@@ -3573,10 +3590,28 @@ xref: PATO:0000599
 is_a: DDPHENO:0000510 ! aberrant stalk morphogenesis
 
 [Term]
+id: DDPHENO:0000519
+name: aberrant localization to contractile vacuole membrane
+def: "Deviation from the normal, usual, or expected localization to contractile vacuole membrane." [DDB:pf]
+synonym: "aberrant localization to contractile vacuolar membrane" EXACT []
+is_a: DDPHENO:0000464 ! aberrant localization to contractile vacuole
+created_by: Petra
+creation_date: 2017-04-20T17:11:27Z
+
+[Term]
 id: DDPHENO:0000520
 name: abolished stalk cell differentiation in vitro
 def: "Complete inability for differentiation into stalk cells in vitro." [DDB:pg]
 is_a: DDPHENO:0000514 ! abolished stalk cell differentiation
+
+[Term]
+id: DDPHENO:0000521
+name: abolished localization to contractile vacuole membrane
+def: "Complete inability to localize to the contractile vacuole membrane." [DDB:pf]
+synonym: "abolished localization to contractile vacuolar membrane" EXACT []
+is_a: DDPHENO:0000517 ! abolished localization to contractile vacuole
+created_by: Petra
+creation_date: 2017-04-20T17:14:01Z
 
 [Term]
 id: DDPHENO:0000522
