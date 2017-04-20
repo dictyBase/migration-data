@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 23:03:2017 16:03
+date: 20:04:2017 11:09
 saved-by: Petra
 auto-generated-by: OBO-Edit 2.2
 default-namespace: Dicty Phenotypes
@@ -904,6 +904,7 @@ is_a: DDPHENO:0000412 ! aberrant cell-cell adhesion
 id: DDPHENO:0000110
 name: abolished cellular localization
 def: "Complete inability to localize to a cellular compartment or structure." [DDB:pf]
+comment: Use for mutated gene products that do not localize to their typical cellular compartment compared to the wild type gene product.
 is_a: DDPHENO:0001217 ! aberrant cellular localization
 created_by: pfey
 creation_date: 2014-06-02T11:45:51Z
@@ -920,6 +921,7 @@ is_a: DDPHENO:0001017 ! aberrant regulation of aggregate size
 id: DDPHENO:0000112
 name: decreased cellular localization
 def: "Reduction in amount or accumulation at a certain cellular location." [DDB:pf]
+comment: Use for mutated gene products that do not localize to their typical cellular compartment compared to the wild type gene product.
 is_a: DDPHENO:0001217 ! aberrant cellular localization
 created_by: pfey
 creation_date: 2014-06-02T11:49:54Z
@@ -928,6 +930,7 @@ creation_date: 2014-06-02T11:49:54Z
 id: DDPHENO:0000113
 name: increased cellular localization
 def: "Increase in amount or accumulation at a certain cellular location." []
+comment: Use for mutated gene products that do not localize to their typical cellular compartment compared to the wild type gene product.
 is_a: DDPHENO:0001217 ! aberrant cellular localization
 created_by: pfey
 creation_date: 2014-06-02T11:50:23Z
@@ -3323,6 +3326,7 @@ is_a: DDPHENO:0001224 ! aberrant positive chemotaxis
 id: DDPHENO:0000471
 name: aberrant protein localization
 def: "Deviation from the normal, usual, or expected localization of a protein." [DDB:pf, DDB:pg]
+comment: Use for the altered localization of a protein that is affected by the mutation of another gene product.
 is_a: DDPHENO:0001009 ! aberrant localization
 
 [Term]
@@ -4062,7 +4066,7 @@ is_a: DDPHENO:0000483 ! aberrant aggregation
 [Term]
 id: DDPHENO:0001052
 name: decreased bleb formation
-def: "Reduction in extent, amount, or degree of bleb formation. " [DDB:pg]
+def: "Reduction in extent, amount, or degree of bleb formation." [DDB:pg]
 synonym: "decreased cell blebbing" RELATED []
 is_a: DDPHENO:0001049 ! aberrant bleb formation
 
@@ -5175,6 +5179,7 @@ is_a: DDPHENO:0000109 ! increased cell-cell adhesion
 id: DDPHENO:0001217
 name: aberrant cellular localization
 def: "Deviation from the normal, usual, or expected events during localization within the cell." [DDB:pf]
+comment: Use for mutated gene products that do not localize to their typical cellular compartment compared to the wild type gene product.
 is_a: DDPHENO:0001009 ! aberrant localization
 
 [Term]
@@ -5949,12 +5954,14 @@ is_a: DDPHENO:0000471 ! aberrant protein localization
 id: DDPHENO:0001337
 name: increased protein localization
 def: "Increase in amount or accumulation of a protein at a certain location." [DDB:pg]
+comment: Use for the altered localization of a protein that is affected by the mutation of another gene product.
 is_a: DDPHENO:0000471 ! aberrant protein localization
 
 [Term]
 id: DDPHENO:0001338
 name: decreased protein localization
 def: "Reduction in amount or accumulation of a protein at a certain location." [DDB:pg]
+comment: Use for the altered localization of a protein that is affected by the mutation of another gene product.
 is_a: DDPHENO:0000471 ! aberrant protein localization
 
 [Term]
@@ -6301,6 +6308,7 @@ is_a: DDPHENO:0001393 ! abolished protein localization
 id: DDPHENO:0001393
 name: abolished protein localization
 def: "Complete inability to localize a protein to a cellular compartment or structure." [DDB:pf, DDB:pg]
+comment: Use for the abolished localization of a protein that is affected by the mutation of another gene product.
 is_a: DDPHENO:0000471 ! aberrant protein localization
 
 [Term]
