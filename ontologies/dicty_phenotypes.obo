@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 20:04:2017 17:29
+date: 20:04:2017 18:20
 saved-by: Petra
 auto-generated-by: OBO-Edit 2.2
 default-namespace: Dicty Phenotypes
@@ -1714,6 +1714,7 @@ is_a: DDPHENO:0001046 ! aberrant spore germination
 [Term]
 id: DDPHENO:0000233
 name: aberrant contractile vacuole organization and biogenesis
+def: "Deviation from the normal, usual, or expected organization and biogenesis of the contractile vacuole." [DDB:pf]
 is_a: DDPHENO:0001041 ! aberrant vacuole organization and biogenesis
 
 [Term]
@@ -3676,6 +3677,22 @@ def: "Increase in extent, amount, or degree of post-transciptional gene silencin
 is_a: DDPHENO:0000008 ! aberrant post-transciptional gene silencing by RNA
 
 [Term]
+id: DDPHENO:0000531
+name: increased contractile vacuole size
+def: "Increase in relative or proportionate dimensions of the contractile vacuole." [DDB:pf]
+is_a: DDPHENO:0001066 ! aberrant contractile vacuole morphology
+created_by: Petra
+creation_date: 2017-04-20T17:56:20Z
+
+[Term]
+id: DDPHENO:0000532
+name: increased number of contractile vacuoles
+def: "Quantitative increase in contractile vacuoles." [DDB:pf]
+is_a: DDPHENO:0000233 ! aberrant contractile vacuole organization and biogenesis
+created_by: Petra
+creation_date: 2017-04-20T18:02:17Z
+
+[Term]
 id: DDPHENO:0000533
 name: aberrant anaphase
 def: "Deviation from the normal, usual, or expected events during anaphase." [DDB:pg]
@@ -3770,6 +3787,22 @@ name: increased pseudopod formation
 def: "Increase in extent, amount, or degree of formation of pseudopods." [DDB:pg]
 synonym: "increased pseudopod extension" NARROW []
 is_a: DDPHENO:0001027 ! aberrant pseudopod formation
+
+[Term]
+id: DDPHENO:0000552
+name: abolished contractile vacuole organization and biogenesis
+def: "Complete inability to form a functional contractile vacuole." [DDB:pf]
+is_a: DDPHENO:0000233 ! aberrant contractile vacuole organization and biogenesis
+created_by: Petra
+creation_date: 2017-04-20T18:05:43Z
+
+[Term]
+id: DDPHENO:0000553
+name: aberrant contractile vacuole localization
+def: "Deviation from the normal, usual, or expected localization of the contractile vacuole." [DDB:pf]
+is_a: DDPHENO:0001218 ! aberrant organelle localization
+created_by: Petra
+creation_date: 2017-04-20T18:12:09Z
 
 [Term]
 id: DDPHENO:0001001
@@ -4181,6 +4214,7 @@ is_obsolete: true
 id: DDPHENO:0001066
 name: aberrant contractile vacuole morphology
 def: "Deviation from the normal, usual, or expected morphology of the vacuole." [DDB:pg]
+is_a: DDPHENO:0000233 ! aberrant contractile vacuole organization and biogenesis
 is_a: DDPHENO:0001002 ! aberrant organelle morphology
 
 [Term]
@@ -4277,7 +4311,8 @@ is_a: DDPHENO:0000483 ! aberrant aggregation
 [Term]
 id: DDPHENO:0001081
 name: decreased number of spherical mitochondria
-def: "Quantitative decrease in spherical mitochondria. In Dictyostelium, cells have mitochondria of three different shapes: spherical, rod-like or tubular. \n" [DDB:pg, PMID:14665465]
+def: "Quantitative decrease in spherical mitochondria." [DDB:pg, PMID:14665465]
+comment: In Dictyostelium, cells have mitochondria of three different shapes: spherical, rod-like or tubular.
 is_a: DDPHENO:0000271 ! decreased number of mitochondria
 
 [Term]
