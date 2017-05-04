@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 20:04:2017 18:20
+date: 04:05:2017 13:01
 saved-by: Petra
 auto-generated-by: OBO-Edit 2.2
 default-namespace: Dicty Phenotypes
@@ -263,6 +263,7 @@ id: DDPHENO:0000034
 name: aberrant contractile vacuole discharge
 def: "Deviation from the normal, usual, or expected events during contractile vacuole discharge." [DDB:pf]
 is_a: DDPHENO:0000033 ! aberrant secretion
+is_a: DDPHENO:0001110 ! aberrant exocytosis
 created_by: pfey
 creation_date: 2014-01-27T16:14:28Z
 
@@ -2647,6 +2648,7 @@ creation_date: 2017-02-08T15:22:57Z
 id: DDPHENO:0000354
 name: aberrant endocytic recycling
 def: "Deviation from the normal, usual, or expected events during endocytic recycling." [DDB:pf]
+synonym: "aberrant retrograde transport of endocytic vesicles" RELATED []
 is_a: DDPHENO:0000353 ! aberrant endosomal transport
 created_by: Petra
 creation_date: 2017-02-08T15:26:07Z
@@ -2655,6 +2657,7 @@ creation_date: 2017-02-08T15:26:07Z
 id: DDPHENO:0000355
 name: abolished endocytic recycling
 def: "Complete inability of endocytic recycling." [DDB:pf]
+synonym: "abolished retrograde transport of endocytic vesicles" RELATED []
 is_a: DDPHENO:0000354 ! aberrant endocytic recycling
 created_by: Petra
 creation_date: 2017-02-08T15:27:20Z
@@ -2663,6 +2666,7 @@ creation_date: 2017-02-08T15:27:20Z
 id: DDPHENO:0000356
 name: decreased endocytic recycling
 def: "Reduction in extent, amount, or degree of endocytic recycling." [DDB:pf]
+synonym: "decreased retrograde transport of endocytic vesicles" RELATED []
 is_a: DDPHENO:0000354 ! aberrant endocytic recycling
 created_by: Petra
 creation_date: 2017-02-08T15:29:59Z
@@ -2671,6 +2675,7 @@ creation_date: 2017-02-08T15:29:59Z
 id: DDPHENO:0000357
 name: increased endocytic recycling
 def: "Increase in extent, amount, or degree of endocytic recycling." [DDB:pf]
+synonym: "increased retrograde transport of endocytic vesicles" RELATED []
 is_a: DDPHENO:0000354 ! aberrant endocytic recycling
 created_by: Petra
 creation_date: 2017-02-08T15:31:07Z
@@ -3298,7 +3303,7 @@ is_a: DDPHENO:0001455 ! aberrant intracellular pH level
 [Term]
 id: DDPHENO:0000462
 name: decreased filopodium formation
-def: "Reduction in extent, amount, or degree of filopodium formation. " [DDB:pg]
+def: "Reduction in extent, amount, or degree of filopodium formation." [DDB:pg]
 is_a: DDPHENO:0001028 ! aberrant filopodium formation
 
 [Term]
@@ -3798,11 +3803,48 @@ creation_date: 2017-04-20T18:05:43Z
 
 [Term]
 id: DDPHENO:0000553
-name: aberrant contractile vacuole localization
-def: "Deviation from the normal, usual, or expected localization of the contractile vacuole." [DDB:pf]
+name: aberrant establishment of contractile vacuole localization
+def: "Deviation from the normal, usual, or expected establishment of contractile vacuole localization." [DDB:pf]
+synonym: "aberrant contractile vacuole localization" RELATED []
 is_a: DDPHENO:0001218 ! aberrant organelle localization
 created_by: Petra
 creation_date: 2017-04-20T18:12:09Z
+
+[Term]
+id: DDPHENO:0000554
+name: aberrant contractile vacuole tethering involved in discharge
+def: "Deviation from the normal, usual, or expected events during contractile vacuole attachment to the plasma membrane involved in discharge." [DDB:pf]
+synonym: "aberrant contractile vacuole tethering to plasma membrane" NARROW []
+is_a: DDPHENO:0000034 ! aberrant contractile vacuole discharge
+created_by: Petra
+creation_date: 2017-05-04T10:54:14Z
+
+[Term]
+id: DDPHENO:0000555
+name: abolished contractile vacuole tethering involved in discharge
+def: "Complete inability for contractile vacuole tethering involved in discharge." [DDB:pf]
+synonym: "abolished contractile vacuole tethering to plasma membrane" RELATED []
+is_a: DDPHENO:0000554 ! aberrant contractile vacuole tethering involved in discharge
+created_by: Petra
+creation_date: 2017-05-04T12:28:53Z
+
+[Term]
+id: DDPHENO:0000556
+name: aberrant contractile vacuole dissociation from plasma membrane
+def: "Deviation from the normal, usual, or expected events during contractile vacuole dissociation from plasma membrane after discharge." [DDB:pf]
+synonym: "aberrant contractile vacuole detethering from plasma membrane" RELATED []
+is_a: DDPHENO:0001047 ! aberrant transport
+created_by: Petra
+creation_date: 2017-05-04T12:44:12Z
+
+[Term]
+id: DDPHENO:0000557
+name: abolished contractile vacuole dissociation from plasma membrane
+def: "Complete inability of contractile vacuole dissociation from plasma membrane after discharge." [DDB:pf]
+synonym: "abolished contractile vacuole detethering from plasma membrane" RELATED []
+is_a: DDPHENO:0000556 ! aberrant contractile vacuole dissociation from plasma membrane
+created_by: Petra
+creation_date: 2017-05-04T12:44:52Z
 
 [Term]
 id: DDPHENO:0001001
