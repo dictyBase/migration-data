@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 16:05:2017 17:02
+date: 13:06:2017 09:55
 saved-by: Petra
 auto-generated-by: OBO-Edit 2.2
 default-namespace: Dicty Phenotypes
@@ -1651,7 +1651,7 @@ is_a: DDPHENO:0001121 ! aberrant taxis
 [Term]
 id: DDPHENO:0000225
 name: decreased slug migration
-def: "Reduction in extent, amount, or degree of slug migration. " [DDB:pg]
+def: "Reduction in extent, amount, or degree of slug migration." [DDB:pg]
 is_a: DDPHENO:0001077 ! aberrant slug migration
 
 [Term]
@@ -3155,7 +3155,7 @@ is_a: DDPHENO:0001232 ! increased protein secretion
 id: DDPHENO:0000434
 name: aberrant pinosome maturation
 def: "Deviation from the normal, usual, or expected events during pinosome maturation." [DDB:pf]
-is_a: DDPHENO:0001043 ! aberrant organelle organization and biogenesis
+is_a: DDPHENO:0001007 ! aberrant pinocytosis
 
 [Term]
 id: DDPHENO:0000437
@@ -3861,6 +3861,39 @@ def: "Complete inability for pore formation, part of contractile vacuole dischar
 is_a: DDPHENO:0000558 ! aberrant pore formation during contractile vacuole discharge
 created_by: Petra
 creation_date: 2017-05-16T16:23:33Z
+
+[Term]
+id: DDPHENO:0000560
+name: aberrant endosomal vesicle fusion
+def: "Deviation from the normal, usual, or expected events during homotypic fusion of endocytic vesicles to form or add to an early endosome." [DDB:pf]
+synonym: "aberrant endosome fusion" EXACT []
+synonym: "aberrant phagocytic vesicle fusion" NARROW []
+synonym: "aberrant phagosome fusion" NARROW []
+is_a: DDPHENO:0000090 ! aberrant endocytosis
+created_by: Petra
+creation_date: 2017-06-12T17:03:48Z
+
+[Term]
+id: DDPHENO:0000561
+name: decreased endosomal vesicle fusion
+def: "Reduction in extent, amount, or degree of homotypic fusion of endocytic vesicles to form or add to an early endosome." [DDB:pf]
+synonym: "decreased endosome fusion" EXACT []
+synonym: "decreased phagocytic vesicle fusion" NARROW []
+synonym: "decreased phagosome fusion" NARROW []
+is_a: DDPHENO:0000560 ! aberrant endosomal vesicle fusion
+created_by: Petra
+creation_date: 2017-06-12T17:04:12Z
+
+[Term]
+id: DDPHENO:0000562
+name: increased endosomal vesicle fusion
+def: "Increase in extent, amount, or degree of homotypic fusion of endocytic vesicles to form or add to an early endosome." [DDB:pf]
+synonym: "increased endosome fusion" EXACT []
+synonym: "increased phagocytic vesicle fusion" NARROW []
+synonym: "increased phagosome fusion" NARROW []
+is_a: DDPHENO:0000560 ! aberrant endosomal vesicle fusion
+created_by: Petra
+creation_date: 2017-06-12T17:04:27Z
 
 [Term]
 id: DDPHENO:0001001
