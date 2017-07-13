@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 18:01:2017 17:52
+date: 13:07:2017 16:45
 saved-by: Petra
 auto-generated-by: OBO-Edit 2.2
 default-namespace: dictyBase_literature_topic
@@ -252,7 +252,7 @@ creation_date: 2010-04-12T03:29:43Z
 [Term]
 id: DDLIT:0000031
 name: Social Cooperation
-def: "The role of the gene product in complex social behavior, including cooperation, self- and kin recognition, altruism, and cheating." [DDB:pf]
+def: "The role of the gene product in complex social behaviour, including cooperation, self- and kin recognition, altruism, and cheating." [DDB:pf]
 is_a: DDLIT:0000005 ! Life Cycle
 created_by: pfey
 creation_date: 2014-09-23T14:56:13Z
@@ -443,7 +443,7 @@ creation_date: 2014-09-24T15:09:29Z
 [Term]
 id: DDLIT:0000055
 name: Computation/Modeling
-def: "References which report algorithmic or statistical models to investigate certain aspects of cellular processes or behavior, but which do not perform classical experimental work." [DDB:pf]
+def: "References which report algorithmic or statistical models to investigate certain aspects of cellular processes or behaviour, but which do not perform classical experimental work." [DDB:pf]
 is_a: DDLIT:0000011 ! Research Aids
 created_by: pfey
 creation_date: 2014-09-24T15:15:17Z
