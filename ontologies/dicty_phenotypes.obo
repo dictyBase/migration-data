@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 20:07:2017 14:12
+date: 10:08:2017 12:34
 saved-by: Petra
 auto-generated-by: OBO-Edit 2.2
 default-namespace: Dicty Phenotypes
@@ -1132,7 +1132,7 @@ is_a: DDPHENO:0000412 ! aberrant cell-cell adhesion
 [Term]
 id: DDPHENO:0000139
 name: decreased sexual fusion
-def: "Reduction in extent, amount, or degree of sexual fusion. " [DDB:pg]
+def: "Reduction in extent, amount, or degree of sexual fusion." [DDB:pg]
 is_a: DDPHENO:0001010 ! aberrant macrocyst differentiation
 
 [Term]
@@ -3260,7 +3260,7 @@ is_a: DDPHENO:0000483 ! aberrant aggregation
 [Term]
 id: DDPHENO:0000451
 name: increased number of peripheral cells during sexual reproduction
-def: "Quantitative increase in peripheral cells during sexual reproduction. " [DDB:pg]
+def: "Quantitative increase in peripheral cells during sexual reproduction." [DDB:pg]
 is_a: DDPHENO:0001010 ! aberrant macrocyst differentiation
 
 [Term]
@@ -3384,6 +3384,7 @@ is_a: DDPHENO:0000040 ! aberrant response to chemical stimulus
 [Term]
 id: DDPHENO:0000476
 name: aberrant aggregation during macrocyst formation
+def: "Deviation from the normal, usual, or expected events during formation of aggregation during macrocyst formation." [DDB:pf]
 is_a: DDPHENO:0001010 ! aberrant macrocyst differentiation
 
 [Term]
@@ -3908,6 +3909,34 @@ synonym: "increased phagosome fusion" NARROW []
 is_a: DDPHENO:0000560 ! aberrant endosomal vesicle fusion
 created_by: Petra
 creation_date: 2017-06-12T17:04:27Z
+
+[Term]
+id: DDPHENO:0000563
+name: aberrant endoplasmic reticulum organization
+def: "Deviation from the normal, usual, or expected events during endoplasmic reticulum organization." [DDB:pf]
+synonym: "aberrant ER organization" EXACT []
+is_a: DDPHENO:0001043 ! aberrant organelle organization and biogenesis
+created_by: Petra
+creation_date: 2017-08-10T12:20:08Z
+
+[Term]
+id: DDPHENO:0000564
+name: aberrant endoplasmic reticulum membrane organization
+def: "Deviation from the normal, usual, or expected events during endoplasmic reticulum membrane organization." [DDB:pf]
+synonym: "aberrant ER membrane organization" EXACT []
+is_a: DDPHENO:0000563 ! aberrant endoplasmic reticulum organization
+created_by: Petra
+creation_date: 2017-08-10T12:22:33Z
+
+[Term]
+id: DDPHENO:0000565
+name: increased endoplasmic reticulum membrane accumulation
+def: "Quantitative increase in endoplasmic reticulum membrane accumulation." [DDB:pf]
+synonym: "ER membrane proliferation" BROAD []
+synonym: "Increased ER membrane accumulation" EXACT []
+is_a: DDPHENO:0000564 ! aberrant endoplasmic reticulum membrane organization
+created_by: Petra
+creation_date: 2017-08-10T12:24:55Z
 
 [Term]
 id: DDPHENO:0001001
