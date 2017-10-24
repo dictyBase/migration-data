@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 10:08:2017 12:34
+date: 24:10:2017 11:57
 saved-by: Petra
 auto-generated-by: OBO-Edit 2.2
 default-namespace: Dicty Phenotypes
@@ -1303,7 +1303,7 @@ is_a: DDPHENO:0001014 ! aberrant slug formation
 [Term]
 id: DDPHENO:0000161
 name: delayed culmination
-def: "Late onset or slower progression through culmination. " [DDBB:pg]
+def: "Late onset or slower progression through culmination." [DDBB:pg]
 is_a: DDPHENO:0001015 ! aberrant culmination
 
 [Term]
@@ -1446,6 +1446,7 @@ is_a: DDPHENO:0001002 ! aberrant organelle morphology
 [Term]
 id: DDPHENO:0000184
 name: decreased length of astral microtubules
+def: "Reduction in extent of astral microtubules." [DDB:pf]
 is_a: DDPHENO:0000397 ! aberrant cytoskeleton organisation
 
 [Term]
@@ -1550,7 +1551,7 @@ is_obsolete: true
 [Term]
 id: DDPHENO:0000203
 name: increased number of microtubule-organizing centers
-def: "Quantitative increase in microtubule-organizing centers. " [DDB:pg]
+def: "Quantitative increase in microtubule-organizing centers." [DDB:pg]
 is_a: DDPHENO:0000413 ! aberrant microtubule cytoskeleton organization
 
 [Term]
@@ -3937,6 +3938,46 @@ synonym: "Increased ER membrane accumulation" EXACT []
 is_a: DDPHENO:0000564 ! aberrant endoplasmic reticulum membrane organization
 created_by: Petra
 creation_date: 2017-08-10T12:24:55Z
+
+[Term]
+id: DDPHENO:0000566
+name: aberrant lipid storage
+def: "Deviation from the normal, usual, or expected storage of lipids." [DDB:pf]
+is_a: DDPHENO:0001217 ! aberrant cellular localization
+created_by: Petra
+creation_date: 2017-10-24T11:44:39Z
+
+[Term]
+id: DDPHENO:0000567
+name: aberrant lipid droplet formation
+def: "Deviation from the normal, usual, or expected formation of lipid droplets." [DDB:pf]
+is_a: DDPHENO:0000566 ! aberrant lipid storage
+created_by: Petra
+creation_date: 2017-10-24T11:46:08Z
+
+[Term]
+id: DDPHENO:0000568
+name: decreased lipid droplet formation
+def: "Reduction in amount or accumulation of lipid droplets." [DDB:pf]
+is_a: DDPHENO:0000567 ! aberrant lipid droplet formation
+created_by: Petra
+creation_date: 2017-10-24T11:48:06Z
+
+[Term]
+id: DDPHENO:0000569
+name: increased lipid droplet formation
+def: "Increase in amount or accumulation of lipid droplets." [DDB:pf]
+is_a: DDPHENO:0000567 ! aberrant lipid droplet formation
+created_by: Petra
+creation_date: 2017-10-24T11:50:05Z
+
+[Term]
+id: DDPHENO:0000570
+name: abolished lipid droplet formation
+def: "Complete inability to form lipid droplets." [DDB:pf]
+is_a: DDPHENO:0000567 ! aberrant lipid droplet formation
+created_by: Petra
+creation_date: 2017-10-24T11:51:58Z
 
 [Term]
 id: DDPHENO:0001001
