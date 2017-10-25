@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 07:06:2017 16:38
+date: 25:10:2017 17:03
 saved-by: Petra
 auto-generated-by: OBO-Edit 2.2
 default-namespace: Dicty Environment
@@ -425,4 +425,11 @@ synonym: "on E. coli lawn" EXACT []
 is_a: DDENVIR:0000004 ! on bacterial plate
 created_by: Petra
 creation_date: 2017-03-09T15:05:58Z
+
+[Term]
+id: DDENVIR:0000073
+name: during growth with palmitic acid treatment
+is_a: DDENVIR:0000037 ! during vegetative growth
+created_by: Petra
+creation_date: 2017-10-25T16:57:19Z
 
