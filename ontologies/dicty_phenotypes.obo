@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 24:10:2017 11:57
+date: 30:11:2017 18:14
 saved-by: Petra
 auto-generated-by: OBO-Edit 2.2
 default-namespace: Dicty Phenotypes
@@ -1596,7 +1596,7 @@ is_a: DDPHENO:0001034 ! aberrant cellular response to stress
 [Term]
 id: DDPHENO:0000210
 name: delayed slug formation
-def: "Late onset or slower progression through the formation of the slug. " [DDB:pg]
+def: "Late onset or slower progression through the formation of the slug." [DDB:pg]
 is_a: DDPHENO:0001014 ! aberrant slug formation
 
 [Term]
@@ -1614,7 +1614,7 @@ is_a: DDPHENO:0001039 ! aberrant cellular response to starvation
 [Term]
 id: DDPHENO:0000213
 name: increased cell-substrate adhesion
-def: "Increase in extent, amount, or degree of cell-substrate adhesion. " [DDB:pg]
+def: "Increase in extent, amount, or degree of cell-substrate adhesion." [DDB:pg]
 synonym: "increased substrate adhesion" RELATED []
 is_a: DDPHENO:0000187 ! aberrant cell-substrate adhesion
 
@@ -1754,7 +1754,7 @@ def: "Deviation from the normal, usual, or expected events during introduction a
 synonym: "aberrant homologous recombination" NARROW []
 synonym: "aberrant REMI efficiency" NARROW []
 synonym: "aberrant transformation efficiency" RELATED []
-is_a: DDPHENO:0001008 ! aberrant cellular process
+is_obsolete: true
 created_by: pfey
 creation_date: 2015-01-27T11:45:54Z
 
@@ -1765,7 +1765,7 @@ def: "Reduction in extent, amount, or degree of DNA mediated transformation." [D
 synonym: "decreased homologous recombination" NARROW []
 synonym: "decreased REMI efficiency" NARROW []
 synonym: "decreased transformation efficiency" RELATED []
-is_a: DDPHENO:0000238 ! aberrant DNA mediated transformation
+is_obsolete: true
 created_by: pfey
 creation_date: 2015-01-27T11:48:35Z
 
@@ -1776,7 +1776,7 @@ def: "Increase in extent, amount, or degree of DNA mediated transformation." [DD
 synonym: "increased homologous recombination" NARROW []
 synonym: "increased REMI efficiency" NARROW []
 synonym: "increased transformation efficiency" RELATED []
-is_a: DDPHENO:0000238 ! aberrant DNA mediated transformation
+is_obsolete: true
 created_by: pfey
 creation_date: 2015-01-27T11:48:59Z
 
@@ -1786,7 +1786,7 @@ name: abolished DNA mediated transformation
 def: "Complete inability for DNA mediated transformation." [DDB:pf]
 synonym: "abolished homologous recombination" NARROW []
 synonym: "abolished REMI" NARROW []
-is_a: DDPHENO:0000238 ! aberrant DNA mediated transformation
+is_obsolete: true
 created_by: Petra
 creation_date: 2015-01-29T14:57:44Z
 
@@ -1800,65 +1800,67 @@ creation_date: 2015-02-12T14:58:49Z
 
 [Term]
 id: DDPHENO:0000243
-name: aberrant single strand break repair
-def: "Deviation from the normal, usual, or expected events during single strand break repair." [DDB:pf]
+name: aberrant single-strand break repair
+def: "Deviation from the normal, usual, or expected events during single-strand break DNA repair." [DDB:pf]
 is_a: DDPHENO:0000242 ! aberrant DNA repair
 created_by: Petra
 creation_date: 2015-02-12T14:59:35Z
 
 [Term]
 id: DDPHENO:0000244
-name: aberrant double strand break repair
-def: "Deviation from the normal, usual, or expected events during double strand break repair." [DDB:pf]
+name: aberrant double-strand break repair
+def: "Deviation from the normal, usual, or expected events during double-strand break DNA repair." [DDB:pf]
+synonym: "aberrant double strand break repair" EXACT []
+synonym: "aberrant DSB repair" EXACT []
 is_a: DDPHENO:0000242 ! aberrant DNA repair
 created_by: Petra
 creation_date: 2015-02-12T15:00:20Z
 
 [Term]
 id: DDPHENO:0000245
-name: decreased double strand break repair
-def: "Reduction in extent, amount, or degree of double strand break repair." [DDB:pf]
-is_a: DDPHENO:0000244 ! aberrant double strand break repair
+name: decreased double-strand break repair
+def: "Reduction in extent, amount, or degree of double strand break DNA repair." [DDB:pf]
+is_a: DDPHENO:0000244 ! aberrant double-strand break repair
 created_by: Petra
 creation_date: 2015-02-12T15:03:53Z
 
 [Term]
 id: DDPHENO:0000246
-name: decreased single strand break repair
-def: "Reduction in extent, amount, or degree of single strand break repair." [DDB:pf]
-is_a: DDPHENO:0000243 ! aberrant single strand break repair
+name: decreased single-strand break repair
+def: "Reduction in extent, amount, or degree of single-strand break repair of DNA." [DDB:pf]
+is_a: DDPHENO:0000243 ! aberrant single-strand break repair
 created_by: Petra
 creation_date: 2015-02-12T15:04:21Z
 
 [Term]
 id: DDPHENO:0000247
 name: abolished double strand break repair
-def: "Complete inability for double strand break repair." [DDB:pf]
-is_a: DDPHENO:0000244 ! aberrant double strand break repair
+def: "Complete inability for double strand break DNA repair." [DDB:pf]
+is_a: DDPHENO:0000244 ! aberrant double-strand break repair
 created_by: Petra
 creation_date: 2015-02-12T15:06:27Z
 
 [Term]
 id: DDPHENO:0000248
-name: abolished single strand break repair
-def: "Complete inability for single strand break repair." [DDB:pf]
-is_a: DDPHENO:0000243 ! aberrant single strand break repair
+name: abolished single-strand break repair
+def: "Complete inability for single-strand break repair of DNA." [DDB:pf]
+is_a: DDPHENO:0000243 ! aberrant single-strand break repair
 created_by: Petra
 creation_date: 2015-02-12T15:06:50Z
 
 [Term]
 id: DDPHENO:0000249
-name: increased double strand repair
-def: "Increased tolerance of the normal, usual, or expected events in double strand repair." [DDB:pf]
-is_a: DDPHENO:0000244 ! aberrant double strand break repair
+name: increased double-strand break repair
+def: "Increased tolerance of the normal, usual, or expected events in double-strand break repair." [DDB:pf]
+is_a: DDPHENO:0000244 ! aberrant double-strand break repair
 created_by: Petra
 creation_date: 2015-02-12T16:01:50Z
 
 [Term]
 id: DDPHENO:0000250
-name: increased single strand break repair
-def: "Increased tolerance of the normal, usual, or expected events in single strand break repair." [DDB:pf]
-is_a: DDPHENO:0000243 ! aberrant single strand break repair
+name: increased single-strand break repair
+def: "Increased tolerance of the normal, usual, or expected events in single-strand break repair of DNA." [DDB:pf]
+is_a: DDPHENO:0000243 ! aberrant single-strand break repair
 created_by: Petra
 creation_date: 2015-02-12T16:02:13Z
 
@@ -3217,7 +3219,7 @@ is_a: DDPHENO:0001233 ! decreased protein secretion
 [Term]
 id: DDPHENO:0000444
 name: increased intracellular counting factor component(s) level
-def: "Increase in amount or accumulation of intracellular counting factor component(s). " [DDB:pg]
+def: "Increase in amount or accumulation of intracellular counting factor component(s)." [DDB:pg]
 synonym: "increased level of intracellular CF component(s)" EXACT []
 is_a: DDPHENO:0001001 ! aberrant initiation of development
 
@@ -3980,6 +3982,92 @@ created_by: Petra
 creation_date: 2017-10-24T11:51:58Z
 
 [Term]
+id: DDPHENO:0000571
+name: aberrant double-strand break repair via homologous recombination
+def: "Deviation from the normal, usual, or expected events during double-strand break repair of DNA via homologous recombination." [DDB:pf]
+synonym: "aberrant double-strand break repair via HR" EXACT []
+synonym: "aberrant DSB repair via homologous recombination" EXACT []
+is_a: DDPHENO:0000244 ! aberrant double-strand break repair
+created_by: Petra
+creation_date: 2017-11-30T15:45:59Z
+
+[Term]
+id: DDPHENO:0000572
+name: decreased double-strand break repair via homologous recombination
+def: "Reduction in extent, amount, or degree of double strand break repair of DNA via homologous recombination." [DDB:pf]
+synonym: "decreased double-strand break repair via HR" EXACT []
+synonym: "decreased DSB repair via homologous recombination" EXACT []
+is_a: DDPHENO:0000245 ! decreased double-strand break repair
+is_a: DDPHENO:0000571 ! aberrant double-strand break repair via homologous recombination
+created_by: Petra
+creation_date: 2017-11-30T15:47:40Z
+
+[Term]
+id: DDPHENO:0000573
+name: abolished double-strand break repair via homologous recombination
+def: "Complete inability for double strand break repair of DNA via homologous recombination." [DDB:pf]
+synonym: "abolished double-strand break repair via HR" EXACT []
+synonym: "abolished DSB repair via homologous recombination" EXACT []
+is_a: DDPHENO:0000247 ! abolished double strand break repair
+is_a: DDPHENO:0000571 ! aberrant double-strand break repair via homologous recombination
+created_by: Petra
+creation_date: 2017-11-30T15:52:53Z
+
+[Term]
+id: DDPHENO:0000574
+name: increased double-strand break repair via homologous recombination
+def: "Increased tolerance of the normal, usual, or expected events in double-strand break repair of DNA via homologous recombination." [DDB:pf]
+synonym: "increased double-strand break repair via HR" EXACT []
+synonym: "increased DSB repair via homologous recombination" EXACT []
+is_a: DDPHENO:0000249 ! increased double-strand break repair
+is_a: DDPHENO:0000571 ! aberrant double-strand break repair via homologous recombination
+created_by: Petra
+creation_date: 2017-11-30T15:54:41Z
+
+[Term]
+id: DDPHENO:0000575
+name: aberrant double-strand break repair via nonhomologous end joining
+def: "Deviation from the normal, usual, or expected events during double-strand break repair of DNA  via nonhomologous end joining." [DDB:pf]
+synonym: "aberrant double-strand break repair via NHEJ" EXACT []
+synonym: "aberrant DSB repair via nonhomologous end joining" EXACT []
+is_a: DDPHENO:0000244 ! aberrant double-strand break repair
+created_by: Petra
+creation_date: 2017-11-30T16:25:26Z
+
+[Term]
+id: DDPHENO:0000576
+name: abolished double-strand break repair via nonhomologous end joining
+def: "Complete inability for double strand break repair of DNA via nonhomologous end joining." [DDB:pf]
+synonym: " abolished DSB repair via nonhomologous end joining" EXACT []
+synonym: "abolished double-strand break repair via NHEJ" EXACT []
+is_a: DDPHENO:0000247 ! abolished double strand break repair
+is_a: DDPHENO:0000575 ! aberrant double-strand break repair via nonhomologous end joining
+created_by: Petra
+creation_date: 2017-11-30T16:28:18Z
+
+[Term]
+id: DDPHENO:0000577
+name: deceased double-strand break repair via nonhomologous end joining
+def: "Reduction in extent, amount, or degree of double strand break repair of DNA via nonhomologous end joining." [DDB:pf]
+synonym: " decreased DSB repair via nonhomologous end joining" EXACT []
+synonym: "deceased double-strand break repair via NHEJ" EXACT []
+is_a: DDPHENO:0000245 ! decreased double-strand break repair
+is_a: DDPHENO:0000575 ! aberrant double-strand break repair via nonhomologous end joining
+created_by: Petra
+creation_date: 2017-11-30T16:33:41Z
+
+[Term]
+id: DDPHENO:0000578
+name:  increased double-strand break repair via nonhomologous end joining
+def: "Increased tolerance of the normal, usual, or expected events in double-strand break repair of DNA nonhomologous end joining." [DDB:pf]
+synonym: " increased DSB repair via nonhomologous end joining" EXACT []
+synonym: "increased double-strand break repair via NHEJ" EXACT []
+is_a: DDPHENO:0000249 ! increased double-strand break repair
+is_a: DDPHENO:0000575 ! aberrant double-strand break repair via nonhomologous end joining
+created_by: Petra
+creation_date: 2017-11-30T16:34:11Z
+
+[Term]
 id: DDPHENO:0001001
 name: aberrant initiation of development
 def: "Deviation from the normal, usual, or expected during the initiation of development." [DDB:pg]
@@ -4316,7 +4404,7 @@ is_a: DDPHENO:0001049 ! aberrant bleb formation
 [Term]
 id: DDPHENO:0001053
 name: increased bleb formation
-def: "Increase in extent, amount, or degree of bleb formation. " [DDB:pg]
+def: "Increase in extent, amount, or degree of bleb formation." [DDB:pg]
 synonym: "increased cell blebbing" RELATED []
 is_a: DDPHENO:0001049 ! aberrant bleb formation
 
@@ -4609,7 +4697,7 @@ is_a: DDPHENO:0001095 ! aberrant DIF production
 [Term]
 id: DDPHENO:0001099
 name: delayed DIF production
-def: "Late onset or slower progression in the production of DIF. " [DDB:pg]
+def: "Late onset or slower progression in the production of DIF." [DDB:pg]
 synonym: "delayed DIF-1 production" NARROW []
 synonym: "delayed differentiation inducing factor production" EXACT []
 is_a: DDPHENO:0001095 ! aberrant DIF production
@@ -5041,7 +5129,7 @@ is_a: DDPHENO:0001005 ! aberrant cellular metabolic process
 [Term]
 id: DDPHENO:0001161
 name: decreased superoxide production
-def: "Reduction in extent, amount, or degree of production of superoxide" [DDB:pf]
+def: "Reduction in extent, amount, or degree of production of superoxide." [DDB:pf]
 is_a: DDPHENO:0001005 ! aberrant cellular metabolic process
 
 [Term]
@@ -5166,19 +5254,19 @@ is_a: DDPHENO:0001027 ! aberrant pseudopod formation
 [Term]
 id: DDPHENO:0001179
 name: decreased F-actin polymerization at the leading edge
-def: "Reduction in extent, amount, or degree of F-actin polymerization in the area closest to the direction of movement in a motile cell" [DDB:pf]
+def: "Reduction in extent, amount, or degree of F-actin polymerization in the area closest to the direction of movement in a motile cell." [DDB:pf]
 is_a: DDPHENO:0001056 ! decreased F-actin polymerization
 
 [Term]
 id: DDPHENO:0001180
 name: increased F-actin polymerization at the leading edge
-def: "Increase in extent, amount, or degree of F-actin polymerization in the area closest to the direction of movement in a motile cell" [DDB:pf]
+def: "Increase in extent, amount, or degree of F-actin polymerization in the area closest to the direction of movement in a motile cell." [DDB:pf]
 is_a: DDPHENO:0000459 ! increased F-actin polymerization
 
 [Term]
 id: DDPHENO:0001181
 name: delayed pseudopod formation
-def: "Late onset or slower progression" [DDB:pf]
+def: "Late onset or slower progression during pseudopod formation." [DDB:pf]
 synonym: "delayed pseudopod extension" EXACT []
 is_a: DDPHENO:0001027 ! aberrant pseudopod formation
 
