@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 29:11:2017 17:30
+date: 01:12:2017 15:26
 saved-by: Petra
 auto-generated-by: OBO-Edit 2.2
 default-namespace: dictyBase_literature_topic
@@ -483,7 +483,7 @@ creation_date: 2015-01-16T14:02:09Z
 
 [Term]
 id: DDLIT:0000060
-name: DNA metabolic process
+name: DNA Metabolic Process
 def: "Any cellular metabolic process involving deoxyribonucleic acid. E.g. DNA  modification, replication, fidelity, repair, telomer maintenance." [DDB:pf]
 is_a: DDLIT:0000007 ! Nucleic Acid Information
 created_by: Petra
