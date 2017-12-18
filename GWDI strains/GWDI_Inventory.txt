@@ -1,0 +1,16 @@
+This is the inventory using the GWDI_mutant_table as our Location and the new ontology: dicty_strain_inventory.obo
+
+This is an example of row 2 in GWDI_mutant_table.xlsx
+
+Strain ID: automatically generated
+
+Strain descriptor (generated from strain record?) GWDI_37_D_5
+
+Location: 37_D_5
+
+id: STRAININVENT:0000013
+name: - 80 freezer
+
+id: STRAININVENT:0000004
+name: storage date
+- use date when entered into database
