@@ -1,7 +1,7 @@
-format-version: 1.0
-date: 15:02:2007 15:21
-saved-by: pfey
-auto-generated-by: OBO-Edit 1.002
+format-version: 1.2
+date: 18:12:2017 12:09
+saved-by: Petra
+auto-generated-by: OBO-Edit 2.2
 default-namespace: genetic modification
 
 [Term]
@@ -25,6 +25,7 @@ id: DDGENMOD:0000004
 name: endogenous insertion
 def: "The addition of one or more nucleotides in the gene sequence." [DDB:PF]
 is_a: DDGENMOD:0000002 ! endogenous mutation
+is_a: DDGENMOD:0000012 ! genomic insertion
 
 [Term]
 id: DDGENMOD:0000005
@@ -42,15 +43,16 @@ is_a: DDGENMOD:0000002 ! endogenous mutation
 id: DDGENMOD:0000007
 name: exogenous mutation
 def: "Any gene expressed from a plasmid or under the control of a promoter other than its own promoter." [DDB:PF]
-related_synonym: "transgene" []
+synonym: "transgene" RELATED []
 is_a: DDGENMOD:0000001 ! genetic modification
 
 [Term]
 id: DDGENMOD:0000008
 name: exogenous insertion
 def: "Any fusion of two or more genes, or parts of genes, expressed from a plasmid or under the control of a promoter other than any of the participating genes' promoters." [DDB:PF]
-narrow_synonym: "chimera" []
+synonym: "chimera" NARROW []
 is_a: DDGENMOD:0000007 ! exogenous mutation
+is_a: DDGENMOD:0000012 ! genomic insertion
 
 [Term]
 id: DDGENMOD:0000009
@@ -70,4 +72,12 @@ name: endogenous deletion with insertion
 def: "The removal of one or more nucleotides in a gene sequence with the simultaneous addition of one or more nucleotides of different origin in the gene sequence." [DDB:PF]
 is_a: DDGENMOD:0000003 ! endogenous deletion
 is_a: DDGENMOD:0000004 ! endogenous insertion
+
+[Term]
+id: DDGENMOD:0000012
+name: genomic insertion
+def: "The addition of one or more nucleotides in the genomic sequence." [DDB:pf]
+is_a: DDGENMOD:0000001 ! genetic modification
+created_by: Petra
+creation_date: 2017-12-18T12:03:57Z
 
