@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 17:01:2018 17:43
+date: 23:01:2018 13:57
 saved-by: Petra
 auto-generated-by: OBO-Edit 2.2
 default-namespace: dictyBase_literature_topic
@@ -253,7 +253,7 @@ creation_date: 2010-04-12T03:29:43Z
 [Term]
 id: DDLIT:0000031
 name: Social Cooperation
-def: "The role of the gene product in complex social behaviour, including cooperation, self- and kin recognition, altruism, and cheating." [DDB:pf]
+def: "The role of the gene product in complex social behavior, including cooperation, self- and kin recognition, altruism, and cheating." [DDB:pf]
 is_a: DDLIT:0000005 ! Life Cycle
 created_by: pfey
 creation_date: 2014-09-23T14:56:13Z
@@ -468,7 +468,7 @@ creation_date: 2014-09-24T15:23:39Z
 [Term]
 id: DDLIT:0000058
 name: Cell Degradation
-def: "The process of any breakdown of cellular material and / or morphogenetic changes, through processes such as developmental death (stalk cells), apoptosis, or autophagy, which may lead to cell death." [DDB:pf]
+def: "The process of any breakdown of cellular material and / or morphogenetic changes, through processes such as apoptosis, or autophagy, which may lead to cell death; includes developmental cell death (stalk)." [DDB:pf]
 is_a: DDLIT:0000005 ! Life Cycle
 created_by: pfey
 creation_date: 2015-01-14T16:23:04Z
