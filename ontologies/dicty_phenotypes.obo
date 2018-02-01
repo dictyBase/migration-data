@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 30:11:2017 18:40
+date: 31:01:2018 15:35
 saved-by: Petra
 auto-generated-by: OBO-Edit 2.2
 default-namespace: Dicty Phenotypes
@@ -4066,6 +4066,38 @@ is_a: DDPHENO:0000249 ! increased double-strand break repair
 is_a: DDPHENO:0000575 ! aberrant double-strand break repair via nonhomologous end joining
 created_by: Petra
 creation_date: 2017-11-30T16:34:11Z
+
+[Term]
+id: DDPHENO:0000579
+name: aberrant sensitivity to cheating
+def: "Deviation from the normal, usual, or expected sorting when mixed with cheater cells." [DDB:pf]
+is_a: DDPHENO:0000127 ! aberrant socially cooperative development
+created_by: Petra
+creation_date: 2018-01-31T15:28:37Z
+
+[Term]
+id: DDPHENO:0000580
+name: decreased sensitivity to cheating
+def: "Partial resistance to cheating when mixed with cheater cells." [DDB:pf]
+is_a: DDPHENO:0000579 ! aberrant sensitivity to cheating
+created_by: Petra
+creation_date: 2018-01-31T15:28:50Z
+
+[Term]
+id: DDPHENO:0000581
+name: increased sensitivity to cheating
+def: "Increased sensitivity to cheating when mixed with cheater cells compared to wild type." [DDB:pf]
+is_a: DDPHENO:0000579 ! aberrant sensitivity to cheating
+created_by: Petra
+creation_date: 2018-01-31T15:29:25Z
+
+[Term]
+id: DDPHENO:0000582
+name: abolished sensitivity to cheating
+def: "Complete resistance to cheating when mixed with cheater cells." [DDB:pf]
+is_a: DDPHENO:0000579 ! aberrant sensitivity to cheating
+created_by: Petra
+creation_date: 2018-01-31T15:29:40Z
 
 [Term]
 id: DDPHENO:0001001
