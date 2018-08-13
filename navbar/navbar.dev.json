@@ -1,0 +1,131 @@
+{
+  "data": [
+    {
+      "type": "Genomes",
+      "id": "navbaritem1",
+      "attributes": {
+        "items": [
+          {
+            "name": "Dictyostelium discoideum",
+            "url": "https://testdb.dictybase.org"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Tools",
+      "id": "navbaritem2",
+      "attributes": {
+        "items": [
+          {
+            "name": "JBrowse",
+            "url": "https://testdb.dictybase.org/tools/jbrowse"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Explore",
+      "id": "navbaritem3",
+      "attributes": {
+        "items": [
+          {
+            "name": "dictyAccess",
+            "href": "https://testdb.dictybase.org/dictyaccess"
+          },
+          {
+            "name": "Dicty Art",
+            "href": "https://testdb.dictybase.org/explore/art"
+          },
+          {
+            "name": "Gallery",
+            "href": "https://testdb.dictybase.org/explore/gallery"
+          },
+          {
+            "name": "Learn About Dicty",
+            "href": "https://testdb.dictybase.org/explore/learn"
+          },
+          {
+            "name": "Teaching Protocols",
+            "href": "https://testdb.dictybase.org/explore/teach"
+          },
+          {
+            "name": "Useful Links",
+            "href": "https://testdb.dictybase.org/explore/links"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Research",
+      "id": "navbaritem4",
+      "attributes": {
+        "items": [
+          {
+            "name": "Anatomy Ontology",
+            "href": "https://testdb.dictybase.org/research/ontology"
+          },
+          {
+            "name": "Codon Bias Table",
+            "href": "https://testdb.dictybase.org/research/codon"
+          },
+          {
+            "name": "Nomenclature Guidelines",
+            "href": "https://testdb.dictybase.org/research/nomenclature"
+          },
+          {
+            "name": "Phenotyping",
+            "href": "https://testdb.dictybase.org/research/phenotyping"
+          },
+          {
+            "name": "Techniques",
+            "href": "https://testdb.dictybase.org/research/techniques"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Dicty Stock Center",
+      "id": "navbaritem5",
+      "attributes": {
+        "href": "https://testdb.dictybase.org/stockcenter"
+      }
+    },
+    {
+      "type": "Community",
+      "id": "navbaritem6",
+      "attributes": {
+        "items": [
+          {
+            "name": "Cite Us",
+            "href": "https://testdb.dictybase.org/community/citation"
+          },
+          {
+            "name": "Dicty Annual Conferences",
+            "href": "https://testdb.dictybase.org/community/conference"
+          },
+          {
+            "name": "Dicty Email Forum",
+            "href": "https://testdb.dictybase.org/community/listserv"
+          },
+          {
+            "name": "Dicty Labs",
+            "href": "https://testdb.dictybase.org/community/labs"
+          },
+          {
+            "name": "History",
+            "href": "https://testdb.dictybase.org/community/history"
+          },
+          {
+            "name": "Jobs",
+            "href": "https://testdb.dictybase.org/community/jobs"
+          },
+          {
+            "name": "Upcoming Meetings",
+            "href": "https://testdb.dictybase.org/community/meetings"
+          }
+        ]
+      }
+    }
+  ]
+}
