@@ -7,7 +7,7 @@
         "items": [
           {
             "name": "Dictyostelium discoideum",
-            "url": "https://testdb.dictybase.org"
+            "href": "https://testdb.dictybase.org"
           }
         ]
       }
@@ -19,7 +19,7 @@
         "items": [
           {
             "name": "JBrowse",
-            "url": "https://testdb.dictybase.org/tools/jbrowse"
+            "href": "https://testdb.dictybase.org/tools/jbrowse"
           }
         ]
       }
