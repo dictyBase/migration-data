@@ -7,7 +7,7 @@
         "items": [
           {
             "name": "Dictyostelium discoideum",
-            "href": "https://testdb.dictybase.org"
+            "href": "/"
           }
         ]
       }
@@ -19,7 +19,7 @@
         "items": [
           {
             "name": "JBrowse",
-            "href": "https://testdb.dictybase.org/tools/jbrowse"
+            "href": "/tools/jbrowse"
           }
         ]
       }
@@ -31,27 +31,27 @@
         "items": [
           {
             "name": "dictyAccess",
-            "href": "https://testdb.dictybase.org/dictyaccess"
+            "href": "/dictyaccess"
           },
           {
             "name": "Dicty Art",
-            "href": "https://testdb.dictybase.org/explore/art"
+            "href": "/explore/art"
           },
           {
             "name": "Gallery",
-            "href": "https://testdb.dictybase.org/explore/gallery"
+            "href": "/explore/gallery"
           },
           {
             "name": "Learn About Dicty",
-            "href": "https://testdb.dictybase.org/explore/learn"
+            "href": "/explore/learn"
           },
           {
             "name": "Teaching Protocols",
-            "href": "https://testdb.dictybase.org/explore/teach"
+            "href": "/explore/teach"
           },
           {
             "name": "Useful Links",
-            "href": "https://testdb.dictybase.org/explore/links"
+            "href": "/explore/links"
           }
         ]
       }
@@ -63,23 +63,23 @@
         "items": [
           {
             "name": "Anatomy Ontology",
-            "href": "https://testdb.dictybase.org/research/ontology"
+            "href": "/research/ontology"
           },
           {
             "name": "Codon Bias Table",
-            "href": "https://testdb.dictybase.org/research/codon"
+            "href": "/research/codon"
           },
           {
             "name": "Nomenclature Guidelines",
-            "href": "https://testdb.dictybase.org/research/nomenclature"
+            "href": "/research/nomenclature"
           },
           {
             "name": "Phenotyping",
-            "href": "https://testdb.dictybase.org/research/phenotyping"
+            "href": "/research/phenotyping"
           },
           {
             "name": "Techniques",
-            "href": "https://testdb.dictybase.org/research/techniques"
+            "href": "/research/techniques"
           }
         ]
       }
@@ -88,7 +88,7 @@
       "type": "Dicty Stock Center",
       "id": "navbaritem5",
       "attributes": {
-        "href": "https://testdb.dictybase.org/stockcenter"
+        "href": "/stockcenter"
       }
     },
     {
@@ -98,31 +98,31 @@
         "items": [
           {
             "name": "Cite Us",
-            "href": "https://testdb.dictybase.org/community/citation"
+            "href": "/community/citation"
           },
           {
             "name": "Dicty Annual Conferences",
-            "href": "https://testdb.dictybase.org/community/conference"
+            "href": "/community/conference"
           },
           {
             "name": "Dicty Email Forum",
-            "href": "https://testdb.dictybase.org/community/listserv"
+            "href": "/community/listserv"
           },
           {
             "name": "Dicty Labs",
-            "href": "https://testdb.dictybase.org/community/labs"
+            "href": "/community/labs"
           },
           {
             "name": "History",
-            "href": "https://testdb.dictybase.org/community/history"
+            "href": "/community/history"
           },
           {
             "name": "Jobs",
-            "href": "https://testdb.dictybase.org/community/jobs"
+            "href": "/community/jobs"
           },
           {
             "name": "Upcoming Meetings",
-            "href": "https://testdb.dictybase.org/community/meetings"
+            "href": "/community/meetings"
           }
         ]
       }
