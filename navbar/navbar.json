@@ -104,21 +104,21 @@
       "type": "dsc",
       "id": "5",
       "attributes": {
-          "label": "Dicty Stock Center",
-          "items": [
-              { 
-                  "label": "Stock Center Home",
-                  "link": "/stockcenter"
-              },
-              {
-                  "label": "Order Information",
-                  "link": "/stockcenter/information/order"
-              },
-              {
-                  "label": "FAQ",
-                  "link": "/stockcenter/information/faq"
-              }
-          ]
+        "display": "Dicty Stock Center",
+        "items": [
+          {
+            "label": "Stock Center Home",
+            "link": "/stockcenter"
+          },
+          {
+            "label": "Order Information",
+            "link": "/stockcenter/information/order"
+          },
+          {
+            "label": "FAQ",
+            "link": "/stockcenter/information/faq"
+          }
+        ]
       }
     },
     {
