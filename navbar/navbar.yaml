@@ -1,0 +1,83 @@
+data:
+  - attributes:
+      display: Genomes
+      items:
+        - label: 'Dictyostelium discoideum'
+          link: /
+        - label: 'Dictyostelium purpureum'
+          link: http://genomes.dictybase.org/purpureum
+        - label: 'Dictyostelium fasciculatum'
+          link: http://genomes.dictybase.org/fasciculatum
+        - label: 'Polysphondylium pallium'
+          link: http://genomes.dictybase.org/pallidum
+    id: 1
+    type: genomes
+  - attributes:
+      display: Tools
+      items:
+        - label: 'Genome Browser'
+          link: http://dictybase.org/tools/jbrowse/?data=data/jbrowse/discoideum&loc=6:1..50011&tracks=reference,gene,transcript
+        - label: Dashboard
+          link: /dictyaccess
+    id: 2
+    type: tools
+  - attributes:
+      display: Explore
+      items:
+        - label: 'Dicty Art'
+          link: /explore/art
+        - label: Gallery
+          link: /explore/gallery
+        - label: 'Learn About Dicty'
+          link: /explore/learn
+        - label: 'Teaching Protocols'
+          link: /explore/teach
+        - label: 'Useful Links'
+          link: /explore/links
+    id: 3
+    type: explore
+  - attributes:
+      display: Research
+      items:
+        - label: 'Anatomy Ontology'
+          link: /research/ontology
+        - label: 'Codon Bias Table'
+          link: /research/codon
+        - label: 'Nomenclature Guidelines'
+          link: /research/nomenclature
+        - label: Phenotyping
+          link: /research/phenotype
+        - label: Techniques
+          link: /research/techniques
+    id: 4
+    type: research
+  - attributes:
+      items:
+        - label: 'Stock Center Home'
+          link: /stockcenter
+        - label: 'Order Information'
+          link: /stockcenter/information/order
+        - label: FAQ
+          link: /stockcenter/information/faq
+      label: 'Dicty Stock Center'
+    id: 5
+    type: dsc
+  - attributes:
+      display: Community
+      items:
+        - label: 'Cite Us'
+          link: /community/citation
+        - label: 'Dicty Annual Conferences'
+          link: /community/conference
+        - label: 'Dicty Email Forum'
+          link: /community/listserv
+        - label: 'Dicty Labs'
+          link: /community/labs
+        - label: History
+          link: /community/history
+        - label: Jobs
+          link: /community/jobs
+        - label: 'Upcoming Meetings'
+          link: /community/meetings
+    id: 6
+    type: community
