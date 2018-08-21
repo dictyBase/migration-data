@@ -1,0 +1,200 @@
+{
+  "data": [
+    {
+      "type": "genomes",
+      "id": "1",
+      "attributes": {
+        "display": "Genomes",
+        "items": [
+          {
+            "label": "Dictyostelium discoideum",
+            "link": "/"
+          },
+          {
+            "label": "Dictyostelium purpureum",
+            "link": "http://genomes.dictybase.org/purpureum"
+          },
+          {
+            "label": "Dictyostelium fasciculatum",
+            "link": "http://genomes.dictybase.org/fasciculatum"
+          },
+          {
+            "label": "Polysphondylium pallium",
+            "link": "http://genomes.dictybase.org/pallidum"
+          }
+        ]
+      }
+    },
+    {
+      "type": "tools",
+      "id": "2",
+      "attributes": {
+        "display": "Tools",
+        "items": [
+          {
+            "label": "Genome Browser",
+            "link": "http://dictybase.org/tools/jbrowse/?data=data/jbrowse/discoideum&loc=6:1..50011&tracks=reference,gene,transcript"
+          },
+          {
+            "label": "Dashboard",
+            "link": "/dictyaccess"
+          }
+        ]
+      }
+    },
+    {
+      "type": "explore",
+      "id": "3",
+      "attributes": {
+        "display": "Explore",
+        "items": [
+          {
+            "label": "Dicty Art",
+            "link": "/explore/art"
+          },
+          {
+            "label": "Gallery",
+            "link": "/explore/gallery"
+          },
+          {
+            "label": "Learn About Dicty",
+            "link": "/explore/learn"
+          },
+          {
+            "label": "Teaching Protocols",
+            "link": "/explore/teach"
+          },
+          {
+            "label": "Useful Links",
+            "link": "/explore/links"
+          }
+        ]
+      }
+    },
+    {
+      "type": "research",
+      "id": "4",
+      "attributes": {
+        "display": "Research",
+        "items": [
+          {
+            "label": "Anatomy Ontology",
+            "link": "/research/ontology"
+          },
+          {
+            "label": "Codon Bias Table",
+            "link": "/research/codon"
+          },
+          {
+            "label": "Nomenclature Guidelines",
+            "link": "/research/nomenclature"
+          },
+          {
+            "label": "Phenotyping",
+            "link": "/research/phenotype"
+          },
+          {
+            "label": "Techniques",
+            "link": "/research/techniques"
+          }
+        ]
+      }
+    },
+    {
+      "type": "dsc",
+      "id": "5",
+      "attributes": {
+        "display": "Dicty Stock Center",
+        "items": [
+          {
+            "label": "Stock Center Home",
+            "link": "/stockcenter"
+          },
+          {
+            "label": "Order Information",
+            "link": "/stockcenter/information/order"
+          },
+          {
+            "label": "FAQ",
+            "link": "/stockcenter/information/faq"
+          }
+        ]
+      }
+    },
+    {
+      "type": "community",
+      "id": "6",
+      "attributes": {
+        "display": "Community",
+        "items": [
+          {
+            "label": "Cite Us",
+            "link": "/community/citation"
+          },
+          {
+            "label": "Dicty Annual Conferences",
+            "link": "/community/conference"
+          },
+          {
+            "label": "Dicty Email Forum",
+            "link": "/community/listserv"
+          },
+          {
+            "label": "Dicty Labs",
+            "link": "/community/labs"
+          },
+          {
+            "label": "History",
+            "link": "/community/history"
+          },
+          {
+            "label": "Jobs",
+            "link": "/community/jobs"
+          },
+          {
+            "label": "Upcoming Meetings",
+            "link": "/community/meetings"
+          }
+        ]
+      }
+    },
+    {
+      "type": "citations",
+      "id": "7",
+      "attributes": {
+        "display": "Please Cite",
+        "items": [
+          {
+            "label": "dictyBase",
+            "link": "/"
+          },
+          {
+            "label": "Dicty Stock Center",
+            "link": "/stockcenter"
+          }
+        ]
+      }
+    },
+    {
+      "type": "support",
+      "id": "8",
+      "attributes": {
+        "display": "Supported By",
+        "items": [
+          {
+            "label": "NIH",
+            "link": "https://www.nih.gov/"
+          },
+          {
+            "label": "GMOD",
+            "link": "http://gmod.org/wiki/Main_Page"
+          },
+          {
+            "label": "Gene Ontology",
+            "link": "http://www.geneontology.org/"
+          }
+        ]
+      }
+    }
+  ]
+}
