@@ -1,0 +1,54 @@
+{
+    "data": [
+      {
+        "type": "downloads",
+        "id": "1",
+        "attributes": {
+          "title": "Nuclear Genome Sequences",
+          "items": [
+            {
+              "title": "Chromosomal (Supercontig)",
+              "url": "https://betastorage.dictybase.local/downloads/5786/nuclear-seq-annotations/dna.fasta"
+            },
+            {
+              "title": "Coding (spliced mRNA transcript sequences)",
+              "url": "https://betastorage.dictybase.local/downloads/5786/nuclear-seq-annotations/mrna.fasta"
+            },
+            {
+              "title": "Protein",
+              "url": "https://betastorage.dictybase.local/downloads/5786/nuclear-seq-annotations/protein.fasta"
+            },
+            {
+              "title": "Genomic Features",
+              "url": "https://betastorage.dictybase.local/downloads/5786/nuclear-seq-annotations/feature.fasta"
+            }
+          ]
+        }
+      },
+      {
+        "type": "downloads",
+        "id": "2",
+        "attributes": {
+          "title": "Miscellaneous",
+          "items": [
+            {
+              "title": "DPU_G - JGI mapping",
+              "url": "https://betastorage.dictybase.local/downloads/5786/misc/mapping.txt"
+            },
+            {
+              "title": "Ortholog information",
+              "url": "https://betastorage.dictybase.local/downloads/5786/misc/ortholog.txt"
+            },
+            {
+              "title": "EST sequences",
+              "url": "https://betastorage.dictybase.local/downloads/5786/misc/est.fasta"
+            }
+          ]
+        }
+      }
+    ],
+    "links": {
+      "self": "/downloads/5786"
+    }
+  }
+  
