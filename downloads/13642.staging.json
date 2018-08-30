@@ -1,0 +1,47 @@
+{
+    "data": [
+      {
+        "type": "downloads",
+        "id": "1",
+        "attributes": {
+          "title": "Nuclear Genome Sequences",
+          "items": [
+            {
+              "title": "Chromosomal (Supercontig)",
+              "url": "https://betastorage.dictybase.org/downloads/13642/nuclear-seq-annotations/dna.fasta"
+            },
+            {
+              "title": "Coding (spliced mRNA transcript sequences)",
+              "url": "https://betastorage.dictybase.org/downloads/13642/nuclear-seq-annotations/mrna.fasta"
+            },
+            {
+              "title": "Protein",
+              "url": "https://betastorage.dictybase.org/downloads/13642/nuclear-seq-annotations/protein.fasta"
+            },
+            {
+              "title": "Genomic Features",
+              "url": "https://betastorage.dictybase.org/downloads/13642/nuclear-seq-annotations/feature.fasta"
+            }
+          ]
+        }
+      },
+      {
+        "type": "downloads",
+        "id": "2",
+        "attributes": {
+          "title": "Mitochondrial Genome Sequences",
+          "items": [
+            {
+              "title": "Chromosomal",
+              "url": "https://betastorage.dictybase.org/downloads/13642/mito-seq-annotations/dna.fasta"
+            },
+            {
+              "title": "Genomic Features",
+              "url": "https://betastorage.dictybase.org/downloads/13642/mito-seq-annotations/feature.gff3"
+            }
+          ]
+        }
+      }
+    ]
+  }
+  

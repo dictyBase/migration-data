@@ -12,6 +12,13 @@
           "journal": "Nature 435(7038): 43-57.",
           "link": "https://www.ncbi.nlm.nih.gov/pubmed/?term=15875012"
         }
+      },
+      "relationships": {
+        "downloads": {
+          "links": {
+            "related": "https://raw.githubusercontent.com/dictyBase/migration-data/master/downloads/44689.staging.json"
+          }
+        }
       }
     },
     {
@@ -25,6 +32,13 @@
           "title": "'Comparative genomics of the social amoebae Dictyostelium discoideum and Dictyostelium purpureum.'",
           "journal": "Genome Biol. 12:R20",
           "link": "http://ncbi.nlm.nih.gov/pubmed/21356102"
+        }
+      },
+      "relationships": {
+        "downloads": {
+          "links": {
+            "related": "https://raw.githubusercontent.com/dictyBase/migration-data/master/downloads/5786.staging.json"
+          }
         }
       }
     },
@@ -40,6 +54,13 @@
           "journal": "Genome Res. 21:",
           "link": "http://ncbi.nlm.nih.gov/pubmed/21757610"
         }
+      },
+      "relationships": {
+        "downloads": {
+          "links": {
+            "related": "https://raw.githubusercontent.com/dictyBase/migration-data/master/downloads/1054147.staging.json"
+          }
+        }
       }
     },
     {
@@ -53,6 +74,13 @@
           "title": "'Phylogeny-wide analysis of social amoeba genomes highlights ancient origins for complex intercellular communication.'",
           "journal": "Genome Res. 21:",
           "link": "http://ncbi.nlm.nih.gov/pubmed/21757610"
+        }
+      },
+      "relationships": {
+        "downloads": {
+          "links": {
+            "related": "https://raw.githubusercontent.com/dictyBase/migration-data/master/downloads/13642.staging.json"
+          }
         }
       }
     }
