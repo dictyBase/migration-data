@@ -8,19 +8,19 @@
           "items": [
             {
               "title": "Chromosomal (Supercontig)",
-              "url": "https://betastorage.dictybase.org/downloads/1054147/nuclear-seq-annotations/dna.fasta"
+              "url": "https://betastorage.dictybase.org/downloads/1054147/nuclear-seq-annotations/fasciculatum_supercontig.fasta.zip"
             },
             {
               "title": "Coding (spliced mRNA transcript sequences)",
-              "url": "https://betastorage.dictybase.org/downloads/1054147/nuclear-seq-annotations/mrna.fasta"
+              "url": "https://betastorage.dictybase.org/downloads/1054147/nuclear-seq-annotations/fasciculatum_cds.fasta.zip"
             },
             {
               "title": "Protein",
-              "url": "https://betastorage.dictybase.org/downloads/1054147/nuclear-seq-annotations/protein.fasta"
+              "url": "https://betastorage.dictybase.org/downloads/1054147/nuclear-seq-annotations/fasiculatum_polypeptide.fasta.zip"
             },
             {
               "title": "Genomic Features",
-              "url": "https://betastorage.dictybase.org/downloads/1054147/nuclear-seq-annotations/feature.fasta"
+              "url": "https://betastorage.dictybase.org/downloads/1054147/nuclear-seq-annotations/fasciculatum.gff3.zip"
             }
           ]
         }
@@ -33,11 +33,11 @@
           "items": [
             {
               "title": "Chromosomal",
-              "url": "https://betastorage.dictybase.org/downloads/1054147/mito-seq-annotations/dna.fasta"
+              "url": "https://betastorage.dictybase.org/downloads/1054147/mito-seq-annotations/fasciculatum_mitochondrial_supercontig.fasta.zip"
             },
             {
               "title": "Genomic Features",
-              "url": "https://betastorage.dictybase.org/downloads/1054147/mito-seq-annotations/feature.gff3"
+              "url": "https://betastorage.dictybase.org/downloads/1054147/mito-seq-annotations/fasciculatum_mitochondrial_gff3.zip"
             }
           ]
         }

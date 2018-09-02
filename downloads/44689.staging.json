@@ -37,31 +37,35 @@
           "items": [
             {
               "title": "Protein (Updated weekly)",
-              "url": "https://betastorage.dictybase.org/downloads/44689/all-seq-annotations/dicty_primary_protein.gz"
+              "url": "https://betastorage.dictybase.org/downloads/44689/all-seq-annotations/discoideum_polypeptide.fasta.zip"
             },
             {
               "title": "Coding (Updated weekly)",
-              "url": "https://betastorage.dictybase.org/downloads/44689/all-seq-annotations/dicty_primary_cds.gz"
+              "url": "https://betastorage.dictybase.org/downloads/44689/all-seq-annotations/discoideum_cds.fasta.zip"
             },
             {
-              "title": "Non-coding (Updated weekly)",
-              "url": "https://betastorage.dictybase.org/downloads/44689/all-seq-annotations/dicty_noncoding.gz"
+              "title": "Non-coding",
+              "url": "https://betastorage.dictybase.org/downloads/44689/all-seq-annotations/discoideum_noncoding.fasta.zip"
             },
             {
-              "title": "Genomic (Updated weekly)",
-              "url": "https://betastorage.dictybase.org/downloads/44689/all-seq-annotations/dicty_primary_genomic.gz"
+              "title": "Genomic",
+              "url": "https://betastorage.dictybase.org/downloads/44689/all-seq-annotations/discoideum_genomic.fasta.zip"
             },
             {
-              "title": "EST (Updated weekly)",
-              "url": "https://betastorage.dictybase.org/downloads/44689/all-seq-annotations/dicty_est.gz"
+              "title": "EST",
+              "url": "https://betastorage.dictybase.org/downloads/44689/all-seq-annotations/discoideum_est.fasta.zip"
             },
             {
-              "title": "Chromosomal (Updated weekly)",
-              "url": "https://betastorage.dictybase.org/downloads/44689/all-seq-annotations/dicty_chromosomal.gz"
+              "title": "Chromosomal",
+              "url": "https://betastorage.dictybase.org/downloads/44689/all-seq-annotations/discoideum_chromosomal.fasta.zip"
             },
             {
-              "title": "Sequences and annotations in GFF3 format (Updated monthly)",
-              "url": "https://betastorage.dictybase.org/downloads/44689/all-seq-annotations/dicty_gff3.zip"
+              "title": "Coding sequences and annotations in GFF3 format",
+              "url": "https://betastorage.dictybase.org/downloads/44689/all-seq-annotations/discoideum_coding.gff3.zip"
+            },
+            {
+              "title": "Non-coding sequences and annotations in GFF3 format",
+              "url": "https://betastorage.dictybase.org/downloads/44689/all-seq-annotations/discoideum_noncoding.gff3.zip"
             }
           ]
         }
@@ -116,11 +120,7 @@
           "items": [
             {
               "title": "Gene Ontology annotations (Updated monthly)",
-              "url": "https://betastorage.dictybase.org/downloads/44689/go-association/gene_association.dictyBase.gz"
-            },
-            {
-              "title": "GO annotations mapped to GO-slim.obo (August 2006)",
-              "url": "https://betastorage.dictybase.org/downloads/44689/go-association/slim_gene_association.ddb"
+              "url": "ftp://ftp.ebi.ac.uk/pub/databases/GO/goa/DICTY/goa_dicty.gpa.gz"
             }
           ]
         }

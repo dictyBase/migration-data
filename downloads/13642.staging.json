@@ -8,19 +8,19 @@
           "items": [
             {
               "title": "Chromosomal (Supercontig)",
-              "url": "https://betastorage.dictybase.org/downloads/13642/nuclear-seq-annotations/dna.fasta"
+              "url": "https://betastorage.dictybase.org/downloads/13642/nuclear-seq-annotations/pallidum_supercontig.fasta.zip"
             },
             {
               "title": "Coding (spliced mRNA transcript sequences)",
-              "url": "https://betastorage.dictybase.org/downloads/13642/nuclear-seq-annotations/mrna.fasta"
+              "url": "https://betastorage.dictybase.org/downloads/13642/nuclear-seq-annotations/pallidum_cds.fasta.zip"
             },
             {
               "title": "Protein",
-              "url": "https://betastorage.dictybase.org/downloads/13642/nuclear-seq-annotations/protein.fasta"
+              "url": "https://betastorage.dictybase.org/downloads/13642/nuclear-seq-annotations/pallidum_polypeptide.fasta.zip"
             },
             {
               "title": "Genomic Features",
-              "url": "https://betastorage.dictybase.org/downloads/13642/nuclear-seq-annotations/feature.fasta"
+              "url": "https://betastorage.dictybase.org/downloads/13642/nuclear-seq-annotations/pallidum_gff3.zip"
             }
           ]
         }
@@ -33,11 +33,11 @@
           "items": [
             {
               "title": "Chromosomal",
-              "url": "https://betastorage.dictybase.org/downloads/13642/mito-seq-annotations/dna.fasta"
+              "url": "https://betastorage.dictybase.org/downloads/13642/mito-seq-annotations/palidum_mitochondrial_supercontig.fasta.zip"
             },
             {
               "title": "Genomic Features",
-              "url": "https://betastorage.dictybase.org/downloads/13642/mito-seq-annotations/feature.gff3"
+              "url": "https://betastorage.dictybase.org/downloads/13642/mito-seq-annotations/pallidum_mitochondrial.gff3.zip"
             }
           ]
         }
