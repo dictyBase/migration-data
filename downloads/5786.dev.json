@@ -8,19 +8,19 @@
           "items": [
             {
               "title": "Chromosomal (Supercontig)",
-              "url": "https://betastorage.dictybase.local/downloads/5786/nuclear-seq-annotations/dna.fasta"
+              "url": "https://betastorage.dictybase.local/downloads/5786/nuclear-seq-annotations/purpureum_supercontig.fasta.zip"
             },
             {
               "title": "Coding (spliced mRNA transcript sequences)",
-              "url": "https://betastorage.dictybase.local/downloads/5786/nuclear-seq-annotations/mrna.fasta"
+              "url": "https://betastorage.dictybase.local/downloads/5786/nuclear-seq-annotations/purpureum_cds.fasta.zip"
             },
             {
               "title": "Protein",
-              "url": "https://betastorage.dictybase.local/downloads/5786/nuclear-seq-annotations/protein.fasta"
+              "url": "https://betastorage.dictybase.local/downloads/5786/nuclear-seq-annotations/purpureum_polypeptide.fasta.zip"
             },
             {
               "title": "Genomic Features",
-              "url": "https://betastorage.dictybase.local/downloads/5786/nuclear-seq-annotations/feature.fasta"
+              "url": "https://betastorage.dictybase.local/downloads/5786/nuclear-seq-annotations/purpureum_gff3.zip"
             }
           ]
         }
