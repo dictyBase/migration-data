@@ -77,7 +77,5 @@ data:
           link: /community/history
         - label: Jobs
           link: /community/jobs
-        - label: 'Upcoming Meetings'
-          link: /community/meetings
     id: 6
     type: community
