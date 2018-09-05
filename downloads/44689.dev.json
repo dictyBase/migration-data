@@ -36,36 +36,36 @@
           "title": "Dictyostelium Sequences and Annotations",
           "items": [
             {
-              "title": "Protein (Updated weekly)",
-              "url": "https://betastorage.dictybase.local/downloads/44689/all-seq-annotations/discoideum_polypeptide.fasta.zip"
+              "title": "Protein (FastA format, updated weekly)",
+              "url": "https://betastorage.dictybase.org/downloads/44689/all-seq-annotations/discoideum_polypeptide.fasta.zip"
             },
             {
-              "title": "Coding (Updated weekly)",
-              "url": "https://betastorage.dictybase.local/downloads/44689/all-seq-annotations/discoideum_cds.fasta.zip"
+              "title": "Coding (FastA format, updated weekly)",
+              "url": "https://betastorage.dictybase.org/downloads/44689/all-seq-annotations/discoideum_cds.fasta.zip"
             },
             {
-              "title": "Non-coding",
-              "url": "https://betastorage.dictybase.local/downloads/44689/all-seq-annotations/discoideum_noncoding.fasta.zip"
+              "title": "Non-coding (FastA format)",
+              "url": "https://betastorage.dictybase.org/downloads/44689/all-seq-annotations/discoideum_noncoding.fasta.zip"
             },
             {
-              "title": "Genomic",
-              "url": "https://betastorage.dictybase.local/downloads/44689/all-seq-annotations/discoideum_genomic.fasta.zip"
+              "title": "Genomic (FastA format)",
+              "url": "https://betastorage.dictybase.org/downloads/44689/all-seq-annotations/discoideum_genomic.fasta.zip"
             },
             {
-              "title": "EST",
-              "url": "https://betastorage.dictybase.local/downloads/44689/all-seq-annotations/discoideum_est.fasta.zip"
+              "title": "EST (FastA format)",
+              "url": "https://betastorage.dictybase.org/downloads/44689/all-seq-annotations/discoideum_est.fasta.zip"
             },
             {
-              "title": "Chromosomal",
-              "url": "https://betastorage.dictybase.local/downloads/44689/all-seq-annotations/discoideum_chromosomal.fasta.zip"
+              "title": "Chromosomal (FastA format)",
+              "url": "https://betastorage.dictybase.org/downloads/44689/all-seq-annotations/discoideum_chromosomal.fasta.zip"
             },
             {
-              "title": "Coding sequences and annotations in GFF3 format",
-              "url": "https://betastorage.dictybase.local/downloads/44689/all-seq-annotations/discoideum_coding.gff3.zip"
+              "title": "Coding sequences and annotations (GFF3 format)",
+              "url": "https://betastorage.dictybase.org/downloads/44689/all-seq-annotations/discoideum_coding.gff3.zip"
             },
             {
-              "title": "Non-coding sequences and annotations in GFF3 format",
-              "url": "https://betastorage.dictybase.local/downloads/44689/all-seq-annotations/discoideum_noncoding.gff3.zip"
+              "title": "Non-coding sequences and annotations (GFF3 format)",
+              "url": "https://betastorage.dictybase.org/downloads/44689/all-seq-annotations/discoideum_noncoding.gff3.zip"
             }
           ]
         }
@@ -104,10 +104,6 @@
             {
               "title": "Ax2 Phosphoproteome (August 2013). Provided by Pascale Charest and Rick Firtel;",
               "url": "https://betastorage.dictybase.local/downloads/44689/protein-information/AX2_phosphoproteome.xlsx"
-            },
-            {
-              "title": "N-terminal myristoylation sites (July 2006)",
-              "url": "https://betastorage.dictybase.local/downloads/44689/protein-information/NMT.txt"
             }
           ]
         }
