@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 23:10:2017 17:04
+date: 01:10:2018 15:19
 saved-by: Petra
 auto-generated-by: OBO-Edit 2.2
 default-namespace: plasmid_keywords
@@ -303,4 +303,12 @@ name: YL1/2 epitope tag
 is_a: DDPLASMIDKEY:0000037 ! biological tag
 created_by: Petra
 creation_date: 2017-10-23T17:00:10Z
+
+[Term]
+id: DDPLASMIDKEY:0000054
+name: knock-in vector
+synonym: "knockin vector" EXACT []
+is_a: DDPLASMIDKEY:0000012 ! vector
+created_by: Petra
+creation_date: 2018-10-01T15:17:19Z
 
