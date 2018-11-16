@@ -1,0 +1,119 @@
+format-version: 1.2
+date: 16:11:2018 16:15
+saved-by: cybersiddhu
+auto-generated-by: OBO-Edit 2.3-beta5
+default-namespace: dicty_annotation
+
+[Term]
+id: DDANNO:0000001
+name: dictybase annotation
+def: "It represents an annotation of a biological entity at dictybase." []
+xref: dictyBase:https\://dictybase.org
+
+[Term]
+id: DDANNO:0000002
+name: description
+def: "Free text description about any biological entity." []
+is_a: DDANNO:0000001 ! dictybase annotation
+created_by: cybersiddhu
+creation_date: 2018-11-16T12:59:35Z
+
+[Term]
+id: DDANNO:0000003
+name: name description
+def: "An annotation that expands the name annotation." []
+is_a: DDANNO:0000002 ! description
+is_a: DDANNO:0000004 ! name
+created_by: cybersiddhu
+creation_date: 2018-11-16T13:42:26Z
+
+[Term]
+id: DDANNO:0000004
+name: name
+def: "A short human readable text." []
+is_a: DDANNO:0000001 ! dictybase annotation
+created_by: cybersiddhu
+creation_date: 2018-11-16T13:44:29Z
+
+[Term]
+id: DDANNO:0000005
+name: product
+def: "An annotation that describes the product of an biological entity." []
+is_a: DDANNO:0000001 ! dictybase annotation
+created_by: cybersiddhu
+creation_date: 2018-11-16T14:33:56Z
+
+[Term]
+id: DDANNO:0000006
+name: gene product
+def: "An annotation that describes the expressed product of a gene." []
+is_a: DDANNO:0000005 ! product
+created_by: cybersiddhu
+creation_date: 2018-11-16T14:35:46Z
+
+[Term]
+id: DDANNO:0000007
+name: status
+def: "An annotation that describes the state of a biological entity." []
+is_a: DDANNO:0000001 ! dictybase annotation
+created_by: cybersiddhu
+creation_date: 2018-11-16T14:37:57Z
+
+[Term]
+id: DDANNO:0000008
+name: curation
+def: "It is a process by which biocurator annotates information of biological entity." []
+is_a: DDANNO:0000001 ! dictybase annotation
+created_by: cybersiddhu
+creation_date: 2018-11-16T15:04:29Z
+
+[Term]
+id: DDANNO:0000009
+name: curation status
+def: "Curation status of a biological entity." []
+is_a: DDANNO:0000007 ! status
+is_a: DDANNO:0000008 ! curation
+created_by: cybersiddhu
+creation_date: 2018-11-16T15:08:21Z
+
+[Term]
+id: DDANNO:0000010
+name: curator
+def: "A curator is a professional scientist who curates, collects, annotates, and validates information that is disseminated by biological and model Organism Databases." []
+is_a: DDANNO:0000001 ! dictybase annotation
+created_by: cybersiddhu
+creation_date: 2018-11-16T15:25:04Z
+
+[Term]
+id: DDANNO:0000011
+name: note
+def: "Free unstructured text or entry." []
+is_a: DDANNO:0000001 ! dictybase annotation
+created_by: cybersiddhu
+creation_date: 2018-11-16T15:36:22Z
+
+[Term]
+id: DDANNO:0000012
+name: curator note
+def: "Note taken by a curator." []
+is_a: DDANNO:0000010 ! curator
+is_a: DDANNO:0000011 ! note
+created_by: cybersiddhu
+creation_date: 2018-11-16T15:37:30Z
+
+[Term]
+id: DDANNO:0000013
+name: public note
+def: "A note that is publicly available." []
+is_a: DDANNO:0000011 ! note
+created_by: cybersiddhu
+creation_date: 2018-11-16T15:39:46Z
+
+[Term]
+id: DDANNO:0000014
+name: private note
+def: "A note that will not be available for public consumption." []
+is_a: DDANNO:0000011 ! note
+created_by: cybersiddhu
+creation_date: 2018-11-16T15:40:51Z
+
