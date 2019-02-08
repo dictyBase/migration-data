@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 22:03:2018 15:33
+date: 07:02:2019 17:56
 saved-by: Petra
 auto-generated-by: OBO-Edit 2.2
 default-namespace: strain_characteristics
@@ -238,7 +238,7 @@ is_a: DDSTRAINCHAR:0000037 ! tagged
 [Term]
 id: DDSTRAINCHAR:0000046
 name: diploid
-is_a: DDSTRAINCHAR:0000001 ! strain characteristic
+is_a: DDSTRAINCHAR:0000056 ! genetics
 
 [Term]
 id: DDSTRAINCHAR:0000047
@@ -297,4 +297,42 @@ name: symbiotic farmer bacterium
 is_a: DDSTRAINCHAR:0000054 ! bacterial strain
 created_by: Petra
 creation_date: 2018-03-22T15:32:19Z
+
+[Term]
+id: DDSTRAINCHAR:0000056
+name: genetics
+is_a: DDSTRAINCHAR:0000001 ! strain characteristic
+created_by: Petra
+creation_date: 2019-02-05T14:35:14Z
+
+[Term]
+id: DDSTRAINCHAR:0000057
+name: sexual reproduction
+is_a: DDSTRAINCHAR:0000056 ! genetics
+created_by: Petra
+creation_date: 2019-02-05T14:36:45Z
+
+[Term]
+id: DDSTRAINCHAR:0000058
+name: mating type I
+synonym: "mat1" EXACT []
+is_a: DDSTRAINCHAR:0000057 ! sexual reproduction
+created_by: Petra
+creation_date: 2019-02-07T17:54:42Z
+
+[Term]
+id: DDSTRAINCHAR:0000059
+name: mating type II
+synonym: "mat2" EXACT []
+is_a: DDSTRAINCHAR:0000057 ! sexual reproduction
+created_by: Petra
+creation_date: 2019-02-07T17:55:18Z
+
+[Term]
+id: DDSTRAINCHAR:0000060
+name: mating type III
+synonym: "mat3" EXACT []
+is_a: DDSTRAINCHAR:0000057 ! sexual reproduction
+created_by: Petra
+creation_date: 2019-02-07T17:56:02Z
 
