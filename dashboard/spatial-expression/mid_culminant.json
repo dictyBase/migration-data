@@ -1,0 +1,214 @@
+{
+  "data": [
+    {
+      "type": "genes",
+      "attributes": {
+        "block_id": "DDB0232429",
+        "start": "965144",
+        "end": "966313",
+        "strand": "-"
+      },
+      "id": "DDB_G0271852"
+    },
+    {
+      "type": "genes",
+      "attributes": {
+        "block_id": "DDB0232429",
+        "start": "7321470",
+        "end": "7322125",
+        "strand": "+"
+      },
+      "id": "DDB_G0277041"
+    },
+    {
+      "type": "genes",
+      "attributes": {
+        "block_id": "DDB0232429",
+        "start": "5884722",
+        "end": "5885495",
+        "strand": "+"
+      },
+      "id": "DDB_G0275741"
+    },
+    {
+      "type": "genes",
+      "attributes": {
+        "block_id": "DDB0232429",
+        "start": "6577116",
+        "end": "6578232",
+        "strand": "-"
+      },
+      "id": "DDB_G0276287"
+    },
+    {
+      "type": "genes",
+      "attributes": {
+        "block_id": "DDB0232429",
+        "start": "7194376",
+        "end": "7196288",
+        "strand": "+"
+      },
+      "id": "DDB_G0276761"
+    },
+    {
+      "type": "genes",
+      "attributes": {
+        "block_id": "DDB0232430",
+        "start": "558488",
+        "end": "563918",
+        "strand": "+"
+      },
+      "id": "DDB_G0277853"
+    },
+    {
+      "type": "genes",
+      "attributes": {
+        "block_id": "DDB0232428",
+        "start": "4826715",
+        "end": "4830122",
+        "strand": "-"
+      },
+      "id": "DDB_G0269132"
+    },
+    {
+      "type": "genes",
+      "attributes": {
+        "block_id": "DDB0232430",
+        "start": "498291",
+        "end": "499717",
+        "strand": "+"
+      },
+      "id": "DDB_G0277831"
+    },
+    {
+      "type": "genes",
+      "attributes": {
+        "block_id": "DDB0232431",
+        "start": "1394958",
+        "end": "1397005",
+        "strand": "+"
+      },
+      "id": "DDB_G0283907"
+    },
+    {
+      "type": "genes",
+      "attributes": {
+        "block_id": "DDB0232429",
+        "start": "7418011",
+        "end": "7419700",
+        "strand": "-"
+      },
+      "id": "DDB_G0276939"
+    },
+    {
+      "type": "genes",
+      "attributes": {
+        "block_id": "DDB0232432",
+        "start": "2352021",
+        "end": "2352950",
+        "strand": "-"
+      },
+      "id": "DDB_G0289075"
+    },
+    {
+      "type": "genes",
+      "attributes": {
+        "block_id": "DDB0232430",
+        "start": "4845968",
+        "end": "4848415",
+        "strand": "-"
+      },
+      "id": "DDB_G0281561"
+    },
+    {
+      "type": "genes",
+      "attributes": {
+        "block_id": "DDB0232433",
+        "start": "2530991",
+        "end": "2531851",
+        "strand": "-"
+      },
+      "id": "DDB_G0292996"
+    },
+    {
+      "type": "genes",
+      "attributes": {
+        "block_id": "DDB0232433",
+        "start": "1620628",
+        "end": "1623121",
+        "strand": "-"
+      },
+      "id": "DDB_G0292436"
+    },
+    {
+      "type": "genes",
+      "attributes": {
+        "block_id": "DDB0232432",
+        "start": "5073815",
+        "end": "5077009",
+        "strand": "-"
+      },
+      "id": "DDB_G0291123"
+    },
+    {
+      "type": "genes",
+      "attributes": {
+        "block_id": "DDB0232432",
+        "start": "1147360",
+        "end": "1151873",
+        "strand": "+"
+      },
+      "id": "DDB_G0288147"
+    },
+    {
+      "type": "genes",
+      "attributes": {
+        "block_id": "DDB0232432",
+        "start": "4833259",
+        "end": "4835306",
+        "strand": "+"
+      },
+      "id": "DDB_G0290959"
+    },
+    {
+      "type": "genes",
+      "attributes": {
+        "block_id": "DDB0232431",
+        "start": "715640",
+        "end": "717205",
+        "strand": "-"
+      },
+      "id": "DDB_G0283453"
+    },
+    {
+      "type": "genes",
+      "attributes": {
+        "block_id": "DDB0232431",
+        "start": "1758153",
+        "end": "1759359",
+        "strand": "-"
+      },
+      "id": "DDB_G0284253"
+    },
+    {
+      "type": "genes",
+      "attributes": {
+        "block_id": "DDB0232429",
+        "start": "7537012",
+        "end": "7538754",
+        "strand": "+"
+      },
+      "id": "DDB_G0276869"
+    },
+    {
+      "type": "genes",
+      "attributes": {
+        "block_id": "DDB0232429",
+        "start": "7902745",
+        "end": "7904138",
+        "strand": "-"
+      },
+      "id": "DDB_G0277141"
+    }
+  ]
+}
