@@ -2,213 +2,605 @@
   "data": [
     {
       "type": "genes",
+      "id": "DDB_G0271852",
       "attributes": {
         "block_id": "DDB0232429",
-        "start": "965144",
-        "end": "966313",
-        "strand": "-"
-      },
-      "id": "DDB_G0271852"
+        "start": 965144,
+        "end": 966313,
+        "strand": "-",
+        "gene_name": "rtaA",
+        "anatomy_term": "upper cup region of the mid culminant",
+        "protein": true,
+        "rna": false
+      }
     },
     {
       "type": "genes",
+      "id": "DDB_G0277041",
       "attributes": {
         "block_id": "DDB0232429",
-        "start": "7321470",
-        "end": "7322125",
-        "strand": "+"
-      },
-      "id": "DDB_G0277041"
+        "start": 7321470,
+        "end": 7322125,
+        "strand": "+",
+        "gene_name": "rheb",
+        "anatomy_term": "stalk tube",
+        "protein": false,
+        "rna": true
+      }
     },
     {
       "type": "genes",
+      "id": "DDB_G0275741",
       "attributes": {
         "block_id": "DDB0232429",
-        "start": "5884722",
-        "end": "5885495",
-        "strand": "+"
-      },
-      "id": "DDB_G0275741"
+        "start": 5884722,
+        "end": 5885495,
+        "strand": "+",
+        "gene_name": "dio3",
+        "anatomy_term": "prespore region of the mid culminant",
+        "protein": false,
+        "rna": true
+      }
     },
     {
       "type": "genes",
+      "id": "DDB_G0276287",
       "attributes": {
         "block_id": "DDB0232429",
-        "start": "6577116",
-        "end": "6578232",
-        "strand": "-"
-      },
-      "id": "DDB_G0276287"
+        "start": 6577116,
+        "end": 6578232,
+        "strand": "-",
+        "gene_name": "expl3",
+        "anatomy_term": "stalk of the mid culminant",
+        "protein": false,
+        "rna": true
+      }
     },
     {
       "type": "genes",
+      "id": "DDB_G0276761",
       "attributes": {
         "block_id": "DDB0232429",
-        "start": "7194376",
-        "end": "7196288",
-        "strand": "+"
-      },
-      "id": "DDB_G0276761"
+        "start": 7194376,
+        "end": 7196288,
+        "strand": "+",
+        "gene_name": "cotB",
+        "anatomy_term": "prespore region of the mid culminant",
+        "protein": false,
+        "rna": true
+      }
     },
     {
       "type": "genes",
+      "id": "DDB_G0277853",
       "attributes": {
         "block_id": "DDB0232430",
-        "start": "558488",
-        "end": "563918",
-        "strand": "+"
-      },
-      "id": "DDB_G0277853"
+        "start": 558488,
+        "end": 563918,
+        "strand": "+",
+        "gene_name": "ecmA",
+        "anatomy_term": "prestalk A region of the mid culminant",
+        "protein": false,
+        "rna": true
+      }
     },
     {
       "type": "genes",
+      "id": "DDB_G0277853",
+      "attributes": {
+        "block_id": "DDB0232430",
+        "start": 558488,
+        "end": 563918,
+        "strand": "+",
+        "gene_name": "ecmA",
+        "anatomy_term": "basal disc of the mid culminant",
+        "protein": false,
+        "rna": true
+      }
+    },
+    {
+      "type": "genes",
+      "id": "DDB_G0277853",
+      "attributes": {
+        "block_id": "DDB0232430",
+        "start": 558488,
+        "end": 563918,
+        "strand": "+",
+        "gene_name": "ecmA",
+        "anatomy_term": "stalk of the mid culminant",
+        "protein": false,
+        "rna": true
+      }
+    },
+    {
+      "type": "genes",
+      "id": "DDB_G0269132",
       "attributes": {
         "block_id": "DDB0232428",
-        "start": "4826715",
-        "end": "4830122",
-        "strand": "-"
-      },
-      "id": "DDB_G0269132"
+        "start": 4826715,
+        "end": 4830122,
+        "strand": "-",
+        "gene_name": "ecmB",
+        "anatomy_term": "prestalk AB core region of the mid culminant",
+        "protein": false,
+        "rna": true
+      }
     },
     {
       "type": "genes",
+      "id": "DDB_G0269132",
+      "attributes": {
+        "block_id": "DDB0232428",
+        "start": 4826715,
+        "end": 4830122,
+        "strand": "-",
+        "gene_name": "ecmB",
+        "anatomy_term": "basal disc of the mid culminant",
+        "protein": false,
+        "rna": true
+      }
+    },
+    {
+      "type": "genes",
+      "id": "DDB_G0269132",
+      "attributes": {
+        "block_id": "DDB0232428",
+        "start": 4826715,
+        "end": 4830122,
+        "strand": "-",
+        "gene_name": "ecmB",
+        "anatomy_term": "stalk of the mid culminant",
+        "protein": false,
+        "rna": true
+      }
+    },
+    {
+      "type": "genes",
+      "id": "DDB_G0269132",
+      "attributes": {
+        "block_id": "DDB0232428",
+        "start": 4826715,
+        "end": 4830122,
+        "strand": "-",
+        "gene_name": "ecmB",
+        "anatomy_term": "upper cup region of the mid culminant",
+        "protein": false,
+        "rna": true
+      }
+    },
+    {
+      "type": "genes",
+      "id": "DDB_G0277831",
       "attributes": {
         "block_id": "DDB0232430",
-        "start": "498291",
-        "end": "499717",
-        "strand": "+"
-      },
-      "id": "DDB_G0277831"
+        "start": 498291,
+        "end": 499717,
+        "strand": "+",
+        "gene_name": "carD",
+        "anatomy_term": "basal disc of the mid culminant",
+        "protein": true,
+        "rna": false
+      }
     },
     {
       "type": "genes",
-      "attributes": {
-        "block_id": "DDB0232431",
-        "start": "1394958",
-        "end": "1397005",
-        "strand": "+"
-      },
-      "id": "DDB_G0283907"
-    },
-    {
-      "type": "genes",
-      "attributes": {
-        "block_id": "DDB0232429",
-        "start": "7418011",
-        "end": "7419700",
-        "strand": "-"
-      },
-      "id": "DDB_G0276939"
-    },
-    {
-      "type": "genes",
-      "attributes": {
-        "block_id": "DDB0232432",
-        "start": "2352021",
-        "end": "2352950",
-        "strand": "-"
-      },
-      "id": "DDB_G0289075"
-    },
-    {
-      "type": "genes",
+      "id": "DDB_G0277831",
       "attributes": {
         "block_id": "DDB0232430",
-        "start": "4845968",
-        "end": "4848415",
-        "strand": "-"
-      },
-      "id": "DDB_G0281561"
+        "start": 498291,
+        "end": 499717,
+        "strand": "+",
+        "gene_name": "carD",
+        "anatomy_term": "upper cup region of the mid culminant",
+        "protein": true,
+        "rna": false
+      }
     },
     {
       "type": "genes",
+      "id": "DDB_G0277831",
       "attributes": {
-        "block_id": "DDB0232433",
-        "start": "2530991",
-        "end": "2531851",
-        "strand": "-"
-      },
-      "id": "DDB_G0292996"
+        "block_id": "DDB0232430",
+        "start": 498291,
+        "end": 499717,
+        "strand": "+",
+        "gene_name": "carD",
+        "anatomy_term": "stalk of the mid culminant",
+        "protein": true,
+        "rna": false
+      }
     },
     {
       "type": "genes",
-      "attributes": {
-        "block_id": "DDB0232433",
-        "start": "1620628",
-        "end": "1623121",
-        "strand": "-"
-      },
-      "id": "DDB_G0292436"
-    },
-    {
-      "type": "genes",
-      "attributes": {
-        "block_id": "DDB0232432",
-        "start": "5073815",
-        "end": "5077009",
-        "strand": "-"
-      },
-      "id": "DDB_G0291123"
-    },
-    {
-      "type": "genes",
-      "attributes": {
-        "block_id": "DDB0232432",
-        "start": "1147360",
-        "end": "1151873",
-        "strand": "+"
-      },
-      "id": "DDB_G0288147"
-    },
-    {
-      "type": "genes",
-      "attributes": {
-        "block_id": "DDB0232432",
-        "start": "4833259",
-        "end": "4835306",
-        "strand": "+"
-      },
-      "id": "DDB_G0290959"
-    },
-    {
-      "type": "genes",
+      "id": "DDB_G0283907",
       "attributes": {
         "block_id": "DDB0232431",
-        "start": "715640",
-        "end": "717205",
-        "strand": "-"
-      },
-      "id": "DDB_G0283453"
+        "start": 1394958,
+        "end": 1397005,
+        "strand": "+",
+        "gene_name": "pkaC",
+        "anatomy_term": "prespore region of the mid culminant",
+        "protein": true,
+        "rna": false
+      }
     },
     {
       "type": "genes",
+      "id": "DDB_G0283907",
       "attributes": {
         "block_id": "DDB0232431",
-        "start": "1758153",
-        "end": "1759359",
-        "strand": "-"
-      },
-      "id": "DDB_G0284253"
+        "start": 1394958,
+        "end": 1397005,
+        "strand": "+",
+        "gene_name": "pkaC",
+        "anatomy_term": "stalk of the mid culminant",
+        "protein": true,
+        "rna": false
+      }
     },
     {
       "type": "genes",
+      "id": "DDB_G0276939",
       "attributes": {
         "block_id": "DDB0232429",
-        "start": "7537012",
-        "end": "7538754",
-        "strand": "+"
-      },
-      "id": "DDB_G0276869"
+        "start": 7418011,
+        "end": 7419700,
+        "strand": "-",
+        "gene_name": "pspB",
+        "anatomy_term": "prespore region of the mid culminant",
+        "protein": false,
+        "rna": true
+      }
     },
     {
       "type": "genes",
+      "id": "DDB_G0289075",
+      "attributes": {
+        "block_id": "DDB0232432",
+        "start": 2352021,
+        "end": 2352950,
+        "strand": "-",
+        "gene_name": "spiA",
+        "anatomy_term": "prespore region of the mid culminant",
+        "protein": false,
+        "rna": true
+      }
+    },
+    {
+      "type": "genes",
+      "id": "DDB_G0281561",
+      "attributes": {
+        "block_id": "DDB0232430",
+        "start": 4845968,
+        "end": 4848415,
+        "strand": "-",
+        "gene_name": "tipA",
+        "anatomy_term": "prestalk O region of the mid culminant",
+        "protein": true,
+        "rna": false
+      }
+    },
+    {
+      "type": "genes",
+      "id": "DDB_G0292996",
+      "attributes": {
+        "block_id": "DDB0232433",
+        "start": 2530991,
+        "end": 2531851,
+        "strand": "-",
+        "gene_name": "rasD",
+        "anatomy_term": "prestalk region of the mid culminant",
+        "protein": false,
+        "rna": true
+      }
+    },
+    {
+      "type": "genes",
+      "id": "DDB_G0292436",
+      "attributes": {
+        "block_id": "DDB0232433",
+        "start": 1620628,
+        "end": 1623121,
+        "strand": "-",
+        "gene_name": "triA",
+        "anatomy_term": "prespore region of the mid culminant",
+        "protein": false,
+        "rna": true
+      }
+    },
+    {
+      "type": "genes",
+      "id": "DDB_G0291123",
+      "attributes": {
+        "block_id": "DDB0232432",
+        "start": 5073815,
+        "end": 5077009,
+        "strand": "-",
+        "gene_name": "glpD",
+        "anatomy_term": "prestalk region of the mid culminant",
+        "protein": true,
+        "rna": false
+      }
+    },
+    {
+      "type": "genes",
+      "id": "DDB_G0288147",
+      "attributes": {
+        "block_id": "DDB0232432",
+        "start": 1147360,
+        "end": 1151873,
+        "strand": "+",
+        "gene_name": "pkcA",
+        "anatomy_term": "prespore region of the mid culminant",
+        "protein": false,
+        "rna": true
+      }
+    },
+    {
+      "type": "genes",
+      "id": "DDB_G0281569",
+      "attributes": {
+        "block_id": "DDB0232430",
+        "start": 4934791,
+        "end": 4942180,
+        "strand": "-",
+        "gene_name": "tor",
+        "anatomy_term": "upper cup",
+        "protein": true,
+        "rna": true
+      }
+    },
+    {
+      "type": "genes",
+      "id": "DDB_G0284469",
+      "attributes": {
+        "block_id": "DDB0232431",
+        "start": 2128349,
+        "end": 2129813,
+        "strand": "-",
+        "gene_name": "gpaH",
+        "anatomy_term": "upper cup",
+        "protein": false,
+        "rna": true
+      }
+    },
+    {
+      "type": "genes",
+      "id": "DDB_G0271196",
       "attributes": {
         "block_id": "DDB0232429",
-        "start": "7902745",
-        "end": "7904138",
-        "strand": "-"
-      },
-      "id": "DDB_G0277141"
+        "start": 306087,
+        "end": 306509,
+        "strand": "+",
+        "gene_name": "staC",
+        "anatomy_term": "upper cup",
+        "protein": false,
+        "rna": true
+      }
+    },
+    {
+      "type": "genes",
+      "id": "DDB_G0271196",
+      "attributes": {
+        "block_id": "DDB0232429",
+        "start": 306087,
+        "end": 306509,
+        "strand": "+",
+        "gene_name": "staC",
+        "anatomy_term": "lower cup",
+        "protein": false,
+        "rna": true
+      }
+    },
+    {
+      "type": "genes",
+      "id": "DDB_G0276063",
+      "attributes": {
+        "block_id": "DDB0232429",
+        "start": 6452850,
+        "end": 6453171,
+        "strand": "-",
+        "gene_name": "DDB_G0276063",
+        "anatomy_term": "upper cup",
+        "protein": false,
+        "rna": true
+      }
+    },
+    {
+      "type": "genes",
+      "id": "DDB_G0276063",
+      "attributes": {
+        "block_id": "DDB0232429",
+        "start": 6452850,
+        "end": 6453171,
+        "strand": "-",
+        "gene_name": "DDB_G0276063",
+        "anatomy_term": "lower cup",
+        "protein": false,
+        "rna": true
+      }
+    },
+    {
+      "type": "genes",
+      "id": "DDB_G0278537",
+      "attributes": {
+        "block_id": "DDB0232430",
+        "start": 1038088,
+        "end": 1038630,
+        "strand": "-",
+        "gene_name": "DDB_G0278537",
+        "anatomy_term": "upper cup",
+        "protein": false,
+        "rna": true
+      }
+    },
+    {
+      "type": "genes",
+      "id": "DDB_G0278537",
+      "attributes": {
+        "block_id": "DDB0232430",
+        "start": 1038088,
+        "end": 1038630,
+        "strand": "-",
+        "gene_name": "DDB_G0278537",
+        "anatomy_term": "lower cup",
+        "protein": false,
+        "rna": true
+      }
+    },
+    {
+      "type": "genes",
+      "id": "DDB_G0282455",
+      "attributes": {
+        "block_id": "DDB0232430",
+        "start": 5781008,
+        "end": 5781208,
+        "strand": "+",
+        "gene_name": "DDB_G0282455",
+        "anatomy_term": "upper cup",
+        "protein": false,
+        "rna": true
+      }
+    },
+    {
+      "type": "genes",
+      "id": "DDB_G0282455",
+      "attributes": {
+        "block_id": "DDB0232430",
+        "start": 5781008,
+        "end": 5781208,
+        "strand": "+",
+        "gene_name": "DDB_G0282455",
+        "anatomy_term": "lower cup",
+        "protein": false,
+        "rna": true
+      }
+    },
+    {
+      "type": "genes",
+      "id": "DDB_G0293854",
+      "attributes": {
+        "block_id": "DDB0232433",
+        "start": 3388739,
+        "end": 3389063,
+        "strand": "+",
+        "gene_name": "DDB_G0293854",
+        "anatomy_term": "upper cup",
+        "protein": false,
+        "rna": true
+      }
+    },
+    {
+      "type": "genes",
+      "id": "DDB_G0293854",
+      "attributes": {
+        "block_id": "DDB0232433",
+        "start": 3388739,
+        "end": 3389063,
+        "strand": "+",
+        "gene_name": "DDB_G0293854",
+        "anatomy_term": "lower cup",
+        "protein": false,
+        "rna": true
+      }
+    },
+    {
+      "type": "genes",
+      "id": "DDB_G0290959",
+      "attributes": {
+        "block_id": "DDB0232432",
+        "start": 4833259,
+        "end": 4835306,
+        "strand": "+",
+        "gene_name": "chtC",
+        "anatomy_term": "stalk of the mid culminant",
+        "protein": false,
+        "rna": true
+      }
+    },
+    {
+      "type": "genes",
+      "id": "DDB_G0290959",
+      "attributes": {
+        "block_id": "DDB0232432",
+        "start": 4833259,
+        "end": 4835306,
+        "strand": "+",
+        "gene_name": "chtC",
+        "anatomy_term": "prestalk AB core region of the mid culminant",
+        "protein": false,
+        "rna": true
+      }
+    },
+    {
+      "type": "genes",
+      "id": "DDB_G0283453",
+      "attributes": {
+        "block_id": "DDB0232431",
+        "start": 715640,
+        "end": 717205,
+        "strand": "-",
+        "gene_name": "dgcA",
+        "anatomy_term": "prestalk region of the mid culminant",
+        "protein": false,
+        "rna": true
+      }
+    },
+    {
+      "type": "genes",
+      "id": "DDB_G0283453",
+      "attributes": {
+        "block_id": "DDB0232431",
+        "start": 715640,
+        "end": 717205,
+        "strand": "-",
+        "gene_name": "dgcA",
+        "anatomy_term": "stalk of the mid culminant",
+        "protein": false,
+        "rna": true
+      }
+    },
+    {
+      "type": "genes",
+      "id": "DDB_G0284253",
+      "attributes": {
+        "block_id": "DDB0232431",
+        "start": 1758153,
+        "end": 1759359,
+        "strand": "-",
+        "gene_name": "ei24",
+        "anatomy_term": "basal disc of the mid culminant",
+        "protein": false,
+        "rna": true
+      }
+    },
+    {
+      "type": "genes",
+      "id": "DDB_G0276869",
+      "attributes": {
+        "block_id": "DDB0232429",
+        "start": 7537012,
+        "end": 7538754,
+        "strand": "+",
+        "gene_name": "psvA",
+        "anatomy_term": "prespore region of the mid culminant",
+        "protein": true,
+        "rna": false
+      }
+    },
+    {
+      "type": "genes",
+      "id": "DDB_G0277141",
+      "attributes": {
+        "block_id": "DDB0232429",
+        "start": 7902745,
+        "end": 7904138,
+        "strand": "-",
+        "gene_name": "cotC",
+        "anatomy_term": "prespore region of the mid culminant",
+        "protein": false,
+        "rna": true
+      }
     }
   ]
 }
