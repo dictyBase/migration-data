@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 12:07:2018 16:14
+date: 28:02:2019 10:16
 saved-by: Petra
 auto-generated-by: OBO-Edit 2.2
 default-namespace: Dicty Phenotypes
@@ -1945,7 +1945,7 @@ id: DDPHENO:0000261
 name: abolished prestalk cell differentiation in response to DIF-1
 def: "Complete inability for prestalk cell differentiation in response to DIF-1." [DDB:pg]
 synonym: "abolished pst cell differentiation in response to DIF-1" EXACT []
-is_a: DDPHENO:0000512 ! abolished prestalk cell differentiation
+is_obsolete: true
 
 [Term]
 id: DDPHENO:0000262
