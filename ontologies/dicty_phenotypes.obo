@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 28:02:2019 10:16
+date: 01:03:2019 16:09
 saved-by: Petra
 auto-generated-by: OBO-Edit 2.2
 default-namespace: Dicty Phenotypes
@@ -4098,6 +4098,22 @@ def: "Complete resistance to cheating when mixed with cheater cells." [DDB:pf]
 is_a: DDPHENO:0000579 ! aberrant sensitivity to cheating
 created_by: Petra
 creation_date: 2018-01-31T15:29:40Z
+
+[Term]
+id: DDPHENO:0000583
+name: aberrant mating type determination
+def: "Deviation from the normal, usual, or expected events when determining the mating type of a cell." [DDB:pf]
+is_a: DDPHENO:0001443 ! aberrant cell fate determination
+created_by: Petra
+creation_date: 2019-03-01T15:50:16Z
+
+[Term]
+id: DDPHENO:0000584
+name: abolished mating type determination
+def: "Complete inability for determining the mating type of a cell." [DDB:pf]
+is_a: DDPHENO:0000583 ! aberrant mating type determination
+created_by: Petra
+creation_date: 2019-03-01T15:53:27Z
 
 [Term]
 id: DDPHENO:0001001
