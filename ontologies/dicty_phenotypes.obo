@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 05:03:2019 14:21
+date: 01:03:2019 16:09
 saved-by: Petra
 auto-generated-by: OBO-Edit 2.2
 default-namespace: Dicty Phenotypes
@@ -4114,32 +4114,6 @@ def: "Complete inability for determining the mating type of a cell." [DDB:pf]
 is_a: DDPHENO:0000583 ! aberrant mating type determination
 created_by: Petra
 creation_date: 2019-03-01T15:53:27Z
-
-[Term]
-id: DDPHENO:0000585
-name: aberrant cell spreading
-def: "Deviation from the normal, usual, or expected spreading of a cell on substrate." [DDB:pf]
-is_a: DDPHENO:0000236 ! aberrant cell morphology
-created_by: Petra
-creation_date: 2019-03-05T14:14:55Z
-
-[Term]
-id: DDPHENO:0000586
-name: decreased cell spreading
-def: "Reduction in extent, amount, or degree of cell spreading on substrate." [DDB:pf]
-synonym: "increased cell rounding" RELATED []
-is_a: DDPHENO:0000585 ! aberrant cell spreading
-created_by: Petra
-creation_date: 2019-03-05T14:16:06Z
-
-[Term]
-id: DDPHENO:0000587
-name: increased cell spreading
-def: "Increase in extent, amount, or degree of cell spreading on substrate." [DDB:pf]
-synonym: "increased cell flattening" RELATED []
-is_a: DDPHENO:0000585 ! aberrant cell spreading
-created_by: Petra
-creation_date: 2019-03-05T14:19:22Z
 
 [Term]
 id: DDPHENO:0001001
