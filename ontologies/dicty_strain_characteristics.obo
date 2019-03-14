@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 07:02:2019 17:56
+date: 14:03:2019 15:35
 saved-by: Petra
 auto-generated-by: OBO-Edit 2.2
 default-namespace: strain_characteristics
@@ -335,4 +335,12 @@ synonym: "mat3" EXACT []
 is_a: DDSTRAINCHAR:0000057 ! sexual reproduction
 created_by: Petra
 creation_date: 2019-02-07T17:56:02Z
+
+[Term]
+id: DDSTRAINCHAR:0000061
+name: AEQ marked
+synonym: "aequorin marked" EXACT []
+is_a: DDSTRAINCHAR:0000035 ! marked
+created_by: Petra
+creation_date: 2019-03-14T15:34:02Z
 
