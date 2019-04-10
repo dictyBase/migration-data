@@ -115,6 +115,14 @@
             "link": "/stockcenter/information/order"
           },
           {
+            "label": "Deposit Information",
+            "link": "/stockcenter/information/deposit"
+          },
+          {
+            "label": "Payment Information",
+            "link": "/stockcenter/information/payment"
+          },
+          {
             "label": "FAQ",
             "link": "/stockcenter/information/faq"
           }
