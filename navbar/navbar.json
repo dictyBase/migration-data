@@ -78,6 +78,10 @@
         "display": "Research",
         "items": [
           {
+            "label": "Techniques",
+            "link": "/research/techniques"
+          },
+          {
             "label": "Anatomy Ontology",
             "link": "/research/ontology"
           },
@@ -92,10 +96,6 @@
           {
             "label": "Phenotyping",
             "link": "/research/phenotype"
-          },
-          {
-            "label": "Techniques",
-            "link": "/research/techniques"
           }
         ]
       }
