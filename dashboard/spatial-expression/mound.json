@@ -1,0 +1,788 @@
+{
+  "data": [
+    {
+      "type": "genes",
+      "id": "DDB_G0271852",
+      "attributes": {
+        "block_id": "DDB0232429",
+        "start": 965144,
+        "end": 966313,
+        "strand": "-",
+        "gene_name": "rtaA",
+        "anatomy_term": "aggregation territory",
+        "protein": false,
+        "rna": true
+      }
+    },
+    {
+      "type": "genes",
+      "id": "DDB_G0275741",
+      "attributes": {
+        "block_id": "DDB0232429",
+        "start": 5884722,
+        "end": 5885495,
+        "strand": "+",
+        "gene_name": "dio3",
+        "anatomy_term": "loose aggregate",
+        "protein": false,
+        "rna": true
+      }
+    },
+    {
+      "type": "genes",
+      "id": "DDB_G0275741",
+      "attributes": {
+        "block_id": "DDB0232429",
+        "start": 5884722,
+        "end": 5885495,
+        "strand": "+",
+        "gene_name": "dio3",
+        "anatomy_term": "mound",
+        "protein": false,
+        "rna": true
+      }
+    },
+    {
+      "type": "genes",
+      "id": "DDB_G0273063",
+      "attributes": {
+        "block_id": "DDB0232429",
+        "start": 2474613,
+        "end": 2475374,
+        "strand": "-",
+        "gene_name": "dscA-1",
+        "anatomy_term": "loose aggregate",
+        "protein": true,
+        "rna": false
+      }
+    },
+    {
+      "type": "genes",
+      "id": "DDB_G0273919",
+      "attributes": {
+        "block_id": "DDB0232429",
+        "start": 3556412,
+        "end": 3557173,
+        "strand": "+",
+        "gene_name": "dscA-2",
+        "anatomy_term": "loose aggregate",
+        "protein": true,
+        "rna": false
+      }
+    },
+    {
+      "type": "genes",
+      "id": "DDB_G0273065",
+      "attributes": {
+        "block_id": "DDB0232429",
+        "start": 2511465,
+        "end": 2512226,
+        "strand": "-",
+        "gene_name": "dscC-1",
+        "anatomy_term": "loose aggregate",
+        "protein": true,
+        "rna": false
+      }
+    },
+    {
+      "type": "genes",
+      "id": "DDB_G0273885",
+      "attributes": {
+        "block_id": "DDB0232429",
+        "start": 3519560,
+        "end": 3520321,
+        "strand": "+",
+        "gene_name": "dscC-2",
+        "anatomy_term": "loose aggregate",
+        "protein": true,
+        "rna": false
+      }
+    },
+    {
+      "type": "genes",
+      "id": "DDB_G0273067",
+      "attributes": {
+        "block_id": "DDB0232429",
+        "start": 2509980,
+        "end": 2510741,
+        "strand": "-",
+        "gene_name": "dscD-1",
+        "anatomy_term": "loose aggregate",
+        "protein": true,
+        "rna": false
+      }
+    },
+    {
+      "type": "genes",
+      "id": "DDB_G0273887",
+      "attributes": {
+        "block_id": "DDB0232429",
+        "start": 3521045,
+        "end": 3521806,
+        "strand": "+",
+        "gene_name": "dscD-2",
+        "anatomy_term": "loose aggregate",
+        "protein": true,
+        "rna": false
+      }
+    },
+    {
+      "type": "genes",
+      "id": "DDB_G0273063",
+      "attributes": {
+        "block_id": "DDB0232429",
+        "start": 2474613,
+        "end": 2475374,
+        "strand": "-",
+        "gene_name": "dscA-1",
+        "anatomy_term": "mound",
+        "protein": true,
+        "rna": false
+      }
+    },
+    {
+      "type": "genes",
+      "id": "DDB_G0273919",
+      "attributes": {
+        "block_id": "DDB0232429",
+        "start": 3556412,
+        "end": 3557173,
+        "strand": "+",
+        "gene_name": "dscA-2",
+        "anatomy_term": "mound",
+        "protein": true,
+        "rna": false
+      }
+    },
+    {
+      "type": "genes",
+      "id": "DDB_G0273065",
+      "attributes": {
+        "block_id": "DDB0232429",
+        "start": 2511465,
+        "end": 2512226,
+        "strand": "-",
+        "gene_name": "dscC-1",
+        "anatomy_term": "mound",
+        "protein": true,
+        "rna": false
+      }
+    },
+    {
+      "type": "genes",
+      "id": "DDB_G0273885",
+      "attributes": {
+        "block_id": "DDB0232429",
+        "start": 3519560,
+        "end": 3520321,
+        "strand": "+",
+        "gene_name": "dscC-2",
+        "anatomy_term": "mound",
+        "protein": true,
+        "rna": false
+      }
+    },
+    {
+      "type": "genes",
+      "id": "DDB_G0273067",
+      "attributes": {
+        "block_id": "DDB0232429",
+        "start": 2509980,
+        "end": 2510741,
+        "strand": "-",
+        "gene_name": "dscD-1",
+        "anatomy_term": "mound",
+        "protein": true,
+        "rna": false
+      }
+    },
+    {
+      "type": "genes",
+      "id": "DDB_G0273887",
+      "attributes": {
+        "block_id": "DDB0232429",
+        "start": 3521045,
+        "end": 3521806,
+        "strand": "+",
+        "gene_name": "dscD-2",
+        "anatomy_term": "mound",
+        "protein": true,
+        "rna": false
+      }
+    },
+    {
+      "type": "genes",
+      "id": "DDB_G0273063",
+      "attributes": {
+        "block_id": "DDB0232429",
+        "start": 2474613,
+        "end": 2475374,
+        "strand": "-",
+        "gene_name": "dscA-1",
+        "anatomy_term": "tipped mound",
+        "protein": true,
+        "rna": false
+      }
+    },
+    {
+      "type": "genes",
+      "id": "DDB_G0273919",
+      "attributes": {
+        "block_id": "DDB0232429",
+        "start": 3556412,
+        "end": 3557173,
+        "strand": "+",
+        "gene_name": "dscA-2",
+        "anatomy_term": "tipped mound",
+        "protein": true,
+        "rna": false
+      }
+    },
+    {
+      "type": "genes",
+      "id": "DDB_G0273065",
+      "attributes": {
+        "block_id": "DDB0232429",
+        "start": 2511465,
+        "end": 2512226,
+        "strand": "-",
+        "gene_name": "dscC-1",
+        "anatomy_term": "tipped mound",
+        "protein": true,
+        "rna": false
+      }
+    },
+    {
+      "type": "genes",
+      "id": "DDB_G0273885",
+      "attributes": {
+        "block_id": "DDB0232429",
+        "start": 3519560,
+        "end": 3520321,
+        "strand": "+",
+        "gene_name": "dscC-2",
+        "anatomy_term": "tipped mound",
+        "protein": true,
+        "rna": false
+      }
+    },
+    {
+      "type": "genes",
+      "id": "DDB_G0273067",
+      "attributes": {
+        "block_id": "DDB0232429",
+        "start": 2509980,
+        "end": 2510741,
+        "strand": "-",
+        "gene_name": "dscD-1",
+        "anatomy_term": "tipped mound",
+        "protein": true,
+        "rna": false
+      }
+    },
+    {
+      "type": "genes",
+      "id": "DDB_G0273887",
+      "attributes": {
+        "block_id": "DDB0232429",
+        "start": 3521045,
+        "end": 3521806,
+        "strand": "+",
+        "gene_name": "dscD-2",
+        "anatomy_term": "tipped mound",
+        "protein": true,
+        "rna": false
+      }
+    },
+    {
+      "type": "genes",
+      "id": "DDB_G0273063",
+      "attributes": {
+        "block_id": "DDB0232429",
+        "start": 2474613,
+        "end": 2475374,
+        "strand": "-",
+        "gene_name": "dscA-1",
+        "anatomy_term": "prestalk region of the tipped mound",
+        "protein": true,
+        "rna": false
+      }
+    },
+    {
+      "type": "genes",
+      "id": "DDB_G0273919",
+      "attributes": {
+        "block_id": "DDB0232429",
+        "start": 3556412,
+        "end": 3557173,
+        "strand": "+",
+        "gene_name": "dscA-2",
+        "anatomy_term": "prestalk region of the tipped mound",
+        "protein": true,
+        "rna": false
+      }
+    },
+    {
+      "type": "genes",
+      "id": "DDB_G0273065",
+      "attributes": {
+        "block_id": "DDB0232429",
+        "start": 2511465,
+        "end": 2512226,
+        "strand": "-",
+        "gene_name": "dscC-1",
+        "anatomy_term": "prestalk region of the tipped mound",
+        "protein": true,
+        "rna": false
+      }
+    },
+    {
+      "type": "genes",
+      "id": "DDB_G0273885",
+      "attributes": {
+        "block_id": "DDB0232429",
+        "start": 3519560,
+        "end": 3520321,
+        "strand": "+",
+        "gene_name": "dscC-2",
+        "anatomy_term": "prestalk region of the tipped mound",
+        "protein": true,
+        "rna": false
+      }
+    },
+    {
+      "type": "genes",
+      "id": "DDB_G0273067",
+      "attributes": {
+        "block_id": "DDB0232429",
+        "start": 2509980,
+        "end": 2510741,
+        "strand": "-",
+        "gene_name": "dscD-1",
+        "anatomy_term": "prestalk region of the tipped mound",
+        "protein": true,
+        "rna": false
+      }
+    },
+    {
+      "type": "genes",
+      "id": "DDB_G0273887",
+      "attributes": {
+        "block_id": "DDB0232429",
+        "start": 3521045,
+        "end": 3521806,
+        "strand": "+",
+        "gene_name": "dscD-2",
+        "anatomy_term": "prestalk region of the tipped mound",
+        "protein": true,
+        "rna": false
+      }
+    },
+    {
+      "type": "genes",
+      "id": "DDB_G0292552",
+      "attributes": {
+        "block_id": "DDB0232433",
+        "start": 1899844,
+        "end": 1900755,
+        "strand": "-",
+        "gene_name": "dscE",
+        "anatomy_term": "mound",
+        "protein": true,
+        "rna": false
+      }
+    },
+    {
+      "type": "genes",
+      "id": "DDB_G0292552",
+      "attributes": {
+        "block_id": "DDB0232433",
+        "start": 1899844,
+        "end": 1900755,
+        "strand": "-",
+        "gene_name": "dscE",
+        "anatomy_term": "tipped mound",
+        "protein": true,
+        "rna": false
+      }
+    },
+    {
+      "type": "genes",
+      "id": "DDB_G0278495",
+      "attributes": {
+        "block_id": "DDB0232430",
+        "start": 968065,
+        "end": 969744,
+        "strand": "-",
+        "gene_name": "alp",
+        "anatomy_term": "loose aggregate",
+        "protein": true,
+        "rna": true
+      }
+    },
+    {
+      "type": "genes",
+      "id": "DDB_G0276287",
+      "attributes": {
+        "block_id": "DDB0232429",
+        "start": 6577116,
+        "end": 6578232,
+        "strand": "-",
+        "gene_name": "expl3",
+        "anatomy_term": "prestalk region of the tipped mound",
+        "protein": false,
+        "rna": true
+      }
+    },
+    {
+      "type": "genes",
+      "id": "DDB_G0276761",
+      "attributes": {
+        "block_id": "DDB0232429",
+        "start": 7194376,
+        "end": 7196288,
+        "strand": "+",
+        "gene_name": "cotB",
+        "anatomy_term": "prespore region of the tipped mound",
+        "protein": false,
+        "rna": true
+      }
+    },
+    {
+      "type": "genes",
+      "id": "DDB_G0277853",
+      "attributes": {
+        "block_id": "DDB0232430",
+        "start": 558488,
+        "end": 563918,
+        "strand": "+",
+        "gene_name": "ecmA",
+        "anatomy_term": "prestalk region of the tipped mound",
+        "protein": false,
+        "rna": true
+      }
+    },
+    {
+      "type": "genes",
+      "id": "DDB_G0269132",
+      "attributes": {
+        "block_id": "DDB0232428",
+        "start": 4826715,
+        "end": 4830122,
+        "strand": "-",
+        "gene_name": "ecmB",
+        "anatomy_term": "prestalk AB core region of the tipped mound",
+        "protein": false,
+        "rna": true
+      }
+    },
+    {
+      "type": "genes",
+      "id": "DDB_G0273397",
+      "attributes": {
+        "block_id": "DDB0232429",
+        "start": 2964374,
+        "end": 2965695,
+        "strand": "-",
+        "gene_name": "carA-1",
+        "anatomy_term": "mound",
+        "protein": false,
+        "rna": true
+      }
+    },
+    {
+      "type": "genes",
+      "id": "DDB_G0273533",
+      "attributes": {
+        "block_id": "DDB0232429",
+        "start": 3066091,
+        "end": 3067412,
+        "strand": "+",
+        "gene_name": "carA-2",
+        "anatomy_term": "mound",
+        "protein": false,
+        "rna": true
+      }
+    },
+    {
+      "type": "genes",
+      "id": "DDB_G0277829",
+      "attributes": {
+        "block_id": "DDB0232430",
+        "start": 504442,
+        "end": 506079,
+        "strand": "+",
+        "gene_name": "carC",
+        "anatomy_term": "mound",
+        "protein": true,
+        "rna": false
+      }
+    },
+    {
+      "type": "genes",
+      "id": "DDB_G0285995",
+      "attributes": {
+        "block_id": "DDB0232431",
+        "start": 3929775,
+        "end": 3931286,
+        "strand": "-",
+        "gene_name": "pdsA",
+        "anatomy_term": "tipped mound",
+        "protein": false,
+        "rna": true
+      }
+    },
+    {
+      "type": "genes",
+      "id": "DDB_G0281561",
+      "attributes": {
+        "block_id": "DDB0232430",
+        "start": 4845968,
+        "end": 4848415,
+        "strand": "-",
+        "gene_name": "tipA",
+        "anatomy_term": "tipped mound",
+        "protein": true,
+        "rna": false
+      }
+    },
+    {
+      "type": "genes",
+      "id": "DDB_G0281545",
+      "attributes": {
+        "block_id": "DDB0232430",
+        "start": 4958602,
+        "end": 4963128,
+        "strand": "+",
+        "gene_name": "acaA",
+        "anatomy_term": " loose aggregate",
+        "protein": false,
+        "rna": true
+      }
+    },
+    {
+      "type": "genes",
+      "id": "DDB_G0281545",
+      "attributes": {
+        "block_id": "DDB0232430",
+        "start": 4958602,
+        "end": 4963128,
+        "strand": "+",
+        "gene_name": "acaA",
+        "anatomy_term": "loose aggregate",
+        "protein": false,
+        "rna": true
+      }
+    },
+    {
+      "type": "genes",
+      "id": "DDB_G0281545",
+      "attributes": {
+        "block_id": "DDB0232430",
+        "start": 4958602,
+        "end": 4963128,
+        "strand": "+",
+        "gene_name": "acaA",
+        "anatomy_term": "prespore region of the tipped mound",
+        "protein": false,
+        "rna": true
+      }
+    },
+    {
+      "type": "genes",
+      "id": "DDB_G0292996",
+      "attributes": {
+        "block_id": "DDB0232433",
+        "start": 2530991,
+        "end": 2531851,
+        "strand": "-",
+        "gene_name": "rasD",
+        "anatomy_term": "loose aggregate",
+        "protein": false,
+        "rna": true
+      }
+    },
+    {
+      "type": "genes",
+      "id": "DDB_G0292996",
+      "attributes": {
+        "block_id": "DDB0232433",
+        "start": 2530991,
+        "end": 2531851,
+        "strand": "-",
+        "gene_name": "rasD",
+        "anatomy_term": "tipped mound",
+        "protein": false,
+        "rna": true
+      }
+    },
+    {
+      "type": "genes",
+      "id": "DDB_G0292436",
+      "attributes": {
+        "block_id": "DDB0232433",
+        "start": 1620628,
+        "end": 1623121,
+        "strand": "-",
+        "gene_name": "triA",
+        "anatomy_term": "prespore region of the tipped mound",
+        "protein": false,
+        "rna": true
+      }
+    },
+    {
+      "type": "genes",
+      "id": "DDB_G0268618",
+      "attributes": {
+        "block_id": "DDB0232428",
+        "start": 1957162,
+        "end": 1958072,
+        "strand": "-",
+        "gene_name": "pinA",
+        "anatomy_term": "prestalk region of the tipped mound",
+        "protein": false,
+        "rna": true
+      }
+    },
+    {
+      "type": "genes",
+      "id": "DDB_G0289967",
+      "attributes": {
+        "block_id": "DDB0232432",
+        "start": 3383269,
+        "end": 3385061,
+        "strand": "-",
+        "gene_name": "sir2D",
+        "anatomy_term": "mound",
+        "protein": false,
+        "rna": true
+      }
+    },
+    {
+      "type": "genes",
+      "id": "DDB_G0288147",
+      "attributes": {
+        "block_id": "DDB0232432",
+        "start": 1147360,
+        "end": 1151873,
+        "strand": "+",
+        "gene_name": "pkcA",
+        "anatomy_term": "tipped mound",
+        "protein": false,
+        "rna": true
+      }
+    },
+    {
+      "type": "genes",
+      "id": "DDB_G0277379",
+      "attributes": {
+        "block_id": "DDB0232429",
+        "start": 7932696,
+        "end": 7934913,
+        "strand": "-",
+        "gene_name": "pspD",
+        "anatomy_term": "prespore region of the tipped mound",
+        "protein": true,
+        "rna": false
+      }
+    },
+    {
+      "type": "genes",
+      "id": "DDB_G0281569",
+      "attributes": {
+        "block_id": "DDB0232430",
+        "start": 4934791,
+        "end": 4942180,
+        "strand": "-",
+        "gene_name": "tor",
+        "anatomy_term": "loose aggregate",
+        "protein": true,
+        "rna": true
+      }
+    },
+    {
+      "type": "genes",
+      "id": "DDB_G0281569",
+      "attributes": {
+        "block_id": "DDB0232430",
+        "start": 4934791,
+        "end": 4942180,
+        "strand": "-",
+        "gene_name": "tor",
+        "anatomy_term": "prestalk region of the tipped mound",
+        "protein": true,
+        "rna": true
+      }
+    },
+    {
+      "type": "genes",
+      "id": "DDB_G0277905",
+      "attributes": {
+        "block_id": "DDB0232430",
+        "start": 589784,
+        "end": 592434,
+        "strand": "+",
+        "gene_name": "snfA",
+        "anatomy_term": "tip-organizer of the tipped mound",
+        "protein": false,
+        "rna": true
+      }
+    },
+    {
+      "type": "genes",
+      "id": "DDB_G0284253",
+      "attributes": {
+        "block_id": "DDB0232431",
+        "start": 1758153,
+        "end": 1759359,
+        "strand": "-",
+        "gene_name": "ei24",
+        "anatomy_term": "mound",
+        "protein": false,
+        "rna": true
+      }
+    },
+    {
+      "type": "genes",
+      "id": "DDB_G0284253",
+      "attributes": {
+        "block_id": "DDB0232431",
+        "start": 1758153,
+        "end": 1759359,
+        "strand": "-",
+        "gene_name": "ei24",
+        "anatomy_term": "prestalk region of the tipped mound",
+        "protein": false,
+        "rna": true
+      }
+    },
+    {
+      "type": "genes",
+      "id": "DDB_G0283917",
+      "attributes": {
+        "block_id": "DDB0232431",
+        "start": 1272110,
+        "end": 1273864,
+        "strand": "+",
+        "gene_name": "sir2A",
+        "anatomy_term": "loose aggregate",
+        "protein": false,
+        "rna": true
+      }
+    },
+    {
+      "type": "genes",
+      "id": "DDB_G0277141",
+      "attributes": {
+        "block_id": "DDB0232429",
+        "start": 7902745,
+        "end": 7904138,
+        "strand": "-",
+        "gene_name": "cotC",
+        "anatomy_term": "prespore region of the tipped mound",
+        "protein": false,
+        "rna": true
+      }
+    }
+  ]
+}

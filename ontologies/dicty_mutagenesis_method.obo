@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 26:04:2016 16:40
+date: 23:01:2019 15:08
 saved-by: Petra
 auto-generated-by: OBO-Edit 2.2
 default-namespace: Dd Mutagenesis Method
@@ -52,7 +52,7 @@ creation_date: 2016-03-16T12:47:09Z
 [Term]
 id: DDMUMET:0000007
 name: RNA mutagenesis
-is_a: DDMUMET:0000001 ! mutagenesis method
+is_a: DDMUMET:0000024 ! genomic mutagenesis
 created_by: Petra
 creation_date: 2016-03-16T12:48:24Z
 
@@ -67,7 +67,7 @@ creation_date: 2016-03-16T12:48:40Z
 [Term]
 id: DDMUMET:0000009
 name: genomic DNA insertion
-is_a: DDMUMET:0000001 ! mutagenesis method
+is_a: DDMUMET:0000024 ! genomic mutagenesis
 created_by: Petra
 creation_date: 2016-03-16T12:49:54Z
 
@@ -178,4 +178,21 @@ name: transposon mutagenesis
 is_a: DDMUMET:0000009 ! genomic DNA insertion
 created_by: Petra
 creation_date: 2016-04-26T16:39:07Z
+
+[Term]
+id: DDMUMET:0000024
+name: genomic mutagenesis
+is_a: DDMUMET:0000001 ! mutagenesis method
+created_by: Petra
+creation_date: 2019-01-23T14:24:01Z
+
+[Term]
+id: DDMUMET:0000025
+name: CRISPR/Cas9
+def: "Clustered  Regularly  Interspaced Short  Palindromic Repeats and CRISPR-ASsociated protein (Cas)." [DDB:pf]
+synonym: "CRISPR-Cas" RELATED []
+synonym: "CRSIPR-Cas9" EXACT []
+is_a: DDMUMET:0000024 ! genomic mutagenesis
+created_by: Petra
+creation_date: 2019-01-23T14:50:24Z
 

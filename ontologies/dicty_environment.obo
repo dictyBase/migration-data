@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 25:10:2017 17:03
+date: 29:03:2019 14:21
 saved-by: Petra
 auto-generated-by: OBO-Edit 2.2
 default-namespace: Dicty Environment
@@ -432,4 +432,19 @@ name: during growth with palmitic acid treatment
 is_a: DDENVIR:0000037 ! during vegetative growth
 created_by: Petra
 creation_date: 2017-10-25T16:57:19Z
+
+[Term]
+id: DDENVIR:0000074
+name: under atmospheric condition
+is_a: DDENVIR:0000001 ! environmental condition
+created_by: Petra
+creation_date: 2019-03-29T14:16:13Z
+
+[Term]
+id: DDENVIR:0000075
+name: in hypoxia
+synonym: "decreased oxygen level" EXACT []
+is_a: DDENVIR:0000074 ! under atmospheric condition
+created_by: Petra
+creation_date: 2019-03-29T14:16:54Z
 

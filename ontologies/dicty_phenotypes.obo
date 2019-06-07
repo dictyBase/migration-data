@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 12:07:2018 16:14
+date: 30:05:2019 09:47
 saved-by: Petra
 auto-generated-by: OBO-Edit 2.2
 default-namespace: Dicty Phenotypes
@@ -238,7 +238,7 @@ creation_date: 2014-01-24T13:54:53Z
 id: DDPHENO:0000031
 name: abolished rate of endocytosis
 def: "Complete inability for endocytosis." [DDB:pf]
-is_a: DDPHENO:0000090 ! aberrant endocytosis
+is_obsolete: true
 created_by: pfey
 creation_date: 2014-01-27T14:30:48Z
 
@@ -1945,7 +1945,7 @@ id: DDPHENO:0000261
 name: abolished prestalk cell differentiation in response to DIF-1
 def: "Complete inability for prestalk cell differentiation in response to DIF-1." [DDB:pg]
 synonym: "abolished pst cell differentiation in response to DIF-1" EXACT []
-is_a: DDPHENO:0000512 ! abolished prestalk cell differentiation
+is_obsolete: true
 
 [Term]
 id: DDPHENO:0000262
@@ -4098,6 +4098,22 @@ def: "Complete resistance to cheating when mixed with cheater cells." [DDB:pf]
 is_a: DDPHENO:0000579 ! aberrant sensitivity to cheating
 created_by: Petra
 creation_date: 2018-01-31T15:29:40Z
+
+[Term]
+id: DDPHENO:0000583
+name: aberrant mating type determination
+def: "Deviation from the normal, usual, or expected events when determining the mating type of a cell." [DDB:pf]
+is_a: DDPHENO:0001443 ! aberrant cell fate determination
+created_by: Petra
+creation_date: 2019-03-01T15:50:16Z
+
+[Term]
+id: DDPHENO:0000584
+name: abolished mating type determination
+def: "Complete inability for determining the mating type of a cell." [DDB:pf]
+is_a: DDPHENO:0000583 ! aberrant mating type determination
+created_by: Petra
+creation_date: 2019-03-01T15:53:27Z
 
 [Term]
 id: DDPHENO:0001001
