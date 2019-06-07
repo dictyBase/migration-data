@@ -1,7 +1,7 @@
 format-version: 1.2
-date: 07:06:2019 09:36
-saved-by: Petra
-auto-generated-by: OBO-Edit 2.2
+date: 07:06:2019 07:11
+saved-by: cybersiddhu
+auto-generated-by: OBO-Edit 2.3-beta5
 default-namespace: dicty_annotation
 
 [Term]
@@ -127,8 +127,8 @@ creation_date: 2019-06-07T09:29:41Z
 
 [Term]
 id: DDANNO:0000016
-name: PubMed ID
-def: "ID from PubMed citation." [DDB:pf]
+name: pubmed id
+def: "Identifier from PubMed citation." [DDB:pf]
 synonym: "PMID" EXACT []
 is_a: DDANNO:0000015 ! literature
 created_by: Petra
@@ -141,4 +141,12 @@ def: "Citation  by digital object identifier." [DDB:pf]
 is_a: DDANNO:0000015 ! literature
 created_by: Petra
 creation_date: 2019-06-07T09:32:55Z
+
+[Term]
+id: DDANNO:0000018
+name: genotype
+def: "The genetic constitution of an individual organism." []
+is_a: DDANNO:0000001 ! dictybase annotation
+created_by: cybersiddhu
+creation_date: 2019-06-07T07:08:26Z
 
