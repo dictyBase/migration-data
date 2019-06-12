@@ -1,7 +1,7 @@
 format-version: 1.2
-date: 07:06:2019 07:11
-saved-by: cybersiddhu
-auto-generated-by: OBO-Edit 2.3-beta5
+date: 12:06:2019 16:25
+saved-by: Petra
+auto-generated-by: OBO-Edit 2.2
 default-namespace: dicty_annotation
 
 [Term]
@@ -145,8 +145,32 @@ creation_date: 2019-06-07T09:32:55Z
 [Term]
 id: DDANNO:0000018
 name: genotype
-def: "The genetic constitution of an individual organism." []
+def: "The genetic constitution of an individual organism." [DDB:pf]
 is_a: DDANNO:0000001 ! dictybase annotation
 created_by: cybersiddhu
 creation_date: 2019-06-07T07:08:26Z
+
+[Term]
+id: DDANNO:0000019
+name: synonym
+def: "Synonym contains alternative names." [DDB:pf]
+is_a: DDANNO:0000004 ! name
+created_by: Petra
+creation_date: 2019-06-12T16:03:48Z
+
+[Term]
+id: DDANNO:0000020
+name: systematic name
+def: "Systematic name for a strain is either annotated from publication, or automatically added as DBS id." [DDB:pf]
+is_a: DDANNO:0000004 ! name
+created_by: Petra
+creation_date: 2019-06-12T16:12:35Z
+
+[Term]
+id: DDANNO:0000021
+name: strain descriptor
+def: "A curator defined name describing the strain." [DDB:pf]
+is_a: DDANNO:0000002 ! description
+created_by: Petra
+creation_date: 2019-06-12T16:24:07Z
 
