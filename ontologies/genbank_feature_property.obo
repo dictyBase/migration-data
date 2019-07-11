@@ -124,16 +124,6 @@ range_def: "(5'site:<value>, 3'site:<value>), where <value>  can be 'YES', 'NO' 
 comment: since the vast majority of splice sites conform to the  consensus, this qualifier should be used only when one  does not and the sequence has been checked; 'ABSENT'  can be used when one of the termini is not part of the  sequence and information on splice site is not  available.
 
 [Typedef]
-id: GENBANK_SOFP:country
-name: country
-is_a: SOFP:feature_property
-domain: SO:000110
-def: "Geographical origin of sequenced sample, intended for epidemiological or population studies." []
-range: xsd:string
-range_def: "'<country_value>[:<region>][, <locality>]' where  country_value is any value from the controlled vocabulary at  URL:http://www.ncbi.nlm.nih.gov/projects/collab/country.html " [] /country='France:Cote d'Azur, Antibes' /country='Atlantic Ocean:Charlie Gibbs Fracture Zone'
-comment: Intended to provide a reference to the site where the source organism was isolated or sampled. Regions and localities should be indicated where possible. Note that the physical geography  of the isolation or sampling site should be represented in /isolation_source. 
-
-[Typedef]
 id: GENBANK_SOFP:cultivar
 name: cultivar
 is_a: SOFP:feature_property
