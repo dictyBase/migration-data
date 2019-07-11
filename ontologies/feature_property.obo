@@ -112,6 +112,15 @@ range_def: "'experimental'"
 comment: same as GENBANK_SOFP:experimental??
 
 [Typedef]
+id: SOFP:linked_to
+name: linked_to
+namespace: feature_property
+is_a: SOFP:feature_property
+domain: SO:0000110
+range: xsd:string
+comment: someone please define.. to do with restriction fragments?
+
+[Typedef]
 id: SOFP:missing_start_codon
 name: missing_start_codon
 namespace: feature_property
