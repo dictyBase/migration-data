@@ -3,6 +3,7 @@ date: 26:01:2017 16:01
 saved-by: Petra
 auto-generated-by: OBO-Edit 2.2
 default-namespace: storage_conditions
+ontology: ddstorcon
 
 [Term]
 id: DDSTORCON:0000001

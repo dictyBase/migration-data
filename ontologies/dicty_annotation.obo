@@ -3,6 +3,7 @@ date: 12:06:2019 16:25
 saved-by: Petra
 auto-generated-by: OBO-Edit 2.2
 default-namespace: dicty_annotation
+ontology: ddanno
 
 [Term]
 id: DDANNO:0000001

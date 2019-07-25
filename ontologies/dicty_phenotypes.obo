@@ -3,6 +3,7 @@ date: 30:05:2019 09:47
 saved-by: Petra
 auto-generated-by: OBO-Edit 2.2
 default-namespace: Dicty Phenotypes
+ontology: ddpheno
 
 [Term]
 id: DDPHENO:0000001

@@ -3,6 +3,7 @@ date: 26:01:2017 17:07
 saved-by: Petra
 auto-generated-by: OBO-Edit 2.2
 default-namespace: strain_inventory
+ontology: straininvent
 
 [Term]
 id: STRAININVENT:0000001

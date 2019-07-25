@@ -3,6 +3,7 @@ date: 26:01:2017 16:57
 saved-by: Petra
 auto-generated-by: OBO-Edit 2.2
 default-namespace: plasmid_inventory
+ontology: plasmidinvent
 
 [Term]
 id: PLASMIDINVENT:0000001

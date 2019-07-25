@@ -3,6 +3,7 @@ date: 23:01:2019 15:08
 saved-by: Petra
 auto-generated-by: OBO-Edit 2.2
 default-namespace: Dd Mutagenesis Method
+ontology: ddmumet
 
 [Term]
 id: DDMUMET:0000001
