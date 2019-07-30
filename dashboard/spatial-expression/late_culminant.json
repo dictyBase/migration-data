@@ -1,0 +1,466 @@
+{
+    "data": [
+        {
+            "type": "genes",
+            "id": "DDB_G0290165",
+            "attributes": {
+                "block_id": "DDB0232432",
+                "start": 3726519,
+                "end": 3729302,
+                "strand": "-",
+                "gene_name": "bzpR",
+                "anatomy_term": "upper cup of the late culminant",
+                "protein": false,
+                "rna": true
+            }
+        },
+        {
+            "type": "genes",
+            "id": "DDB_G0268168",
+            "attributes": {
+                "block_id": "DDB0232428",
+                "start": 1591385,
+                "end": 1593342,
+                "strand": "-",
+                "gene_name": "png",
+                "anatomy_term": "basal disc of late culminant",
+                "protein": true,
+                "rna": true
+            }
+        },
+        {
+            "type": "genes",
+            "id": "DDB_G0269132",
+            "attributes": {
+                "block_id": "DDB0232428",
+                "start": 4826715,
+                "end": 4830122,
+                "strand": "-",
+                "gene_name": "ecmB",
+                "anatomy_term": "upper cup of the late culminant",
+                "protein": false,
+                "rna": true
+            }
+        },
+        {
+            "type": "genes",
+            "id": "DDB_G0269132",
+            "attributes": {
+                "block_id": "DDB0232428",
+                "start": 4826715,
+                "end": 4830122,
+                "strand": "-",
+                "gene_name": "ecmB",
+                "anatomy_term": "lower cup of the late culminant",
+                "protein": false,
+                "rna": true
+            }
+        },
+        {
+            "type": "genes",
+            "id": "DDB_G0273397",
+            "attributes": {
+                "block_id": "DDB0232429",
+                "start": 2964374,
+                "end": 2965695,
+                "strand": "-",
+                "gene_name": "carA-1",
+                "anatomy_term": "lower cup of the late culminant",
+                "protein": true,
+                "rna": false
+            }
+        },
+        {
+            "type": "genes",
+            "id": "DDB_G0273533",
+            "attributes": {
+                "block_id": "DDB0232429",
+                "start": 3066091,
+                "end": 3067412,
+                "strand": "+",
+                "gene_name": "carA-2",
+                "anatomy_term": "lower cup of the late culminant",
+                "protein": true,
+                "rna": false
+            }
+        },
+        {
+            "type": "genes",
+            "id": "DDB_G0273397",
+            "attributes": {
+                "block_id": "DDB0232429",
+                "start": 2964374,
+                "end": 2965695,
+                "strand": "-",
+                "gene_name": "carA-1",
+                "anatomy_term": "upper cup of the late culminant",
+                "protein": true,
+                "rna": false
+            }
+        },
+        {
+            "type": "genes",
+            "id": "DDB_G0273533",
+            "attributes": {
+                "block_id": "DDB0232429",
+                "start": 3066091,
+                "end": 3067412,
+                "strand": "+",
+                "gene_name": "carA-2",
+                "anatomy_term": "upper cup of the late culminant",
+                "protein": true,
+                "rna": false
+            }
+        },
+        {
+            "type": "genes",
+            "id": "DDB_G0273397",
+            "attributes": {
+                "block_id": "DDB0232429",
+                "start": 2964374,
+                "end": 2965695,
+                "strand": "-",
+                "gene_name": "carA-1",
+                "anatomy_term": "stalk of the late culminant",
+                "protein": true,
+                "rna": false
+            }
+        },
+        {
+            "type": "genes",
+            "id": "DDB_G0273533",
+            "attributes": {
+                "block_id": "DDB0232429",
+                "start": 3066091,
+                "end": 3067412,
+                "strand": "+",
+                "gene_name": "carA-2",
+                "anatomy_term": "stalk of the late culminant",
+                "protein": true,
+                "rna": false
+            }
+        },
+        {
+            "type": "genes",
+            "id": "DDB_G0277829",
+            "attributes": {
+                "block_id": "DDB0232430",
+                "start": 504442,
+                "end": 506079,
+                "strand": "+",
+                "gene_name": "carC",
+                "anatomy_term": "sorus of the late culminant",
+                "protein": true,
+                "rna": false
+            }
+        },
+        {
+            "type": "genes",
+            "id": "DDB_G0277829",
+            "attributes": {
+                "block_id": "DDB0232430",
+                "start": 504442,
+                "end": 506079,
+                "strand": "+",
+                "gene_name": "carC",
+                "anatomy_term": "stalk of the late culminant",
+                "protein": true,
+                "rna": false
+            }
+        },
+        {
+            "type": "genes",
+            "id": "DDB_G0285995",
+            "attributes": {
+                "block_id": "DDB0232431",
+                "start": 3929775,
+                "end": 3931286,
+                "strand": "-",
+                "gene_name": "pdsA",
+                "anatomy_term": "lower cup of the late culminant",
+                "protein": false,
+                "rna": true
+            }
+        },
+        {
+            "type": "genes",
+            "id": "DDB_G0285995",
+            "attributes": {
+                "block_id": "DDB0232431",
+                "start": 3929775,
+                "end": 3931286,
+                "strand": "-",
+                "gene_name": "pdsA",
+                "anatomy_term": "upper cup of the late culminant",
+                "protein": false,
+                "rna": true
+            }
+        },
+        {
+            "type": "genes",
+            "id": "DDB_G0289075",
+            "attributes": {
+                "block_id": "DDB0232432",
+                "start": 2352021,
+                "end": 2352950,
+                "strand": "-",
+                "gene_name": "spiA",
+                "anatomy_term": "sorus of the late culminant",
+                "protein": false,
+                "rna": true
+            }
+        },
+        {
+            "type": "genes",
+            "id": "DDB_G0281545",
+            "attributes": {
+                "block_id": "DDB0232430",
+                "start": 4958602,
+                "end": 4963128,
+                "strand": "+",
+                "gene_name": "acaA",
+                "anatomy_term": "late culminant",
+                "protein": false,
+                "rna": true
+            }
+        },
+        {
+            "type": "genes",
+            "id": "DDB_G0281545",
+            "attributes": {
+                "block_id": "DDB0232430",
+                "start": 4958602,
+                "end": 4963128,
+                "strand": "+",
+                "gene_name": "acaA",
+                "anatomy_term": "stalk of the late culminant",
+                "protein": false,
+                "rna": true
+            }
+        },
+        {
+            "type": "genes",
+            "id": "DDB_G0281569",
+            "attributes": {
+                "block_id": "DDB0232430",
+                "start": 4934791,
+                "end": 4942180,
+                "strand": "-",
+                "gene_name": "tor",
+                "anatomy_term": "upper cup",
+                "protein": true,
+                "rna": true
+            }
+        },
+        {
+            "type": "genes",
+            "id": "DDB_G0284469",
+            "attributes": {
+                "block_id": "DDB0232431",
+                "start": 2128349,
+                "end": 2129813,
+                "strand": "-",
+                "gene_name": "gpaH",
+                "anatomy_term": "upper cup",
+                "protein": false,
+                "rna": true
+            }
+        },
+        {
+            "type": "genes",
+            "id": "DDB_G0271196",
+            "attributes": {
+                "block_id": "DDB0232429",
+                "start": 306087,
+                "end": 306509,
+                "strand": "+",
+                "gene_name": "staC",
+                "anatomy_term": "upper cup",
+                "protein": false,
+                "rna": true
+            }
+        },
+        {
+            "type": "genes",
+            "id": "DDB_G0271196",
+            "attributes": {
+                "block_id": "DDB0232429",
+                "start": 306087,
+                "end": 306509,
+                "strand": "+",
+                "gene_name": "staC",
+                "anatomy_term": "lower cup",
+                "protein": false,
+                "rna": true
+            }
+        },
+        {
+            "type": "genes",
+            "id": "DDB_G0276063",
+            "attributes": {
+                "block_id": "DDB0232429",
+                "start": 6452850,
+                "end": 6453171,
+                "strand": "-",
+                "gene_name": "DDB_G0276063",
+                "anatomy_term": "upper cup",
+                "protein": false,
+                "rna": true
+            }
+        },
+        {
+            "type": "genes",
+            "id": "DDB_G0276063",
+            "attributes": {
+                "block_id": "DDB0232429",
+                "start": 6452850,
+                "end": 6453171,
+                "strand": "-",
+                "gene_name": "DDB_G0276063",
+                "anatomy_term": "lower cup",
+                "protein": false,
+                "rna": true
+            }
+        },
+        {
+            "type": "genes",
+            "id": "DDB_G0278537",
+            "attributes": {
+                "block_id": "DDB0232430",
+                "start": 1038088,
+                "end": 1038630,
+                "strand": "-",
+                "gene_name": "DDB_G0278537",
+                "anatomy_term": "upper cup",
+                "protein": false,
+                "rna": true
+            }
+        },
+        {
+            "type": "genes",
+            "id": "DDB_G0278537",
+            "attributes": {
+                "block_id": "DDB0232430",
+                "start": 1038088,
+                "end": 1038630,
+                "strand": "-",
+                "gene_name": "DDB_G0278537",
+                "anatomy_term": "lower cup",
+                "protein": false,
+                "rna": true
+            }
+        },
+        {
+            "type": "genes",
+            "id": "DDB_G0282455",
+            "attributes": {
+                "block_id": "DDB0232430",
+                "start": 5781008,
+                "end": 5781208,
+                "strand": "+",
+                "gene_name": "DDB_G0282455",
+                "anatomy_term": "upper cup",
+                "protein": false,
+                "rna": true
+            }
+        },
+        {
+            "type": "genes",
+            "id": "DDB_G0282455",
+            "attributes": {
+                "block_id": "DDB0232430",
+                "start": 5781008,
+                "end": 5781208,
+                "strand": "+",
+                "gene_name": "DDB_G0282455",
+                "anatomy_term": "lower cup",
+                "protein": false,
+                "rna": true
+            }
+        },
+        {
+            "type": "genes",
+            "id": "DDB_G0293854",
+            "attributes": {
+                "block_id": "DDB0232433",
+                "start": 3388739,
+                "end": 3389063,
+                "strand": "+",
+                "gene_name": "DDB_G0293854",
+                "anatomy_term": "upper cup",
+                "protein": false,
+                "rna": true
+            }
+        },
+        {
+            "type": "genes",
+            "id": "DDB_G0293854",
+            "attributes": {
+                "block_id": "DDB0232433",
+                "start": 3388739,
+                "end": 3389063,
+                "strand": "+",
+                "gene_name": "DDB_G0293854",
+                "anatomy_term": "lower cup",
+                "protein": false,
+                "rna": true
+            }
+        },
+        {
+            "type": "genes",
+            "id": "DDB_G0284253",
+            "attributes": {
+                "block_id": "DDB0232431",
+                "start": 1758153,
+                "end": 1759359,
+                "strand": "-",
+                "gene_name": "ei24",
+                "anatomy_term": "stalk tube of the late culminant",
+                "protein": false,
+                "rna": true
+            }
+        },
+        {
+            "type": "genes",
+            "id": "DDB_G0284253",
+            "attributes": {
+                "block_id": "DDB0232431",
+                "start": 1758153,
+                "end": 1759359,
+                "strand": "-",
+                "gene_name": "ei24",
+                "anatomy_term": "basal disc of the late culminant",
+                "protein": false,
+                "rna": true
+            }
+        },
+        {
+            "type": "genes",
+            "id": "DDB_G0283917",
+            "attributes": {
+                "block_id": "DDB0232431",
+                "start": 1272110,
+                "end": 1273864,
+                "strand": "+",
+                "gene_name": "sir2A",
+                "anatomy_term": "sorus of the late culminant",
+                "protein": false,
+                "rna": true
+            }
+        },
+        {
+            "type": "genes",
+            "id": "DDB_G0281109",
+            "attributes": {
+                "block_id": "DDB0232430",
+                "start": 4069177,
+                "end": 4070741,
+                "strand": "-",
+                "gene_name": "odc",
+                "anatomy_term": "upper cup of the late culminant",
+                "protein": true,
+                "rna": true
+            }
+        }
+    ]
+}
