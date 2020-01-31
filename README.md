@@ -1,13 +1,10 @@
-Migration-Data @dictyBase
+Migration-Data 
 ==============
-Data files required for migration
+[![License: CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/80x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)   
+![Commits](https://badgen.net/github/commits/dictyBase/migration-data/develop)
+![Last commit](https://badgen.net/github/last-commit/dictyBase/migration-data/develop)
+![GitHub repo size](https://img.shields.io/github/repo-size/dictyBase/migration-data?style=plastic)   
+[![Funding](https://badgen.net/badge/NIGMS/Rex%20L%20Chisholm,dictyBase/yellow?list=|)](https://projectreporter.nih.gov/project_info_description.cfm?aid=9476993)
+[![Funding](https://badgen.net/badge/NIGMS/Rex%20L%20Chisholm,DSC/yellow?list=|)](https://projectreporter.nih.gov/project_info_description.cfm?aid=9438930)
 
-| File | Description |
-| --- | --- |
-| annotations | Gene summaries & dictyBase GPI files |
-| plasmid/images/*.jpg | JPEG images for plasmid maps |
-| plasmid/plasmid_*.tsv | Exported plasmid data |
-| ontologies/*.obo | |
-| publications/dicty_refs_feb2012.bib | Old stockcenter references converted from EndNote format to BibTeX |
-| strain/DSC_phenotypes.tsv | Free-text strain-phenotypes mapped to phenotype ontology |
-| strain/strain_*.tsv | Exported strain data |
+Place to keep [dictyBase](http://dictybase.org) ontologies.
