@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 08:02:2017 18:00
+date: 11:05:2020 18:41
 saved-by: Petra
 auto-generated-by: OBO-Edit 2.2
 default-namespace: Dictyostelium Assay
@@ -364,8 +364,8 @@ creation_date: 2014-11-13T15:35:03Z
 
 [Term]
 id: DDASSAY:0000067
-name: early development in buffer
-is_a: DDASSAY:0000066 ! fruiting body development
+name: early development  submerged
+is_a: DDASSAY:0000085 ! development submerged
 created_by: pfey
 creation_date: 2014-11-13T15:38:36Z
 
@@ -477,4 +477,25 @@ name: time-lapse microscopy
 is_a: DDASSAY:0000061 ! microscopy
 created_by: Petra
 creation_date: 2017-02-08T17:59:31Z
+
+[Term]
+id: DDASSAY:0000083
+name: ion measurement
+is_a: DDASSAY:0000003 ! biochemical assay
+created_by: Petra
+creation_date: 2020-05-11T18:35:44Z
+
+[Term]
+id: DDASSAY:0000084
+name:  propidium iodide staining
+is_a: DDASSAY:0000029 ! staining
+created_by: Petra
+creation_date: 2020-05-11T18:36:16Z
+
+[Term]
+id: DDASSAY:0000085
+name: development submerged
+is_a: DDASSAY:0000066 ! fruiting body development
+created_by: Petra
+creation_date: 2020-05-11T18:40:14Z
 
