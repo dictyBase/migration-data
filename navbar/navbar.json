@@ -111,6 +111,14 @@
             "link": "/stockcenter"
           },
           {
+            "label": "Strain Catalog",
+            "link": "/stockcenter/strains"
+          },
+          {
+            "label": "Plasmid Catalog",
+            "link": "/stockcenter/plasmids"
+          },
+          {
             "label": "Order Information",
             "link": "/stockcenter/information/order"
           },
