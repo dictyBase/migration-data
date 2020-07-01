@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 30:07:2019 11:17
+date: 01:07:2020 16:45
 saved-by: Petra
 auto-generated-by: OBO-Edit 2.2
 default-namespace: Dictyostelium_discoideum_anatomy
@@ -949,6 +949,15 @@ synonym: "tip" RELATED []
 is_a: DDANAT:0010085 ! subdivision
 
 [Term]
+id: DDANAT:0000112
+name: spore coat
+def: "A tri-layer protective wall around each spore, consisting of  secreted proteins, a polysaccharide, and cellulose produced on the cell surface." [DDB:pf, PMID:12503851, PMID:2096020]
+synonym: "spore wall" RELATED []
+relationship: part_of DDANAT:0000414 ! spore
+created_by: Petra
+creation_date: 2020-07-01T16:29:15Z
+
+[Term]
 id: DDANAT:0000401
 name: cell
 def: "Anatomical structure that has as its parts a maximally connected cell compartment surrounded by a plasma membrane." [CARO:MAH]
@@ -1038,7 +1047,7 @@ relationship: part_of DDANAT:0000100 ! prestalk A region of the tipped mound
 id: DDANAT:0000409
 name: rearguard cell
 def: "Cell expressing ecmB but not ecmA. Rearguard cells are located at the very rear of the slug (rearguard region). These cells form the outer basal disc of the fruiting body. If a migratory slug is formed, these cells are left behind." [DDB:pg, PMID:8631253]
-synonym: "prestalk B cell" EXACT []
+synonym: "prestalk B cell" RELATED []
 synonym: "pstB cell" RELATED []
 is_a: DDANAT:0000404 ! anterior like cell
 relationship: part_of DDANAT:0000025 ! basal region of the standing slug
