@@ -1181,9 +1181,10 @@ is_a: DDANAT:0010001 ! Dictyostelium discoideum anatomical structure
 [Typedef]
 id: develops_from
 name: develops_from
+xref: RO:0002202
 
 [Typedef]
 id: part_of
 name: part of
 is_transitive: true
-
+xref: BFO:0000050
