@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 06:07:2020 18:22
+date: 07:07:2020 10:42
 saved-by: Petra
 auto-generated-by: OBO-Edit 2.2
 default-namespace: Dicty Phenotypes
@@ -2924,7 +2924,7 @@ is_a: DDPHENO:0001014 ! aberrant slug formation
 id: DDPHENO:0000388
 name: abolished vacuolation
 def: "Complete inability for vacuolation." [DDB:pg]
-is_a: DDPHENO:0001278 ! aberrant vacuolation
+is_obsolete: true
 
 [Term]
 id: DDPHENO:0000389
@@ -3565,7 +3565,7 @@ is_a: DDPHENO:0001041 ! aberrant vacuole organization and biogenesis
 id: DDPHENO:0000498
 name: abolished autophagic vacuole formation
 def: "Complete inability to form autophagic vacuoles." [DDB:pg]
-is_a: DDPHENO:0000388 ! abolished vacuolation
+is_a: DDPHENO:0001041 ! aberrant vacuole organization and biogenesis
 
 [Term]
 id: DDPHENO:0000499
@@ -3576,7 +3576,7 @@ is_a: DDPHENO:0000187 ! aberrant cell-substrate adhesion
 
 [Term]
 id: DDPHENO:0000500
-name: small pinosomes
+name: decreased pinosome size
 def: "Decreased size of pinosomes." [DDB:pf]
 is_a: DDPHENO:0001007 ! aberrant pinocytosis
 
@@ -4278,6 +4278,22 @@ def: "Early onset or faster progression through contractile vacuole discharge." 
 is_a: DDPHENO:0000034 ! aberrant contractile vacuole discharge
 created_by: Petra
 creation_date: 2020-07-06T13:55:30Z
+
+[Term]
+id: DDPHENO:0000598
+name: decreased number of post-lysosomal vacuoles
+def: "Quantitative reduction of post-lysosomes." [DDB:pf]
+is_a: DDPHENO:0001238 ! aberrant post-lysosomal vacuole organization and biogenesis
+created_by: Petra
+creation_date: 2020-07-07T09:24:23Z
+
+[Term]
+id: DDPHENO:0000599
+name: decreased post-lysosomal vacuole size
+def: "Decrease in relative or proportionate dimensions of the  post-lysosomal vacuole." [DDB:pf]
+is_a: DDPHENO:0001238 ! aberrant post-lysosomal vacuole organization and biogenesis
+created_by: Petra
+creation_date: 2020-07-07T09:28:21Z
 
 [Term]
 id: DDPHENO:0001001
@@ -5563,7 +5579,7 @@ id: DDPHENO:0001192
 name: decreased number of autophagosomes
 def: "Quantitative reduction in autophagosomes." [DDB:pf]
 synonym: "decreased number of autophagic vacuoles" EXACT []
-is_a: DDPHENO:0001041 ! aberrant vacuole organization and biogenesis
+is_a: DDPHENO:0001279 ! decreased autophagic vacuole formation
 
 [Term]
 id: DDPHENO:0001193
@@ -5876,8 +5892,8 @@ is_a: DDPHENO:0001043 ! aberrant organelle organization and biogenesis
 
 [Term]
 id: DDPHENO:0001238
-name: aberrant post-lysosome organization and biogenesis
-def: "Deviation from the normal, usual, or expected events during post-lysosome organization and biogenesis." [DDB:pg]
+name: aberrant post-lysosomal vacuole organization and biogenesis
+def: "Deviation from the normal, usual, or expected events during post-lysosomal vacuole organization and biogenesis." [DDB:pf]
 synonym: "aberrant lysosome maturation" RELATED []
 is_a: DDPHENO:0001237 ! aberrant lysosome organization and biogenesis
 
@@ -6128,15 +6144,15 @@ is_a: DDPHENO:0001275 ! aberrant engulfment during phagocytosis
 
 [Term]
 id: DDPHENO:0001278
-name: aberrant vacuolation
-def: "Deviation from the normal, usual, or expected events during vacuolation." [DDB:pf]
-is_a: DDPHENO:0001002 ! aberrant organelle morphology
+name: obsolete aberrant vacuolation
+def: "Obsolete: Deviation from the normal, usual, or expected events during vacuolation." [DDB:pf]
+is_obsolete: true
 
 [Term]
 id: DDPHENO:0001279
 name: decreased autophagic vacuole formation
 def: "Reduction in extent, amount, or degree of autophagic vacuole formation." [DDB:pf]
-is_a: DDPHENO:0001278 ! aberrant vacuolation
+is_a: DDPHENO:0001041 ! aberrant vacuole organization and biogenesis
 
 [Term]
 id: DDPHENO:0001280
