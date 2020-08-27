@@ -1,0 +1,1 @@
+When we receive large plasmid submissions that are too cumbersome to add one by one to the database, we submit them as bulk. we ask the user who submits to fill a standard table with all fields required.
