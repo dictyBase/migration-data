@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 26:01:2017 17:07
+date: 02:10:2020 18:24
 saved-by: Petra
 auto-generated-by: OBO-Edit 2.2
 default-namespace: strain_inventory
@@ -36,7 +36,7 @@ is_a: STRAININVENT:0000001 ! strain_inventory
 
 [Term]
 id: STRAININVENT:0000006
-name: obtained as
+name: obsolete obtained as
 def: "Conditions that the strain is obtained in at the stock center." [DDB:pf]
 is_obsolete: true
 
