@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 23:01:2018 13:57
+date: 02:10:2020 18:29
 saved-by: Petra
 auto-generated-by: OBO-Edit 2.2
 default-namespace: dictyBase_literature_topic
@@ -141,7 +141,7 @@ creation_date: 2010-04-12T03:26:06Z
 
 [Term]
 id: DDLIT:0000017
-name: Not yet curated
+name: obsolete Not yet curated
 is_obsolete: true
 created_by: sid
 creation_date: 2010-04-12T03:26:42Z
