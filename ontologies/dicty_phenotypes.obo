@@ -4688,7 +4688,7 @@ creation_date: 2020-11-05T20:36:38Z
 id: DDPHENO:0000684
 name: abolished vacuole organization
 def: "Complete inability to form a functional vacuole." [DDB:pf]
-synonym: " abolished vacuolation" RELATED []
+synonym: "abolished vacuolation" RELATED []
 synonym: "abolished vacuolar assembly" NARROW []
 synonym: "abolished vacuole formation" EXACT []
 is_a: DDPHENO:0001041 ! aberrant vacuole organization
