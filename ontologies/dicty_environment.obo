@@ -1,6 +1,6 @@
 format-version: 1.2
-date: 29:03:2019 14:21
-saved-by: Petra
+date: 08:12:2020 17:37
+saved-by: pfey
 auto-generated-by: OBO-Edit 2.2
 default-namespace: Dicty Environment
 ontology: ddenvir
@@ -77,7 +77,7 @@ is_a: DDENVIR:0000054 ! in the presence of biotic or abiotic stimulus
 
 [Term]
 id: DDENVIR:0000016
-name: cAMP stimulation
+name: during cAMP stimulation
 synonym: "cyclic AMP stimulation" EXACT []
 is_a: DDENVIR:0000052 ! during the life cycle
 
@@ -227,9 +227,9 @@ is_a: DDENVIR:0000054 ! in the presence of biotic or abiotic stimulus
 
 [Term]
 id: DDENVIR:0000045
-name: in the presence of Ca2+
+name: in the presence of calcium
 alt_id: DDENVIR:0000011
-synonym: "in the presence of calcium" EXACT []
+synonym: "in the presence of Ca2+" EXACT []
 synonym: "in the presence of high Ca2+" NARROW []
 synonym: "in the presence of high calcium" NARROW []
 is_a: DDENVIR:0000054 ! in the presence of biotic or abiotic stimulus
@@ -252,7 +252,7 @@ creation_date: 2013-08-28T10:29:36Z
 
 [Term]
 id: DDENVIR:0000049
-name: folate stimulation
+name: during folate stimulation
 is_a: DDENVIR:0000052 ! during the life cycle
 created_by: pfey
 creation_date: 2013-12-16T16:49:54Z
@@ -448,4 +448,12 @@ synonym: "decreased oxygen level" EXACT []
 is_a: DDENVIR:0000074 ! under atmospheric condition
 created_by: Petra
 creation_date: 2019-03-29T14:16:54Z
+
+[Term]
+id: DDENVIR:0000076
+name: in the presence of potassium
+synonym: "in the presence of K+" EXACT []
+is_a: DDENVIR:0000054 ! in the presence of biotic or abiotic stimulus
+created_by: pfey
+creation_date: 2020-12-08T17:35:50Z
 
