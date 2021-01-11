@@ -96,6 +96,10 @@
           {
             "label": "Phenotyping",
             "link": "/research/phenotype"
+          },
+          {
+            "label": "Axenic Strain History",
+            "link": "/research/strain-history"
           }
         ]
       }
