@@ -1,0 +1,94 @@
+format-version: 1.2
+date: 01:02:2021 11:33
+saved-by: pfey
+auto-generated-by: OBO-Edit 2.2
+default-namespace: Dicty Developmental Stages
+
+[Term]
+id: DDDEV:0000001
+name: developmental stage
+def: "Any developmental stage during Dictyostelium discoideum development." [DDB:pf]
+creation_date: 2021-02-01T10:13:52Z
+
+[Term]
+id: DDDEV:0000002
+name: mound stage
+def: "Post aggregative cells forming a mound during Dictyostelium development." [DDB:pf]
+synonym: "aggregate stage" EXACT []
+synonym: "tight mound stage" NARROW []
+is_a: DDDEV:0000001 ! developmental stage
+created_by: pfey
+creation_date: 2021-02-01T10:16:33Z
+
+[Term]
+id: DDDEV:0000003
+name: loose mound stage
+def: "Adherent cell mass early during Dictyostelium development." [DDB:pf]
+synonym: "loose aggregate stage" EXACT []
+is_a: DDDEV:0000002 ! mound stage
+created_by: pfey
+creation_date: 2021-02-01T10:19:48Z
+
+[Term]
+id: DDDEV:0000004
+name: tipped mound stage
+def: "Aggregated cells that undergo development and form a tip." [DDB:pf]
+synonym: "tipped aggregate stage" EXACT []
+is_a: DDDEV:0000001 ! developmental stage
+created_by: pfey
+creation_date: 2021-02-01T10:53:59Z
+
+[Term]
+id: DDDEV:0000005
+name: standing slug stage
+def: "Structure formed by elongation of the mound under the control of the tip." [DDB:pf]
+synonym: "finger stage" EXACT []
+is_a: DDDEV:0000001 ! developmental stage
+created_by: pfey
+creation_date: 2021-02-01T10:57:03Z
+
+[Term]
+id: DDDEV:0000006
+name: slug stage
+def: "In sub-optimal conditions for development, the standing slug bends over and migrates towards more favorable environmental conditions." [DDB:pf]
+synonym: "migratory slug stage" EXACT []
+is_a: DDDEV:0000001 ! developmental stage
+created_by: pfey
+creation_date: 2021-02-01T11:00:23Z
+
+[Term]
+id: DDDEV:0000007
+name: early culminant stage
+def: "Structure after standing slug or slug migration when the cell mass moves under the tip, when the stalk tube starts forming." [DDB:pf]
+synonym: "mexican hat stage" NARROW []
+is_a: DDDEV:0000001 ! developmental stage
+created_by: pfey
+creation_date: 2021-02-01T11:13:28Z
+
+[Term]
+id: DDDEV:0000008
+name: mid culminant stage
+def: "Structure in which stalk tube formation has progressed and lifts the prespore mass off the ground." [DDB:pf]
+synonym: "culminant stage" BROAD []
+is_a: DDDEV:0000001 ! developmental stage
+created_by: pfey
+creation_date: 2021-02-01T11:19:54Z
+
+[Term]
+id: DDDEV:0000009
+name: late culminant stage
+def: "Structure in which stalk tube formation has progressed and the sorogen ascends, stalk vacuolization and spore differentiation begins." [DDB:pf]
+synonym: "culminant stage" BROAD []
+is_a: DDDEV:0000001 ! developmental stage
+created_by: pfey
+creation_date: 2021-02-01T11:23:33Z
+
+[Term]
+id: DDDEV:0000010
+name: fruiting body
+def: "End of asexual development,  terminally differentiated consisting of a long stalk on top of which sits the sorus containing spores, measuring 1.5-3 mm in height." [DDB:pf]
+synonym: "sorocarp" EXACT []
+is_a: DDDEV:0000001 ! developmental stage
+created_by: pfey
+creation_date: 2021-02-01T11:28:10Z
+
