@@ -1,0 +1,695 @@
+format-version: 1.2
+date: 25:02:2021 19:11
+saved-by: pfey
+auto-generated-by: OBO-Edit 2.2
+
+[Term]
+id: DDSTRAIN:0000001
+name: strain property
+def: "Strain with any property." [DDB:pf]
+created_by: pfey
+creation_date: 2021-02-25T11:16:03Z
+
+[Term]
+id: DDSTRAIN:0000002
+name: axenic
+def: "A strain that grows axenically." [DDB:pf]
+is_a: DDSTRAIN:0000001 ! strain property
+created_by: pfey
+creation_date: 2021-02-25T11:18:49Z
+
+[Term]
+id: DDSTRAIN:0000003
+name: blasticidin resistant
+def: "A blasticidin resistant strain." [DDB:pf]
+synonym: "bsR" EXACT []
+is_a: DDSTRAIN:0000006 ! drug resistant
+created_by: pfey
+creation_date: 2021-02-25T11:20:07Z
+
+[Term]
+id: DDSTRAIN:0000004
+name: hygromycin resistant
+def: "A hygromycin resistant strain." [DDB:pf]
+synonym: "hygR" EXACT []
+is_a: DDSTRAIN:0000006 ! drug resistant
+created_by: pfey
+creation_date: 2021-02-25T11:21:21Z
+
+[Term]
+id: DDSTRAIN:0000005
+name: neomycin resistant
+def: "A neomycin resistant strain." [DDB:pf]
+synonym: "neoR" EXACT []
+is_a: DDSTRAIN:0000006 ! drug resistant
+created_by: pfey
+creation_date: 2021-02-25T11:22:22Z
+
+[Term]
+id: DDSTRAIN:0000006
+name: drug resistant
+def: "A drug resistant strain." [DDB:pf]
+is_a: DDSTRAIN:0000001 ! strain property
+created_by: pfey
+creation_date: 2021-02-25T11:29:34Z
+
+[Term]
+id: DDSTRAIN:0000007
+name: null mutant
+def: "A  knockout mutant of a distinctive gene." [DDB:pf]
+is_a: DDSTRAIN:0000011 ! mutant
+created_by: pfey
+creation_date: 2021-02-25T11:30:49Z
+
+[Term]
+id: DDSTRAIN:0000008
+name: multiple null mutant
+def: "A  knockout mutant with more than one gene deleted." [DDB:pf]
+is_a: DDSTRAIN:0000007 ! null mutant
+is_a: DDSTRAIN:0000041 ! multiple mutant
+created_by: pfey
+creation_date: 2021-02-25T11:33:09Z
+
+[Term]
+id: DDSTRAIN:0000009
+name: overexpressor
+def: "A strain overexpressing an entity." [DDB:pf]
+is_a: DDSTRAIN:0000011 ! mutant
+created_by: pfey
+creation_date: 2021-02-25T11:35:07Z
+
+[Term]
+id: DDSTRAIN:0000010
+name: suppressor
+def: "A suppressor mutant." [DDB:pf]
+is_a: DDSTRAIN:0000011 ! mutant
+created_by: pfey
+creation_date: 2021-02-25T11:36:32Z
+
+[Term]
+id: DDSTRAIN:0000011
+name: mutant
+def: "Strain with any mutation." [DDB:pf]
+is_a: DDSTRAIN:0000001 ! strain property
+created_by: pfey
+creation_date: 2021-02-25T11:51:47Z
+
+[Term]
+id: DDSTRAIN:0000012
+name: constitutively active mutant
+def: "Ligand independent activity or gain of function mutation." [DDB:pf]
+is_a: DDSTRAIN:0000011 ! mutant
+created_by: pfey
+creation_date: 2021-02-25T11:56:53Z
+
+[Term]
+id: DDSTRAIN:0000013
+name: dominant negative mutant
+def: "A gene mutation adversely affecting the wild-type gene." [DDB:pf]
+is_a: DDSTRAIN:0000011 ! mutant
+created_by: pfey
+creation_date: 2021-02-25T12:00:01Z
+
+[Term]
+id: DDSTRAIN:0000014
+name: temperature sensitive mutant
+def: "A mutation that renders the strain more temperature sensitive." [DDB:pf]
+is_a: DDSTRAIN:0000011 ! mutant
+created_by: pfey
+creation_date: 2021-02-25T12:05:00Z
+
+[Term]
+id: DDSTRAIN:0000015
+name: natural isolate
+def: "A strain typically isolated from nature and not genetically altered." [DDB:pf]
+is_a: DDSTRAIN:0000001 ! strain property
+created_by: pfey
+creation_date: 2021-02-25T12:05:59Z
+
+[Term]
+id: DDSTRAIN:0000016
+name: uracil auxotroph
+def: "A strain that cannot produce uracil." [DDB:pf]
+is_a: DDSTRAIN:0000001 ! strain property
+created_by: pfey
+creation_date: 2021-02-25T12:07:44Z
+
+[Term]
+id: DDSTRAIN:0000017
+name: thymidine auxotroph
+def: "A strain that cannot produce thymidine." [DDB:pf]
+is_a: DDSTRAIN:0000001 ! strain property
+created_by: pfey
+creation_date: 2021-02-25T12:08:26Z
+
+[Term]
+id: DDSTRAIN:0000018
+name: RFP marked
+def: "A strain expressing RFP." [DDB:pf]
+is_a: DDSTRAIN:0000053 ! marked
+created_by: pfey
+creation_date: 2021-02-25T12:11:05Z
+
+[Term]
+id: DDSTRAIN:0000019
+name: GFP marked
+def: "A strain expressing GFP." [DDB:pf]
+is_a: DDSTRAIN:0000053 ! marked
+created_by: pfey
+creation_date: 2021-02-25T12:11:42Z
+
+[Term]
+id: DDSTRAIN:0000020
+name: YFP marked
+def: "A strain expressing YFP." [DDB:pf]
+is_a: DDSTRAIN:0000053 ! marked
+created_by: pfey
+creation_date: 2021-02-25T12:12:37Z
+
+[Term]
+id: DDSTRAIN:0000021
+name: LacZ marked
+def: "A strain expressing LacZ." [DDB:pf]
+is_a: DDSTRAIN:0000053 ! marked
+created_by: pfey
+creation_date: 2021-02-25T12:13:55Z
+
+[Term]
+id: DDSTRAIN:0000022
+name: His-tagged
+def: "A strain expressing a His tagged construct." [DDB:pf]
+is_a: DDSTRAIN:0000052 ! tagged
+created_by: pfey
+creation_date: 2021-02-25T12:16:19Z
+
+[Term]
+id: DDSTRAIN:0000023
+name: Myc-tagged
+def: "A strain expressing a Myc tagged construct." [DDB:pf]
+is_a: DDSTRAIN:0000052 ! tagged
+created_by: pfey
+creation_date: 2021-02-25T12:17:42Z
+
+[Term]
+id: DDSTRAIN:0000024
+name: HA tagged
+def: "A strain expressing a HA tagged construct." [DDB:pf]
+is_a: DDSTRAIN:0000052 ! tagged
+created_by: pfey
+creation_date: 2021-02-25T12:19:33Z
+
+[Term]
+id: DDSTRAIN:0000025
+name: rescued
+def: "A mutation phenotype that has been rescued by expressing the functional gene." [DDB:pf]
+is_a: DDSTRAIN:0000011 ! mutant
+created_by: pfey
+creation_date: 2021-02-25T12:20:33Z
+
+[Term]
+id: DDSTRAIN:0000026
+name: regulatable expressor
+def: "A gene expression that can be regulated." [DDB:pf]
+is_a: DDSTRAIN:0000011 ! mutant
+created_by: pfey
+creation_date: 2021-02-25T12:22:06Z
+
+[Term]
+id: DDSTRAIN:0000027
+name: CFP marked
+def: "A strain expressing CFP." [DDB:pf]
+is_a: DDSTRAIN:0000053 ! marked
+created_by: pfey
+creation_date: 2021-02-25T12:24:00Z
+
+[Term]
+id: DDSTRAIN:0000028
+name: mating type II
+def: "Dictyostelium sexual mating type II." [DDB:pf]
+is_a: DDSTRAIN:0000001 ! strain property
+created_by: pfey
+creation_date: 2021-02-25T14:34:09Z
+
+[Term]
+id: DDSTRAIN:0000029
+name: mating type III
+def: "Dictyostelium sexual mating type III." [DDB:pf]
+is_a: DDSTRAIN:0000001 ! strain property
+created_by: pfey
+creation_date: 2021-02-25T14:35:03Z
+
+[Term]
+id: DDSTRAIN:0000030
+name: mating type I
+def: "Dictyostelium sexual mating type I." [DDB:pf]
+is_a: DDSTRAIN:0000001 ! strain property
+created_by: pfey
+creation_date: 2021-02-25T14:36:33Z
+
+[Term]
+id: DDSTRAIN:0000031
+name: bacterial strain
+def: "A bacterial strain used for Dictyostelium research." [DDB:pf]
+is_a: DDSTRAIN:0000001 ! strain property
+created_by: pfey
+creation_date: 2021-02-25T14:39:01Z
+
+[Term]
+id: DDSTRAIN:0000032
+name: symbiotic farmer bacterium
+def: "Bacteria used by Dictyostelium during development." [DDB:pf]
+is_a: DDSTRAIN:0000031 ! bacterial strain
+created_by: pfey
+creation_date: 2021-02-25T14:39:45Z
+
+[Term]
+id: DDSTRAIN:0000033
+name: bacterial food source
+def: "Bacteria used to feed Dictyostelium amoeba." [DDB:pf]
+is_a: DDSTRAIN:0000031 ! bacterial strain
+created_by: pfey
+creation_date: 2021-02-25T14:41:27Z
+
+[Term]
+id: DDSTRAIN:0000034
+name: diploid
+def: "Diploid Dictyostelium strain." [DDB:pf]
+is_a: DDSTRAIN:0000001 ! strain property
+created_by: pfey
+creation_date: 2021-02-25T14:42:53Z
+
+[Term]
+id: DDSTRAIN:0000035
+name: homozygous diploid
+def: "The two copies of the genomic material are identical." [DDB:pf]
+is_a: DDSTRAIN:0000034 ! diploid
+created_by: pfey
+creation_date: 2021-02-25T14:44:43Z
+
+[Term]
+id: DDSTRAIN:0000036
+name: heterozygous diploid
+def: "The two copies of the genomic material are not identical." [DDB:pf]
+is_a: DDSTRAIN:0000034 ! diploid
+created_by: pfey
+creation_date: 2021-02-25T14:45:07Z
+
+[Term]
+id: DDSTRAIN:0000037
+name: T7-tagged
+def: "A strain expressing a T7 tagged construct." [DDB:pf]
+is_a: DDSTRAIN:0000052 ! tagged
+created_by: pfey
+creation_date: 2021-02-25T14:48:49Z
+
+[Term]
+id: DDSTRAIN:0000038
+name: non-axenic
+def: "A strain that cannot grow axenically." [DDB:pf]
+is_a: DDSTRAIN:0000001 ! strain property
+created_by: pfey
+creation_date: 2021-02-25T14:51:40Z
+
+[Term]
+id: DDSTRAIN:0000039
+name: 5-Fluoroorotic acid selection
+def: "Strain mutation/selection on 5-Fluoroorotic acid." [DDB:pf]
+synonym: "5-FOA selection" EXACT []
+is_a: DDSTRAIN:0000001 ! strain property
+created_by: pfey
+creation_date: 2021-02-25T14:52:58Z
+
+[Term]
+id: DDSTRAIN:0000040
+name: bleomycin resistant
+def: "A bleomycin resistant strain." [DDB:pf]
+synonym: "bleR" EXACT []
+is_a: DDSTRAIN:0000006 ! drug resistant
+created_by: pfey
+creation_date: 2021-02-25T14:58:53Z
+
+[Term]
+id: DDSTRAIN:0000041
+name: multiple mutant
+def: "A strain with multiple mutations." [DDB:pf]
+is_a: DDSTRAIN:0000011 ! mutant
+created_by: pfey
+creation_date: 2021-02-25T15:01:57Z
+
+[Term]
+id: DDSTRAIN:0000042
+name: FLAG-tagged
+def: "A strain expressing a FLAG tagged construct." [DDB:pf]
+is_a: DDSTRAIN:0000052 ! tagged
+created_by: pfey
+creation_date: 2021-02-25T15:04:37Z
+
+[Term]
+id: DDSTRAIN:0000043
+name: underexpressor
+def: "A strain underexpressing a genomic entity." [DDB:pf]
+is_a: DDSTRAIN:0000011 ! mutant
+created_by: pfey
+creation_date: 2021-02-25T15:06:44Z
+
+[Term]
+id: DDSTRAIN:0000044
+name: knock-in
+def: "Gene replacement mutant." [DDB:pf]
+is_a: DDSTRAIN:0000011 ! mutant
+created_by: pfey
+creation_date: 2021-02-25T15:08:55Z
+
+[Term]
+id: DDSTRAIN:0000045
+name: cre-lox mutant
+def: "Cre-Lox recombination is a site-specific recombinase technology, used in Dictyostelium to repeatedly use a selective drug." [DDB:pf]
+is_a: DDSTRAIN:0000011 ! mutant
+created_by: pfey
+creation_date: 2021-02-25T15:09:53Z
+
+[Term]
+id: DDSTRAIN:0000046
+name: cycloheximide resistant
+def: "A cycloheximide resistant strain." [DDB:pf]
+is_a: DDSTRAIN:0000006 ! drug resistant
+created_by: pfey
+creation_date: 2021-02-25T15:21:01Z
+
+[Term]
+id: DDSTRAIN:0000047
+name: phleomycin resistant
+def: "A phleomycin resistant strain." [DDB:pf]
+is_a: DDSTRAIN:0000006 ! drug resistant
+created_by: pfey
+creation_date: 2021-02-25T15:23:39Z
+
+[Term]
+id: DDSTRAIN:0000048
+name: beta-glucoronidase marked
+def: "A strain expressing beta-glucoronidase." [DDB:pf]
+is_a: DDSTRAIN:0000053 ! marked
+created_by: pfey
+creation_date: 2021-02-25T15:25:30Z
+
+[Term]
+id: DDSTRAIN:0000049
+name: TAP-tagged
+def: "A strain expressing a TAP tagged construct." [DDB:pf]
+is_a: DDSTRAIN:0000052 ! tagged
+created_by: pfey
+creation_date: 2021-02-25T15:27:12Z
+
+[Term]
+id: DDSTRAIN:0000050
+name: V5-tagged
+def: "A strain expressing a V5 tagged construct." [DDB:pf]
+is_a: DDSTRAIN:0000052 ! tagged
+created_by: pfey
+creation_date: 2021-02-25T15:27:52Z
+
+[Term]
+id: DDSTRAIN:0000051
+name: AEQ marked
+def: "A strain expressing apoaequorin." [DDB:pf]
+synonym: "apoaequorin marked" EXACT []
+is_a: DDSTRAIN:0000053 ! marked
+created_by: pfey
+creation_date: 2021-02-25T15:30:52Z
+
+[Term]
+id: DDSTRAIN:0000052
+name: tagged
+def: "A strain tagged with an entity." [DDB:pf]
+is_a: DDSTRAIN:0000001 ! strain property
+created_by: pfey
+creation_date: 2021-02-25T15:33:33Z
+
+[Term]
+id: DDSTRAIN:0000053
+name: marked
+def: "A strain expressing a marker." [DDB:pf]
+is_a: DDSTRAIN:0000001 ! strain property
+created_by: pfey
+creation_date: 2021-02-25T15:36:00Z
+
+[Term]
+id: DDSTRAIN:0000054
+name: endogenous mutation
+def: "Any mutation in the genomic sequence of a gene." [DDB:pf]
+is_a: DDSTRAIN:0000001 ! strain property
+created_by: pfey
+creation_date: 2021-02-25T15:42:30Z
+
+[Term]
+id: DDSTRAIN:0000055
+name: endogenous deletion
+def: "The removal of one or more nucleotides in a gene sequence." [DDB:pf]
+is_a: DDSTRAIN:0000054 ! endogenous mutation
+created_by: pfey
+creation_date: 2021-02-25T15:43:38Z
+
+[Term]
+id: DDSTRAIN:0000056
+name: genomic insertion
+def: "The addition of one or more nucleotides in the genomic sequence." [DDB:pf]
+is_a: DDSTRAIN:0000001 ! strain property
+created_by: pfey
+creation_date: 2021-02-25T17:25:38Z
+
+[Term]
+id: DDSTRAIN:0000057
+name: endogenous insertion
+def: "The addition of one or more nucleotides in a gene sequence." [DDB:pf]
+is_a: DDSTRAIN:0000054 ! endogenous mutation
+is_a: DDSTRAIN:0000056 ! genomic insertion
+created_by: pfey
+creation_date: 2021-02-25T17:26:35Z
+
+[Term]
+id: DDSTRAIN:0000058
+name: endogenous deletion with insertion
+def: "The removal of one or more nucleotides in a gene sequence with the simultaneous addition of one or more nucleotides of different origin in the gene sequence." [DDB:pf]
+is_a: DDSTRAIN:0000055 ! endogenous deletion
+is_a: DDSTRAIN:0000057 ! endogenous insertion
+created_by: pfey
+creation_date: 2021-02-25T17:28:00Z
+
+[Term]
+id: DDSTRAIN:0000059
+name: endogenous substitution
+def: "One or more mutations in the gene sequence resulting in the replacement of an equivalent number of residues in the gene product sequence. Substitution mutations can result in missense mutations, nonsense mutations or silent mutations." [DDB:pf]
+is_a: DDSTRAIN:0000054 ! endogenous mutation
+created_by: pfey
+creation_date: 2021-02-25T17:30:38Z
+
+[Term]
+id: DDSTRAIN:0000060
+name: exogenous mutation
+def: "Any gene expressed from an extrachromosomal plasmid or integrating randomly in the genome." [DDB:pf]
+is_a: DDSTRAIN:0000001 ! strain property
+created_by: pfey
+creation_date: 2021-02-25T17:31:59Z
+
+[Term]
+id: DDSTRAIN:0000061
+name: exogenous insertion
+def: "Any fusion of two or more genes, or parts of genes expressed from a plasmid,  randomly inserting in the genome." [DDB:pf]
+is_a: DDSTRAIN:0000056 ! genomic insertion
+is_a: DDSTRAIN:0000060 ! exogenous mutation
+created_by: pfey
+creation_date: 2021-02-25T17:35:37Z
+
+[Term]
+id: DDSTRAIN:0000062
+name: exogenous deletion
+def: "Any gene expressed from a plasmid or under the control of a promoter other than its own promoter with the removal of one or more nucleotides in its gene sequence." [DDB:pf]
+is_a: DDSTRAIN:0000060 ! exogenous mutation
+created_by: pfey
+creation_date: 2021-02-25T17:40:55Z
+
+[Term]
+id: DDSTRAIN:0000063
+name: exogenous substitution
+def: "Any gene expressed from a plasmid or under the control of a promoter other than its own, with a mutation in its sequence resulting in the replacement of an equivalent number of residues in the gene product ." [DDB:pf]
+is_a: DDSTRAIN:0000060 ! exogenous mutation
+created_by: pfey
+creation_date: 2021-02-25T17:42:02Z
+
+[Term]
+id: DDSTRAIN:0000064
+name: RNA mutagenesis
+def: "RNA mutations are typically more transient because of the instability of RNA." [DDB:pf]
+is_a: DDSTRAIN:0000001 ! strain property
+created_by: pfey
+creation_date: 2021-02-25T17:46:15Z
+
+[Term]
+id: DDSTRAIN:0000065
+name: RNAi
+def: "RNA pieces can shut down protein translation by binding to the messenger RNAs that code for those proteins, regulating expression." [DDB:pf]
+synonym: "RNA interference" EXACT []
+is_a: DDSTRAIN:0000064 ! RNA mutagenesis
+is_a: DDSTRAIN:0000083 ! knockdown
+created_by: pfey
+creation_date: 2021-02-25T17:48:39Z
+
+[Term]
+id: DDSTRAIN:0000066
+name: antisense
+def: "Antisense RNA  pairs with its complementary sense RNA strand and prevents it from being translated into a protein, used to inhibit expression." [DDB:pf]
+synonym: "AS" EXACT []
+is_a: DDSTRAIN:0000064 ! RNA mutagenesis
+is_a: DDSTRAIN:0000083 ! knockdown
+created_by: pfey
+creation_date: 2021-02-25T17:52:39Z
+
+[Term]
+id: DDSTRAIN:0000067
+name: random insertion
+def: "After transfection, a plasmid integrates randomly into the genomic DNA." [DDB:pf]
+is_a: DDSTRAIN:0000056 ! genomic insertion
+created_by: pfey
+creation_date: 2021-02-25T17:56:22Z
+
+[Term]
+id: DDSTRAIN:0000068
+name: tetracycline resistant
+def: "A tetracycline resistant strain." [DDB:pf]
+is_a: DDSTRAIN:0000006 ! drug resistant
+created_by: pfey
+creation_date: 2021-02-25T18:01:17Z
+
+[Term]
+id: DDSTRAIN:0000069
+name: REMI
+def: "Mutant screen by restriction enzyme-mediated integration." [DDB:pf]
+synonym: "restriction enzyme-mediated integration" EXACT []
+is_a: DDSTRAIN:0000056 ! genomic insertion
+created_by: pfey
+creation_date: 2021-02-25T18:11:55Z
+
+[Term]
+id: DDSTRAIN:0000070
+name:  REMI-seq
+def: "Mutations by restriction enzyme-mediated integration combined with NGS sequencing." [DDB:pf]
+synonym: "restriction enzyme-mediated integration and NGS sequencing" EXACT []
+is_a: DDSTRAIN:0000069 ! REMI
+created_by: pfey
+creation_date: 2021-02-25T18:13:34Z
+
+[Term]
+id: DDSTRAIN:0000071
+name: chemical mutagenesis
+def: "Applying a chemical to the cells to trigger mutations." [DDB:pf]
+is_a: DDSTRAIN:0000001 ! strain property
+created_by: pfey
+creation_date: 2021-02-25T18:15:47Z
+
+[Term]
+id: DDSTRAIN:0000072
+name: N-methyl-N-nitro-N-nitrosoguanidine
+def: "Mutating cells with the chemical  N-methyl-N-nitro-N-nitrosoguanidine." [DDB:pf]
+synonym: "NG" EXACT []
+is_a: DDSTRAIN:0000071 ! chemical mutagenesis
+created_by: pfey
+creation_date: 2021-02-25T18:17:45Z
+
+[Term]
+id: DDSTRAIN:0000073
+name: 4-nitroquinolone-N-oxide
+def: "Mutating cells with the chemical 4-nitroquinolone-N-oxide." [DDB:pf]
+synonym: "NQNO" EXACT []
+is_a: DDSTRAIN:0000071 ! chemical mutagenesis
+created_by: pfey
+creation_date: 2021-02-25T18:19:25Z
+
+[Term]
+id: DDSTRAIN:0000074
+name: irradiation
+def: "Applying irradiation to cells for mutagenesis." [DDB:pf]
+is_a: DDSTRAIN:0000001 ! strain property
+created_by: pfey
+creation_date: 2021-02-25T18:20:57Z
+
+[Term]
+id: DDSTRAIN:0000075
+name: haploid segregant
+def: "A haploid strain derived from a diploid  after meiosis." [DDB:pf]
+is_a: DDSTRAIN:0000001 ! strain property
+created_by: pfey
+creation_date: 2021-02-25T18:22:49Z
+
+[Term]
+id: DDSTRAIN:0000076
+name:  meiotic recombination
+def: "Reciprocal physical exchange of chromosomal DNA between the parental chromosomes during  meiosis." [DDB:pf]
+is_a: DDSTRAIN:0000001 ! strain property
+created_by: pfey
+creation_date: 2021-02-25T18:24:53Z
+
+[Term]
+id: DDSTRAIN:0000077
+name: ultraviolet light
+def: "Applying ultraviolet light to cells for mutagenesis." [DDB:pf]
+synonym: "UV" EXACT []
+is_a: DDSTRAIN:0000074 ! irradiation
+created_by: pfey
+creation_date: 2021-02-25T18:27:05Z
+
+[Term]
+id: DDSTRAIN:0000078
+name: gamma-ray irradiation
+def: "Applying gamma-rays to cells for mutagenesis." [DDB:pf]
+is_a: DDSTRAIN:0000074 ! irradiation
+created_by: pfey
+creation_date: 2021-02-25T18:28:23Z
+
+[Term]
+id: DDSTRAIN:0000079
+name: transposon mutagenesis
+def: "Allows genes to be transferred to a host organism's chromosome, interrupting or modifying the function of a gene on the chromosome and causing mutation." [DDB:pf]
+is_a: DDSTRAIN:0000001 ! strain property
+created_by: pfey
+creation_date: 2021-02-25T18:31:07Z
+
+[Term]
+id: DDSTRAIN:0000080
+name: homologous recombination
+def: "Genetic recombination in which genetic information is exchanged between two similar or identical genes; in Dictyostelium  used to disrupt genes and inserting a resistance marker." [DDB:pf]
+is_a: DDSTRAIN:0000057 ! endogenous insertion
+created_by: pfey
+creation_date: 2021-02-25T18:40:34Z
+
+[Term]
+id: DDSTRAIN:0000081
+name: spontaneous
+def: "A spontaneous mutation." [DDB:pf]
+is_a: DDSTRAIN:0000001 ! strain property
+created_by: pfey
+creation_date: 2021-02-25T18:47:25Z
+
+[Term]
+id: DDSTRAIN:0000082
+name: extrachromosomal
+def: "Extrachromosomal expression, typically on a plasmid with an origin of replication." [DDB:pf]
+is_a: DDSTRAIN:0000001 ! strain property
+created_by: pfey
+creation_date: 2021-02-25T18:49:07Z
+
+[Term]
+id: DDSTRAIN:0000083
+name: knockdown
+def: "Down-regulated expression of a gene of interest." [DDB:pf]
+is_a: DDSTRAIN:0000001 ! strain property
+created_by: pfey
+creation_date: 2021-02-25T18:52:30Z
+
+[Term]
+id: DDSTRAIN:0000084
+name: CRISPR/Cas9
+def: "Clustered  Regularly  Interspaced Short  Palindromic Repeats and CRISPR-ASsociated protein (Cas); Technology to edit parts of the genome by removing, adding or altering sections of the DNA." [DDB:pf]
+is_a: DDSTRAIN:0000001 ! strain property
+created_by: pfey
+creation_date: 2021-02-25T19:04:07Z
+
