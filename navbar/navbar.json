@@ -7,19 +7,19 @@
         "display": "Genomes",
         "items": [
           {
-            "label": "Dictyostelium discoideum",
+            "label": "Dictyostelium discoideum AX4",
             "link": "/"
           },
           {
-            "label": "Dictyostelium purpureum",
+            "label": "Dictyostelium purpureum AX1",
             "link": "http://genomes.dictybase.org/purpureum"
           },
           {
-            "label": "Dictyostelium fasciculatum",
+            "label": "Dictyostelium fasciculatum SH3",
             "link": "http://genomes.dictybase.org/fasciculatum"
           },
           {
-            "label": "Polysphondylium pallium",
+            "label": "Polysphondylium pallidum PN500",
             "link": "http://genomes.dictybase.org/pallidum"
           }
         ]
