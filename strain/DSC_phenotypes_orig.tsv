@@ -8,15 +8,15 @@ DBS0235454	DDPHENO:0001080	abolished aggregation
 DBS0235460	DDPHENO:0001080	abolished aggregation			
 DBS0235461	DDPHENO:0000483	aberrant aggregation	loose mounds		
 DBS0235463	DDPHENO:0000158	decreased aggregate size	tight mound		
-DBS0235465	DDPHENO:0001055	multiple tips in mound			
+DBS0235465	DDPHENO:0001055	increased number of tips in mound			
 DBS0235466	DDPHENO:0000165	increased stalk length			
 DBS0235468	DDPHENO:0001080	abolished aggregation			
 DBS0235493	DDPHENO:0000109	increased cell-cell adhesion			
 DBS0235495	DDPHENO:0000162	delayed development			
 DBS0235515	DDPHENO:0001080	abolished aggregation			
 DBS0235538	DDPHENO:0001080	abolished aggregation			
-DBS0235555	DDPHENO:0000036	multiple tips			
-DBS0235557	DDPHENO:0000036	multiple tips			
+DBS0235555	DDPHENO:0000036	increased number of tips			
+DBS0235557	DDPHENO:0000036	increased number of tips	
 DBS0235559	DDPHENO:0001080	abolished aggregation			
 DBS0235560	DDPHENO:0000394	decreased growth rate			
 DBS0235562	DDPHENO:0001080	abolished aggregation			
@@ -37,12 +37,12 @@ DBS0235661	DDPHENO:0000424	abolished sporulation
 DBS0235666	DDPHENO:0000158	decreased aggregate size			
 DBS0235670	DDPHENO:0000383	decreased stalk length			
 DBS0235678	DDPHENO:0000158	decreased aggregate size	tiny aggregates, yellow		
-DBS0235682	DDPHENO:0000484	curly fingers			
+DBS0235682	DDPHENO:0000002	aberrant standing slug morphology		
 DBS0235683	DDPHENO:0000165	increased stalk length			
 DBS0235689	DDPHENO:0000383	decreased stalk length			
 DBS0235689	DDPHENO:0000504	decreased sporulation			
-DBS0235692	DDPHENO:0000484	curly fingers			
-DBS0235891	DDPHENO:0000484	curly fingers			
+DBS0235692	DDPHENO:0000002	aberrant standing slug morphology			
+DBS0235891	DDPHENO:0000002	aberrant standing slug morphology	
 DBS0235895	DDPHENO:0000262	decreased prestalk 0 cell differentiation			
 DBS0235899	DDPHENO:0000262	decreased prestalk 0 cell differentiation			
 DBS0235945	DDPHENO:0001080	abolished aggregation			
@@ -188,28 +188,28 @@ DBS0236442	DDPHENO:0000445	increased slug migration
 DBS0236443	DDPHENO:0000483	aberrant aggregation	nearly agg-		
 DBS0236444	DDPHENO:0001080	abolished aggregation			
 DBS0236456	DDPHENO:0001080	abolished aggregation			
-DBS0236458	DDPHENO:0000036	multiple tips			
-DBS0236459	DDPHENO:0000036	multiple tips			
-DBS0236460	DDPHENO:0000036	multiple tips			
-DBS0236461	DDPHENO:0000036	multiple tips			
-DBS0236462	DDPHENO:0000036	multiple tips			
-DBS0236463	DDPHENO:0000036	multiple tips			
+DBS0236458	DDPHENO:0000036	increased number of tips		
+DBS0236459	DDPHENO:0000036	increased number of tips			
+DBS0236460	DDPHENO:0000036	increased number of tips			
+DBS0236461	DDPHENO:0000036	increased number of tips			
+DBS0236462	DDPHENO:0000036	increased number of tips			
+DBS0236463	DDPHENO:0000036	increased number of tips			
 DBS0236464	DDPHENO:0001080	abolished aggregation			
-DBS0236465	DDPHENO:0000036	multiple tips			
-DBS0236467	DDPHENO:0001055	multiple tips in mound			
-DBS0236470	DDPHENO:0000036	multiple tips			
-DBS0236472	DDPHENO:0000036	multiple tips			
-DBS0236473	DDPHENO:0000036	multiple tips			
-DBS0236474	DDPHENO:0000036	multiple tips			
-DBS0236475	DDPHENO:0000036	multiple tips			
-DBS0236476	DDPHENO:0000036	multiple tips			
-DBS0236477	DDPHENO:0000036	multiple tips			
-DBS0236478	DDPHENO:0000036	multiple tips			
-DBS0236479	DDPHENO:0000036	multiple tips			
-DBS0236480	DDPHENO:0000036	multiple tips			
-DBS0236481	DDPHENO:0000036	multiple tips			
-DBS0236482	DDPHENO:0000036	multiple tips			
-DBS0236483	DDPHENO:0000036	multiple tips			
+DBS0236465	DDPHENO:0000036	increased number of tips			
+DBS0236467	DDPHENO:0001055	increased number of tips in mound			
+DBS0236470	DDPHENO:0000036	increased number of tips			
+DBS0236472	DDPHENO:0000036	increased number of tips			
+DBS0236473	DDPHENO:0000036	increased number of tips			
+DBS0236474	DDPHENO:0000036	increased number of tips			
+DBS0236475	DDPHENO:0000036	increased number of tips			
+DBS0236476	DDPHENO:0000036	increased number of tips			
+DBS0236477	DDPHENO:0000036	increased number of tips			
+DBS0236478	DDPHENO:0000036	increased number of tips			
+DBS0236479	DDPHENO:0000036	increased number of tips			
+DBS0236480	DDPHENO:0000036	increased number of tips			
+DBS0236481	DDPHENO:0000036	increased number of tips			
+DBS0236482	DDPHENO:0000036	increased number of tips			
+DBS0236483	DDPHENO:0000036	increased number of tips			
 DBS0236488	DDPHENO:0001080	abolished aggregation			
 DBS0236496	DDPHENO:0000445	increased slug migration			
 DBS0236517	DDPHENO:0001080	abolished aggregation			
@@ -308,7 +308,7 @@ DBS0236698	DDPHENO:0000165	increased stalk length
 DBS0236750	DDPHENO:0001080	abolished aggregation			
 DBS0236762	DDPHENO:0001080	abolished aggregation			
 DBS0236765	DDPHENO:0001080	abolished aggregation			
-DBS0236766	DDPHENO:0000036	multiple tips			
+DBS0236766	DDPHENO:0000036	increased number of tips			
 DBS0236767	DDPHENO:0001080	abolished aggregation			
 DBS0236783	DDPHENO:0000394	decreased growth rate		DDENVIR:0000004	on bacterial plate
 DBS0236783	DDPHENO:0001080	abolished aggregation			
@@ -318,7 +318,7 @@ DBS0236845	DDPHENO:0000109	increased cell-cell adhesion
 DBS0236847	DDPHENO:0000483	aberrant aggregation			
 DBS0236853	DDPHENO:0001080	abolished aggregation			
 DBS0236854	DDPHENO:0001080	abolished aggregation			
-DBS0236867	DDPHENO:0000036	multiple tips			
+DBS0236867	DDPHENO:0000036	increased number of tips			
 DBS0236867	DDPHENO:0000158	decreased aggregate size			
 DBS0236870	DDPHENO:0000222	aberrant phototaxis			
 DBS0236871	DDPHENO:0000222	aberrant phototaxis			
@@ -330,7 +330,7 @@ DBS0236897	DDPHENO:0001080	abolished aggregation
 DBS0236898	DDPHENO:0001080	abolished aggregation			
 DBS0236899	DDPHENO:0001080	abolished aggregation			
 DBS0236911	DDPHENO:0000158	decreased aggregate size			
-DBS0236924	DDPHENO:0000036	multiple tips			
+DBS0236924	DDPHENO:0000036	increased number of tips			
 DBS0236939	DDPHENO:0000077	decreased fruiting body size			
 DBS0236955	DDPHENO:0000162	delayed development			
 DBS0236956	DDPHENO:0001080	abolished aggregation			
@@ -385,7 +385,7 @@ DBS0237088	DDPHENO:0000394	decreased growth rate		DDENVIR:0000004	on bacterial p
 DBS0237088	DDPHENO:0001080	abolished aggregation			
 DBS0238016	DDPHENO:0000193	abolished DIF production			
 DBS0238016	DDPHENO:0001080	abolished aggregation			
-DBS0238142	DDPHENO:0001055	multiple tips in mound			
+DBS0238142	DDPHENO:0001055	increased number of tips in mound			
 DBS0238233	DDPHENO:0000165	increased stalk length			
 DBS0238834	DDPHENO:0000077	decreased fruiting body size			
 DBS0238834	DDPHENO:0000394	decreased growth rate		DDENVIR:0000004	on bacterial plate
