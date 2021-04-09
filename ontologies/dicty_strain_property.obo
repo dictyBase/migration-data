@@ -2,6 +2,8 @@ format-version: 1.2
 date: 25:02:2021 19:11
 saved-by: pfey
 auto-generated-by: OBO-Edit 2.2
+default-namespace: dicty_strain_property
+ontology: ddstrainprop
 
 [Term]
 id: DDSTRAIN:0000001
