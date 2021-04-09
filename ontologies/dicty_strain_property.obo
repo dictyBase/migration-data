@@ -4,6 +4,9 @@ saved-by: pfey
 auto-generated-by: OBO-Edit 2.2
 default-namespace: dicty_strain_property
 ontology: ddstrainprop
+property_value: http://purl.org/dc/elements/1.1/description "A structured controlled vocabulary of various strain properties of the slime-mould Dictyostelium discoideum." xsd:string
+property_value: http://purl.org/dc/elements/1.1/title "Dicty Strain Property Ontology (DDSTRAIN)" xsd:string
+property_value: http://purl.org/dc/terms/license http://creativecommons.org/publicdomain/zero/1.0/
 
 [Term]
 id: DDSTRAIN:0000001
