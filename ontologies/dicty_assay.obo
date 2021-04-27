@@ -510,27 +510,27 @@ creation_date: 2021-04-27T13:13:24Z
 id: DDASSAY:0000087
 name: SDF measurement
 is_a: DDASSAY:0000086 ! protein purification
-created_by: petrafey
+created_by: pfey
 creation_date: 2021-04-27T13:13:53Z
 
 [Term]
 id: DDASSAY:0000088
 name: early development
 is_a: DDASSAY:0000066 ! fruiting body development
-created_by: petrafey
+created_by: pfey
 creation_date: 2021-04-27T13:17:25Z
 
 [Term]
 id: DDASSAY:0000089
 name: SDF-1 measurement
 is_a: DDASSAY:0000087 ! SDF measurement
-created_by: petrafey
+created_by: pfey
 creation_date: 2021-04-27T13:18:11Z
 
 [Term]
 id: DDASSAY:0000090
 name: SDF-2 measurement
 is_a: DDASSAY:0000087 ! SDF measurement
-created_by: petrafey
+created_by: pfey
 creation_date: 2021-04-27T13:18:43Z
 
