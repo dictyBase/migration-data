@@ -1,6 +1,6 @@
 format-version: 1.2
-date: 11:05:2020 18:41
-saved-by: Petra
+date: 27:04:2021 13:19
+saved-by: petrafey
 auto-generated-by: OBO-Edit 2.2
 default-namespace: Dictyostelium Assay
 ontology: ddassay
@@ -487,7 +487,7 @@ creation_date: 2020-05-11T18:35:44Z
 
 [Term]
 id: DDASSAY:0000084
-name:  propidium iodide staining
+name: propidium iodide staining
 is_a: DDASSAY:0000029 ! staining
 created_by: Petra
 creation_date: 2020-05-11T18:36:16Z
@@ -498,4 +498,39 @@ name: development submerged
 is_a: DDASSAY:0000066 ! fruiting body development
 created_by: Petra
 creation_date: 2020-05-11T18:40:14Z
+
+[Term]
+id: DDASSAY:0000086
+name: protein purification
+is_a: DDASSAY:0000003 ! biochemical assay
+created_by: petrafey
+creation_date: 2021-04-27T13:13:24Z
+
+[Term]
+id: DDASSAY:0000087
+name: SDF measurement
+is_a: DDASSAY:0000086 ! protein purification
+created_by: petrafey
+creation_date: 2021-04-27T13:13:53Z
+
+[Term]
+id: DDASSAY:0000088
+name: early development
+is_a: DDASSAY:0000066 ! fruiting body development
+created_by: petrafey
+creation_date: 2021-04-27T13:17:25Z
+
+[Term]
+id: DDASSAY:0000089
+name: SDF-1 measurement
+is_a: DDASSAY:0000087 ! SDF measurement
+created_by: petrafey
+creation_date: 2021-04-27T13:18:11Z
+
+[Term]
+id: DDASSAY:0000090
+name: SDF-2 measurement
+is_a: DDASSAY:0000087 ! SDF measurement
+created_by: petrafey
+creation_date: 2021-04-27T13:18:43Z
 
