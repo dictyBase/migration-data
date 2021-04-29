@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 27:04:2021 17:03
+date: 29:04:2021 10:26
 saved-by: pfey
 auto-generated-by: OBO-Edit 2.2
 default-namespace: Dictyostelium Assay
@@ -235,7 +235,7 @@ id: DDASSAY:0000047
 name: segregation  assay
 synonym: "co-aggregation" BROAD []
 is_a: DDASSAY:0000068 ! growth and development assay
-created_by: Petra
+created_by: pfey
 creation_date: 2015-06-08T16:31:06Z
 
 [Term]
@@ -303,7 +303,7 @@ creation_date: 2013-01-28T17:53:39Z
 id: DDASSAY:0000058
 name: polymerase chain reaction (PCR)
 is_a: DDASSAY:0000001 ! Dictyostelium Assay
-created_by: Petra
+created_by: pfey
 creation_date: 2015-12-11T14:55:47Z
 
 [Term]
@@ -438,7 +438,7 @@ creation_date: 2014-11-21T15:51:32Z
 id: DDASSAY:0000077
 name: transformation efficiency test
 is_a: DDASSAY:0000001 ! Dictyostelium Assay
-created_by: Petra
+created_by: pfey
 creation_date: 2015-02-13T11:20:56Z
 
 [Term]
@@ -446,7 +446,7 @@ id: DDASSAY:0000078
 name: REMI efficiency test
 synonym: "restriction enzyme mediated transformation efficiency test" EXACT []
 is_a: DDASSAY:0000077 ! transformation efficiency test
-created_by: Petra
+created_by: pfey
 creation_date: 2015-02-13T11:21:44Z
 
 [Term]
@@ -454,56 +454,56 @@ id: DDASSAY:0000079
 name: HR efficiency test
 synonym: "homologous recombination efficiency test" EXACT []
 is_a: DDASSAY:0000077 ! transformation efficiency test
-created_by: Petra
+created_by: pfey
 creation_date: 2015-02-13T11:25:25Z
 
 [Term]
 id: DDASSAY:0000080
 name: quantitative real time PCR (qRT-PCR)
 is_a: DDASSAY:0000058 ! polymerase chain reaction (PCR)
-created_by: Petra
+created_by: pfey
 creation_date: 2015-12-11T14:56:31Z
 
 [Term]
 id: DDASSAY:0000081
 name: centrifugation
 is_a: DDASSAY:0000001 ! Dictyostelium Assay
-created_by: Petra
+created_by: pfey
 creation_date: 2015-12-18T18:24:11Z
 
 [Term]
 id: DDASSAY:0000082
 name: time-lapse microscopy
 is_a: DDASSAY:0000061 ! microscopy
-created_by: Petra
+created_by: pfey
 creation_date: 2017-02-08T17:59:31Z
 
 [Term]
 id: DDASSAY:0000083
 name: ion measurement
 is_a: DDASSAY:0000003 ! biochemical assay
-created_by: Petra
+created_by: pfey
 creation_date: 2020-05-11T18:35:44Z
 
 [Term]
 id: DDASSAY:0000084
 name: propidium iodide staining
 is_a: DDASSAY:0000029 ! staining
-created_by: Petra
+created_by: pfey
 creation_date: 2020-05-11T18:36:16Z
 
 [Term]
 id: DDASSAY:0000085
 name: development submerged
 is_a: DDASSAY:0000066 ! fruiting body development
-created_by: Petra
+created_by: pfey
 creation_date: 2020-05-11T18:40:14Z
 
 [Term]
 id: DDASSAY:0000086
 name: protein purification
 is_a: DDASSAY:0000003 ! biochemical assay
-created_by: petrafey
+created_by: pfey
 creation_date: 2021-04-27T13:13:24Z
 
 [Term]
