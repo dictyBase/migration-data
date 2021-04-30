@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 29:04:2021 10:26
+date: 29:04:2021 18:37
 saved-by: pfey
 auto-generated-by: OBO-Edit 2.2
 default-namespace: Dictyostelium Assay
@@ -508,7 +508,7 @@ creation_date: 2021-04-27T13:13:24Z
 
 [Term]
 id: DDASSAY:0000087
-name: SDF measurement
+name: SDF assay
 is_a: DDASSAY:0000086 ! protein purification
 created_by: pfey
 creation_date: 2021-04-27T13:13:53Z
@@ -523,14 +523,28 @@ creation_date: 2021-04-27T13:17:25Z
 [Term]
 id: DDASSAY:0000089
 name: SDF-1 measurement
-is_a: DDASSAY:0000087 ! SDF measurement
+is_a: DDASSAY:0000087 ! SDF assay
 created_by: pfey
 creation_date: 2021-04-27T13:18:11Z
 
 [Term]
 id: DDASSAY:0000090
 name: SDF-2 measurement
-is_a: DDASSAY:0000087 ! SDF measurement
+is_a: DDASSAY:0000087 ! SDF assay
 created_by: pfey
 creation_date: 2021-04-27T13:18:43Z
+
+[Term]
+id: DDASSAY:0000091
+name: extracellular measurement
+is_a: DDASSAY:0000003 ! biochemical assay
+created_by: pfey
+creation_date: 2021-04-29T18:33:17Z
+
+[Term]
+id: DDASSAY:0000092
+name: intracellular measurement
+is_a: DDASSAY:0000003 ! biochemical assay
+created_by: pfey
+creation_date: 2021-04-29T18:34:57Z
 
