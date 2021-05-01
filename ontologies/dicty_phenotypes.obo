@@ -7343,7 +7343,7 @@ is_a: DDPHENO:0001375 ! aberrant cellular homeostasis
 id: DDPHENO:0001377
 name: increased intracellular pH
 def: "Increase of the pH in the cell." [DDB:pf]
-synonym: " elevation of cellular pH," EXACT []
+synonym: "elevation of cellular pH," EXACT []
 synonym: "increased cytosolic pH level" EXACT []
 synonym: "intracellular pH elevation" EXACT []
 is_a: DDPHENO:0001455 ! aberrant regulation of intracellular pH
