@@ -1,0 +1,46 @@
+data:
+  - attributes:
+      description: Techniques
+      url: /research/techniques
+    id: 1
+    type: link
+  - attributes:
+      description: 'Teaching Protocols'
+      url: /research/teach
+    id: 2
+    type: link
+  - attributes:
+      description: 'Dicty Stock Center'
+      url: /stockcenter
+    id: 3
+    type: link
+  - attributes:
+      description: 'Genome Browser'
+      url: http://dictybase.org/tools/jbrowse/?data=data%2Fjbrowse%2Fdiscoideum&loc=6%3A1..50022&tracks=reference%2Cgene%2Ctranscript&highlight=
+    id: 4
+    type: link
+  - attributes:
+      description: DictyAccess
+      url: /dictyaccess
+    id: 5
+    type: link
+  - attributes:
+      description: Conference
+      url: /community/conference
+    id: 6
+    type: link
+  - attributes:
+      description: Labs
+      url: /community/labs
+    id: 7
+    type: link
+  - attributes:
+      description: About
+      url: /about
+    id: 8
+    type: link
+  - attributes:
+      description: Contact
+      url: /stockcenter/contact
+    id: 9
+    type: link
