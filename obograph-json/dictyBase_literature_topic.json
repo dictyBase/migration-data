@@ -1,0 +1,1508 @@
+{
+  "graphs" : [ {
+    "nodes" : [ {
+      "id" : "http://purl.obolibrary.org/obo/DDLIT_0000012",
+      "meta" : {
+        "definition" : {
+          "val" : "Studies of the gene product in development and morphogenesis, including all multicellular stages.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "sid"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2010-04-12T03:26:06Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "dictyBase_literature_topic"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "Development/Morphogenesis"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDLIT_0000056",
+      "meta" : {
+        "definition" : {
+          "val" : "The interactions between a host and a pathogen, often resulting in disease; usually, Dictyostelium is used as an experimental host to study such interactions.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2014-09-24T15:19:50Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "dictyBase_literature_topic"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "Host/Pathogen Interactions"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDLIT_0000011",
+      "meta" : {
+        "definition" : {
+          "val" : "Materials, analyses and nomenclature used to describe the gene or its gene product.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "dictyBase_literature_topic"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "sid"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2010-04-12T03:22:53Z"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "Research Aids"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDLIT_0000055",
+      "meta" : {
+        "definition" : {
+          "val" : "References which report algorithmic or statistical models to investigate certain aspects of cellular processes or behaviour, but which do not perform classical experimental work.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2014-09-24T15:15:17Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "dictyBase_literature_topic"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "Computation/Modeling"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDLIT_0000058",
+      "meta" : {
+        "definition" : {
+          "val" : "The process of any breakdown of cellular material and / or morphogenetic changes, through processes such as apoptosis, or autophagy, which may lead to cell death; includes developmental cell death (stalk).",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "dictyBase_literature_topic"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2015-01-14T16:23:04Z"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "Cell Degradation"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDLIT_0000014",
+      "meta" : {
+        "definition" : {
+          "val" : "Expression of the gene product in the multicellular organism as determined by gene-fusion or in situ hybridization experiments.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "sid"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "dictyBase_literature_topic"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2010-04-12T03:26:06Z"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "Cell Type Localization"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDLIT_0000013",
+      "meta" : {
+        "definition" : {
+          "val" : "Role and effect of the gene product on growth rates; includes studies of the gene product during growth as a life cycle phase.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "sid"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2010-04-12T03:26:06Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "dictyBase_literature_topic"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "Growth"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDLIT_0000057",
+      "meta" : {
+        "definition" : {
+          "val" : "References reporting studies on or with transposons or retrotransposons, their functions and processing.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2014-09-24T15:23:39Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "dictyBase_literature_topic"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "Transposable Elements"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDLIT_0000016",
+      "meta" : {
+        "definition" : {
+          "val" : "Role of the gene product in its ability to form spores and spore viability studies.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "sid"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "dictyBase_literature_topic"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2010-04-12T03:26:06Z"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "Sporulation/Germination"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDLIT_0000015",
+      "meta" : {
+        "definition" : {
+          "val" : "Role of the gene product in the sexual cycle, including mating types and meiosis.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "sid"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "dictyBase_literature_topic"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2010-04-12T03:26:06Z"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "Sexual Cycle"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDLIT_0000059",
+      "meta" : {
+        "definition" : {
+          "val" : "Any process that results in a change in state or activity of a cell or the multicellular organism as a result of an external stimulus.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "dictyBase_literature_topic"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2015-01-16T14:02:09Z"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "Stress Response"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDLIT_0000018",
+      "meta" : {
+        "definition" : {
+          "val" : "How the expression of the gene is controlled at the level of transcription, for example, what RNA polymerase is used, what transcription factors are needed, what other factors (such as metabolic conditions) affect transcription.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2010-04-12T03:27:51Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "dictyBase_literature_topic"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "sid"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "Transcriptional Regulation"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDLIT_0000017",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "dictyBase_literature_topic"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "sid"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2010-04-12T03:26:42Z"
+        } ],
+        "deprecated" : true
+      },
+      "type" : "CLASS",
+      "lbl" : "obsolete Not yet curated"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDLIT_0000050",
+      "meta" : {
+        "definition" : {
+          "val" : "The regulation of the gene product regulation by another protein, metabolic conditions, chemical inhibitors, or other factors; also includes auto-regulatory functions.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "sid"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2010-12-02T03:03:20Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "dictyBase_literature_topic"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "Regulated By"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDLIT_0000052",
+      "meta" : {
+        "definition" : {
+          "val" : "Interactions between loci identified by genetic means, including suppression, complementation, synthetic lethality, etc.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "dictyBase_literature_topic"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2010-12-02T04:09:04Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "sid"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "Genetic Interactions"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDLIT_0000051",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "dictyBase_literature_topic"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2010-12-02T03:19:05Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "sid"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "Dictyostelium Genes/Proteins"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDLIT_0000010",
+      "meta" : {
+        "definition" : {
+          "val" : "Information describing the status, actions and processes involving proteins.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "dictyBase_literature_topic"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2010-04-12T03:22:53Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "sid"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "Protein Information"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDLIT_0000054",
+      "meta" : {
+        "definition" : {
+          "val" : "The post-translational protein level in a cell or compartment (as measured by e.g. Western blot).",
+          "xrefs" : [ "DDB:rd" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2014-09-24T15:09:29Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "dictyBase_literature_topic"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "Protein Levels/Expression"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDLIT_0000053",
+      "meta" : {
+        "definition" : {
+          "val" : "The role that the gene or gene product plays in regulating the activity of other genes or proteins such as by acting as a transcription factor or regulatory kinase.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "dictyBase_literature_topic"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2010-12-02T04:09:57Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "sid"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "Regulatory Role"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDLIT_0000009",
+      "meta" : {
+        "definition" : {
+          "val" : "References where literature topics have been added to all attached genes.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "dictyBase_literature_topic"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2010-04-12T03:22:53Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "sid"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "Curated Literature"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDLIT_0000008",
+      "meta" : {
+        "definition" : {
+          "val" : "Information describing the processes involved in cell biology and genetics of Dictyostelium.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "dictyBase_literature_topic"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2010-04-12T03:22:53Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "sid"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "Genetics/Cell Biology"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/IAO_0000115",
+      "type" : "PROPERTY",
+      "lbl" : "definition"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDLIT_0000023",
+      "meta" : {
+        "definition" : {
+          "val" : "Role of the gene product in cell-substrate or cell-cell adhesion.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "dictyBase_literature_topic"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "sid"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2010-04-12T03:29:25Z"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "Adhesion"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDLIT_0000022",
+      "meta" : {
+        "definition" : {
+          "val" : "Where in the cell the protein or gene is located; information on the regulation and transport of the gene/protein in its compartmentalization is listed under this topic.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "dictyBase_literature_topic"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2010-04-12T03:29:25Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "sid"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "Cellular Location"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDLIT_0000025",
+      "meta" : {
+        "definition" : {
+          "val" : "Evidence for the protein being part of or having an effect on the cytoskeleton.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2010-04-12T03:29:25Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "sid"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "dictyBase_literature_topic"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "Cytoskeleton"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDLIT_0000024",
+      "meta" : {
+        "definition" : {
+          "val" : "Involvement of the gene product in cell movement in general, and in response to a chemical attractant.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "sid"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2010-04-12T03:29:25Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "dictyBase_literature_topic"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "Chemotaxis/Motility"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDLIT_0000027",
+      "meta" : {
+        "definition" : {
+          "val" : "Role of the gene product in the process of transporting substances into, out of, or within the cell, including pinocytosis, 'macro-pinocytosis', phagocytosis, exocytosis and intracellular transport.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2010-04-12T03:29:25Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "sid"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "dictyBase_literature_topic"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "Transport/Endocytosis/Exocytosis"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDLIT_0000026",
+      "meta" : {
+        "definition" : {
+          "val" : "Role the protein or RNA plays,  i.e. what type of enzyme the protein is, or if it functions as part of a large complex or a multi-subunit enzyme.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2010-04-12T03:29:25Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "sid"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "dictyBase_literature_topic"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "Function/Process"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDLIT_0000029",
+      "meta" : {
+        "definition" : {
+          "val" : "Mutations of the gene, including substitutions, replacements, gene fusions or deletions, and resulting in phenotypes.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "dictyBase_literature_topic"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "sid"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2010-04-12T03:29:25Z"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "Mutants/Phenotypes"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDLIT_0000028",
+      "meta" : {
+        "definition" : {
+          "val" : "Description of the gene product being part of intra - or inter-cell signaling events.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "dictyBase_literature_topic"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "sid"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2010-04-12T03:29:25Z"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "Signal Transduction"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDLIT_0000060",
+      "meta" : {
+        "definition" : {
+          "val" : "Any cellular metabolic process involving deoxyribonucleic acid. E.g. DNA  modification, replication, fidelity, repair, telomer maintenance.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "dictyBase_literature_topic"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2017-11-29T17:04:32Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "Petra"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "DNA Metabolic Process"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDLIT_0000021",
+      "meta" : {
+        "definition" : {
+          "val" : "Levels of RNA in the cell (expression) and any cellular metabolic process involving  ribonucleic acid. E.g.  RNA stability, structure, replication, modification, repair, splicing.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "synonyms" : [ {
+          "pred" : "hasRelatedSynonym",
+          "val" : "RNA Levels and Processing",
+          "xrefs" : [ ]
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "dictyBase_literature_topic"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2010-04-12T03:27:51Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "sid"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "RNA Levels and Metabolism"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDLIT_0000020",
+      "meta" : {
+        "definition" : {
+          "val" : "Physical or genetic mapping results.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "dictyBase_literature_topic"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2010-04-12T03:27:51Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "sid"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "Mapping"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDLIT_0000019",
+      "meta" : {
+        "definition" : {
+          "val" : "Overall sequence features for DNA  (promoters, exons, introns, etc.) and RNA  (splice sites, poly-A sites, etc.).",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2010-04-12T03:27:51Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "dictyBase_literature_topic"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "sid"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "DNA/RNA Sequence Features"
+    }, {
+      "id" : "http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym",
+      "type" : "PROPERTY",
+      "lbl" : "has_related_synonym"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDLIT_0000034",
+      "meta" : {
+        "definition" : {
+          "val" : "Features of the hypothetical or real primary amino acid sequence of the gene product (functional domains, hydrophilic analysis, ion-binding sites, active sites, homology regions, etc).",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "dictyBase_literature_topic"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "sid"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2010-04-12T03:31:03Z"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "Protein Functional Domain"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDLIT_0000033",
+      "meta" : {
+        "definition" : {
+          "val" : "Physical interactions that have been demonstrated between proteins by methods such as two-hybrid analysis, cross-linking studies, co-immunoprecipitations, etc.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2010-04-12T03:31:03Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "dictyBase_literature_topic"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "sid"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "Protein-Protein Interactions"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDLIT_0000036",
+      "meta" : {
+        "definition" : {
+          "val" : "Different names that are used for the gene or its gene product.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "sid"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2010-04-12T03:32:10Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "dictyBase_literature_topic"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "Synonym"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDLIT_0000035",
+      "meta" : {
+        "definition" : {
+          "val" : "The known structure of the gene product, including known structural location of specific residues; includes predictions of protein structure.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "sid"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2010-04-12T03:31:03Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "dictyBase_literature_topic"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "Protein/Nucleic Acid Structure"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDLIT_0000038",
+      "meta" : {
+        "definition" : {
+          "val" : "New antibodies have been created and published in this paper.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2010-04-12T03:32:10Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "sid"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "dictyBase_literature_topic"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "Antibodies"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDLIT_0000037",
+      "meta" : {
+        "definition" : {
+          "val" : "References dealing with systematic analysis of large numbers of genes, e.g. micro array  and mass spec studies, comparing expression of all the genes in a genome in two different conditions, but not systematic sequencing papers.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2010-04-12T03:32:10Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "sid"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "dictyBase_literature_topic"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "Genome-wide Analysis"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDLIT_0000039",
+      "meta" : {
+        "definition" : {
+          "val" : "Novel techniques used in studying the gene as well as any reagents other than constructs that might help in experimentation, including antibodies, chemical inhibitors, and purified protein.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2010-04-12T03:32:10Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "sid"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "dictyBase_literature_topic"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "Techniques and Reagents"
+    }, {
+      "id" : "http://www.geneontology.org/formats/oboInOwl#hasDbXref",
+      "type" : "PROPERTY",
+      "lbl" : "database_cross_reference"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDLIT_0000030",
+      "meta" : {
+        "definition" : {
+          "val" : "Literature review that refers to the gene.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2010-04-12T03:29:43Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "dictyBase_literature_topic"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "sid"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "Reviews"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDLIT_0000032",
+      "meta" : {
+        "definition" : {
+          "val" : "The molecular weight or amino acid composition of the real or hypothetical protein product.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2010-04-12T03:31:03Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "dictyBase_literature_topic"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "sid"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "Protein Physical Properties"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDLIT_0000031",
+      "meta" : {
+        "definition" : {
+          "val" : "The role of the gene product in complex social behavior, including cooperation, self- and kin recognition, altruism, and cheating.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "dictyBase_literature_topic"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2014-09-23T14:56:13Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "Social Cooperation"
+    }, {
+      "id" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+      "type" : "PROPERTY",
+      "lbl" : "has_obo_namespace"
+    }, {
+      "id" : "http://www.geneontology.org/formats/oboInOwl#hasOBOFormatVersion",
+      "type" : "PROPERTY",
+      "lbl" : "has_obo_format_version"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDLIT_0000001",
+      "meta" : {
+        "definition" : {
+          "val" : "Predictions of functions based on comparative studies using such measures as orthology.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "sid"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2010-04-12T03:19:15Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "dictyBase_literature_topic"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "Related Genes/Proteins"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDLIT_0000045",
+      "meta" : {
+        "definition" : {
+          "val" : "How the protein is modified following translation, including regulatory and non-regulatory modifications, such as phosphorylation, attachment of sugars, etc.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "dictyBase_literature_topic"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "sid"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2010-12-02T02:57:57Z"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "Post-Translational Modifications"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDLIT_0000000",
+      "meta" : {
+        "definition" : {
+          "val" : "Root of literature topic.",
+          "xrefs" : [ "DDLIT:12345" ]
+        },
+        "comments" : [ "Originated from SGD literature topic." ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "dictyBase_literature_topic"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2010-04-12T02:57:26Z"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "Literature topic"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDLIT_0000044",
+      "meta" : {
+        "definition" : {
+          "val" : "Cell cycle-related changes in the expression or activity of the gene product.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2010-12-02T02:57:10Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "dictyBase_literature_topic"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "sid"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "Cell Cycle"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDLIT_0000047",
+      "meta" : {
+        "definition" : {
+          "val" : "Refers to the control of the levels of protein (synthesized from its mRNA), where the mechanism is unknown.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "sid"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2010-12-02T02:59:21Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "dictyBase_literature_topic"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "Translational Regulation"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDLIT_0000003",
+      "meta" : {
+        "definition" : {
+          "val" : "Sequence and/or functional homologs of non-mammalian genes.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "sid"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2010-04-12T03:20:33Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "dictyBase_literature_topic"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "Non-mammalian Gene Related"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDLIT_0000002",
+      "meta" : {
+        "definition" : {
+          "val" : "Homology between the Dictyostelium gene and a gene that is disease-related or involvement of a gene in a disease model.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2010-04-12T03:20:33Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "sid"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "dictyBase_literature_topic"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "Disease Related"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDLIT_0000046",
+      "meta" : {
+        "definition" : {
+          "val" : "Any association of  DNA or RNA molecules and genes with proteins; this includes association via other binding partners or  direct binding as well as information on binding sites.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "sid"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2010-12-02T02:58:38Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "dictyBase_literature_topic"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "Protein-Nucleic Acid Interactions"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDLIT_0000049",
+      "meta" : {
+        "definition" : {
+          "val" : "Phototaxis or thermotaxis, usually in the slug, has been investigated in this study.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "sid"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "dictyBase_literature_topic"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2010-12-02T03:01:21Z"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "Phototaxis/Thermotaxis"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDLIT_0000005",
+      "meta" : {
+        "definition" : {
+          "val" : "Information describing all processes involved during the Dictyostelium life cycle.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "sid"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "dictyBase_literature_topic"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2010-04-12T03:22:53Z"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "Life Cycle"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDLIT_0000048",
+      "meta" : {
+        "definition" : {
+          "val" : "The substrates or ligands of the protein, including cofactors that regulate the protein's activity.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "sid"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2010-12-02T02:59:54Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "dictyBase_literature_topic"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "Substrates/Ligands/Cofactors"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDLIT_0000004",
+      "meta" : {
+        "definition" : {
+          "val" : "Sequence and/or functional homologs of mammalian genes.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "sid"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2010-04-12T03:21:08Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "dictyBase_literature_topic"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "Mammalian Gene Related"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDLIT_0000007",
+      "meta" : {
+        "definition" : {
+          "val" : "Information describing the status, actions and processes involving nucleic acids.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2010-04-12T03:22:53Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "dictyBase_literature_topic"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "sid"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "Nucleic Acid Information"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDLIT_0000006",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2010-04-12T03:22:53Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "dictyBase_literature_topic"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "sid"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "Additional Information"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDLIT_0000041",
+      "meta" : {
+        "definition" : {
+          "val" : "Mutant strains and constructs created for experimentation on the gene of interest.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "dictyBase_literature_topic"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "sid"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2010-04-12T03:32:10Z"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "Strains/Constructs"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDLIT_0000040",
+      "meta" : {
+        "definition" : {
+          "val" : "Items that appeared important to the curator but did not fit underneath a standard topic.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "dictyBase_literature_topic"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "sid"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2010-04-12T03:32:10Z"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "Other Features"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDLIT_0000043",
+      "meta" : {
+        "definition" : {
+          "val" : "Phylogenetic analysis has been performed for this gene in this study.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "dictyBase_literature_topic"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2010-12-02T02:55:34Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "sid"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "Phylogenetic Analysis"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDLIT_0000042",
+      "meta" : {
+        "definition" : {
+          "val" : "Describes the gene product's involvement in cytokinesis or karyokinesis.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "dictyBase_literature_topic"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "sid"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2010-12-02T02:53:34Z"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "Mitosis"
+    } ],
+    "edges" : [ {
+      "sub" : "http://purl.obolibrary.org/obo/DDLIT_0000022",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDLIT_0000008"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDLIT_0000041",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDLIT_0000011"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDLIT_0000023",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDLIT_0000008"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDLIT_0000057",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDLIT_0000007"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDLIT_0000053",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDLIT_0000010"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDLIT_0000043",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDLIT_0000001"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDLIT_0000009",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDLIT_0000000"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDLIT_0000020",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDLIT_0000007"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDLIT_0000050",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDLIT_0000010"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDLIT_0000051",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDLIT_0000000"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDLIT_0000031",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDLIT_0000005"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDLIT_0000044",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDLIT_0000008"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDLIT_0000056",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDLIT_0000008"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDLIT_0000021",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDLIT_0000007"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDLIT_0000040",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDLIT_0000011"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDLIT_0000007",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDLIT_0000000"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDLIT_0000030",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDLIT_0000009"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDLIT_0000008",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDLIT_0000000"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDLIT_0000042",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDLIT_0000008"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDLIT_0000039",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDLIT_0000011"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDLIT_0000005",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDLIT_0000000"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDLIT_0000006",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDLIT_0000000"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDLIT_0000052",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDLIT_0000008"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDLIT_0000018",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDLIT_0000007"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDLIT_0000037",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDLIT_0000011"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDLIT_0000048",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDLIT_0000010"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDLIT_0000004",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDLIT_0000001"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDLIT_0000060",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDLIT_0000007"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDLIT_0000019",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDLIT_0000007"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDLIT_0000038",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDLIT_0000011"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDLIT_0000015",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDLIT_0000005"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDLIT_0000001",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDLIT_0000000"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDLIT_0000046",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDLIT_0000010"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDLIT_0000028",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDLIT_0000008"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDLIT_0000002",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDLIT_0000001"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDLIT_0000035",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDLIT_0000010"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDLIT_0000016",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDLIT_0000005"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDLIT_0000029",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDLIT_0000008"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDLIT_0000036",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDLIT_0000011"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDLIT_0000003",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDLIT_0000001"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDLIT_0000049",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDLIT_0000008"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDLIT_0000026",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDLIT_0000008"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDLIT_0000013",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDLIT_0000005"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDLIT_0000011",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDLIT_0000000"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDLIT_0000033",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDLIT_0000010"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDLIT_0000045",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDLIT_0000010"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDLIT_0000014",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDLIT_0000005"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDLIT_0000027",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDLIT_0000008"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDLIT_0000034",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDLIT_0000010"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDLIT_0000024",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDLIT_0000008"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDLIT_0000054",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDLIT_0000010"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDLIT_0000047",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDLIT_0000007"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDLIT_0000059",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDLIT_0000008"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDLIT_0000055",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDLIT_0000011"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDLIT_0000058",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDLIT_0000005"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDLIT_0000012",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDLIT_0000005"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDLIT_0000025",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDLIT_0000008"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDLIT_0000010",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDLIT_0000000"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDLIT_0000032",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDLIT_0000010"
+    } ],
+    "id" : "http://purl.obolibrary.org/obo/ddlit.owl",
+    "meta" : {
+      "subsets" : [ ],
+      "xrefs" : [ ],
+      "basicPropertyValues" : [ {
+        "pred" : "http://purl.org/dc/elements/1.1/description",
+        "val" : "A structured controlled vocabulary of literature of the slime-mold Dictyostelium discoideum."
+      }, {
+        "pred" : "http://purl.org/dc/elements/1.1/title",
+        "val" : "Dicty literature topic (DDPHENO)"
+      }, {
+        "pred" : "http://purl.org/dc/terms/license",
+        "val" : "http://creativecommons.org/publicdomain/zero/1.0/"
+      }, {
+        "pred" : "http://www.geneontology.org/formats/oboInOwl#auto-generated-by",
+        "val" : "OBO-Edit 2.2"
+      }, {
+        "pred" : "http://www.geneontology.org/formats/oboInOwl#date",
+        "val" : "02:10:2020 18:29"
+      }, {
+        "pred" : "http://www.geneontology.org/formats/oboInOwl#default-namespace",
+        "val" : "dictyBase_literature_topic"
+      }, {
+        "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBOFormatVersion",
+        "val" : "1.2"
+      }, {
+        "pred" : "http://www.geneontology.org/formats/oboInOwl#saved-by",
+        "val" : "Petra"
+      } ]
+    },
+    "equivalentNodesSets" : [ ],
+    "logicalDefinitionAxioms" : [ ],
+    "domainRangeAxioms" : [ ],
+    "propertyChainAxioms" : [ ]
+  } ]
+}
