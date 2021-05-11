@@ -1,0 +1,58 @@
+name: obo2json 
+on: 
+  push:
+    branches:
+      - master
+jobs:
+  convert:
+    env:
+      COMMIT_LIST_FILE: ${{ github.workspace }}/committed.txt
+      OBOJSON_DIR : ${{ github.workspace }}/obograph-json
+      GITHUB_ACTION_DIR: ${{ github.workspace }}/github-actions/bin
+    runs-on: ubuntu-20.04
+    steps:
+      - name: check out code
+        uses: actions/checkout@v2
+      - name: create necessary dirs 
+        run: |
+           mkdir -p ${OBOJSON_DIR}
+           mkdir -p ${GITHUB_ACTION_DIR}
+      - name: download and setup path for github action binary
+        run: |
+          curl -L -o ${GITHUB_ACTION_DIR}/actions https://github.com/dictybase-docker/github-actions/releases/download/v2.3.0/action_2.3.0_Linux_x86_64
+          chmod +x ${GITHUB_ACTION_DIR}/actions
+          echo "${GITHUB_ACTION_DIR}" >> $GITHUB_PATH
+      - name: create a list of modified obo files 
+        run: actions --log-level debug -t ${{ secrets.GITHUB_TOKEN }} fc --payload-file ${GITHUB_EVENT_PATH} -o ${COMMIT_LIST_FILE} --ifs obo --sd true
+      - name: run obo to json converter
+        uses: docker://dictybase/ontobot:1.8.3
+        with:
+          entrypoint: /usr/local/bin/convert 
+      - name: setup vars for changed files 
+        id: git_diff
+        run: |
+            echo "::set-output name=git_changes::no"
+            if [ -e ${COMMIT_LIST_FILE} ]
+            then
+                echo "::set-output name=git_changes::yes"
+            fi
+      - name: extract user information 
+        if: contains(steps.git_diff.outputs.git_changes, 'yes') 
+        id: user_info
+        uses: actions/github-script@v3
+        with:
+          github-token: ${{secrets.GITHUB_TOKEN}}
+          script: |
+              const { data } = await github.users.getByUsername({
+                username: context.payload.sender.login
+              })
+              core.setOutput("name", data.name)
+              core.setOutput("email", data.email)
+      - name: push the changed obo json files 
+        if: contains(steps.git_diff.outputs.git_changes, 'yes') 
+        run: |
+            git config --global user.email ${{ steps.user_info.outputs.email }}
+            git config --global user.name ${{ steps.user_info.outputs.name }}
+            git add obograph-json
+            git commit -a -m 'update obo json files on '$(date +"%m-%d-%Y:%H:%m:%S")
+            git push origin $(git rev-parse --abbrev-ref HEAD)
