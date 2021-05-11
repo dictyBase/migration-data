@@ -1,0 +1,36 @@
+name: obo file reporter
+on: 
+  pull_request
+
+jobs:
+  report:
+    env:
+      GITHUB_ACTION_DIR: ${{ github.workspace }}/github-actions/bin
+      REPORT_DIR: ${{ github.workspace }}/reports
+      COMMIT_LIST_FILE: ${{ github.workspace }}/committed.txt
+    runs-on: ubuntu-20.04
+    steps:
+      - name: check out code
+        uses: actions/checkout@v2
+      - name: create necessary dirs 
+        run: |
+          mkdir -p ${REPORT_DIR}
+          mkdir -p ${GITHUB_ACTION_DIR}
+      - name: download and setup path for github action binary
+        run: |
+          curl -L -o ${GITHUB_ACTION_DIR}/actions https://github.com/dictybase-docker/github-actions/releases/download/v2.3.0/action_2.3.0_Linux_x86_64
+          chmod +x ${GITHUB_ACTION_DIR}/actions
+          echo "${GITHUB_ACTION_DIR}" >> $GITHUB_PATH
+      - name: create a list of modified obo files 
+        run: actions --log-level debug -t ${{ secrets.GITHUB_TOKEN }} fc --payload-file ${GITHUB_EVENT_PATH} -o ${COMMIT_LIST_FILE} -e pull-request --ifs obo --sd true
+      - name: run obo reporter
+        uses: docker://dictybase/ontobot:1.8.3
+        with:
+          entrypoint: /usr/local/bin/report 
+      - name: output report in pull request comment
+        if: ${{ always() }}
+        run: |
+          if [ -e ${COMMIT_LIST_FILE} ]
+                then
+                        actions --log-level debug -t ${{ secrets.GITHUB_TOKEN }} --owner ${{ github.repository_owner }} -r ${{ github.event.repository.name }} report-as-comment -c ${COMMIT_LIST_FILE} -d ${REPORT_DIR} --pull-request-id ${{ github.event.number }} --ref ${GITHUB_SHA}
+          fi
