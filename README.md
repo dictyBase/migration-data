@@ -1,13 +1,16 @@
-Migration-Data @dictyBase
+Migration-Data 
 ==============
 Data files required for migration
 
-| File | Description |
-| --- | --- |
-| annotations | Gene summaries & dictyBase GPI files |
-| plasmid/images/*.jpg | JPEG images for plasmid maps |
-| plasmid/plasmid_*.tsv | Exported plasmid data |
-| ontologies/*.obo | |
-| publications/dicty_refs_feb2012.bib | Old stockcenter references converted from EndNote format to BibTeX |
-| strain/DSC_phenotypes.tsv | Free-text strain-phenotypes mapped to phenotype ontology |
-| strain/strain_*.tsv | Exported strain data |
+## Editing ontology(obo format only)
++ This repository manages [dictyBase](https://dictycr.org) ontologies through
+  the `ontologies` folder.
++ All ontologies are edited through pull request. Ontologies validated and
+  merged through pull requests are automatically converted to
+  [obograph-json](https://github.com/geneontology/obographs) formatted and
+  commited to `obograph-json` folder. Ontologies converted to `obobgraph-json`
+  format are __only__ loaded to the database. 
++ Any ontology commited without any pull requested therefor __will never be__
+  loaded to the database. 
+
+
