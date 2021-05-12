@@ -12,5 +12,8 @@ Data files required for migration
   format are __only__ loaded to the database. 
 + Any ontology commited without any pull requested therefor __will never be__
   loaded to the database. 
+### Create pull request
+Create a git branch and push it to github. It will automatically create a pull
+request.  Explicit creation of pull request in not necessary.
 
 
