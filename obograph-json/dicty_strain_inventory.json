@@ -1,0 +1,533 @@
+{
+  "graphs" : [ {
+    "nodes" : [ {
+      "id" : "http://purl.obolibrary.org/obo/straininvent#has_vial",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "strain_inventory"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2014-09-30T14:36:15Z"
+        } ]
+      },
+      "type" : "PROPERTY",
+      "lbl" : "has_vial"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/STRAININVENT_0000010",
+      "meta" : {
+        "definition" : {
+          "val" : "Physical location of strain stock in liquid nitrogen tank A.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "strain_inventory"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2014-09-26T16:38:41Z"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "tank A"
+    }, {
+      "id" : "http://www.geneontology.org/formats/oboInOwl#hasDbXref",
+      "type" : "PROPERTY",
+      "lbl" : "database_cross_reference"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/STRAININVENT_0000019",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2017-01-26T16:11:40Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "Petra"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "strain_inventory"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "pink"
+    }, {
+      "id" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+      "type" : "PROPERTY",
+      "lbl" : "has_obo_namespace"
+    }, {
+      "id" : "http://www.geneontology.org/formats/oboInOwl#hasOBOFormatVersion",
+      "type" : "PROPERTY",
+      "lbl" : "has_obo_format_version"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/STRAININVENT_0000015",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "Petra"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "strain_inventory"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2017-01-26T16:10:07Z"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "red"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/STRAININVENT_0000016",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "strain_inventory"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "Petra"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2017-01-26T16:11:05Z"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "green"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/STRAININVENT_0000017",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2017-01-26T16:11:16Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "Petra"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "strain_inventory"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "blue"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/STRAININVENT_0000018",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "strain_inventory"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2017-01-26T16:11:27Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "Petra"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "yellow"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/IAO_0000115",
+      "type" : "PROPERTY",
+      "lbl" : "definition"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/STRAININVENT_0000011",
+      "meta" : {
+        "definition" : {
+          "val" : "Physical location of strain stock in liquid nitrogen tank B.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2014-09-26T16:43:42Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "strain_inventory"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "tank B"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/STRAININVENT_0000012",
+      "meta" : {
+        "definition" : {
+          "val" : "Physical location of strain stock in liquid nitrogen tank C.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2014-09-26T16:44:02Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "strain_inventory"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "tank C"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/STRAININVENT_0000013",
+      "meta" : {
+        "definition" : {
+          "val" : "Physical location of strain stock in the - 80 C freezer.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "strain_inventory"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2014-09-26T16:44:15Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "- 80 freezer"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/STRAININVENT_0000014",
+      "meta" : {
+        "definition" : {
+          "val" : "The person who stores the strain.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "Petra"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2016-04-26T15:09:38Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "strain_inventory"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "stored by"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/STRAININVENT_0000020",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "Petra"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2017-01-26T16:13:27Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "strain_inventory"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "white"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/STRAININVENT_0000021",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "Petra"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "strain_inventory"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2017-01-26T16:13:40Z"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "orange"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/STRAININVENT_0000008",
+      "meta" : {
+        "definition" : {
+          "val" : "Public comments about the stored strain.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "strain_inventory"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "public comment"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/STRAININVENT_0000009",
+      "meta" : {
+        "definition" : {
+          "val" : "Conditions the obtained strain is stored in the stock center.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "strain_inventory"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2013-03-29T16:47:17Z"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "stored as"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/STRAININVENT_0000004",
+      "meta" : {
+        "definition" : {
+          "val" : "Storage date for strain stock.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "strain_inventory"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "storage date"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/STRAININVENT_0000005",
+      "meta" : {
+        "definition" : {
+          "val" : "Number of vials used for this strain stock.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "strain_inventory"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "number of vials"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/STRAININVENT_0000006",
+      "meta" : {
+        "definition" : {
+          "val" : "Conditions that the strain is obtained in at the stock center.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "strain_inventory"
+        } ],
+        "deprecated" : true
+      },
+      "type" : "CLASS",
+      "lbl" : "obsolete obtained as"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/STRAININVENT_0000007",
+      "meta" : {
+        "definition" : {
+          "val" : "Private comments about the stored strain.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "strain_inventory"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "private comment"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/STRAININVENT_0000022",
+      "meta" : {
+        "definition" : {
+          "val" : "Physical location of stock materials stored in 96 well plates, frozen at -80 C.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "strain_inventory"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2017-01-26T16:16:15Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "Petra"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "96 well plate"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/STRAININVENT_0000001",
+      "meta" : {
+        "definition" : {
+          "val" : "An ontology to hold strain stock center inventory information.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "strain_inventory"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "strain_inventory"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/STRAININVENT_0000002",
+      "meta" : {
+        "definition" : {
+          "val" : "Physical location of strain stock in the stock center.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "strain_inventory"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "location"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/STRAININVENT_0000003",
+      "meta" : {
+        "definition" : {
+          "val" : "Color of stored vial.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "strain_inventory"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "color"
+    } ],
+    "edges" : [ {
+      "sub" : "http://purl.obolibrary.org/obo/STRAININVENT_0000010",
+      "pred" : "http://purl.obolibrary.org/obo/straininvent#has_vial",
+      "obj" : "http://purl.obolibrary.org/obo/STRAININVENT_0000005"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/STRAININVENT_0000008",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/STRAININVENT_0000001"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/STRAININVENT_0000004",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/STRAININVENT_0000001"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/STRAININVENT_0000012",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/STRAININVENT_0000002"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/STRAININVENT_0000020",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/STRAININVENT_0000003"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/STRAININVENT_0000016",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/STRAININVENT_0000003"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/STRAININVENT_0000011",
+      "pred" : "http://purl.obolibrary.org/obo/straininvent#has_vial",
+      "obj" : "http://purl.obolibrary.org/obo/STRAININVENT_0000005"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/STRAININVENT_0000009",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/STRAININVENT_0000001"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/STRAININVENT_0000005",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/STRAININVENT_0000001"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/STRAININVENT_0000013",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/STRAININVENT_0000002"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/STRAININVENT_0000021",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/STRAININVENT_0000003"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/STRAININVENT_0000017",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/STRAININVENT_0000003"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/STRAININVENT_0000012",
+      "pred" : "http://purl.obolibrary.org/obo/straininvent#has_vial",
+      "obj" : "http://purl.obolibrary.org/obo/STRAININVENT_0000005"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/STRAININVENT_0000002",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/STRAININVENT_0000001"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/STRAININVENT_0000010",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/STRAININVENT_0000002"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/STRAININVENT_0000018",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/STRAININVENT_0000003"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/STRAININVENT_0000013",
+      "pred" : "http://purl.obolibrary.org/obo/straininvent#has_vial",
+      "obj" : "http://purl.obolibrary.org/obo/STRAININVENT_0000005"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/STRAININVENT_0000007",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/STRAININVENT_0000001"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/STRAININVENT_0000003",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/STRAININVENT_0000001"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/STRAININVENT_0000011",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/STRAININVENT_0000002"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/STRAININVENT_0000019",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/STRAININVENT_0000003"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/STRAININVENT_0000015",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/STRAININVENT_0000003"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/STRAININVENT_0000014",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/STRAININVENT_0000001"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/STRAININVENT_0000022",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/STRAININVENT_0000002"
+    } ],
+    "id" : "http://purl.obolibrary.org/obo/straininvent.owl",
+    "meta" : {
+      "subsets" : [ ],
+      "xrefs" : [ ],
+      "basicPropertyValues" : [ {
+        "pred" : "http://purl.org/dc/elements/1.1/description",
+        "val" : "A structured controlled vocabulary of strain inventory of the slime-mold Dictyostelium discoideum."
+      }, {
+        "pred" : "http://purl.org/dc/elements/1.1/title",
+        "val" : "Dicty Strain Inventory Ontology (DDANAT)"
+      }, {
+        "pred" : "http://purl.org/dc/terms/license",
+        "val" : "http://creativecommons.org/publicdomain/zero/1.0/"
+      }, {
+        "pred" : "http://www.geneontology.org/formats/oboInOwl#auto-generated-by",
+        "val" : "OBO-Edit 2.2"
+      }, {
+        "pred" : "http://www.geneontology.org/formats/oboInOwl#date",
+        "val" : "02:10:2020 18:24"
+      }, {
+        "pred" : "http://www.geneontology.org/formats/oboInOwl#default-namespace",
+        "val" : "strain_inventory"
+      }, {
+        "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBOFormatVersion",
+        "val" : "1.2"
+      }, {
+        "pred" : "http://www.geneontology.org/formats/oboInOwl#saved-by",
+        "val" : "Petra"
+      } ]
+    },
+    "equivalentNodesSets" : [ ],
+    "logicalDefinitionAxioms" : [ ],
+    "domainRangeAxioms" : [ ],
+    "propertyChainAxioms" : [ ]
+  } ]
+}

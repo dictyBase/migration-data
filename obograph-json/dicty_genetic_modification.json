@@ -1,0 +1,300 @@
+{
+  "graphs" : [ {
+    "nodes" : [ {
+      "id" : "http://purl.obolibrary.org/obo/DDGENMOD_0000008",
+      "meta" : {
+        "definition" : {
+          "val" : "Any fusion of two or more genes, or parts of genes, expressed from a plasmid or under the control of a promoter other than any of the participating genes' promoters.",
+          "xrefs" : [ "DDB:PF" ]
+        },
+        "synonyms" : [ {
+          "pred" : "hasNarrowSynonym",
+          "val" : "chimera",
+          "xrefs" : [ ]
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "genetic modification"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "exogenous insertion"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDGENMOD_0000007",
+      "meta" : {
+        "definition" : {
+          "val" : "Any gene expressed from a plasmid or under the control of a promoter other than its own promoter.",
+          "xrefs" : [ "DDB:PF" ]
+        },
+        "synonyms" : [ {
+          "pred" : "hasRelatedSynonym",
+          "val" : "transgene",
+          "xrefs" : [ ]
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "genetic modification"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "exogenous mutation"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDGENMOD_0000006",
+      "meta" : {
+        "definition" : {
+          "val" : "One or more mutations in the gene sequence resulting in the replacement of an equivalent number of residues in the gene product sequence. Substitution mutations can result in missense mutations, nonsense mutations or silent mutations.",
+          "xrefs" : [ "DDB:PF" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "genetic modification"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "endogenous substitution"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDGENMOD_0000005",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "genetic modification"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "exogenous deletion with insertion"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDGENMOD_0000009",
+      "meta" : {
+        "definition" : {
+          "val" : "Any gene expressed from a plasmid or under the control of a promoter other than its own promoter with a mutation in its sequence resulting in the replacement of an equivalent number of residues in the gene product sequence.",
+          "xrefs" : [ "DDB:PF" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "genetic modification"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "exogenous substitution"
+    }, {
+      "id" : "http://www.geneontology.org/formats/oboInOwl#hasDbXref",
+      "type" : "PROPERTY",
+      "lbl" : "database_cross_reference"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDGENMOD_0000011",
+      "meta" : {
+        "definition" : {
+          "val" : "The removal of one or more nucleotides in a gene sequence with the simultaneous addition of one or more nucleotides of different origin in the gene sequence.",
+          "xrefs" : [ "DDB:PF" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "genetic modification"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "endogenous deletion with insertion"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDGENMOD_0000010",
+      "meta" : {
+        "definition" : {
+          "val" : "Any gene expressed from a plasmid or under the control of a promoter other than its own promoter with the removal of one or more nucleotides in its gene sequence.",
+          "xrefs" : [ "DDB:PF" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "genetic modification"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "exogenous deletion"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDGENMOD_0000004",
+      "meta" : {
+        "definition" : {
+          "val" : "The addition of one or more nucleotides in the gene sequence.",
+          "xrefs" : [ "DDB:PF" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "genetic modification"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "endogenous insertion"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDGENMOD_0000003",
+      "meta" : {
+        "definition" : {
+          "val" : "The removal of one or more nucleotides in a gene sequence.",
+          "xrefs" : [ "DDB:PF" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "genetic modification"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "endogenous deletion"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDGENMOD_0000002",
+      "meta" : {
+        "definition" : {
+          "val" : "Any mutation in the genomic sequence of a gene.",
+          "xrefs" : [ "DDB:PF" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "genetic modification"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "endogenous mutation"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDGENMOD_0000012",
+      "meta" : {
+        "definition" : {
+          "val" : "The addition of one or more nucleotides in the genomic sequence.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "Petra"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "genetic modification"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2017-12-18T12:03:57Z"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "genomic insertion"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDGENMOD_0000001",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "genetic modification"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "genetic modification"
+    }, {
+      "id" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+      "type" : "PROPERTY",
+      "lbl" : "has_obo_namespace"
+    }, {
+      "id" : "http://www.geneontology.org/formats/oboInOwl#hasOBOFormatVersion",
+      "type" : "PROPERTY",
+      "lbl" : "has_obo_format_version"
+    }, {
+      "id" : "http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym",
+      "type" : "PROPERTY",
+      "lbl" : "has_related_synonym"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/IAO_0000115",
+      "type" : "PROPERTY",
+      "lbl" : "definition"
+    }, {
+      "id" : "http://www.geneontology.org/formats/oboInOwl#hasNarrowSynonym",
+      "type" : "PROPERTY",
+      "lbl" : "has_narrow_synonym"
+    } ],
+    "edges" : [ {
+      "sub" : "http://purl.obolibrary.org/obo/DDGENMOD_0000008",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDGENMOD_0000012"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDGENMOD_0000004",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDGENMOD_0000012"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDGENMOD_0000012",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDGENMOD_0000001"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDGENMOD_0000006",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDGENMOD_0000002"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDGENMOD_0000005",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDGENMOD_0000008"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDGENMOD_0000008",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDGENMOD_0000007"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDGENMOD_0000005",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDGENMOD_0000010"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDGENMOD_0000003",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDGENMOD_0000002"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDGENMOD_0000011",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDGENMOD_0000003"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDGENMOD_0000002",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDGENMOD_0000001"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDGENMOD_0000009",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDGENMOD_0000007"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDGENMOD_0000011",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDGENMOD_0000004"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDGENMOD_0000004",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDGENMOD_0000002"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDGENMOD_0000010",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDGENMOD_0000007"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDGENMOD_0000007",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDGENMOD_0000001"
+    } ],
+    "id" : "http://purl.obolibrary.org/obo/ddgenmod.owl",
+    "meta" : {
+      "subsets" : [ ],
+      "xrefs" : [ ],
+      "basicPropertyValues" : [ {
+        "pred" : "http://purl.org/dc/elements/1.1/description",
+        "val" : "A structured controlled vocabulary of genetic modifications of the slime-mold Dictyostelium discoideum."
+      }, {
+        "pred" : "http://purl.org/dc/elements/1.1/title",
+        "val" : "Dicty genetic modifiction (DDGENMOD)"
+      }, {
+        "pred" : "http://purl.org/dc/terms/license",
+        "val" : "http://creativecommons.org/publicdomain/zero/1.0/"
+      }, {
+        "pred" : "http://www.geneontology.org/formats/oboInOwl#auto-generated-by",
+        "val" : "OBO-Edit 2.2"
+      }, {
+        "pred" : "http://www.geneontology.org/formats/oboInOwl#date",
+        "val" : "18:12:2017 12:09"
+      }, {
+        "pred" : "http://www.geneontology.org/formats/oboInOwl#default-namespace",
+        "val" : "genetic modification"
+      }, {
+        "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBOFormatVersion",
+        "val" : "1.2"
+      }, {
+        "pred" : "http://www.geneontology.org/formats/oboInOwl#saved-by",
+        "val" : "Petra"
+      } ]
+    },
+    "equivalentNodesSets" : [ ],
+    "logicalDefinitionAxioms" : [ ],
+    "domainRangeAxioms" : [ ],
+    "propertyChainAxioms" : [ ]
+  } ]
+}

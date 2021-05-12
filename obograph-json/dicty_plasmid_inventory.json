@@ -1,0 +1,411 @@
+{
+  "graphs" : [ {
+    "nodes" : [ {
+      "id" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000011",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2017-01-26T16:47:40Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "plasmid_inventory"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "Petra"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "green"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000010",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2017-01-26T16:47:29Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "Petra"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "plasmid_inventory"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "red"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000002",
+      "meta" : {
+        "definition" : {
+          "val" : "Physical location of the plasmid in the stock center.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "plasmid_inventory"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2013-03-29T17:06:33Z"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "location"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000013",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "Petra"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2017-01-26T16:48:00Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "plasmid_inventory"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "yellow"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000001",
+      "meta" : {
+        "definition" : {
+          "val" : "An ontology to hold stock center plasmid inventory information.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "plasmid_inventory"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2013-03-29T17:04:31Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "plasmid inventory"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000012",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "plasmid_inventory"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "Petra"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2017-01-26T16:47:50Z"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "blue"
+    }, {
+      "id" : "http://www.geneontology.org/formats/oboInOwl#hasDbXref",
+      "type" : "PROPERTY",
+      "lbl" : "database_cross_reference"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000008",
+      "meta" : {
+        "definition" : {
+          "val" : "Conditions the obtained plasmid is stored in the stock center.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "plasmid_inventory"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2013-03-29T17:41:48Z"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "stored as"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000007",
+      "meta" : {
+        "definition" : {
+          "val" : "Conditions that the plasmid is obtained in at the stock center.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "plasmid_inventory"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2013-03-29T17:40:45Z"
+        } ],
+        "deprecated" : true
+      },
+      "type" : "CLASS",
+      "lbl" : "obsolete obtained as"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000009",
+      "meta" : {
+        "definition" : {
+          "val" : "The person who stores the strain.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "plasmid_inventory"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2016-04-26T16:27:16Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "Petra"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "stored by"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000015",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2017-01-26T16:48:19Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "plasmid_inventory"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "Petra"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "pink"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000004",
+      "meta" : {
+        "definition" : {
+          "val" : "Storage date for plasmid.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2013-03-29T17:09:59Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "plasmid_inventory"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "storage date"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000014",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "plasmid_inventory"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2017-01-26T16:48:10Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "Petra"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "white"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000003",
+      "meta" : {
+        "definition" : {
+          "val" : "Color of stored vial.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "plasmid_inventory"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2013-03-29T17:08:49Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "color"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000006",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "plasmid_inventory"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2013-03-29T17:13:11Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "public comment"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000016",
+      "meta" : {
+        "comments" : [ "A clear Microcentrifuge tube to store DNA solutions." ],
+        "synonyms" : [ {
+          "pred" : "hasRelatedSynonym",
+          "val" : "MC vial color",
+          "xrefs" : [ ]
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2017-01-26T16:48:29Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "Petra"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "plasmid_inventory"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "clear"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000005",
+      "meta" : {
+        "definition" : {
+          "val" : "Private comment about the plasmid.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "plasmid_inventory"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2013-03-29T17:11:08Z"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "private comment"
+    }, {
+      "id" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+      "type" : "PROPERTY",
+      "lbl" : "has_obo_namespace"
+    }, {
+      "id" : "http://www.geneontology.org/formats/oboInOwl#hasOBOFormatVersion",
+      "type" : "PROPERTY",
+      "lbl" : "has_obo_format_version"
+    }, {
+      "id" : "http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym",
+      "type" : "PROPERTY",
+      "lbl" : "has_related_synonym"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/IAO_0000115",
+      "type" : "PROPERTY",
+      "lbl" : "definition"
+    } ],
+    "edges" : [ {
+      "sub" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000006",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000001"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000002",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000001"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000015",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000003"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000011",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000003"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000009",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000001"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000005",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000001"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000014",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000003"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000010",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000003"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000008",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000001"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000004",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000001"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000013",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000003"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000003",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000001"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000016",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000003"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000012",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000003"
+    } ],
+    "id" : "http://purl.obolibrary.org/obo/plasmidinvent.owl",
+    "meta" : {
+      "subsets" : [ ],
+      "xrefs" : [ ],
+      "basicPropertyValues" : [ {
+        "pred" : "http://purl.org/dc/elements/1.1/description",
+        "val" : "A structured controlled vocabulary of plasmid inventory of the slime-mold Dictyostelium discoideum."
+      }, {
+        "pred" : "http://purl.org/dc/elements/1.1/title",
+        "val" : "Dicty plasmid inventory (PLASMIDINVENT)"
+      }, {
+        "pred" : "http://purl.org/dc/terms/license",
+        "val" : "http://creativecommons.org/publicdomain/zero/1.0/"
+      }, {
+        "pred" : "http://www.geneontology.org/formats/oboInOwl#auto-generated-by",
+        "val" : "OBO-Edit 2.2"
+      }, {
+        "pred" : "http://www.geneontology.org/formats/oboInOwl#date",
+        "val" : "02:10:2020 18:27"
+      }, {
+        "pred" : "http://www.geneontology.org/formats/oboInOwl#default-namespace",
+        "val" : "plasmid_inventory"
+      }, {
+        "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBOFormatVersion",
+        "val" : "1.2"
+      }, {
+        "pred" : "http://www.geneontology.org/formats/oboInOwl#saved-by",
+        "val" : "Petra"
+      } ]
+    },
+    "equivalentNodesSets" : [ ],
+    "logicalDefinitionAxioms" : [ ],
+    "domainRangeAxioms" : [ ],
+    "propertyChainAxioms" : [ ]
+  } ]
+}

@@ -1,0 +1,1195 @@
+{
+  "graphs" : [ {
+    "nodes" : [ {
+      "id" : "http://purl.obolibrary.org/obo/DDSTORCON_0000028",
+      "meta" : {
+        "definition" : {
+          "val" : "An SM agar plate containing the selective drug neomycin or G418.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "storage_conditions"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2013-07-30T16:23:27Z"
+        } ],
+        "deprecated" : true
+      },
+      "type" : "CLASS",
+      "lbl" : "obsolete SM + Neo plate"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTORCON_0000027",
+      "meta" : {
+        "definition" : {
+          "val" : "An SM/5 agar plate with charcoal added to promote development.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "storage_conditions"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2013-07-30T16:22:15Z"
+        } ],
+        "deprecated" : true
+      },
+      "type" : "CLASS",
+      "lbl" : "obsolete SM/5 + charcoal plate"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTORCON_0000029",
+      "meta" : {
+        "definition" : {
+          "val" : "An SM/5 agar plate containing the selective drug neomycin or G418.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2013-07-30T16:25:26Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "storage_conditions"
+        } ],
+        "deprecated" : true
+      },
+      "type" : "CLASS",
+      "lbl" : "obsolete SM/5 + Neo plate"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTORCON_0000024",
+      "meta" : {
+        "definition" : {
+          "val" : "A plate to culture cells.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2013-07-30T16:11:38Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "storage_conditions"
+        } ],
+        "deprecated" : true
+      },
+      "type" : "CLASS",
+      "lbl" : "obsolete agar plate"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTORCON_0000023",
+      "meta" : {
+        "definition" : {
+          "val" : "An SM agar plate with only a fifth of the glucose and bacto peptone of the original recipe  to grow Dictyostelid strains.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2013-07-30T16:07:15Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "storage_conditions"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        } ],
+        "deprecated" : true
+      },
+      "type" : "CLASS",
+      "lbl" : "obsolete SM/5 plate"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTORCON_0000026",
+      "meta" : {
+        "definition" : {
+          "val" : "An SM agar plate with charcoal added to promote development.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "storage_conditions"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2013-07-30T16:15:57Z"
+        } ],
+        "deprecated" : true
+      },
+      "type" : "CLASS",
+      "lbl" : "obsolete SM + charcoal plate"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTORCON_0000025",
+      "meta" : {
+        "definition" : {
+          "val" : "An agar plate that has no nutrients for growth.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "synonyms" : [ {
+          "pred" : "hasRelatedSynonym",
+          "val" : "water agar",
+          "xrefs" : [ ]
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2013-07-30T16:13:29Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "storage_conditions"
+        } ],
+        "deprecated" : true
+      },
+      "type" : "CLASS",
+      "lbl" : "obsolete non-nutrient agar plate"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTORCON_0000031",
+      "meta" : {
+        "definition" : {
+          "val" : "A buffered lactose peptone agar less nutritious than most other media.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "storage_conditions"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2013-07-30T16:29:23Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        } ],
+        "deprecated" : true
+      },
+      "type" : "CLASS",
+      "lbl" : "obsolete LPB plate"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTORCON_0000030",
+      "meta" : {
+        "definition" : {
+          "val" : "An SM/5 agar plate containing the selective drug neomycin or G418  with charcoal added to promote development.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2013-07-30T16:26:16Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "storage_conditions"
+        } ],
+        "deprecated" : true
+      },
+      "type" : "CLASS",
+      "lbl" : "obsolete SM/5 + Neo + charcoal plate"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTORCON_0000033",
+      "meta" : {
+        "definition" : {
+          "val" : "An LP agar plate containing lactose and peptone to grow Dictyostelid strains.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2013-08-01T10:22:56Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "storage_conditions"
+        } ],
+        "deprecated" : true
+      },
+      "type" : "CLASS",
+      "lbl" : "obsolete LP plate"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTORCON_0000032",
+      "meta" : {
+        "definition" : {
+          "val" : "A non nutritious agar plate used for development of Dictyostelids.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "storage_conditions"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2013-07-30T17:04:27Z"
+        } ],
+        "deprecated" : true
+      },
+      "type" : "CLASS",
+      "lbl" : "obsolete KK2 plate"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/IAO_0000115",
+      "type" : "PROPERTY",
+      "lbl" : "definition"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTORCON_0000017",
+      "meta" : {
+        "definition" : {
+          "val" : "HL5 medium containing the selective drugs blasticidin and neomycin (G418), and supplemented with 20 ug/ml  uracil.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2013-07-30T12:19:31Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "storage_conditions"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        } ],
+        "deprecated" : true
+      },
+      "type" : "CLASS",
+      "lbl" : "obsolete HL5 medium + Bs + Neo + Ura"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTORCON_0000016",
+      "meta" : {
+        "definition" : {
+          "val" : "HL5 medium containing the selective drug blasticidin and supplemented with 20 ug/ml  uracil.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "storage_conditions"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2013-07-30T12:17:37Z"
+        } ],
+        "deprecated" : true
+      },
+      "type" : "CLASS",
+      "lbl" : "obsolete HL5 medium + Bs + Ura"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTORCON_0000019",
+      "meta" : {
+        "definition" : {
+          "val" : "HL5 medium containing the selective drug neomycin or G418 and supplemented with 100 ug/ml  thymidine.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "storage_conditions"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2013-07-30T12:23:41Z"
+        } ],
+        "deprecated" : true
+      },
+      "type" : "CLASS",
+      "lbl" : "obsolete HL5 medium + Neo + Thy"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTORCON_0000018",
+      "meta" : {
+        "definition" : {
+          "val" : "HL5 medium supplemented with 100 ug/ml  thymidine.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "storage_conditions"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2013-07-30T12:20:57Z"
+        } ],
+        "deprecated" : true
+      },
+      "type" : "CLASS",
+      "lbl" : "obsolete HL5 medium + Thy"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTORCON_0000013",
+      "meta" : {
+        "definition" : {
+          "val" : "HL5 medium containing the selective drugs blasticidin and hygromycin.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2013-07-30T11:47:20Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "storage_conditions"
+        } ],
+        "deprecated" : true
+      },
+      "type" : "CLASS",
+      "lbl" : "obsolete HL5 medium + Bs + Hyg"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTORCON_0000012",
+      "meta" : {
+        "definition" : {
+          "val" : "HL5 medium containing the selective drug hygromycin.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2013-07-30T11:45:36Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "storage_conditions"
+        } ],
+        "deprecated" : true
+      },
+      "type" : "CLASS",
+      "lbl" : "obsolete HL5 medium + Hyg"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTORCON_0000015",
+      "meta" : {
+        "definition" : {
+          "val" : "HL5 medium containing the selective drug neomycin or G418 and supplemented with 20 ug/ml  uracil.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "storage_conditions"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2013-07-30T12:16:17Z"
+        } ],
+        "deprecated" : true
+      },
+      "type" : "CLASS",
+      "lbl" : "obsolete HL5 medium + Neo + Ura"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTORCON_0000014",
+      "meta" : {
+        "definition" : {
+          "val" : "HL5 medium supplemented with 20 ug/ml  uracil.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "storage_conditions"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2013-07-30T12:06:07Z"
+        } ],
+        "deprecated" : true
+      },
+      "type" : "CLASS",
+      "lbl" : "obsolete HL5 medium + Ura"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTORCON_0000020",
+      "meta" : {
+        "definition" : {
+          "val" : "HL5 medium containing the selective drug hygromycin and supplemented with 100 ug/ml  thymidine.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2013-07-30T12:25:08Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "storage_conditions"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        } ],
+        "deprecated" : true
+      },
+      "type" : "CLASS",
+      "lbl" : "obsolete HL5 medium + Hyg + Thy"
+    }, {
+      "id" : "http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym",
+      "type" : "PROPERTY",
+      "lbl" : "has_related_synonym"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTORCON_0000022",
+      "meta" : {
+        "definition" : {
+          "val" : "An SM agar plate containing glucose and bacto peptone, named after it's creator Maurice Sussman and to grow Dictyostelid strains.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2013-07-30T14:09:00Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "storage_conditions"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        } ],
+        "deprecated" : true
+      },
+      "type" : "CLASS",
+      "lbl" : "obsolete SM plate"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTORCON_0000021",
+      "meta" : {
+        "definition" : {
+          "val" : "HL5 medium containing the selective drug blasticidin and supplemented with 100 ug/ml  thymidine.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2013-07-30T12:26:19Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "storage_conditions"
+        } ],
+        "deprecated" : true
+      },
+      "type" : "CLASS",
+      "lbl" : "obsolete HL5 medium + Bs + Thy"
+    }, {
+      "id" : "http://www.geneontology.org/formats/oboInOwl#hasNarrowSynonym",
+      "type" : "PROPERTY",
+      "lbl" : "has_narrow_synonym"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTORCON_0000006",
+      "meta" : {
+        "definition" : {
+          "val" : "Storage of Dictyostelid cells in HL5, supplemented with 5% DMSO, stored frozen in liquid nitrogen.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2013-07-30T11:23:34Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "storage_conditions"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "Dicty stock"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTORCON_0000049",
+      "meta" : {
+        "definition" : {
+          "val" : "A plasmid stored  in the bacterial host DB3.1, frozen at -80 C.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "storage_conditions"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2013-08-01T11:37:29Z"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "DB3.1"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTORCON_0000005",
+      "meta" : {
+        "definition" : {
+          "val" : "A plasmid in a bacterial host or stored as DNA solution, stored frozen.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "storage_conditions"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2013-07-30T11:21:57Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "plasmid stock"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTORCON_0000008",
+      "meta" : {
+        "definition" : {
+          "val" : "A rich broth used to grow axenic Dictyostelium strains.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "storage_conditions"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2013-07-30T11:26:52Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        } ],
+        "deprecated" : true
+      },
+      "type" : "CLASS",
+      "lbl" : "obsolete HL5 medium"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTORCON_0000007",
+      "meta" : {
+        "definition" : {
+          "val" : "Dictyostelid received or stored as spores.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "storage_conditions"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2013-07-30T11:24:41Z"
+        } ],
+        "deprecated" : true
+      },
+      "type" : "CLASS",
+      "lbl" : "obsolete spores"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTORCON_0000002",
+      "meta" : {
+        "definition" : {
+          "val" : "A bacterial plate grown with bacteria serving as a food source for a Dictyostelid strain.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2013-07-30T11:00:16Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "storage_conditions"
+        } ],
+        "deprecated" : true
+      },
+      "type" : "CLASS",
+      "lbl" : "obsolete bacterial plate"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTORCON_0000046",
+      "meta" : {
+        "definition" : {
+          "val" : "A plasmid stored in the bacterial host XL10-Gold, frozen at -80 C.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "storage_conditions"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2013-08-01T11:35:50Z"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "XL10-Gold"
+    }, {
+      "id" : "http://www.geneontology.org/formats/oboInOwl#hasExactSynonym",
+      "type" : "PROPERTY",
+      "lbl" : "has_exact_synonym"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTORCON_0000045",
+      "meta" : {
+        "definition" : {
+          "val" : "A plasmid stored in the bacterial host DH10B, frozen at -80 C.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "storage_conditions"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2013-08-01T11:35:38Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "DH10B"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTORCON_0000001",
+      "meta" : {
+        "definition" : {
+          "val" : "Conditions strains and plasmids are stored at the DSC.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "storage_conditions"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "Storage Condition"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTORCON_0000048",
+      "meta" : {
+        "definition" : {
+          "val" : "A plasmid stored in the bacterial host STBL2, frozen at -80 C.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "storage_conditions"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2013-08-01T11:36:19Z"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "STBL2"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTORCON_0000004",
+      "meta" : {
+        "definition" : {
+          "val" : "A plasmid stored as DNA solution in a tube, frozen at -20 C.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "storage_conditions"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2013-07-30T11:20:16Z"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "DNA"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTORCON_0000003",
+      "meta" : {
+        "definition" : {
+          "val" : "A liquid medium used to grow axenic Dictyostelium strains.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "synonyms" : [ {
+          "pred" : "hasNarrowSynonym",
+          "val" : "frozen HL5 medium",
+          "xrefs" : [ ]
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "storage_conditions"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2013-07-30T11:03:53Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        } ],
+        "deprecated" : true
+      },
+      "type" : "CLASS",
+      "lbl" : "obsolete axenic medium"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTORCON_0000047",
+      "meta" : {
+        "definition" : {
+          "val" : "A plasmid stored in the bacterial host BL21-Gold, frozen at -80 C.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2013-08-01T11:36:05Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "storage_conditions"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "BL21-Gold"
+    }, {
+      "id" : "http://www.geneontology.org/formats/oboInOwl#hasDbXref",
+      "type" : "PROPERTY",
+      "lbl" : "database_cross_reference"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTORCON_0000009",
+      "meta" : {
+        "definition" : {
+          "val" : "HL5 medium containing the selective drug blasticidin.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "storage_conditions"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2013-07-30T11:28:25Z"
+        } ],
+        "deprecated" : true
+      },
+      "type" : "CLASS",
+      "lbl" : "obsolete HL5 medium + Bs"
+    }, {
+      "id" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+      "type" : "PROPERTY",
+      "lbl" : "has_obo_namespace"
+    }, {
+      "id" : "http://www.geneontology.org/formats/oboInOwl#hasOBOFormatVersion",
+      "type" : "PROPERTY",
+      "lbl" : "has_obo_format_version"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTORCON_0000011",
+      "meta" : {
+        "definition" : {
+          "val" : "HL5 medium containing the selective drugs blasticidin and neomycin (G418).",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2013-07-30T11:43:05Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "storage_conditions"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        } ],
+        "deprecated" : true
+      },
+      "type" : "CLASS",
+      "lbl" : "obsolete HL5 medium + Bs + Neo"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTORCON_0000010",
+      "meta" : {
+        "definition" : {
+          "val" : "HL5 medium containing the selective drug neomycin or G418.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2013-07-30T11:30:37Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "storage_conditions"
+        } ],
+        "deprecated" : true
+      },
+      "type" : "CLASS",
+      "lbl" : "obsolete HL5 medium + Neo"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTORCON_0000051",
+      "meta" : {
+        "definition" : {
+          "val" : "Axenically grown cells stored frozen in HL5 supplemented with 5% DMSO.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "storage_conditions"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "Petra"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2016-03-21T16:27:06Z"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "axenic cells"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTORCON_0000050",
+      "meta" : {
+        "definition" : {
+          "val" : "A plasmid stored in the bacterial host ES28, frozen at -80 C.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2013-08-01T11:37:43Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "storage_conditions"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "ES28"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTORCON_0000039",
+      "meta" : {
+        "definition" : {
+          "val" : "Bacterially grown cells that sporulated, spores stored frozen in HL5 supplemented with 5% DMSO.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "storage_conditions"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2013-08-01T11:28:08Z"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "spores"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTORCON_0000038",
+      "meta" : {
+        "definition" : {
+          "val" : "Bacterially grown cells stored frozen in HL5 supplemented with 5% DMSO.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "synonyms" : [ {
+          "pred" : "hasExactSynonym",
+          "val" : "frozen bacterially grown cells",
+          "xrefs" : [ ]
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "storage_conditions"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2013-08-01T11:26:48Z"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "cells"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTORCON_0000035",
+      "meta" : {
+        "definition" : {
+          "val" : "An LP agar plate with only half of the lactose and  peptone of the original recipe to grow Dictyostelid strains.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2013-08-01T11:19:00Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "storage_conditions"
+        } ],
+        "deprecated" : true
+      },
+      "type" : "CLASS",
+      "lbl" : "obsolete LP/2 plate"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTORCON_0000034",
+      "meta" : {
+        "definition" : {
+          "val" : "An LP agar plate with charcoal added to promote development.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2013-08-01T10:23:27Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "storage_conditions"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        } ],
+        "deprecated" : true
+      },
+      "type" : "CLASS",
+      "lbl" : "obsolete LP + charcoal plate"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTORCON_0000037",
+      "meta" : {
+        "definition" : {
+          "val" : "An SM agar plate containing the selective drug neomycin or G418  with charcoal added to promote development.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "storage_conditions"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2013-08-01T11:25:18Z"
+        } ],
+        "deprecated" : true
+      },
+      "type" : "CLASS",
+      "lbl" : "obsolete SM + Neo + charcoal plate"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTORCON_0000036",
+      "meta" : {
+        "definition" : {
+          "val" : "An LP/2 agar plate with charcoal added to promote development.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2013-08-01T11:19:44Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "storage_conditions"
+        } ],
+        "deprecated" : true
+      },
+      "type" : "CLASS",
+      "lbl" : "obsolete LP/2 + charcoal plate"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTORCON_0000042",
+      "meta" : {
+        "definition" : {
+          "val" : "A plasmid stored in the bacterial host DH5alpha, frozen at -80 C.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "storage_conditions"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2013-08-01T11:34:34Z"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "DH5alpha"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTORCON_0000041",
+      "meta" : {
+        "definition" : {
+          "val" : "A plasmid stored in the bacterial host XL1-Blue, frozen at -80 C.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "storage_conditions"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2013-08-01T11:34:16Z"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "XL1-Blue"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTORCON_0000044",
+      "meta" : {
+        "definition" : {
+          "val" : "A plasmid stored in the bacterial host TOP10, frozen at -80 C.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2013-08-01T11:35:24Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "storage_conditions"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "TOP10"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTORCON_0000043",
+      "meta" : {
+        "definition" : {
+          "val" : "A plasmid stored in the bacterial host SURE, frozen at -80 C.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2013-08-01T11:35:11Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "storage_conditions"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "SURE"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTORCON_0000040",
+      "meta" : {
+        "definition" : {
+          "val" : "Dictyostelid spores received or stored on silica gel.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2013-08-01T11:29:10Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "storage_conditions"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        } ],
+        "deprecated" : true
+      },
+      "type" : "CLASS",
+      "lbl" : "obsolete silica spores"
+    } ],
+    "edges" : [ {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTORCON_0000041",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTORCON_0000005"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTORCON_0000006",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTORCON_0000001"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTORCON_0000050",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTORCON_0000005"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTORCON_0000051",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTORCON_0000006"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTORCON_0000005",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTORCON_0000001"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTORCON_0000004",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTORCON_0000005"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTORCON_0000039",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTORCON_0000006"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTORCON_0000048",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTORCON_0000005"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTORCON_0000038",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTORCON_0000006"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTORCON_0000049",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTORCON_0000005"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTORCON_0000046",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTORCON_0000005"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTORCON_0000047",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTORCON_0000005"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTORCON_0000044",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTORCON_0000005"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTORCON_0000045",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTORCON_0000005"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTORCON_0000042",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTORCON_0000005"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTORCON_0000043",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTORCON_0000005"
+    } ],
+    "id" : "http://purl.obolibrary.org/obo/ddstorcon.owl",
+    "meta" : {
+      "subsets" : [ ],
+      "xrefs" : [ ],
+      "basicPropertyValues" : [ {
+        "pred" : "http://purl.org/dc/elements/1.1/description",
+        "val" : "A structured controlled vocabulary of storage conditions of the slime-mold Dictyostelium discoideum."
+      }, {
+        "pred" : "http://purl.org/dc/elements/1.1/title",
+        "val" : "Dicty Storage Condition Ontology (DDANAT)"
+      }, {
+        "pred" : "http://purl.org/dc/terms/license",
+        "val" : "http://creativecommons.org/publicdomain/zero/1.0/"
+      }, {
+        "pred" : "http://www.geneontology.org/formats/oboInOwl#auto-generated-by",
+        "val" : "OBO-Edit 2.2"
+      }, {
+        "pred" : "http://www.geneontology.org/formats/oboInOwl#date",
+        "val" : "02:10:2020 18:15"
+      }, {
+        "pred" : "http://www.geneontology.org/formats/oboInOwl#default-namespace",
+        "val" : "storage_conditions"
+      }, {
+        "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBOFormatVersion",
+        "val" : "1.2"
+      }, {
+        "pred" : "http://www.geneontology.org/formats/oboInOwl#saved-by",
+        "val" : "Petra"
+      } ]
+    },
+    "equivalentNodesSets" : [ ],
+    "logicalDefinitionAxioms" : [ ],
+    "domainRangeAxioms" : [ ],
+    "propertyChainAxioms" : [ ]
+  } ]
+}

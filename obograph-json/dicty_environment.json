@@ -1,0 +1,1415 @@
+{
+  "graphs" : [ {
+    "nodes" : [ {
+      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000009",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Environment"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "in the presence of an ion chelator"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000052",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Environment"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2014-11-13T15:47:22Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "during the life cycle"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000053",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Environment"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2014-11-13T15:50:01Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "in or on medium or solution"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000054",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Environment"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2014-11-13T15:52:27Z"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "in the presence of biotic or abiotic stimulus"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000010",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Environment"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "in the presence of lithium"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000055",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Environment"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2014-11-13T15:53:39Z"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "in the absence of biotic or abiotic stimulus"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000011",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://purl.obolibrary.org/obo/IAO_0000231",
+          "val" : "http://purl.obolibrary.org/obo/IAO_0000227"
+        }, {
+          "pred" : "http://purl.obolibrary.org/obo/IAO_0100001",
+          "val" : "http://purl.obolibrary.org/obo/DDENVIR_0000045"
+        } ],
+        "deprecated" : true
+      },
+      "type" : "CLASS"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000050",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2014-10-06T16:41:27Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Environment"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "during sporulation"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000051",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Environment"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2014-11-06T17:25:06Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "in the presence of naringenin"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000016",
+      "meta" : {
+        "synonyms" : [ {
+          "pred" : "hasExactSynonym",
+          "val" : "cyclic AMP stimulation",
+          "xrefs" : [ ]
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Environment"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "during cAMP stimulation"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000017",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Environment"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "in the presence of thiabendazole"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000018",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Environment"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "in the presence of miconazole"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000019",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Environment"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "in the presence of clotrimazole"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/IAO_0000115",
+      "type" : "PROPERTY",
+      "lbl" : "definition"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000056",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Environment"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2014-11-13T15:55:01Z"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "in liquid medium"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000012",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Environment"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "at high temperature"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000057",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2014-11-13T15:55:40Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Environment"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "on or under solid medium"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000013",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Environment"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "at high cell density"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000058",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Environment"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2014-11-13T16:00:25Z"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "in the presence of latrunculin"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000014",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Environment"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "in the presence of gossypol"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000059",
+      "meta" : {
+        "synonyms" : [ {
+          "pred" : "hasNarrowSynonym",
+          "val" : "in the presence of the autocrine factor  rCfaD",
+          "xrefs" : [ ]
+        }, {
+          "pred" : "hasNarrowSynonym",
+          "val" : "in the presence of the autocrine factor rAprA",
+          "xrefs" : [ ]
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2015-01-09T14:10:05Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Environment"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "in the presence of  proliferation inhibitor"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000015",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Environment"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "in the presence of tetracycline"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000063",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Environment"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "Petra"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2015-06-08T16:37:07Z"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "during chimeric development"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000064",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Environment"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "Petra"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2015-06-08T16:41:12Z"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "during chimeric early development"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000020",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Environment"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "in the presence of econazole"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000065",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "Petra"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2015-06-08T16:41:37Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Environment"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "during chimeric late development"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000021",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Environment"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "in the presence of cycloheximide"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000066",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "Petra"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2015-06-16T17:32:06Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Environment"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "after detergent treatment"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000022",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Environment"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "in the presence of actinomycin D"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000060",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2015-01-09T14:20:12Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Environment"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "under agarose overlay"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000061",
+      "meta" : {
+        "synonyms" : [ {
+          "pred" : "hasBroadSynonym",
+          "val" : "during bacterial infection",
+          "xrefs" : [ ]
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2015-05-06T16:00:37Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "Petra"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Environment"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "in the presence of pathogenic bacterium"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000062",
+      "meta" : {
+        "synonyms" : [ {
+          "pred" : "hasExactSynonym",
+          "val" : "on soil medium",
+          "xrefs" : [ ]
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "Petra"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2015-05-07T15:48:39Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Environment"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "on soil plate"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000027",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Environment"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "in buffer"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000028",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Environment"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "in water"
+    }, {
+      "id" : "http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym",
+      "type" : "PROPERTY",
+      "lbl" : "has_related_synonym"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000029",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Environment"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "on non-nutrient agar"
+    }, {
+      "id" : "http://www.geneontology.org/formats/oboInOwl#hasBroadSynonym",
+      "type" : "PROPERTY",
+      "lbl" : "has_broad_synonym"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000023",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Environment"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "in the presence of G418"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000067",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Environment"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2015-06-18T17:04:13Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "Petra"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "in solution"
+    }, {
+      "id" : "http://www.geneontology.org/formats/oboInOwl#hasNarrowSynonym",
+      "type" : "PROPERTY",
+      "lbl" : "has_narrow_synonym"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000068",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2016-02-02T14:04:45Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Environment"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "Petra"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "in the presence of rapamycin"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000024",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Environment"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "in the presence of zearalenone"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000025",
+      "meta" : {
+        "synonyms" : [ {
+          "pred" : "hasNarrowSynonym",
+          "val" : "in the presence of  LY294002",
+          "xrefs" : [ ]
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Environment"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "in the presence of  PI3K inhibitor"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000069",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2017-03-09T14:53:57Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Environment"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "Petra"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "on Micrococcus luteus lawn"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000026",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Environment"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "during starvation"
+    }, {
+      "id" : "http://www.geneontology.org/formats/oboInOwl#hasExactSynonym",
+      "type" : "PROPERTY",
+      "lbl" : "has_exact_synonym"
+    }, {
+      "id" : "http://www.geneontology.org/formats/oboInOwl#hasDbXref",
+      "type" : "PROPERTY",
+      "lbl" : "database_cross_reference"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000074",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Environment"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "Petra"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2019-03-29T14:16:13Z"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "under atmospheric condition"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000030",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Environment"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "on filter"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000075",
+      "meta" : {
+        "synonyms" : [ {
+          "pred" : "hasExactSynonym",
+          "val" : "decreased oxygen level",
+          "xrefs" : [ ]
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Environment"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "Petra"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2019-03-29T14:16:54Z"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "in hypoxia"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000031",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Environment"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "in the presence of DIF-1"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000076",
+      "meta" : {
+        "synonyms" : [ {
+          "pred" : "hasExactSynonym",
+          "val" : "in the presence of K+",
+          "xrefs" : [ ]
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Environment"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2020-12-08T17:35:50Z"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "in the presence of potassium"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000032",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Environment"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "in the presence of EGTA"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000033",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Environment"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "in the presence of EDTA"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000070",
+      "meta" : {
+        "synonyms" : [ {
+          "pred" : "hasExactSynonym",
+          "val" : " on Klebsiella pneumoniae lawn",
+          "xrefs" : [ ]
+        }, {
+          "pred" : "hasExactSynonym",
+          "val" : "on K. aerogenes lawn",
+          "xrefs" : [ ]
+        }, {
+          "pred" : "hasExactSynonym",
+          "val" : "on Aerobacter aerogenes lawn",
+          "xrefs" : [ ]
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2017-03-09T15:02:09Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Environment"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "Petra"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "on Klebsiella aerogenes lawn"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000071",
+      "meta" : {
+        "synonyms" : [ {
+          "pred" : "hasRelatedSynonym",
+          "val" : "on B. subtilis lawn",
+          "xrefs" : [ ]
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "Petra"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2017-03-09T15:05:20Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Environment"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "on Bacillus subtilis lawn"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000072",
+      "meta" : {
+        "synonyms" : [ {
+          "pred" : "hasExactSynonym",
+          "val" : "on E. coli lawn",
+          "xrefs" : [ ]
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2017-03-09T15:05:58Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "Petra"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Environment"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "on Escherichia coli lawn"
+    }, {
+      "id" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+      "type" : "PROPERTY",
+      "lbl" : "has_obo_namespace"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000073",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2017-10-25T16:57:19Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "Petra"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Environment"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "during growth with palmitic acid treatment"
+    }, {
+      "id" : "http://www.geneontology.org/formats/oboInOwl#hasOBOFormatVersion",
+      "type" : "PROPERTY",
+      "lbl" : "has_obo_format_version"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000038",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Environment"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "in the presence of 8-Br-cAMP"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000039",
+      "meta" : {
+        "synonyms" : [ {
+          "pred" : "hasExactSynonym",
+          "val" : "in non-nutrient buffer",
+          "xrefs" : [ ]
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Environment"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasAlternativeId",
+          "val" : "DDENVIR:0000046"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "submerged in buffer"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000034",
+      "meta" : {
+        "synonyms" : [ {
+          "pred" : "hasNarrowSynonym",
+          "val" : "in the absense of EDTA",
+          "xrefs" : [ ]
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Environment"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "in the absence of EDTA"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000035",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Environment"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "in bacterial suspension"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000036",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Environment"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "in the absence of tetracycline"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000037",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Environment"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "during vegetative growth"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000041",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Environment"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "during aggregation"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000042",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Environment"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "during slug stage"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000043",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Environment"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "during culmination"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000044",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Environment"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "in the presence of DIF-2"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000040",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Environment"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "during development"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000005",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Environment"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "in acidic medium"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000049",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2013-12-16T16:49:54Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Environment"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "during folate stimulation"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000006",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Environment"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "at low cell density"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000007",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Environment"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "at low temperature"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000008",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Environment"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "on solid surfaces"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000001",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Environment"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "environmental condition"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000045",
+      "meta" : {
+        "synonyms" : [ {
+          "pred" : "hasExactSynonym",
+          "val" : "in the presence of Ca2+",
+          "xrefs" : [ ]
+        }, {
+          "pred" : "hasNarrowSynonym",
+          "val" : "in the presence of high Ca2+",
+          "xrefs" : [ ]
+        }, {
+          "pred" : "hasNarrowSynonym",
+          "val" : "in the presence of high calcium",
+          "xrefs" : [ ]
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasAlternativeId",
+          "val" : "DDENVIR:0000011"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Environment"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2012-10-03T16:59:59Z"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "in the presence of calcium"
+    }, {
+      "id" : "http://www.geneontology.org/formats/oboInOwl#hasAlternativeId",
+      "type" : "PROPERTY",
+      "lbl" : "has_alternative_id"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000002",
+      "meta" : {
+        "definition" : {
+          "val" : "Cells shaking in a medium.",
+          "xrefs" : [ "DDB:PF" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Environment"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "in suspension"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000046",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://purl.obolibrary.org/obo/IAO_0100001",
+          "val" : "http://purl.obolibrary.org/obo/DDENVIR_0000039"
+        }, {
+          "pred" : "http://purl.obolibrary.org/obo/IAO_0000231",
+          "val" : "http://purl.obolibrary.org/obo/IAO_0000227"
+        } ],
+        "deprecated" : true
+      },
+      "type" : "CLASS"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000047",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2013-02-14T16:00:42Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Environment"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "in conditioned medium"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000003",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Environment"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "in axenic medium"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000048",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2013-08-28T10:29:36Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Environment"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "in the presence of silicon"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000004",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Environment"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "on bacterial plate"
+    } ],
+    "edges" : [ {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000053",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000001"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000061",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000054"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000019",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000054"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000052",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000001"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000008",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000057"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000018",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000054"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000055",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000001"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000050",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000040"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000051",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000054"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000009",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000054"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000054",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000001"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000039",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000067"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000005",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000056"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000049",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000052"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000026",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000052"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000038",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000054"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000007",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000001"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000015",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000054"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000027",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000067"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000037",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000052"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000006",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000037"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000014",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000054"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000072",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000004"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000074",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000001"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000016",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000052"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000017",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000054"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000060",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000057"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000073",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000037"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000028",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000067"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000030",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000008"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000047",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000056"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000023",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000054"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000057",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000053"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000035",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000056"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000034",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000055"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000022",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000054"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000045",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000054"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000068",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000054"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000029",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000008"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000056",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000053"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000067",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000053"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000010",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000054"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000033",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000054"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000003",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000056"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000048",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000054"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000025",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000054"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000062",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000008"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000059",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000054"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000071",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000004"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000002",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000056"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000024",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000054"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000036",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000055"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000058",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000054"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000070",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000004"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000041",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000040"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000076",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000054"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000063",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000040"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000040",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000052"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000069",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000004"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000044",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000054"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000021",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000054"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000043",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000040"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000013",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000037"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000032",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000054"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000065",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000063"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000042",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000040"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000012",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000001"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000020",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000054"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000004",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000008"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000031",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000054"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000066",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000067"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000075",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000074"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000064",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000063"
+    } ],
+    "id" : "http://purl.obolibrary.org/obo/ddenvir.owl",
+    "meta" : {
+      "subsets" : [ ],
+      "xrefs" : [ ],
+      "basicPropertyValues" : [ {
+        "pred" : "http://purl.org/dc/elements/1.1/description",
+        "val" : "A structured controlled vocabulary of environment of the slime-mold Dictyostelium discoideum."
+      }, {
+        "pred" : "http://purl.org/dc/elements/1.1/title",
+        "val" : "Dicty environment (DDENVDIR)"
+      }, {
+        "pred" : "http://purl.org/dc/terms/license",
+        "val" : "http://creativecommons.org/publicdomain/zero/1.0/"
+      }, {
+        "pred" : "http://www.geneontology.org/formats/oboInOwl#auto-generated-by",
+        "val" : "OBO-Edit 2.2"
+      }, {
+        "pred" : "http://www.geneontology.org/formats/oboInOwl#date",
+        "val" : "08:12:2020 17:37"
+      }, {
+        "pred" : "http://www.geneontology.org/formats/oboInOwl#default-namespace",
+        "val" : "Dicty Environment"
+      }, {
+        "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBOFormatVersion",
+        "val" : "1.2"
+      }, {
+        "pred" : "http://www.geneontology.org/formats/oboInOwl#saved-by",
+        "val" : "pfey"
+      } ]
+    },
+    "equivalentNodesSets" : [ ],
+    "logicalDefinitionAxioms" : [ ],
+    "domainRangeAxioms" : [ ],
+    "propertyChainAxioms" : [ ]
+  } ]
+}

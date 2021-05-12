@@ -1,0 +1,1064 @@
+{
+  "graphs" : [ {
+    "nodes" : [ {
+      "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000058",
+      "meta" : {
+        "synonyms" : [ {
+          "pred" : "hasExactSynonym",
+          "val" : "mat1",
+          "xrefs" : [ ]
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "strain_characteristics"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2019-02-07T17:54:42Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "Petra"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "mating type I"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000014",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "strain_characteristics"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "multiple null mutant"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000057",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "Petra"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2019-02-05T14:36:45Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "strain_characteristics"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "sexual reproduction"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000013",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "strain_characteristics"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "null mutant"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000056",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "Petra"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2019-02-05T14:35:14Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "strain_characteristics"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "genetics"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000012",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "strain_characteristics"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "natural isolate"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000055",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "strain_characteristics"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2018-03-22T15:32:19Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "Petra"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "symbiotic farmer bacterium"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000011",
+      "meta" : {
+        "comments" : [ "Merged two terms as we should not make a difference and they have been quite randomly used in the past; temperature conditional mutant is a temperature sensitive mutant." ],
+        "xrefs" : [ {
+          "val" : "DDB:pf"
+        } ],
+        "synonyms" : [ {
+          "pred" : "hasNarrowSynonym",
+          "val" : "temperature conditional mutant",
+          "xrefs" : [ ]
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasAlternativeId",
+          "val" : "DDSTRAINCHAR:0000018"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "strain_characteristics"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "temperature sensitive mutant"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000010",
+      "meta" : {
+        "synonyms" : [ {
+          "pred" : "hasRelatedSynonym",
+          "val" : "dominant-negative mutant",
+          "xrefs" : [ ]
+        }, {
+          "pred" : "hasRelatedSynonym",
+          "val" : "dominant/negative mutant",
+          "xrefs" : [ ]
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "strain_characteristics"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "dominant negative mutant"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000054",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2018-03-22T15:14:55Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "strain_characteristics"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "Petra"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "bacterial strain"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000053",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "strain_characteristics"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2017-03-13T11:05:57Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "Petra"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "non-axenic"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000052",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "strain_characteristics"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2014-09-29T17:22:41Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "selection/resistance"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000051",
+      "meta" : {
+        "synonyms" : [ {
+          "pred" : "hasExactSynonym",
+          "val" : "5-FOA selection",
+          "xrefs" : [ ]
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "strain_characteristics"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2014-09-29T15:22:46Z"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "5-Fluoroorotic acid selection"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000050",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2014-03-26T11:07:42Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "strain_characteristics"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "bacterial food source"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000019",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "strain_characteristics"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "underexpressor"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000018",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://purl.obolibrary.org/obo/IAO_0000231",
+          "val" : "http://purl.obolibrary.org/obo/IAO_0000227"
+        }, {
+          "pred" : "http://purl.obolibrary.org/obo/IAO_0100001",
+          "val" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000011"
+        } ],
+        "deprecated" : true
+      },
+      "type" : "CLASS"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000017",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "strain_characteristics"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "FLAG-tagged"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000016",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "strain_characteristics"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "suppressor"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000015",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "strain_characteristics"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "overexpressor"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000059",
+      "meta" : {
+        "synonyms" : [ {
+          "pred" : "hasExactSynonym",
+          "val" : "mat2",
+          "xrefs" : [ ]
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "strain_characteristics"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2019-02-07T17:55:18Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "Petra"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "mating type II"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000025",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "strain_characteristics"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "GFP marked"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000024",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "strain_characteristics"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "thymidine auxotroph"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000023",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "strain_characteristics"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "multiple mutant"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000022",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "strain_characteristics"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "uracil auxotroph"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000021",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "strain_characteristics"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "cycloheximide resistant"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000020",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "strain_characteristics"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "phleomycin resistant"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000061",
+      "meta" : {
+        "synonyms" : [ {
+          "pred" : "hasExactSynonym",
+          "val" : "aequorin marked",
+          "xrefs" : [ ]
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "strain_characteristics"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "Petra"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2019-03-14T15:34:02Z"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "AEQ marked"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000060",
+      "meta" : {
+        "synonyms" : [ {
+          "pred" : "hasExactSynonym",
+          "val" : "mat3",
+          "xrefs" : [ ]
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "strain_characteristics"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "Petra"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2019-02-07T17:56:02Z"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "mating type III"
+    }, {
+      "id" : "http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym",
+      "type" : "PROPERTY",
+      "lbl" : "has_related_synonym"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000029",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "strain_characteristics"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "luciferase marked"
+    }, {
+      "id" : "http://www.geneontology.org/formats/oboInOwl#hasNarrowSynonym",
+      "type" : "PROPERTY",
+      "lbl" : "has_narrow_synonym"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000028",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "strain_characteristics"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "LacZ marked"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000027",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "strain_characteristics"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "YFP marked"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000026",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "strain_characteristics"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "RFP marked"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000036",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "strain_characteristics"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "CFP marked"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000035",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "strain_characteristics"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "marked"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000034",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "strain_characteristics"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "regulatable expressor"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000033",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "strain_characteristics"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "rescued"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000032",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "strain_characteristics"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "HA-tagged"
+    }, {
+      "id" : "http://www.geneontology.org/formats/oboInOwl#hasExactSynonym",
+      "type" : "PROPERTY",
+      "lbl" : "has_exact_synonym"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000031",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "strain_characteristics"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "Myc-tagged"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000030",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "strain_characteristics"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "His-tagged"
+    }, {
+      "id" : "http://www.geneontology.org/formats/oboInOwl#hasDbXref",
+      "type" : "PROPERTY",
+      "lbl" : "database_cross_reference"
+    }, {
+      "id" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+      "type" : "PROPERTY",
+      "lbl" : "has_obo_namespace"
+    }, {
+      "id" : "http://www.geneontology.org/formats/oboInOwl#hasOBOFormatVersion",
+      "type" : "PROPERTY",
+      "lbl" : "has_obo_format_version"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000039",
+      "meta" : {
+        "synonyms" : [ {
+          "pred" : "hasNarrowSynonym",
+          "val" : "gene replacement mutant",
+          "xrefs" : [ ]
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "strain_characteristics"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "knock-in"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000038",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "strain_characteristics"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "mutant"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000037",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "strain_characteristics"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "tagged"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000003",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "strain_characteristics"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "axenic"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000047",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "strain_characteristics"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "homozygous diploid"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000002",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "strain_characteristics"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "auxotroph"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000046",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "strain_characteristics"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "diploid"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000045",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "strain_characteristics"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "T7-tagged"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000001",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "strain_characteristics"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "strain characteristic"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000044",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "strain_characteristics"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "V5-tagged"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000043",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "strain_characteristics"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "TAP-tagged"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000042",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "strain_characteristics"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "catalytic dead"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000041",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "strain_characteristics"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "beta-glucoronidase marked"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000040",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "strain_characteristics"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "cre-lox mutant"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000009",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "strain_characteristics"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "constitutively active mutant"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000008",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "strain_characteristics"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "drug resistant"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000007",
+      "meta" : {
+        "synonyms" : [ {
+          "pred" : "hasExactSynonym",
+          "val" : "neoR",
+          "xrefs" : [ ]
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "strain_characteristics"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "neomycin resistant"
+    }, {
+      "id" : "http://www.geneontology.org/formats/oboInOwl#hasAlternativeId",
+      "type" : "PROPERTY",
+      "lbl" : "has_alternative_id"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000006",
+      "meta" : {
+        "synonyms" : [ {
+          "pred" : "hasExactSynonym",
+          "val" : "hygR",
+          "xrefs" : [ ]
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "strain_characteristics"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "hygromycin resistant"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000005",
+      "meta" : {
+        "synonyms" : [ {
+          "pred" : "hasExactSynonym",
+          "val" : "bleR",
+          "xrefs" : [ ]
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "strain_characteristics"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "bleomycin resistant"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000049",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "strain_characteristics"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "tetracycline resistant"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000048",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "strain_characteristics"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "heterozygous diploid"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000004",
+      "meta" : {
+        "synonyms" : [ {
+          "pred" : "hasExactSynonym",
+          "val" : "bsR",
+          "xrefs" : [ ]
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "strain_characteristics"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "blasticidin resistant"
+    } ],
+    "edges" : [ {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000022",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000002"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000056",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000001"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000034",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000038"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000045",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000037"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000011",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000038"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000029",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000035"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000019",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000038"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000032",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000037"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000017",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000037"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000033",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000038"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000010",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000038"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000044",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000037"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000028",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000035"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000051",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000052"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000054",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000001"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000031",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000037"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000008",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000052"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000043",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000037"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000027",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000035"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000053",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000001"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000030",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000037"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000042",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000038"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000014",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000023"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000038",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000001"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000007",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000008"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000059",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000057"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000048",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000046"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000041",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000035"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000050",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000054"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000016",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000038"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000039",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000038"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000026",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000035"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000052",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000001"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000021",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000008"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000006",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000008"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000037",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000001"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000014",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000013"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000036",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000035"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000058",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000057"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000046",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000056"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000047",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000046"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000003",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000001"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000015",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000038"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000025",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000035"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000040",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000038"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000005",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000008"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000020",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000008"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000002",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000001"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000057",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000056"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000004",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000008"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000012",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000001"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000024",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000002"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000035",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000001"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000009",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000038"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000060",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000057"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000013",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000038"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000061",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000035"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000055",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000054"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000023",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000038"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000049",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000008"
+    } ],
+    "id" : "http://purl.obolibrary.org/obo/ddstrainchar.owl",
+    "meta" : {
+      "subsets" : [ ],
+      "xrefs" : [ ],
+      "basicPropertyValues" : [ {
+        "pred" : "http://purl.org/dc/elements/1.1/description",
+        "val" : "A structured controlled vocabulary of strain characteristics of the slime-mold Dictyostelium discoideum."
+      }, {
+        "pred" : "http://purl.org/dc/elements/1.1/title",
+        "val" : "Dicty Strain Characteristics Ontology  (DDANAT)"
+      }, {
+        "pred" : "http://purl.org/dc/terms/license",
+        "val" : "http://creativecommons.org/publicdomain/zero/1.0/"
+      }, {
+        "pred" : "http://www.geneontology.org/formats/oboInOwl#auto-generated-by",
+        "val" : "OBO-Edit 2.2"
+      }, {
+        "pred" : "http://www.geneontology.org/formats/oboInOwl#date",
+        "val" : "14:03:2019 15:35"
+      }, {
+        "pred" : "http://www.geneontology.org/formats/oboInOwl#default-namespace",
+        "val" : "strain_characteristics"
+      }, {
+        "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBOFormatVersion",
+        "val" : "1.2"
+      }, {
+        "pred" : "http://www.geneontology.org/formats/oboInOwl#saved-by",
+        "val" : "Petra"
+      } ]
+    },
+    "equivalentNodesSets" : [ ],
+    "logicalDefinitionAxioms" : [ ],
+    "domainRangeAxioms" : [ ],
+    "propertyChainAxioms" : [ ]
+  } ]
+}

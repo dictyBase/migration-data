@@ -1,0 +1,1644 @@
+{
+  "graphs" : [ {
+    "nodes" : [ {
+      "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000026",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dictyostelium Assay"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "relative diameter measurement"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000027",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dictyostelium Assay"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "real time PCR"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000024",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dictyostelium Assay"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "size measurement"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000025",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dictyostelium Assay"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "electron microscopy"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000022",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dictyostelium Assay"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "developmental time course"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000023",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dictyostelium Assay"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "micropipette chemotaxis assay"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000020",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dictyostelium Assay"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "agglutination assay"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000021",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dictyostelium Assay"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "phalloidin staining"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000019",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dictyostelium Assay"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "attachment to plastic"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000017",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dictyostelium Assay"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "observation of a marker gene"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000018",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dictyostelium Assay"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "measurement of surface area"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000030",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dictyostelium Assay"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "Western blot"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000037",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dictyostelium Assay"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "fluorescence activated cell sorting (FACS)"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000038",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dictyostelium Assay"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "immunoblotting"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000035",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dictyostelium Assay"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "high throughput dark field microscopy"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000036",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dictyostelium Assay"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "in situ hybridization"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000033",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://purl.obolibrary.org/obo/IAO_0100001",
+          "val" : "http://purl.obolibrary.org/obo/DDASSAY_0000034"
+        }, {
+          "pred" : "http://purl.obolibrary.org/obo/IAO_0000231",
+          "val" : "http://purl.obolibrary.org/obo/IAO_0000227"
+        } ],
+        "deprecated" : true
+      },
+      "type" : "CLASS"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000034",
+      "meta" : {
+        "synonyms" : [ {
+          "pred" : "hasExactSynonym",
+          "val" : "high throughput light microscopy",
+          "xrefs" : [ ]
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dictyostelium Assay"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasAlternativeId",
+          "val" : "DDASSAY:0000033"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "high throughput bright field microscopy"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000031",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dictyostelium Assay"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "dark field microscopy"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000032",
+      "meta" : {
+        "synonyms" : [ {
+          "pred" : "hasExactSynonym",
+          "val" : "light microscopy",
+          "xrefs" : [ ]
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dictyostelium Assay"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasAlternativeId",
+          "val" : "DDASSAY:0000016"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "bright field microscopy"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000028",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dictyostelium Assay"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "fluorescence microscopy"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000029",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dictyostelium Assay"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "staining"
+    }, {
+      "id" : "http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym",
+      "type" : "PROPERTY",
+      "lbl" : "has_related_synonym"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000040",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dictyostelium Assay"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "reflection interference contrast microscopy (RICM)"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000041",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dictyostelium Assay"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "confocal microscopy"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000048",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dictyostelium Assay"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "gradient chemotaxis assay"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000049",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dictyostelium Assay"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "chemotaxis chamber assay"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000046",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dictyostelium Assay"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "slug grafting"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000047",
+      "meta" : {
+        "synonyms" : [ {
+          "pred" : "hasBroadSynonym",
+          "val" : "co-aggregation",
+          "xrefs" : [ ]
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dictyostelium Assay"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2015-06-08T16:31:06Z"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "segregation  assay"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000044",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dictyostelium Assay"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "2D gel electrophoresis"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000045",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dictyostelium Assay"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "immune precipitation"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000042",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dictyostelium Assay"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "biochemical fractionation"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000043",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dictyostelium Assay"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "SDS protein gel electrophoresis"
+    }, {
+      "id" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+      "type" : "PROPERTY",
+      "lbl" : "has_obo_namespace"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000039",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dictyostelium Assay"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "agarose overlay"
+    }, {
+      "id" : "http://www.geneontology.org/formats/oboInOwl#hasOBOFormatVersion",
+      "type" : "PROPERTY",
+      "lbl" : "has_obo_format_version"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000051",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dictyostelium Assay"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "phase contrast microscopy"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000052",
+      "meta" : {
+        "synonyms" : [ {
+          "pred" : "hasRelatedSynonym",
+          "val" : "fluid-phase marker incubation",
+          "xrefs" : [ ]
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dictyostelium Assay"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "uptake of FITC-dextran"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000050",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dictyostelium Assay"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "uptake of polystyrene particles"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000059",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dictyostelium Assay"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2014-01-28T16:04:02Z"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "differential interference contrast microscopy (DIC)"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000057",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dictyostelium Assay"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2013-01-28T17:53:39Z"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "uptake of TRITC-dextran"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000058",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dictyostelium Assay"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2015-12-11T14:55:47Z"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "polymerase chain reaction (PCR)"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000055",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dictyostelium Assay"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2012-10-02T12:31:35Z"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "reverse transcriptase PCR"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000056",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2012-10-02T12:41:37Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dictyostelium Assay"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "beta-galactosidase staining"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000053",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2012-10-02T12:23:38Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dictyostelium Assay"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "monolayer culture"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000054",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2012-10-02T12:24:20Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dictyostelium Assay"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "total internal reflection fluorescence microscopy (TIRF)"
+    }, {
+      "id" : "http://www.geneontology.org/formats/oboInOwl#hasAlternativeId",
+      "type" : "PROPERTY",
+      "lbl" : "has_alternative_id"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000062",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2014-11-13T14:48:06Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dictyostelium Assay"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "phagocytosis assay"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000063",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2014-11-13T15:24:06Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dictyostelium Assay"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "neutral red staining"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000060",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dictyostelium Assay"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2014-10-06T16:29:34Z"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "spore count"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000061",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2014-11-13T14:41:17Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dictyostelium Assay"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "microscopy"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000068",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dictyostelium Assay"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2014-11-21T15:28:07Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "growth and development assay"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000069",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dictyostelium Assay"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2014-11-21T15:33:21Z"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "spore viability test"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000066",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dictyostelium Assay"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2014-11-13T15:35:03Z"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "fruiting body development"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000067",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dictyostelium Assay"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2014-11-13T15:38:36Z"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "early development  submerged"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000064",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dictyostelium Assay"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2014-11-13T15:24:22Z"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "calcofluor white staining"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000065",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dictyostelium Assay"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2014-11-13T15:31:12Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "beta-glucoronidase staining"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000073",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2014-11-21T15:42:07Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dictyostelium Assay"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "electrophoresis and blotting"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000074",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2014-11-21T15:46:21Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dictyostelium Assay"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "large scale analysis"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000071",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dictyostelium Assay"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2014-11-21T15:39:14Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "microRNA"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000072",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dictyostelium Assay"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2014-11-21T15:39:36Z"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "RNAseq"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000070",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dictyostelium Assay"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2014-11-21T15:36:13Z"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "expression study"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000079",
+      "meta" : {
+        "synonyms" : [ {
+          "pred" : "hasExactSynonym",
+          "val" : "homologous recombination efficiency test",
+          "xrefs" : [ ]
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dictyostelium Assay"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2015-02-13T11:25:25Z"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "HR efficiency test"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000077",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2015-02-13T11:20:56Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dictyostelium Assay"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "transformation efficiency test"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000078",
+      "meta" : {
+        "synonyms" : [ {
+          "pred" : "hasExactSynonym",
+          "val" : "restriction enzyme mediated transformation efficiency test",
+          "xrefs" : [ ]
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2015-02-13T11:21:44Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dictyostelium Assay"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "REMI efficiency test"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000075",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2014-11-21T15:50:03Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dictyostelium Assay"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "mass spectrometry"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000076",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dictyostelium Assay"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2014-11-21T15:51:32Z"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "adhesion assay"
+    }, {
+      "id" : "http://www.geneontology.org/formats/oboInOwl#hasBroadSynonym",
+      "type" : "PROPERTY",
+      "lbl" : "has_broad_synonym"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000084",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dictyostelium Assay"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2020-05-11T18:36:16Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "propidium iodide staining"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000085",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dictyostelium Assay"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2020-05-11T18:40:14Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "development submerged"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000082",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2017-02-08T17:59:31Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dictyostelium Assay"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "time-lapse microscopy"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000083",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2020-05-11T18:35:44Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dictyostelium Assay"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "ion measurement"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000080",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dictyostelium Assay"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2015-12-11T14:56:31Z"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "quantitative real time PCR (qRT-PCR)"
+    }, {
+      "id" : "http://www.geneontology.org/formats/oboInOwl#hasExactSynonym",
+      "type" : "PROPERTY",
+      "lbl" : "has_exact_synonym"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000081",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2015-12-18T18:24:11Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dictyostelium Assay"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "centrifugation"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000004",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dictyostelium Assay"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "spore germination assay"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000005",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dictyostelium Assay"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "cell count"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000002",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dictyostelium Assay"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "attachment to glass"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000003",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dictyostelium Assay"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "biochemical assay"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000088",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2021-04-27T13:17:25Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dictyostelium Assay"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "early development"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000001",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dictyostelium Assay"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "Dictyostelium Assay"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000089",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2021-04-27T13:18:11Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dictyostelium Assay"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "SDF-1 measurement"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000086",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dictyostelium Assay"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2021-04-27T13:13:24Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "protein purification"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000087",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2021-04-27T13:13:53Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dictyostelium Assay"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "SDF assay"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000091",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2021-04-29T18:33:17Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dictyostelium Assay"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "extracellular measurement"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000092",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2021-04-29T18:34:57Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dictyostelium Assay"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "intracellular measurement"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000090",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dictyostelium Assay"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2021-04-27T13:18:43Z"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "SDF-2 measurement"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000015",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dictyostelium Assay"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "viability assay"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000016",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://purl.obolibrary.org/obo/IAO_0000231",
+          "val" : "http://purl.obolibrary.org/obo/IAO_0000227"
+        }, {
+          "pred" : "http://purl.obolibrary.org/obo/IAO_0100001",
+          "val" : "http://purl.obolibrary.org/obo/DDASSAY_0000032"
+        } ],
+        "deprecated" : true
+      },
+      "type" : "CLASS"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000013",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dictyostelium Assay"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "uptake of yeast particles"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000014",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dictyostelium Assay"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "Northern blot"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000011",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dictyostelium Assay"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "radio immune assay"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000012",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dictyostelium Assay"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "uptake of latex beads"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000010",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dictyostelium Assay"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "growth curve"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000008",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dictyostelium Assay"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "immunofluorescence"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000009",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dictyostelium Assay"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "motility assay"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000006",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dictyostelium Assay"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "plaque count"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000007",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dictyostelium Assay"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "nuclei count"
+    } ],
+    "edges" : [ {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000065",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000029"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000014",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000070"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000074",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000001"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000038",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000073"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000062",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000001"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000086",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000003"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000064",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000029"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000060",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000069"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000009",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000001"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000036",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000070"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000073",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000001"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000006",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000068"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000014",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000073"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000021",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000029"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000023",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000009"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000071",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000074"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000082",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000061"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000019",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000076"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000076",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000001"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000017",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000061"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000042",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000003"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000028",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000061"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000084",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000029"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000083",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000003"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000004",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000069"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000015",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000068"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000029",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000001"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000012",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000062"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000080",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000058"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000070",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000001"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000027",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000058"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000034",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000061"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000081",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000001"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000057",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000062"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000039",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000001"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000063",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000029"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000061",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000001"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000025",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000061"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000090",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000087"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000005",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000068"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000059",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000061"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000013",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000062"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000007",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000001"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000018",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000024"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000008",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000028"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000002",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000076"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000035",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000061"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000089",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000087"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000078",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000077"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000030",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000073"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000010",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000068"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000024",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000001"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000041",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000061"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000087",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000086"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000058",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000001"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000067",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000085"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000044",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000073"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000042",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000081"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000092",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000003"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000026",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000024"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000032",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000061"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000047",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000068"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000046",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000066"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000043",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000073"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000003",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000001"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000091",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000003"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000054",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000061"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000037",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000001"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000031",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000061"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000022",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000066"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000079",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000077"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000048",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000009"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000053",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000068"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000050",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000062"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000071",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000070"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000072",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000074"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000085",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000066"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000056",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000029"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000077",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000001"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000040",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000061"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000075",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000074"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000052",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000062"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000066",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000068"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000020",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000068"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000011",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000001"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000088",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000066"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000051",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000061"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000049",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000009"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000055",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000058"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000069",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000015"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000045",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000001"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000072",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000070"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000068",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000001"
+    } ],
+    "id" : "http://purl.obolibrary.org/obo/ddassay.owl",
+    "meta" : {
+      "subsets" : [ ],
+      "xrefs" : [ ],
+      "basicPropertyValues" : [ {
+        "pred" : "http://purl.org/dc/elements/1.1/description",
+        "val" : "A structured controlled vocabulary of various assay of the slime-mold Dictyostelium discoideum."
+      }, {
+        "pred" : "http://purl.org/dc/elements/1.1/title",
+        "val" : "Dicty assay (DDASSAY)"
+      }, {
+        "pred" : "http://purl.org/dc/terms/license",
+        "val" : "http://creativecommons.org/publicdomain/zero/1.0/"
+      }, {
+        "pred" : "http://www.geneontology.org/formats/oboInOwl#auto-generated-by",
+        "val" : "OBO-Edit 2.2"
+      }, {
+        "pred" : "http://www.geneontology.org/formats/oboInOwl#date",
+        "val" : "29:04:2021 18:37"
+      }, {
+        "pred" : "http://www.geneontology.org/formats/oboInOwl#default-namespace",
+        "val" : "Dictyostelium Assay"
+      }, {
+        "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBOFormatVersion",
+        "val" : "1.2"
+      }, {
+        "pred" : "http://www.geneontology.org/formats/oboInOwl#saved-by",
+        "val" : "pfey"
+      } ]
+    },
+    "equivalentNodesSets" : [ ],
+    "logicalDefinitionAxioms" : [ ],
+    "domainRangeAxioms" : [ ],
+    "propertyChainAxioms" : [ ]
+  } ]
+}
