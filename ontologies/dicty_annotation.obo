@@ -4,6 +4,9 @@ saved-by: cybersiddhu
 auto-generated-by: OBO-Edit 2.3-beta5
 default-namespace: dicty_annotation
 ontology: ddanno
+property_value: http://purl.org/dc/terms/license http://creativecommons.org/publicdomain/zero/1.0/
+property_value: http://purl.org/dc/elements/1.1/description "A structured controlled vocabulary of annotations of the slime-mold Dictyostelium discoideum." xsd:string
+property_value: http://purl.org/dc/elements/1.1/title "Dicty Annotation Ontology (DDANAT)" xsd:string
 
 [Term]
 id: DDANNO:0000001
