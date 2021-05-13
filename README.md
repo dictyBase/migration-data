@@ -7,10 +7,10 @@ Data files required for migration
   the `ontologies` folder.
 + All ontologies are edited through pull request. Ontologies validated and
   merged through pull requests are automatically converted to
-  [obograph-json](https://github.com/geneontology/obographs) formatted and
+  [obograph-json](https://github.com/geneontology/obographs) format and
   commited to `obograph-json` folder. Ontologies converted to `obobgraph-json`
   format are __only__ loaded to the database. 
-+ Any ontology commited without any pull requested therefor __will never be__
++ Any ontology commited without any pull requested therefore __will never be__
   loaded to the database. 
 ### Create pull request
 Create a git branch and push it to github. It will automatically create a pull
