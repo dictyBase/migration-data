@@ -154,6 +154,10 @@
           {
             "title": "Insertional Mutants at BCM",
             "url": "https://betastorage.dictybase.org/downloads/44689/dsc-data/remi.txt"
+          },
+          {
+            "title": "List of phenotypes",
+            "url": "https://betastorage.dictybase.org/downloads/44689/dsc-data/strain_phenotype.tsv"
           }
         ]
       }
