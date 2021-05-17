@@ -169,8 +169,8 @@
         "title": "Dictyostelium Anatomy Ontology",
         "items": [
           {
-            "title": "Terms used to describe Dictyostelium ",
-            "url": "https://betastorage.dictybase.local/downloads/44689/anatomy-ontology/dicty_anatomy.obo"
+            "title": "Terms used to describe Dictyostelium",
+            "url": "https://raw.githubusercontent.com/dictyBase/migration-data/master/ontologies/dicty_anatomy.obo"
           }
         ]
       }
@@ -183,7 +183,7 @@
         "items": [
           {
             "title": "Terms used to annotate Dictyostelium Phenotypes",
-            "url": "https://betastorage.dictybase.local/downloads/44689/phenotype-ontology/dicty_phenotypes.obo"
+            "url": "https://raw.githubusercontent.com/dictyBase/migration-data/master/ontologies/dicty_phenotypes.obo"
           }
         ]
       }
