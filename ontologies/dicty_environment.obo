@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 08:12:2020 17:37
+date: 10:12:2020 11:29
 saved-by: pfey
 auto-generated-by: OBO-Edit 2.2
 default-namespace: Dicty Environment
@@ -344,7 +344,7 @@ id: DDENVIR:0000061
 name: in the presence of pathogenic bacterium
 synonym: "during bacterial infection" BROAD []
 is_a: DDENVIR:0000054 ! in the presence of biotic or abiotic stimulus
-created_by: Petra
+created_by: pfey
 creation_date: 2015-05-06T16:00:37Z
 
 [Term]
@@ -352,56 +352,56 @@ id: DDENVIR:0000062
 name: on soil plate
 synonym: "on soil medium" EXACT []
 is_a: DDENVIR:0000008 ! on solid surfaces
-created_by: Petra
+created_by: pfey
 creation_date: 2015-05-07T15:48:39Z
 
 [Term]
 id: DDENVIR:0000063
 name: during chimeric development
 is_a: DDENVIR:0000040 ! during development
-created_by: Petra
+created_by: pfey
 creation_date: 2015-06-08T16:37:07Z
 
 [Term]
 id: DDENVIR:0000064
 name: during chimeric early development
 is_a: DDENVIR:0000063 ! during chimeric development
-created_by: Petra
+created_by: pfey
 creation_date: 2015-06-08T16:41:12Z
 
 [Term]
 id: DDENVIR:0000065
 name: during chimeric late development
 is_a: DDENVIR:0000063 ! during chimeric development
-created_by: Petra
+created_by: pfey
 creation_date: 2015-06-08T16:41:37Z
 
 [Term]
 id: DDENVIR:0000066
 name: after detergent treatment
 is_a: DDENVIR:0000067 ! in solution
-created_by: Petra
+created_by: pfey
 creation_date: 2015-06-16T17:32:06Z
 
 [Term]
 id: DDENVIR:0000067
 name: in solution
 is_a: DDENVIR:0000053 ! in or on medium or solution
-created_by: Petra
+created_by: pfey
 creation_date: 2015-06-18T17:04:13Z
 
 [Term]
 id: DDENVIR:0000068
 name: in the presence of rapamycin
 is_a: DDENVIR:0000054 ! in the presence of biotic or abiotic stimulus
-created_by: Petra
+created_by: pfey
 creation_date: 2016-02-02T14:04:45Z
 
 [Term]
 id: DDENVIR:0000069
 name: on Micrococcus luteus lawn
 is_a: DDENVIR:0000004 ! on bacterial plate
-created_by: Petra
+created_by: pfey
 creation_date: 2017-03-09T14:53:57Z
 
 [Term]
@@ -411,7 +411,7 @@ synonym: " on Klebsiella pneumoniae lawn" EXACT []
 synonym: "on Aerobacter aerogenes lawn" EXACT []
 synonym: "on K. aerogenes lawn" EXACT []
 is_a: DDENVIR:0000004 ! on bacterial plate
-created_by: Petra
+created_by: pfey
 creation_date: 2017-03-09T15:02:09Z
 
 [Term]
@@ -419,7 +419,7 @@ id: DDENVIR:0000071
 name: on Bacillus subtilis lawn
 synonym: "on B. subtilis lawn" RELATED []
 is_a: DDENVIR:0000004 ! on bacterial plate
-created_by: Petra
+created_by: pfey
 creation_date: 2017-03-09T15:05:20Z
 
 [Term]
@@ -427,21 +427,21 @@ id: DDENVIR:0000072
 name: on Escherichia coli lawn
 synonym: "on E. coli lawn" EXACT []
 is_a: DDENVIR:0000004 ! on bacterial plate
-created_by: Petra
+created_by: pfey
 creation_date: 2017-03-09T15:05:58Z
 
 [Term]
 id: DDENVIR:0000073
 name: during growth with palmitic acid treatment
 is_a: DDENVIR:0000037 ! during vegetative growth
-created_by: Petra
+created_by: pfey
 creation_date: 2017-10-25T16:57:19Z
 
 [Term]
 id: DDENVIR:0000074
 name: under atmospheric condition
 is_a: DDENVIR:0000001 ! environmental condition
-created_by: Petra
+created_by: pfey
 creation_date: 2019-03-29T14:16:13Z
 
 [Term]
@@ -449,7 +449,7 @@ id: DDENVIR:0000075
 name: in hypoxia
 synonym: "decreased oxygen level" EXACT []
 is_a: DDENVIR:0000074 ! under atmospheric condition
-created_by: Petra
+created_by: pfey
 creation_date: 2019-03-29T14:16:54Z
 
 [Term]
@@ -459,4 +459,25 @@ synonym: "in the presence of K+" EXACT []
 is_a: DDENVIR:0000054 ! in the presence of biotic or abiotic stimulus
 created_by: pfey
 creation_date: 2020-12-08T17:35:50Z
+
+[Term]
+id: DDENVIR:0000077
+name: during early culmination
+is_a: DDENVIR:0000043 ! during culmination
+created_by: pfey
+creation_date: 2020-12-10T11:20:00Z
+
+[Term]
+id: DDENVIR:0000078
+name: during late culmination
+is_a: DDENVIR:0000043 ! during culmination
+created_by: pfey
+creation_date: 2020-12-10T11:20:28Z
+
+[Term]
+id: DDENVIR:0000079
+name: during spore germination
+is_a: DDENVIR:0000040 ! during development
+created_by: pfey
+creation_date: 2020-12-10T11:26:38Z
 
