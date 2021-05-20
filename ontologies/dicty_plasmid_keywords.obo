@@ -1,9 +1,12 @@
 format-version: 1.2
 date: 07:10:2019 09:33
-saved-by: Petra
+saved-by: pfey
 auto-generated-by: OBO-Edit 2.2
 default-namespace: plasmid_keywords
 ontology: ddplasmidkey
+property_value: http://purl.org/dc/terms/license http://creativecommons.org/publicdomain/zero/1.0/
+property_value: http://purl.org/dc/elements/1.1/description "A structured controlled vocabulary of plasmid keywords of the slime-mold Dictyostelium discoideum." xsd:string
+property_value: http://purl.org/dc/elements/1.1/title "Dicty plasmid keywords (DDPLASMIDKEY)" xsd:string
 
 [Term]
 id: DDPLASMIDKEY:0000001
@@ -271,14 +274,14 @@ id: DDPLASMIDKEY:0000048
 name: cloning vector
 def: "For simple cloning in bacteria only." [DDB:pf]
 is_a: DDPLASMIDKEY:0000012 ! vector
-created_by: Petra
+created_by: pfey
 creation_date: 2016-11-29T15:58:02Z
 
 [Term]
 id: DDPLASMIDKEY:0000049
 name: tetracycline resistance
 is_a: DDPLASMIDKEY:0000008 ! drug selection
-created_by: Petra
+created_by: pfey
 creation_date: 2017-01-31T12:19:29Z
 
 [Term]
@@ -286,7 +289,7 @@ id: DDPLASMIDKEY:0000050
 name: tetOFF vector
 synonym: "tetracycline OFF vector" EXACT []
 is_a: DDPLASMIDKEY:0000018 ! expression vector
-created_by: Petra
+created_by: pfey
 creation_date: 2017-01-31T12:28:40Z
 
 [Term]
@@ -294,7 +297,7 @@ id: DDPLASMIDKEY:0000051
 name: doxON vector
 synonym: "doxycycline ON vector" RELATED []
 is_a: DDPLASMIDKEY:0000018 ! expression vector
-created_by: Petra
+created_by: pfey
 creation_date: 2017-01-31T12:30:42Z
 
 [Term]
@@ -302,14 +305,14 @@ id: DDPLASMIDKEY:0000052
 name: doxOFF vector
 synonym: "doxycycline OFF vector" EXACT []
 is_a: DDPLASMIDKEY:0000018 ! expression vector
-created_by: Petra
+created_by: pfey
 creation_date: 2017-01-31T12:32:03Z
 
 [Term]
 id: DDPLASMIDKEY:0000053
 name: YL1/2 epitope tag
 is_a: DDPLASMIDKEY:0000037 ! biological tag
-created_by: Petra
+created_by: pfey
 creation_date: 2017-10-23T17:00:10Z
 
 [Term]
@@ -317,7 +320,7 @@ id: DDPLASMIDKEY:0000054
 name: knock-in vector
 synonym: "knockin vector" EXACT []
 is_a: DDPLASMIDKEY:0000012 ! vector
-created_by: Petra
+created_by: pfey
 creation_date: 2018-10-01T15:17:19Z
 
 [Term]
@@ -325,7 +328,7 @@ id: DDPLASMIDKEY:0000055
 name: coaA promoter
 synonym: "coactosin promoter" EXACT []
 is_a: DDPLASMIDKEY:0000038 ! promoter
-created_by: Petra
+created_by: pfey
 creation_date: 2019-10-07T08:52:57Z
 
 [Term]
@@ -333,7 +336,7 @@ id: DDPLASMIDKEY:0000056
 name: BFP marker
 synonym: "blue fluorescent protein marker" EXACT []
 is_a: DDPLASMIDKEY:0000035 ! marker gene
-created_by: Petra
+created_by: pfey
 creation_date: 2019-10-07T09:02:28Z
 
 [Term]
@@ -341,7 +344,7 @@ id: DDPLASMIDKEY:0000057
 name: IFP marker
 synonym: "infrared fluorescent protein marker" EXACT []
 is_a: DDPLASMIDKEY:0000035 ! marker gene
-created_by: Petra
+created_by: pfey
 creation_date: 2019-10-07T09:05:46Z
 
 [Term]
@@ -349,7 +352,7 @@ id: DDPLASMIDKEY:0000058
 name: GB vector
 synonym: "GoldenBraid vector" EXACT []
 is_a: DDPLASMIDKEY:0000018 ! expression vector
-created_by: Petra
+created_by: pfey
 creation_date: 2019-10-07T09:09:36Z
 
 [Term]
@@ -357,7 +360,7 @@ id: DDPLASMIDKEY:0000059
 name: GB backbone
 synonym: "GoldenBraid backbone" EXACT []
 is_a: DDPLASMIDKEY:0000058 ! GB vector
-created_by: Petra
+created_by: pfey
 creation_date: 2019-10-07T09:20:10Z
 
 [Term]
@@ -365,7 +368,7 @@ id: DDPLASMIDKEY:0000060
 name: GB assembly
 synonym: "GoldenBraid assembly" EXACT []
 is_a: DDPLASMIDKEY:0000058 ! GB vector
-created_by: Petra
+created_by: pfey
 creation_date: 2019-10-07T09:26:42Z
 
 [Term]
@@ -373,6 +376,5 @@ id: DDPLASMIDKEY:0000061
 name: GB part
 synonym: "GoldenBraid part" EXACT []
 is_a: DDPLASMIDKEY:0000058 ! GB vector
-created_by: Petra
+created_by: pfey
 creation_date: 2019-10-07T09:27:48Z
-
