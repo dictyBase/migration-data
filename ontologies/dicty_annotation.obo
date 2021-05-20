@@ -6,7 +6,7 @@ default-namespace: dicty_annotation
 ontology: ddanno
 property_value: http://purl.org/dc/terms/license http://creativecommons.org/publicdomain/zero/1.0/
 property_value: http://purl.org/dc/elements/1.1/description "A structured controlled vocabulary of annotations of the slime-mold Dictyostelium discoideum." xsd:string
-property_value: http://purl.org/dc/elements/1.1/title "Dicty Annotation Ontology (DDANAT)" xsd:string
+property_value: http://purl.org/dc/elements/1.1/title "Dicty Annotation Ontology (DDANNO)" xsd:string
 
 [Term]
 id: DDANNO:0000001
@@ -185,4 +185,3 @@ def: "It represents type of genetic modification." []
 is_a: DDANNO:0000001 ! dictybase annotation
 created_by: cybersiddhu
 creation_date: 2019-08-02T19:52:09Z
-

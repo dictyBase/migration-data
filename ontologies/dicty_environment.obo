@@ -6,7 +6,7 @@ default-namespace: Dicty Environment
 ontology: ddenvir
 property_value: http://purl.org/dc/terms/license http://creativecommons.org/publicdomain/zero/1.0/
 property_value: http://purl.org/dc/elements/1.1/description "A structured controlled vocabulary of environment of the slime-mold Dictyostelium discoideum." xsd:string
-property_value: http://purl.org/dc/elements/1.1/title "Dicty environment (DDENVDIR)" xsd:string
+property_value: http://purl.org/dc/elements/1.1/title "Dicty environment (DDENVIR)" xsd:string
 
 [Term]
 id: DDENVIR:0000001
