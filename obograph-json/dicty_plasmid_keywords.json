@@ -1,0 +1,1178 @@
+{
+  "graphs" : [ {
+    "nodes" : [ {
+      "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000054",
+      "meta" : {
+        "synonyms" : [ {
+          "pred" : "hasExactSynonym",
+          "val" : "knockin vector",
+          "xrefs" : [ ]
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2018-10-01T15:17:19Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "plasmid_keywords"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "knock-in vector"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000010",
+      "meta" : {
+        "synonyms" : [ {
+          "pred" : "hasRelatedSynonym",
+          "val" : "dominant-negative mutant",
+          "xrefs" : [ ]
+        }, {
+          "pred" : "hasRelatedSynonym",
+          "val" : "dominant/negative mutant",
+          "xrefs" : [ ]
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "plasmid_keywords"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "dominant negative mutation"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000053",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2017-10-23T17:00:10Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "plasmid_keywords"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "YL1/2 epitope tag"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000056",
+      "meta" : {
+        "synonyms" : [ {
+          "pred" : "hasExactSynonym",
+          "val" : "blue fluorescent protein marker",
+          "xrefs" : [ ]
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "plasmid_keywords"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2019-10-07T09:02:28Z"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "BFP marker"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000012",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "plasmid_keywords"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "vector"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000055",
+      "meta" : {
+        "synonyms" : [ {
+          "pred" : "hasExactSynonym",
+          "val" : "coactosin promoter",
+          "xrefs" : [ ]
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "plasmid_keywords"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2019-10-07T08:52:57Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "coaA promoter"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000011",
+      "meta" : {
+        "synonyms" : [ {
+          "pred" : "hasExactSynonym",
+          "val" : "actin 15 promoter",
+          "xrefs" : [ ]
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "plasmid_keywords"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "act15 promoter"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000050",
+      "meta" : {
+        "synonyms" : [ {
+          "pred" : "hasExactSynonym",
+          "val" : "tetracycline OFF vector",
+          "xrefs" : [ ]
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2017-01-31T12:28:40Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "plasmid_keywords"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "tetOFF vector"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000052",
+      "meta" : {
+        "synonyms" : [ {
+          "pred" : "hasExactSynonym",
+          "val" : "doxycycline OFF vector",
+          "xrefs" : [ ]
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2017-01-31T12:32:03Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "plasmid_keywords"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "doxOFF vector"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000051",
+      "meta" : {
+        "synonyms" : [ {
+          "pred" : "hasRelatedSynonym",
+          "val" : "doxycycline ON vector",
+          "xrefs" : [ ]
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "plasmid_keywords"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2017-01-31T12:30:42Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "doxON vector"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000018",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "plasmid_keywords"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "expression vector"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000017",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "plasmid_keywords"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "FLAG tag"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000019",
+      "meta" : {
+        "synonyms" : [ {
+          "pred" : "hasExactSynonym",
+          "val" : "knock-out vector",
+          "xrefs" : [ ]
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "plasmid_keywords"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "knockout vector"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/IAO_0000115",
+      "type" : "PROPERTY",
+      "lbl" : "definition"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000058",
+      "meta" : {
+        "synonyms" : [ {
+          "pred" : "hasExactSynonym",
+          "val" : "GoldenBraid vector",
+          "xrefs" : [ ]
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "plasmid_keywords"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2019-10-07T09:09:36Z"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "GB vector"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000014",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "plasmid_keywords"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "GST tag"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000057",
+      "meta" : {
+        "synonyms" : [ {
+          "pred" : "hasExactSynonym",
+          "val" : "infrared fluorescent protein marker",
+          "xrefs" : [ ]
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "plasmid_keywords"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2019-10-07T09:05:46Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "IFP marker"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000013",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "plasmid_keywords"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "ecmA0 promoter"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000016",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "plasmid_keywords"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "cotB promoter"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000059",
+      "meta" : {
+        "synonyms" : [ {
+          "pred" : "hasExactSynonym",
+          "val" : "GoldenBraid backbone",
+          "xrefs" : [ ]
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2019-10-07T09:20:10Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "plasmid_keywords"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "GB backbone"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000015",
+      "meta" : {
+        "synonyms" : [ {
+          "pred" : "hasExactSynonym",
+          "val" : "Restriction Enzyme Mediated Integration vector",
+          "xrefs" : [ ]
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2013-03-12T12:09:47Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "plasmid_keywords"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "REMI vector"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000021",
+      "meta" : {
+        "synonyms" : [ {
+          "pred" : "hasExactSynonym",
+          "val" : "tetracyclin ON vector",
+          "xrefs" : [ ]
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "plasmid_keywords"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "tetON vector"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000020",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "plasmid_keywords"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "phleomycin resistance"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000023",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "plasmid_keywords"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "ecm0 promoter"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000022",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "plasmid_keywords"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "uracil selection"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000061",
+      "meta" : {
+        "synonyms" : [ {
+          "pred" : "hasExactSynonym",
+          "val" : "GoldenBraid part",
+          "xrefs" : [ ]
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2019-10-07T09:27:48Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "plasmid_keywords"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "GB part"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000060",
+      "meta" : {
+        "synonyms" : [ {
+          "pred" : "hasExactSynonym",
+          "val" : "GoldenBraid assembly",
+          "xrefs" : [ ]
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "plasmid_keywords"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2019-10-07T09:26:42Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "GB assembly"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000029",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "plasmid_keywords"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "luciferase marker"
+    }, {
+      "id" : "http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym",
+      "type" : "PROPERTY",
+      "lbl" : "has_related_synonym"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000028",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "plasmid_keywords"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "galactosidase marker"
+    }, {
+      "id" : "http://www.geneontology.org/formats/oboInOwl#hasBroadSynonym",
+      "type" : "PROPERTY",
+      "lbl" : "has_broad_synonym"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000025",
+      "meta" : {
+        "synonyms" : [ {
+          "pred" : "hasExactSynonym",
+          "val" : "green fluorescent protein marker",
+          "xrefs" : [ ]
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "plasmid_keywords"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "GFP marker"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000024",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "plasmid_keywords"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "thymidine selection"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000027",
+      "meta" : {
+        "synonyms" : [ {
+          "pred" : "hasExactSynonym",
+          "val" : "yellow fluorescent protein marker",
+          "xrefs" : [ ]
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "plasmid_keywords"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "YFP marker"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000026",
+      "meta" : {
+        "synonyms" : [ {
+          "pred" : "hasExactSynonym",
+          "val" : "red fluorescent protein marker",
+          "xrefs" : [ ]
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "plasmid_keywords"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "RFP marker"
+    }, {
+      "id" : "http://www.geneontology.org/formats/oboInOwl#hasExactSynonym",
+      "type" : "PROPERTY",
+      "lbl" : "has_exact_synonym"
+    }, {
+      "id" : "http://www.geneontology.org/formats/oboInOwl#hasDbXref",
+      "type" : "PROPERTY",
+      "lbl" : "database_cross_reference"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000032",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "plasmid_keywords"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "HA tag"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000031",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "plasmid_keywords"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "Myc tag"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000034",
+      "meta" : {
+        "synonyms" : [ {
+          "pred" : "hasBroadSynonym",
+          "val" : "extrachromosomal expression vector",
+          "xrefs" : [ ]
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "plasmid_keywords"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2013-03-12T12:10:05Z"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "extrachromosomal vector"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000033",
+      "meta" : {
+        "synonyms" : [ {
+          "pred" : "hasExactSynonym",
+          "val" : "prespore A promoter",
+          "xrefs" : [ ]
+        }, {
+          "pred" : "hasExactSynonym",
+          "val" : "pspA promoter",
+          "xrefs" : [ ]
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "plasmid_keywords"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "psA promoter"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000030",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "plasmid_keywords"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "His tag"
+    }, {
+      "id" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+      "type" : "PROPERTY",
+      "lbl" : "has_obo_namespace"
+    }, {
+      "id" : "http://www.geneontology.org/formats/oboInOwl#hasOBOFormatVersion",
+      "type" : "PROPERTY",
+      "lbl" : "has_obo_format_version"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000039",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "plasmid_keywords"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "ecmB promoter"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000036",
+      "meta" : {
+        "synonyms" : [ {
+          "pred" : "hasExactSynonym",
+          "val" : "cyan fluorescent protein marker",
+          "xrefs" : [ ]
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "plasmid_keywords"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "CFP marker"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000035",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "plasmid_keywords"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "marker gene"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000038",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "plasmid_keywords"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "promoter"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000037",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "plasmid_keywords"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "biological tag"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000043",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "plasmid_keywords"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "TAP tag"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000042",
+      "meta" : {
+        "synonyms" : [ {
+          "pred" : "hasExactSynonym",
+          "val" : "actin 6 promoter",
+          "xrefs" : [ ]
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "plasmid_keywords"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "act6 promoter"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000045",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "plasmid_keywords"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "T7 tag"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000001",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "plasmid_keywords"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "plasmid keyword"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000044",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "plasmid_keywords"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "V5 tag"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000041",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "plasmid_keywords"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "glucoronidase marker"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000040",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "plasmid_keywords"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "ecmA promoter"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000007",
+      "meta" : {
+        "synonyms" : [ {
+          "pred" : "hasExactSynonym",
+          "val" : "neoR",
+          "xrefs" : [ ]
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "plasmid_keywords"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "neomycin resistance"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000006",
+      "meta" : {
+        "synonyms" : [ {
+          "pred" : "hasExactSynonym",
+          "val" : "hygR",
+          "xrefs" : [ ]
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "plasmid_keywords"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "hygromycin resistance"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000009",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "plasmid_keywords"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "discoidin promoter"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000008",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "plasmid_keywords"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "drug selection"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000047",
+      "meta" : {
+        "synonyms" : [ {
+          "pred" : "hasExactSynonym",
+          "val" : "cre-lox vector",
+          "xrefs" : [ ]
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "plasmid_keywords"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2013-03-12T12:33:50Z"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "cre-loxP vector"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000003",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "plasmid_keywords"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "random chimeragenesis"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000046",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "plasmid_keywords"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2013-03-12T12:18:31Z"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "gateway vector"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000002",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "plasmid_keywords"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "auxotrophy selection"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000005",
+      "meta" : {
+        "synonyms" : [ {
+          "pred" : "hasExactSynonym",
+          "val" : "bleR",
+          "xrefs" : [ ]
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "plasmid_keywords"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "bleomycin resistance"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000049",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "plasmid_keywords"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2017-01-31T12:19:29Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "tetracycline resistance"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000004",
+      "meta" : {
+        "synonyms" : [ {
+          "pred" : "hasExactSynonym",
+          "val" : "bsR",
+          "xrefs" : [ ]
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "plasmid_keywords"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "blasticidin resistance"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000048",
+      "meta" : {
+        "definition" : {
+          "val" : "For simple cloning in bacteria only.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "plasmid_keywords"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2016-11-29T15:58:02Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "cloning vector"
+    } ],
+    "edges" : [ {
+      "sub" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000009",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000038"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000060",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000058"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000020",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000008"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000040",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000038"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000061",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000058"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000029",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000035"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000018",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000012"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000051",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000018"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000008",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000001"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000019",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000012"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000052",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000018"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000055",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000038"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000034",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000018"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000054",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000012"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000043",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000037"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000031",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000037"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000058",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000018"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000044",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000037"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000033",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000038"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000046",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000018"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000032",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000037"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000041",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000035"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000030",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000037"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000042",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000038"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000021",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000018"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000053",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000037"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000013",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000038"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000035",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000001"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000024",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000002"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000012",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000001"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000057",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000035"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000004",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000008"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000002",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000001"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000047",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000012"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000005",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000008"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000045",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000037"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000011",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000038"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000010",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000001"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000022",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000002"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000056",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000035"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000049",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000008"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000023",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000038"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000027",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000035"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000028",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000035"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000050",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000018"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000017",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000037"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000003",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000001"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000025",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000035"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000059",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000058"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000036",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000035"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000014",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000037"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000048",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000012"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000037",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000001"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000006",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000008"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000026",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000035"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000039",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000038"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000016",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000038"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000015",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000012"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000007",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000008"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000038",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000001"
+    } ],
+    "id" : "http://purl.obolibrary.org/obo/ddplasmidkey.owl",
+    "meta" : {
+      "subsets" : [ ],
+      "xrefs" : [ ],
+      "basicPropertyValues" : [ {
+        "pred" : "http://purl.org/dc/elements/1.1/description",
+        "val" : "A structured controlled vocabulary of plasmid keywords of the slime-mold Dictyostelium discoideum."
+      }, {
+        "pred" : "http://purl.org/dc/elements/1.1/title",
+        "val" : "Dicty plasmid keywords (DDPLASMIDKEY)"
+      }, {
+        "pred" : "http://purl.org/dc/terms/license",
+        "val" : "http://creativecommons.org/publicdomain/zero/1.0/"
+      }, {
+        "pred" : "http://www.geneontology.org/formats/oboInOwl#auto-generated-by",
+        "val" : "OBO-Edit 2.2"
+      }, {
+        "pred" : "http://www.geneontology.org/formats/oboInOwl#date",
+        "val" : "07:10:2019 09:33"
+      }, {
+        "pred" : "http://www.geneontology.org/formats/oboInOwl#default-namespace",
+        "val" : "plasmid_keywords"
+      }, {
+        "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBOFormatVersion",
+        "val" : "1.2"
+      }, {
+        "pred" : "http://www.geneontology.org/formats/oboInOwl#saved-by",
+        "val" : "pfey"
+      } ]
+    },
+    "equivalentNodesSets" : [ ],
+    "logicalDefinitionAxioms" : [ ],
+    "domainRangeAxioms" : [ ],
+    "propertyChainAxioms" : [ ]
+  } ]
+}

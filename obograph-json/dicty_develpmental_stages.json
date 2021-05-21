@@ -1,0 +1,350 @@
+{
+  "graphs" : [ {
+    "nodes" : [ {
+      "id" : "http://purl.obolibrary.org/obo/DDDEV_0000001",
+      "meta" : {
+        "definition" : {
+          "val" : "Any developmental stage during Dictyostelium discoideum development.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2021-02-01T10:13:52Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Developmental Stages"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "developmental stage"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDDEV_0000010",
+      "meta" : {
+        "definition" : {
+          "val" : "End of asexual development,  terminally differentiated consisting of a long stalk on top of which sits the sorus containing spores, measuring 1.5-3 mm in height.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "synonyms" : [ {
+          "pred" : "hasExactSynonym",
+          "val" : "sorocarp",
+          "xrefs" : [ ]
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Developmental Stages"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2021-02-01T11:28:10Z"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "fruiting body"
+    }, {
+      "id" : "http://www.geneontology.org/formats/oboInOwl#hasExactSynonym",
+      "type" : "PROPERTY",
+      "lbl" : "has_exact_synonym"
+    }, {
+      "id" : "http://www.geneontology.org/formats/oboInOwl#hasDbXref",
+      "type" : "PROPERTY",
+      "lbl" : "database_cross_reference"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDDEV_0000009",
+      "meta" : {
+        "definition" : {
+          "val" : "Structure in which stalk tube formation has progressed and the sorogen ascends, stalk vacuolization and spore differentiation begins.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "synonyms" : [ {
+          "pred" : "hasBroadSynonym",
+          "val" : "culminant stage",
+          "xrefs" : [ ]
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Developmental Stages"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2021-02-01T11:23:33Z"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "late culminant stage"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDDEV_0000008",
+      "meta" : {
+        "definition" : {
+          "val" : "Structure in which stalk tube formation has progressed and lifts the prespore mass off the ground.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "synonyms" : [ {
+          "pred" : "hasBroadSynonym",
+          "val" : "culminant stage",
+          "xrefs" : [ ]
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2021-02-01T11:19:54Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Developmental Stages"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "mid culminant stage"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDDEV_0000007",
+      "meta" : {
+        "definition" : {
+          "val" : "Structure after standing slug or slug migration when the cell mass moves under the tip, when the stalk tube starts forming.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "synonyms" : [ {
+          "pred" : "hasNarrowSynonym",
+          "val" : "mexican hat stage",
+          "xrefs" : [ ]
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Developmental Stages"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2021-02-01T11:13:28Z"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "early culminant stage"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDDEV_0000006",
+      "meta" : {
+        "definition" : {
+          "val" : "In sub-optimal conditions for development, the standing slug bends over and migrates towards more favorable environmental conditions.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "synonyms" : [ {
+          "pred" : "hasExactSynonym",
+          "val" : "migratory slug stage",
+          "xrefs" : [ ]
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2021-02-01T11:00:23Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Developmental Stages"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "slug stage"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDDEV_0000005",
+      "meta" : {
+        "definition" : {
+          "val" : "Structure formed by elongation of the mound under the control of the tip.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "synonyms" : [ {
+          "pred" : "hasExactSynonym",
+          "val" : "finger stage",
+          "xrefs" : [ ]
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2021-02-01T10:57:03Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Developmental Stages"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "standing slug stage"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDDEV_0000004",
+      "meta" : {
+        "definition" : {
+          "val" : "Aggregated cells that undergo development and form a tip.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "synonyms" : [ {
+          "pred" : "hasExactSynonym",
+          "val" : "tipped aggregate stage",
+          "xrefs" : [ ]
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Developmental Stages"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2021-02-01T10:53:59Z"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "tipped mound stage"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDDEV_0000003",
+      "meta" : {
+        "definition" : {
+          "val" : "Adherent cell mass early during Dictyostelium development.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "synonyms" : [ {
+          "pred" : "hasExactSynonym",
+          "val" : "loose aggregate stage",
+          "xrefs" : [ ]
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2021-02-01T10:19:48Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Developmental Stages"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "loose mound stage"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDDEV_0000002",
+      "meta" : {
+        "definition" : {
+          "val" : "Post aggregative cells forming a mound during Dictyostelium development.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "synonyms" : [ {
+          "pred" : "hasExactSynonym",
+          "val" : "aggregate stage",
+          "xrefs" : [ ]
+        }, {
+          "pred" : "hasNarrowSynonym",
+          "val" : "tight mound stage",
+          "xrefs" : [ ]
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Developmental Stages"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2021-02-01T10:16:33Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "mound stage"
+    }, {
+      "id" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+      "type" : "PROPERTY",
+      "lbl" : "has_obo_namespace"
+    }, {
+      "id" : "http://www.geneontology.org/formats/oboInOwl#hasOBOFormatVersion",
+      "type" : "PROPERTY",
+      "lbl" : "has_obo_format_version"
+    }, {
+      "id" : "http://www.geneontology.org/formats/oboInOwl#hasBroadSynonym",
+      "type" : "PROPERTY",
+      "lbl" : "has_broad_synonym"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/IAO_0000115",
+      "type" : "PROPERTY",
+      "lbl" : "definition"
+    }, {
+      "id" : "http://www.geneontology.org/formats/oboInOwl#hasNarrowSynonym",
+      "type" : "PROPERTY",
+      "lbl" : "has_narrow_synonym"
+    } ],
+    "edges" : [ {
+      "sub" : "http://purl.obolibrary.org/obo/DDDEV_0000007",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDDEV_0000001"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDDEV_0000005",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDDEV_0000006"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDDEV_0000003",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDDEV_0000002"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDDEV_0000010",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDDEV_0000001"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDDEV_0000008",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDDEV_0000001"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDDEV_0000004",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDDEV_0000002"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDDEV_0000009",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDDEV_0000001"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDDEV_0000006",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDDEV_0000001"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDDEV_0000002",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDDEV_0000001"
+    } ],
+    "id" : "http://purl.obolibrary.org/obo/dddev.owl",
+    "meta" : {
+      "subsets" : [ ],
+      "xrefs" : [ ],
+      "basicPropertyValues" : [ {
+        "pred" : "http://purl.org/dc/elements/1.1/description",
+        "val" : "A structured controlled vocabulary of developmental stages of the slime-mold Dictyostelium discoideum."
+      }, {
+        "pred" : "http://purl.org/dc/elements/1.1/title",
+        "val" : "Dicty Developmental Stages (DDDEV)"
+      }, {
+        "pred" : "http://purl.org/dc/terms/license",
+        "val" : "http://creativecommons.org/publicdomain/zero/1.0/"
+      }, {
+        "pred" : "http://www.geneontology.org/formats/oboInOwl#auto-generated-by",
+        "val" : "OBO-Edit 2.2"
+      }, {
+        "pred" : "http://www.geneontology.org/formats/oboInOwl#date",
+        "val" : "25:02:2021 10:56"
+      }, {
+        "pred" : "http://www.geneontology.org/formats/oboInOwl#default-namespace",
+        "val" : "Dicty Developmental Stages"
+      }, {
+        "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBOFormatVersion",
+        "val" : "1.2"
+      }, {
+        "pred" : "http://www.geneontology.org/formats/oboInOwl#saved-by",
+        "val" : "pfey"
+      } ]
+    },
+    "equivalentNodesSets" : [ ],
+    "logicalDefinitionAxioms" : [ ],
+    "domainRangeAxioms" : [ ],
+    "propertyChainAxioms" : [ ]
+  } ]
+}
