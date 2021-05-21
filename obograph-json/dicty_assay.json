@@ -1258,13 +1258,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000003"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000064",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000029"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000060",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000069"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000064",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000029"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000009",
       "pred" : "is_a",
@@ -1498,15 +1498,15 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000003"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000054",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000061"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000037",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000001"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000031",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000061"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000054",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000061"
     }, {
@@ -1518,13 +1518,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000077"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000048",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000009"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000053",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000068"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000048",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000009"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000050",
       "pred" : "is_a",
@@ -1554,13 +1554,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000061"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000075",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000074"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000052",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000062"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000075",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000074"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000066",
       "pred" : "is_a",
@@ -1612,7 +1612,7 @@
       "xrefs" : [ ],
       "basicPropertyValues" : [ {
         "pred" : "http://purl.org/dc/elements/1.1/description",
-        "val" : "A structured controlled vocabulary of various assay of the slime-mold Dictyostelium discoideum."
+        "val" : "A structured controlled vocabulary of various assays of the slime-mold Dictyostelium discoideum."
       }, {
         "pred" : "http://purl.org/dc/elements/1.1/title",
         "val" : "Dicty assay (DDASSAY)"

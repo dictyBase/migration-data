@@ -298,11 +298,11 @@
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dicty Environment"
         }, {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
-          "val" : "Petra"
-        }, {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
           "val" : "2015-06-08T16:37:07Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
         } ]
       },
       "type" : "CLASS",
@@ -315,7 +315,7 @@
           "val" : "Dicty Environment"
         }, {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
-          "val" : "Petra"
+          "val" : "pfey"
         }, {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
           "val" : "2015-06-08T16:41:12Z"
@@ -337,14 +337,14 @@
       "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000065",
       "meta" : {
         "basicPropertyValues" : [ {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
-          "val" : "Petra"
-        }, {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
           "val" : "2015-06-08T16:41:37Z"
         }, {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dicty Environment"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
         } ]
       },
       "type" : "CLASS",
@@ -360,22 +360,6 @@
       "type" : "CLASS",
       "lbl" : "in the presence of cycloheximide"
     }, {
-      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000066",
-      "meta" : {
-        "basicPropertyValues" : [ {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
-          "val" : "Petra"
-        }, {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
-          "val" : "2015-06-16T17:32:06Z"
-        }, {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
-          "val" : "Dicty Environment"
-        } ]
-      },
-      "type" : "CLASS",
-      "lbl" : "after detergent treatment"
-    }, {
       "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000022",
       "meta" : {
         "basicPropertyValues" : [ {
@@ -385,6 +369,22 @@
       },
       "type" : "CLASS",
       "lbl" : "in the presence of actinomycin D"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000066",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2015-06-16T17:32:06Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Environment"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "after detergent treatment"
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000060",
       "meta" : {
@@ -410,11 +410,11 @@
           "xrefs" : [ ]
         } ],
         "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
           "val" : "2015-05-06T16:00:37Z"
-        }, {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
-          "val" : "Petra"
         }, {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dicty Environment"
@@ -431,14 +431,14 @@
           "xrefs" : [ ]
         } ],
         "basicPropertyValues" : [ {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
-          "val" : "Petra"
-        }, {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
           "val" : "2015-05-07T15:48:39Z"
         }, {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dicty Environment"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
         } ]
       },
       "type" : "CLASS",
@@ -498,11 +498,11 @@
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dicty Environment"
         }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
           "val" : "2015-06-18T17:04:13Z"
-        }, {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
-          "val" : "Petra"
         } ]
       },
       "type" : "CLASS",
@@ -518,11 +518,11 @@
           "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
           "val" : "2016-02-02T14:04:45Z"
         }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dicty Environment"
-        }, {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
-          "val" : "Petra"
         } ]
       },
       "type" : "CLASS",
@@ -559,11 +559,11 @@
           "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
           "val" : "2017-03-09T14:53:57Z"
         }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dicty Environment"
-        }, {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
-          "val" : "Petra"
         } ]
       },
       "type" : "CLASS",
@@ -593,11 +593,11 @@
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dicty Environment"
         }, {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
-          "val" : "Petra"
-        }, {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
           "val" : "2019-03-29T14:16:13Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
         } ]
       },
       "type" : "CLASS",
@@ -624,11 +624,11 @@
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dicty Environment"
         }, {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
-          "val" : "Petra"
-        }, {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
           "val" : "2019-03-29T14:16:54Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
         } ]
       },
       "type" : "CLASS",
@@ -685,6 +685,22 @@
       "type" : "CLASS",
       "lbl" : "in the presence of EDTA"
     }, {
+      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000077",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Environment"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2020-12-10T11:20:00Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "during early culmination"
+    }, {
       "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000070",
       "meta" : {
         "synonyms" : [ {
@@ -704,11 +720,11 @@
           "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
           "val" : "2017-03-09T15:02:09Z"
         }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dicty Environment"
-        }, {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
-          "val" : "Petra"
         } ]
       },
       "type" : "CLASS",
@@ -723,7 +739,7 @@
         } ],
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
-          "val" : "Petra"
+          "val" : "pfey"
         }, {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
           "val" : "2017-03-09T15:05:20Z"
@@ -747,7 +763,7 @@
           "val" : "2017-03-09T15:05:58Z"
         }, {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
-          "val" : "Petra"
+          "val" : "pfey"
         }, {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dicty Environment"
@@ -766,11 +782,11 @@
           "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
           "val" : "2017-10-25T16:57:19Z"
         }, {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
-          "val" : "Petra"
-        }, {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dicty Environment"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
         } ]
       },
       "type" : "CLASS",
@@ -822,6 +838,38 @@
       },
       "type" : "CLASS",
       "lbl" : "in the absence of EDTA"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000078",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2020-12-10T11:20:28Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Environment"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "during late culmination"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000079",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2020-12-10T11:26:38Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Environment"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "during spore germination"
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000035",
       "meta" : {
@@ -1137,11 +1185,11 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000056"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000049",
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000026",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000052"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000026",
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000049",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000052"
     }, {
@@ -1221,11 +1269,11 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000056"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000034",
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000079",
       "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000055"
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000040"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000022",
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000068",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000054"
     }, {
@@ -1233,19 +1281,19 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000054"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000068",
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000022",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000054"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000034",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000055"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000029",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000008"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000056",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000053"
-    }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000067",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000053"
     }, {
@@ -1256,6 +1304,10 @@
       "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000033",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000054"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000067",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000053"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000003",
       "pred" : "is_a",
@@ -1285,13 +1337,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000056"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000024",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000054"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000036",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000055"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000024",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000054"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000058",
       "pred" : "is_a",
@@ -1304,6 +1356,10 @@
       "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000041",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000040"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000077",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000043"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000076",
       "pred" : "is_a",
@@ -1345,17 +1401,21 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000063"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000042",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000040"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000012",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000001"
     }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000042",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000040"
+    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000020",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000054"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000078",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000043"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000004",
       "pred" : "is_a",
@@ -1386,7 +1446,7 @@
         "val" : "A structured controlled vocabulary of environment of the slime-mold Dictyostelium discoideum."
       }, {
         "pred" : "http://purl.org/dc/elements/1.1/title",
-        "val" : "Dicty environment (DDENVDIR)"
+        "val" : "Dicty environment (DDENVIR)"
       }, {
         "pred" : "http://purl.org/dc/terms/license",
         "val" : "http://creativecommons.org/publicdomain/zero/1.0/"
@@ -1395,7 +1455,7 @@
         "val" : "OBO-Edit 2.2"
       }, {
         "pred" : "http://www.geneontology.org/formats/oboInOwl#date",
-        "val" : "08:12:2020 17:37"
+        "val" : "10:12:2020 11:29"
       }, {
         "pred" : "http://www.geneontology.org/formats/oboInOwl#default-namespace",
         "val" : "Dicty Environment"

@@ -569,7 +569,7 @@
         "val" : "A structured controlled vocabulary of annotations of the slime-mold Dictyostelium discoideum."
       }, {
         "pred" : "http://purl.org/dc/elements/1.1/title",
-        "val" : "Dicty Annotation Ontology (DDANAT)"
+        "val" : "Dicty Annotation Ontology (DDANNO)"
       }, {
         "pred" : "http://purl.org/dc/terms/license",
         "val" : "http://creativecommons.org/publicdomain/zero/1.0/"

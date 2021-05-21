@@ -1166,7 +1166,7 @@
         "val" : "A structured controlled vocabulary of storage conditions of the slime-mold Dictyostelium discoideum."
       }, {
         "pred" : "http://purl.org/dc/elements/1.1/title",
-        "val" : "Dicty Storage Condition Ontology (DDANAT)"
+        "val" : "Dicty Storage Condition Ontology (DDSTORCON)"
       }, {
         "pred" : "http://purl.org/dc/terms/license",
         "val" : "http://creativecommons.org/publicdomain/zero/1.0/"
