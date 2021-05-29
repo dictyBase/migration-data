@@ -1,7 +1,7 @@
 format-version: 1.2
 date: 30:04:2021 18:40
 saved-by: pfey
-auto-generated-by: OBO-Edit 2.2
+auto-generated-by: OBO-Edit 2.3
 default-namespace: Dicty Phenotypes
 multiple tipsformat-version: 1.2
 property_value: http://purl.org/dc/elements/1.1/description "A structured controlled vocabulary of phenotypes of the slime-mould Dictyostelium discoideum." xsd:string
