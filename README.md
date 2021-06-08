@@ -5,7 +5,7 @@ Data files required for migration
 ## Editing ontology(obo format only)
 + This repository manages [dictyBase](https://dictycr.org) ontologies through
   the `ontologies` folder; it includes all Dicty ontologies, e.g the large 
-  dicty_phenotypes and smaller ontologies such as dicty_strain_charactersitics
+  dicty_phenotypes and smaller ontologies such as dicty_strain_charactersitics.
 + All ontologies are edited through pull request. Ontologies validated and
   merged through pull requests are automatically converted to
   [obograph-json](https://github.com/geneontology/obographs) format and
