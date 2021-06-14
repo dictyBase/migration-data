@@ -36,7 +36,7 @@
             "link": "http://dictybase.org/tools/jbrowse/?data=data/jbrowse/discoideum&loc=6:1..50011&tracks=reference,gene,transcript"
           },
           {
-            "label": "Dashboard",
+            "label": "DictyAccess",
             "link": "/dictyaccess"
           }
         ]
