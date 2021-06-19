@@ -1,0 +1,4130 @@
+DBP0000034	depositor	Gene Katz
+DBP0000034	keyword	T7 tag
+DBP0000034	keyword	neomycin resistance
+DBP0000034	keyword	expression vector
+DBP0000034	keyword	act15 promoter
+DBP0000098	depositor	Tian Jin
+DBP0000098	synonym	Gbeta-GFP
+DBP0000098	synonym	Gb-GFP
+DBP0000098	synonym	GFP-Gbeta
+DBP0000098	keyword	GFP marker
+DBP0000098	keyword	extrachromosomal vector
+DBP0000098	keyword	expression vector
+DBP0000098	keyword	neomycin resistance
+DBP0000099	depositor	Tian Jin
+DBP0000099	synonym	Gbeta-YFP
+DBP0000099	synonym	Gb-YFP
+DBP0000099	synonym	YFP-Gbeta
+DBP0000099	keyword	YFP marker
+DBP0000099	keyword	expression vector
+DBP0000099	keyword	act15 promoter
+DBP0000099	keyword	neomycin resistance
+DBP0000100	depositor	Tom Egelhoff
+DBP0000100	synonym	mhck knockout vector
+DBP0000100	keyword	blasticidin resistance
+DBP0000100	keyword	knockout vector
+DBP0000101	depositor	Tom Egelhoff
+DBP0000101	synonym	mhck-knockout vector
+DBP0000101	keyword	thymidine selection
+DBP0000101	keyword	knockout vector
+DBP0000102	depositor	Tom Egelhoff
+DBP0000102	synonym	mhck-knockout vector
+DBP0000102	keyword	hygromycin resistance
+DBP0000102	keyword	knockout vector
+DBP0000103	depositor	A. Noegel?
+DBP0000103	synonym	pDNeoII
+DBP0000103	synonym	pDNeo II
+DBP0000103	synonym	pDNeo 2
+DBP0000103	synonym	pD-neo
+DBP0000103	synonym	pDNeo-II
+DBP0000103	synonym	pDNeo-2
+DBP0000103	keyword	neomycin resistance
+DBP0000103	keyword	expression vector
+DBP0000103	keyword	act6 promoter
+DBP0000103	keyword	act15 promoter
+DBP0000104	depositor	Tamao Saito
+DBP0000104	keyword	blasticidin resistance
+DBP0000104	keyword	knockout vector
+DBP0000105	depositor	Tamao Saito
+DBP0000105	keyword	blasticidin resistance
+DBP0000105	keyword	knockout vector
+DBP0000106	depositor	Yukako Asano (Kazuo Sutoh)
+DBP0000106	synonym	amiB KO
+DBP0000106	synonym	R8-2Cla#19/pUC118(Bsr)
+DBP0000106	keyword	REMI vector
+DBP0000106	keyword	knockout vector
+DBP0000107	depositor	Yukako Asano (Kazuo Sutoh)
+DBP0000107	synonym	amiB KO
+DBP0000107	synonym	R12-3Nde#1/pUC118(Bsr)
+DBP0000107	keyword	REMI vector
+DBP0000107	keyword	knockout vector
+DBP0000011	depositor	Tom Egelhoff
+DBP0000011	synonym	A15/gfp-neo
+DBP0000011	keyword	GFP marker
+DBP0000011	keyword	expression vector
+DBP0000011	keyword	extrachromosomal vector
+DBP0000011	keyword	neomycin resistance
+DBP0000011	keyword	act15 promoter
+DBP0000012	depositor	Menno Knetsch (Dietmar Manstein)
+DBP0000012	synonym	Ddp2-orf
+DBP0000012	synonym	p-REP
+DBP0000012	keyword	expression vector
+DBP0000013	depositor	Barrie Coukell
+DBP0000013	synonym	SSL268
+DBP0000014	depositor	Barrie Coukell
+DBP0000014	synonym	calmodulin 1
+DBP0000015	depositor	Barrie Coukell
+DBP0000015	synonym	Not available
+DBP0000016	depositor	Barrie Coukell
+DBP0000016	synonym	ncsA/bsR (SSL268)
+DBP0000016	keyword	knockout vector
+DBP0000016	keyword	blasticidin resistance
+DBP0000017	depositor	Annette Muller-Taubenberger
+DBP0000017	synonym	cnx-gfp
+DBP0000017	synonym	cnxa-gfp
+DBP0000017	keyword	neomycin resistance
+DBP0000017	keyword	GFP marker
+DBP0000017	keyword	expression vector
+DBP0000017	keyword	extrachromosomal vector
+DBP0000018	depositor	Annette Muller-Taubenberger
+DBP0000018	synonym	gfp-crta
+DBP0000018	synonym	gfp-calreticulin
+DBP0000018	keyword	neomycin resistance
+DBP0000018	keyword	expression vector
+DBP0000018	keyword	extrachromosomal vector
+DBP0000018	keyword	GFP marker
+DBP0000020	depositor	Peter Devreotes
+DBP0000020	synonym	cAR1
+DBP0000020	synonym	pmc-34
+DBP0000020	keyword	extrachromosomal vector
+DBP0000020	keyword	neomycin resistance
+DBP0000022	depositor	Peter Devreotes
+DBP0000022	synonym	pJK-3
+DBP0000022	keyword	extrachromosomal vector
+DBP0000022	keyword	expression vector
+DBP0000023	depositor	Peter Devreotes
+DBP0000023	keyword	expression vector
+DBP0000023	keyword	act15 promoter
+DBP0000025	depositor	Peter Devreotes
+DBP0000025	keyword	neomycin resistance
+DBP0000025	keyword	expression vector
+DBP0000025	keyword	act15promoter
+DBP0000026	depositor	Peter Devreotes
+DBP0000026	synonym	ptora b18
+DBP0000026	synonym	ptorab18
+DBP0000026	keyword	expression vector
+DBP0000027	depositor	Peter Devreotes
+DBP0000027	synonym	pRH-130
+DBP0000027	synonym	pRHI-30
+DBP0000027	synonym	pRH130
+DBP0000027	keyword	REMI vector
+DBP0000028	depositor	Peter Devreotes
+DBP0000028	synonym	pCAR2B18
+DBP0000028	keyword	expression vector
+DBP0000029	depositor	Peter Devreotes
+DBP0000029	synonym	pcar3 b18
+DBP0000029	synonym	pcar3b18
+DBP0000029	keyword	expression vector
+DBP0000030	depositor	Peter Devreotes
+DBP0000030	synonym	pRJ-525
+DBP0000031	depositor	Dietmar Manstein
+DBP0000031	keyword	His tag
+DBP0000031	keyword	Myc tag
+DBP0000031	keyword	neomycin resistance
+DBP0000031	keyword	expression vector
+DBP0000031	keyword	act15 promoter
+DBP0000033	depositor	Gadi Shaulsky
+DBP0000033	synonym	pBSR-3
+DBP0000033	keyword	blasticidin resistance
+DBP0000033	keyword	REMI vector
+DBP0000033	keyword	act15 promoter
+DBP0000033	keyword	neomycin resistance
+DBP0000035	depositor	Jakob Franke
+DBP0000035	keyword	T7 tag
+DBP0000035	keyword	neomycin resistance
+DBP0000035	keyword	expression vector
+DBP0000035	keyword	act15 promoter
+DBP0000036	depositor	Frantisek Puta
+DBP0000036	keyword	blasticidin resistance
+DBP0000037	depositor	Frantisek Puta
+DBP0000037	keyword	blasticidin resistance
+DBP0000038	depositor	Frantisek Puta
+DBP0000038	keyword	blasticidin resistance
+DBP0000039	depositor	Jeff Williams
+DBP0000039	synonym	ecmB
+DBP0000039	synonym	ST310
+DBP0000039	keyword	ecmB promoter
+DBP0000039	keyword	neomycin resistance
+DBP0000039	keyword	galactosidase marker
+DBP0000040	depositor	Jeff Williams
+DBP0000040	synonym	ecmA
+DBP0000040	synonym	ST430
+DBP0000040	keyword	ecmA promoter
+DBP0000040	keyword	neomycin resistance
+DBP0000040	keyword	galactosidase marker
+DBP0000041	depositor	G. Shaulsky
+DBP0000041	synonym	pUC-bsR-deltaBam
+DBP0000041	keyword	REMI vector
+DBP0000041	keyword	blasticidin resistance
+DBP0000043	depositor	Peter Devreotes
+DBP0000044	depositor	Mieke Blaauw (Peter van Haastert)
+DBP0000044	synonym	MB-35
+DBP0000044	keyword	neomycin resistance
+DBP0000044	keyword	act6 promoter
+DBP0000044	keyword	act15 promoter
+DBP0000044	keyword	neomycin resistance
+DBP0000044	keyword	tetOFF vector
+DBP0000045	depositor	Mieke Blaauw (Peter van Haastert)
+DBP0000045	synonym	MB-38
+DBP0000045	keyword	act15 promoter
+DBP0000045	keyword	blasticidin resistance
+DBP0000046	depositor	Jeff Williams
+DBP0000046	synonym	ecmAgal
+DBP0000046	synonym	ecmA/gal
+DBP0000046	synonym	#116
+DBP0000046	synonym	ecmA-lacZ
+DBP0000046	synonym	ecmA/lacZ
+DBP0000046	synonym	ecmAlacZ
+DBP0000046	keyword	galactosidase marker
+DBP0000046	keyword	expression vector
+DBP0000046	keyword	act15 promoter
+DBP0000046	keyword	act6 promoter
+DBP0000046	keyword	neomycin resistance
+DBP0000046	keyword	ecmA promoter
+DBP0000048	depositor	Jeff Williams
+DBP0000048	synonym	#019 (pActRsub-A<sup>E</sup>B<sup>E</sup>)
+DBP0000048	keyword	act15 promoter
+DBP0000048	keyword	act6 promoter
+DBP0000048	keyword	expression vector
+DBP0000048	keyword	neomycin resistance
+DBP0000117	depositor	David Knecht
+DBP0000117	synonym	pA15-Gal
+DBP0000117	synonym	pA15-lacZ
+DBP0000117	synonym	pA15lacZ
+DBP0000117	synonym	pA15Gal
+DBP0000117	keyword	galactosidase marker
+DBP0000117	keyword	neomycin resistance
+DBP0000117	keyword	expression vector
+DBP0000117	keyword	act6 promoter
+DBP0000117	keyword	act15 promoter
+DBP0000108	depositor	Yukako Asano (Taro Uyeda)
+DBP0000108	synonym	Arp2-GFP/pBIG(G418)
+DBP0000108	synonym	arpB-gfp/pBIG
+DBP0000108	keyword	GFP marker
+DBP0000108	keyword	neomycin resistance
+DBP0000108	keyword	act15 promoter
+DBP0000108	keyword	expression vector
+DBP0000019	depositor	Peter Devreotes
+DBP0000019	synonym	cAR1-KO vector
+DBP0000019	synonym	pmc-25
+DBP0000019	keyword	knockout vector
+DBP0000158	depositor	Mark Bretscher
+DBP0000158	synonym	CS-4
+DBP0000158	keyword	blasticidin resistance
+DBP0000158	keyword	cre-loxP vector
+DBP0000021	depositor	Peter Devreotes
+DBP0000021	keyword	extrachromosomal vector
+DBP0000021	keyword	neomycin resistance
+DBP0000021	keyword	expression vector
+DBP0000021	keyword	act15 promoter
+DBP0000118	depositor	Wolfgang Nellen
+DBP0000118	synonym	pVE2
+DBP0000118	keyword	expression vector
+DBP0000118	keyword	discoidin promoter
+DBP0000118	keyword	neomycin resistance
+DBP0000118	keyword	act15 promoter
+DBP0000119	depositor	Tom Egelhoff
+DBP0000119	keyword	expression vector
+DBP0000119	keyword	hygromycin resistance
+DBP0000120	depositor	Tom Egelhoff
+DBP0000120	keyword	expression vector
+DBP0000120	keyword	extrachromosomal vector
+DBP0000120	keyword	hygromycin resistance
+DBP0000121	depositor	Tom Egelhoff
+DBP0000121	keyword	neomycin resistance
+DBP0000121	keyword	extrachromosomal vector
+DBP0000121	keyword	act6 promoter
+DBP0000122	depositor	Tom Egelhoff
+DBP0000122	keyword	extrachromosomal vector
+DBP0000122	keyword	expression vector
+DBP0000122	keyword	neomycin resistance
+DBP0000123	depositor	Tom Egelhoff
+DBP0000123	synonym	Not available
+DBP0000123	keyword	expression vector
+DBP0000123	keyword	neomycin resistance
+DBP0000123	keyword	extrachromosomal vector
+DBP0000124	depositor	Karl Saxe
+DBP0000124	synonym	carb/lacz
+DBP0000124	synonym	carB-lacZ
+DBP0000124	synonym	car2-lacZ
+DBP0000124	synonym	car2/lacZ
+DBP0000124	keyword	galactosidase marker
+DBP0000124	keyword	expression vector
+DBP0000124	keyword	act6 promoter
+DBP0000124	keyword	neomycin resistance
+DBP0000125	depositor	Jeff Hadwiger
+DBP0000125	synonym	Galpha4
+DBP0000125	synonym	expr.vector
+DBP0000125	keyword	expression vector
+DBP0000125	keyword	neomycin resistance
+DBP0000126	depositor	Jeff Hadwiger
+DBP0000126	synonym	Galpha4/lacz
+DBP0000126	keyword	expression vector
+DBP0000126	keyword	neomycin resistance
+DBP0000126	keyword	galactosidase marker
+DBP0000127	depositor	Jeff Hadwiger
+DBP0000127	synonym	Galpha5
+DBP0000127	synonym	Ga5
+DBP0000127	keyword	expression vector
+DBP0000127	keyword	neomycin resistance
+DBP0000128	depositor	Jeff Hadwiger
+DBP0000128	synonym	Galpha5/lacz
+DBP0000128	keyword	expression vector
+DBP0000128	keyword	neomycin resistance
+DBP0000128	keyword	galactosidase marker
+DBP0000129	depositor	Jeff Hadwiger
+DBP0000129	synonym	Galpha5KO
+DBP0000129	synonym	Galpha5::THY1
+DBP0000129	keyword	knockout vector
+DBP0000047	depositor	Jeff Williams
+DBP0000047	synonym	ecmOgal
+DBP0000047	synonym	ecmO/gal
+DBP0000047	synonym	#092
+DBP0000047	synonym	ecmO-lacZ
+DBP0000047	synonym	ecmO/lacZ
+DBP0000047	synonym	ecmOlacZ
+DBP0000047	keyword	galactosidase marker
+DBP0000047	keyword	expression vector
+DBP0000047	keyword	act15 promoter
+DBP0000047	keyword	act6 promoter
+DBP0000047	keyword	neomycin resistance
+DBP0000047	keyword	ecmO promoter
+DBP0000051	depositor	Jeff Williams
+DBP0000051	synonym	ecmBneogal
+DBP0000051	synonym	EcmB-Neo-Gal
+DBP0000051	synonym	#044
+DBP0000051	synonym	ecmB/gal
+DBP0000051	synonym	ecmBgal
+DBP0000051	synonym	ecmB-lacZ
+DBP0000051	synonym	ecmB/lacZ
+DBP0000051	synonym	ecmBlacZ
+DBP0000051	keyword	galactosidase marker
+DBP0000051	keyword	expression vector
+DBP0000051	keyword	act15 promoter
+DBP0000051	keyword	act6 promoter
+DBP0000051	keyword	neomycin resistance
+DBP0000051	keyword	ecmB promoter
+DBP0000178	depositor	Harry MacWilliams (through Herb Ennis)
+DBP0000178	synonym	no. 375
+DBP0000178	synonym	psa-gfp
+DBP0000178	synonym	V/PsA-S65TGFP
+DBP0000178	keyword	neomycin resistance
+DBP0000178	keyword	GFP marker
+DBP0000178	keyword	expression vector
+DBP0000178	keyword	psA promoter
+DBP0000179	depositor	Harry MacWilliams (through Herb Ennis)
+DBP0000179	keyword	act15 promoter
+DBP0000179	keyword	GFP marker
+DBP0000179	keyword	expression vector
+DBP0000180	depositor	Harry MacWilliams (through Herb Ennis)
+DBP0000180	synonym	no. 324
+DBP0000180	keyword	neomycin resistance
+DBP0000180	keyword	ecmA promoter
+DBP0000180	keyword	expression vector
+DBP0000180	keyword	GFP marker
+DBP0000181	depositor	Harry MacWilliams (through Herb Ennis)
+DBP0000181	keyword	psA promoter
+DBP0000181	keyword	expression vector
+DBP0000181	keyword	galactosidase marker
+DBP0000182	depositor	Harry MacWilliams (through Herb Ennis)
+DBP0000182	keyword	act6 promoter
+DBP0000182	keyword	expression vector
+DBP0000183	depositor	Harry MacWilliams (through Herb Ennis)
+DBP0000183	keyword	galactosidase marker
+DBP0000183	keyword	psA promoter
+DBP0000183	keyword	expression vector
+DBP0000184	depositor	Harry MacWilliams (through Herb Ennis)
+DBP0000184	keyword	galactosidase marker
+DBP0000184	keyword	expression vector
+DBP0000185	depositor	Del Richardson (via Stefan Pukatzki)
+DBP0000185	synonym	spi-lacZ
+DBP0000185	keyword	act6 promoter
+DBP0000185	keyword	neomycin resistance
+DBP0000185	keyword	galactosidase marker
+DBP0000186	depositor	Dietmar Manstein
+DBP0000186	synonym	pDXA-Hygro
+DBP0000186	synonym	pDXA-3Hygro
+DBP0000186	keyword	expression vector
+DBP0000186	keyword	hygromycin resistance
+DBP0000186	keyword	act15 promoter
+DBP0000186	keyword	His tag
+DBP0000187	depositor	Tom Egelhoff
+DBP0000187	keyword	hygromycin resistance
+DBP0000187	keyword	act15 promoter
+DBP0000188	depositor	Jeff Hadwiger
+DBP0000188	synonym	Galpha4KO
+DBP0000188	synonym	Galpha4::pyr5-6
+DBP0000188	synonym	Ga4-KO
+DBP0000188	keyword	knockout vector
+DBP0000189	depositor	Peter Devreotes
+DBP0000189	synonym	ptora/gfp-b18
+DBP0000189	synonym	ptora-gfp b18
+DBP0000189	keyword	expression vector
+DBP0000189	keyword	GFP marker
+DBP0000190	depositor	Hideko Urushihara
+DBP0000190	synonym	10-KAX3&V12
+DBP0000191	depositor	Takefumi Kawata
+DBP0000191	synonym	psiA-oxp
+DBP0000191	synonym	pActin15-psi(+ATG)
+DBP0000191	keyword	expression vector
+DBP0000191	keyword	act15 promoter
+DBP0000192	depositor	Hideko Urushihara
+DBP0000193	depositor	Hideko Urushihara
+DBP0000198	depositor	Dietmar Manstein
+DBP0000198	keyword	expression vector
+DBP0000198	keyword	neomycin resistance
+DBP0000198	keyword	His tag
+DBP0000198	keyword	act15 promoter
+DBP0000075	depositor	Peter Devreotes
+DBP0000075	keyword	random chimeragenesis
+DBP0000076	depositor	Peter Devreotes
+DBP0000076	keyword	random chimeragenesis
+DBP0000077	depositor	Peter Devreotes
+DBP0000077	synonym	pMYC86-6
+DBP0000077	synonym	pianissimo
+DBP0000077	synonym	piaA
+DBP0000077	keyword	expression vector
+DBP0000078	depositor	Peter Devreotes
+DBP0000078	synonym	piamyc28
+DBP0000078	keyword	knockout vector
+DBP0000079	depositor	Peter Devreotes
+DBP0000079	synonym	acg
+DBP0000079	keyword	expression vector
+DBP0000079	keyword	neomycin resistance
+DBP0000080	depositor	Peter Devreotes
+DBP0000081	depositor	Bill Loomis
+DBP0000081	synonym	acbA-KO vector
+DBP0000081	keyword	knockout vector
+DBP0000081	keyword	blasticidin resistance
+DBP0000082	depositor	Peter Devreotes
+DBP0000082	synonym	5car3-ura
+DBP0000082	synonym	5car3 ura
+DBP0000082	keyword	knockout vector
+DBP0000083	depositor	Peter Devreotes
+DBP0000083	synonym	5car3-neo
+DBP0000083	synonym	car3A
+DBP0000083	keyword	knockout vector
+DBP0000083	keyword	neomycin resistance
+DBP0000084	depositor	Peter Devreotes
+DBP0000084	synonym	pRH138
+DBP0000084	synonym	pRHI-38
+DBP0000084	synonym	pRH-138
+DBP0000084	synonym	CRAC<sup>WT</sup>
+DBP0000084	keyword	expression vector
+DBP0000084	keyword	extrachromosomal vector
+DBP0000085	depositor	Peter Devreotes
+DBP0000085	synonym	pBS-A15
+DBP0000085	keyword	neomycin resistance
+DBP0000085	keyword	act15 promoter
+DBP0000086	depositor	Peter Devreotes
+DBP0000086	keyword	act15 promoter
+DBP0000087	depositor	Peter Devreotes
+DBP0000087	synonym	pACA-KO
+DBP0000087	synonym	pACA-URA
+DBP0000087	synonym	ACA2
+DBP0000087	synonym	ACA-KO-URA
+DBP0000087	keyword	knockout vector
+DBP0000087	keyword	uracil selection
+DBP0000088	depositor	Peter Devreotes
+DBP0000088	synonym	pSVE-Z16-YakA-KO
+DBP0000088	keyword	knockout vector
+DBP0000089	depositor	Peter Devreotes
+DBP0000089	synonym	Ggamma knock-in construct
+DBP0000089	synonym	Ggammadelta
+DBP0000089	keyword	dominant negative mutant
+DBP0000089	keyword	knock-in vector
+DBP0000090	depositor	Peter Devreotes
+DBP0000090	synonym	egeA-eGFP
+DBP0000090	keyword	GFP marker
+DBP0000090	keyword	neomycin resistance
+DBP0000090	keyword	expression vector
+DBP0000091	depositor	Peter Devreotes
+DBP0000091	synonym	aca
+DBP0000092	depositor	Peter Devreotes
+DBP0000092	keyword	GFP marker
+DBP0000092	keyword	His tag
+DBP0000092	keyword	expression vector
+DBP0000093	depositor	Jane Borleis (Peter Devreotes)
+DBP0000093	keyword	GFP marker
+DBP0000093	keyword	neomycin resistance
+DBP0000093	keyword	expression vector
+DBP0000094	depositor	Dietmar Manstein
+DBP0000094	keyword	YFP marker
+DBP0000094	keyword	neomycin resistance
+DBP0000094	keyword	expression vector
+DBP0000094	keyword	act15 promoter
+DBP0000095	depositor	Dietmar Manstein
+DBP0000095	keyword	expression vector
+DBP0000095	keyword	CFP marker
+DBP0000095	keyword	neomycin resistance
+DBP0000095	keyword	act15 promoter
+DBP0000096	depositor	Dietmar Manstein
+DBP0000096	keyword	His tag
+DBP0000096	keyword	YL1/2 epitope tag
+DBP0000096	keyword	neomycin resistance
+DBP0000096	keyword	expression vector
+DBP0000096	keyword	act15 promoter
+DBP0000097	depositor	Leandro Sastre
+DBP0000097	keyword	knockout vector
+DBP0000109	depositor	Tom Egelhoff
+DBP0000109	keyword	FLAG tag
+DBP0000109	keyword	expression vector
+DBP0000109	keyword	neomycin resistance
+DBP0000109	keyword	extrachromosomal vector
+DBP0000110	depositor	Tom Egelhoff
+DBP0000110	keyword	GFP marker
+DBP0000110	keyword	expression vector
+DBP0000110	keyword	extrachromosomal vector
+DBP0000110	keyword	neomycin resistance
+DBP0000111	depositor	Tom Egelhoff
+DBP0000111	keyword	expression vector
+DBP0000111	keyword	extrachromosomal vector
+DBP0000111	keyword	FLAG tag
+DBP0000111	keyword	neomycin resistance
+DBP0000111	keyword	act15 promoter
+DBP0000049	depositor	Jeff Williams
+DBP0000049	synonym	#042
+DBP0000049	synonym	pspA-lacZ
+DBP0000049	synonym	pspA/lacZ
+DBP0000049	synonym	pspAlacZ
+DBP0000049	synonym	pspA/gal
+DBP0000049	synonym	pspAgal
+DBP0000049	synonym	D19-lacZ
+DBP0000049	synonym	pPsA-gal
+DBP0000049	synonym	pPsA-lacZ
+DBP0000049	keyword	psA promoter
+DBP0000049	keyword	galactosidase marker
+DBP0000049	keyword	expression vector
+DBP0000049	keyword	neomycin resistance
+DBP0000049	keyword	act6 promoter
+DBP0000050	depositor	Jeff Williams
+DBP0000050	synonym	ecmAOneogal
+DBP0000050	synonym	EcmAO-Neo-Gal
+DBP0000050	synonym	#043
+DBP0000050	synonym	ecmAO/gal
+DBP0000050	synonym	ecmAO
+DBP0000050	synonym	ecmAO-lacZ
+DBP0000050	synonym	ecmAO/lacZ
+DBP0000050	synonym	ecmAOlacZ
+DBP0000050	keyword	ecmAO promoter
+DBP0000050	keyword	galactosidase marker
+DBP0000050	keyword	act6 promoter
+DBP0000050	keyword	neomycin resistance
+DBP0000050	keyword	expression vector
+DBP0000052	synonym	no. 275
+DBP0000052	synonym	pV18BsR
+DBP0000052	keyword	blasticidin resistance
+DBP0000053	keyword	galactosidase marker
+DBP0000053	keyword	neomycin resistance
+DBP0000053	keyword	ecmAO promoter
+DBP0000054	depositor	Barrie Coukell
+DBP0000054	synonym	patBKO
+DBP0000054	keyword	knockout vector
+DBP0000055	depositor	Barrie Coukell
+DBP0000055	synonym	Not available
+DBP0000055	keyword	patB
+DBP0000055	keyword	antisense
+DBP0000055	keyword	PAT1
+DBP0000055	keyword	ATPase
+DBP0000055	keyword	contractile vacuole
+DBP0000055	keyword	calcium regulation
+DBP0000056	depositor	Barrie Coukell
+DBP0000056	synonym	Not available
+DBP0000056	keyword	knockout vector
+DBP0000057	depositor	Barrie Coukell
+DBP0000057	synonym	Not available
+DBP0000057	keyword	neomycin resistance
+DBP0000058	depositor	Karl Saxe
+DBP0000058	synonym	Scar-::Blast
+DBP0000058	synonym	scar-ko
+DBP0000058	synonym	scar/blast.scar::blast
+DBP0000058	synonym	scrA-ko
+DBP0000058	keyword	knockout vector
+DBP0000058	keyword	blasticidin resistance
+DBP0000059	depositor	Karl Saxe
+DBP0000059	synonym	car2::thy
+DBP0000059	synonym	carB/thy
+DBP0000059	synonym	carB-thy
+DBP0000059	synonym	car2-thy
+DBP0000059	synonym	car2/thy
+DBP0000059	keyword	knockout vector
+DBP0000060	depositor	Chris West
+DBP0000060	synonym	pVS4
+DBP0000060	synonym	pVS-4
+DBP0000060	keyword	Myc tag
+DBP0000060	keyword	neomycin resistance
+DBP0000060	keyword	expression vector
+DBP0000060	keyword	act15 promoter
+DBP0000060	keyword	discoidin promoter
+DBP0000061	depositor	Chris West
+DBP0000061	synonym	pVS-cotB
+DBP0000061	synonym	pVSB
+DBP0000061	keyword	Myc tag
+DBP0000061	keyword	neomycin resistance
+DBP0000061	keyword	expression vector
+DBP0000061	keyword	act15 promoter
+DBP0000061	keyword	cotB promoter
+DBP0000062	depositor	Takefumi Kawata
+DBP0000062	synonym	psiA-KO
+DBP0000062	keyword	knockout vector
+DBP0000062	keyword	blasticidin resistance
+DBP0000063	depositor	Dietmar Manstein
+DBP0000063	keyword	Myc tag
+DBP0000063	keyword	neomycin resistance
+DBP0000063	keyword	expression vector
+DBP0000063	keyword	act15 promoter
+DBP0000064	depositor	Peter Devreotes
+DBP0000064	synonym	Ggamma-YFP
+DBP0000064	synonym	Gg-YFP
+DBP0000064	keyword	YFP marker
+DBP0000064	keyword	expression vector
+DBP0000065	depositor	Peter Devreotes
+DBP0000065	synonym	TOR-KO.2
+DBP0000065	synonym	TOR-KO2
+DBP0000065	keyword	knockout vector
+DBP0000066	depositor	Peter Devreotes
+DBP0000066	keyword	act15 promoter
+DBP0000066	keyword	extrachromosomal vector
+DBP0000066	keyword	expression vector
+DBP0000066	keyword	GFP marker
+DBP0000066	keyword	neomycin resistance
+DBP0000067	depositor	Peter Devreotes
+DBP0000067	keyword	blasticidin resistance
+DBP0000067	keyword	knockout vector
+DBP0000068	depositor	Peter Devreotes
+DBP0000068	synonym	pWf1
+DBP0000068	keyword	GFP marker
+DBP0000068	keyword	expression vector
+DBP0000069	depositor	Peter Devreotes
+DBP0000069	keyword	GFP marker
+DBP0000069	keyword	expression vector
+DBP0000069	keyword	act15 promoter
+DBP0000070	depositor	Peter Devreotes
+DBP0000070	synonym	pCAR1B18
+DBP0000070	synonym	pB18cAR1
+DBP0000070	keyword	expresion vector
+DBP0000070	keyword	act15 promoter
+DBP0000070	keyword	extrachromosomal vector
+DBP0000070	keyword	neomycin resistance
+DBP0000071	depositor	Peter Devreotes
+DBP0000071	synonym	cAR1
+DBP0000071	synonym	pmc-36
+DBP0000071	keyword	extrachromosomal vector
+DBP0000072	depositor	Peter Devreotes
+DBP0000072	synonym	act6-yaka-gfp
+DBP0000072	keyword	GFP marker
+DBP0000072	keyword	expression vector
+DBP0000072	keyword	act6 promoter
+DBP0000072	keyword	neomycin resistance
+DBP0000073	depositor	Peter Devreotes
+DBP0000073	synonym	car3koura
+DBP0000073	synonym	car3 ko ura
+DBP0000073	keyword	knockout vector
+DBP0000074	depositor	C. Klein?
+DBP0000074	synonym	pDNeo-67
+DBP0000074	keyword	expression vector
+DBP0000074	keyword	neomycin resistance
+DBP0000074	keyword	act6 promoter
+DBP0000116	depositor	Adrian Tsang
+DBP0000116	synonym	pRNRP
+DBP0000116	keyword	expression vector
+DBP0000116	keyword	neomycin resistance
+DBP0000290	depositor	Salvatore Bozzaro
+DBP0000290	synonym	gfp-piawt
+DBP0000290	keyword	expression vector
+DBP0000290	keyword	GFP marker
+DBP0000290	keyword	act15 promoter
+DBP0000290	keyword	act6 promoter
+DBP0000290	keyword	neomycin resistance
+DBP0000291	synonym	pB10TP-4
+DBP0000291	keyword	neomycin resistance
+DBP0000292	depositor	Arturo De Lozanne
+DBP0000292	keyword	blasticidin resistance
+DBP0000292	keyword	knockout vector
+DBP0000293	depositor	Arturo De Lozanne
+DBP0000293	keyword	blasticidin resistance
+DBP0000293	keyword	knockout vector
+DBP0000294	depositor	Arturo De Lozanne
+DBP0000294	keyword	blasticidin resistance
+DBP0000294	keyword	knockout vector
+DBP0000295	depositor	Arturo De Lozanne
+DBP0000295	keyword	blasticidin resistance
+DBP0000295	keyword	knockout vector
+DBP0000296	depositor	Arturo De Lozanne
+DBP0000296	keyword	blasticidin resistance
+DBP0000296	keyword	knockout vector
+DBP0000297	depositor	Doug Robinson
+DBP0000297	keyword	GFP marker
+DBP0000297	keyword	expression vector
+DBP0000297	keyword	act15 promoter
+DBP0000298	depositor	Doug Robinson
+DBP0000298	keyword	expression vector
+DBP0000298	keyword	act15 promoter
+DBP0000299	depositor	Chris Thompson
+DBP0000299	keyword	knockout vector
+DBP0000300	depositor	Harry MacWilliams
+DBP0000300	synonym	A15-RpHlorin
+DBP0000300	synonym	A15pHluorin
+DBP0000300	synonym	A15-pHlourin
+DBP0000300	keyword	act15 promoter
+DBP0000301	depositor	Jakob Franke
+DBP0000301	keyword	uracil selection
+DBP0000302	depositor	Jane Borleis (Devreotes)
+DBP0000302	synonym	G&#945;2CFP
+DBP0000302	keyword	CFP marker
+DBP0000302	keyword	expression vector
+DBP0000303	depositor	Rob Insall
+DBP0000303	synonym	pRHI-25
+DBP0000303	synonym	pRH125
+DBP0000303	synonym	pRHI 25
+DBP0000303	synonym	12-B
+DBP0000303	keyword	REMI vector
+DBP0000305	depositor	Jane Borleis
+DBP0000305	synonym	pik2gfp
+DBP0000305	synonym	pi3k-gfp
+DBP0000305	keyword	act15 promoter
+DBP0000305	keyword	neomycin resistance
+DBP0000305	keyword	GFP marker
+DBP0000305	keyword	expression vector
+DBP0000306	depositor	Harry MacWilliams
+DBP0000306	synonym	no. 626
+DBP0000306	synonym	crt-pH
+DBP0000306	synonym	crt-pHluorin
+DBP0000306	keyword	act15 promoter
+DBP0000306	keyword	neomycin resistance
+DBP0000306	keyword	marker gene
+DBP0000307	depositor	Jane Borleis (Devreotes)
+DBP0000307	keyword	hygromycin resistance
+DBP0000307	keyword	knockout vector
+DBP0000308	depositor	Petra Fey (Chisholm)
+DBP0000308	keyword	GFP marker
+DBP0000308	keyword	neomycin resistance
+DBP0000308	keyword	expression vector
+DBP0000308	keyword	act15 promoter
+DBP0000309	depositor	Doug Robinson
+DBP0000309	synonym	MyoIIhp:pLD1a15SN
+DBP0000309	keyword	expression vector
+DBP0000309	keyword	act15 promoter
+DBP0000310	depositor	Doug Robinson
+DBP0000310	synonym	expression library
+DBP0000310	keyword	neomycin resistance
+DBP0000310	keyword	expression vector
+DBP0000310	keyword	act15 promoter
+DBP0000311	keyword	act15 promoter
+DBP0000312	depositor	Gerti Weijer
+DBP0000312	synonym	paxA-KO vector
+DBP0000312	keyword	knockout vector
+DBP0000312	keyword	blasticidin resistance
+DBP0000313	depositor	Pauline Schaap
+DBP0000313	synonym	#119-PS clone 7
+DBP0000313	synonym	#136-PS
+DBP0000313	synonym	pCYFP
+DBP0000313	keyword	YFP marker
+DBP0000313	keyword	expression vector
+DBP0000313	keyword	act15 promoter
+DBP0000314	depositor	Pauline Schaap
+DBP0000314	synonym	#96-PS
+DBP0000314	keyword	act15 promoter
+DBP0000315	depositor	Gad Shaulsky
+DBP0000315	synonym	dimBKO
+DBP0000315	keyword	knockout vector
+DBP0000315	keyword	blasticidin resistance
+DBP0000316	depositor	Gerti Weijer
+DBP0000316	synonym	limB-KO vector
+DBP0000316	synonym	limII-
+DBP0000316	keyword	hygromycin resistance
+DBP0000316	keyword	knockout vector
+DBP0000317	depositor	Pauline Schaap
+DBP0000317	synonym	#28-PS
+DBP0000317	synonym	myc-10
+DBP0000317	keyword	Myc tag
+DBP0000318	depositor	Pauline Schaap
+DBP0000318	synonym	#41-PS
+DBP0000319	depositor	Pauline Schaap
+DBP0000319	synonym	#85-PS
+DBP0000320	depositor	Pauline Schaap
+DBP0000320	synonym	#86-PS
+DBP0000321	depositor	Pauline Schaap
+DBP0000321	synonym	#27-PS
+DBP0000321	synonym	bs15
+DBP0000322	depositor	Pauline Schaap
+DBP0000322	synonym	#87-PS
+DBP0000322	keyword	act15 promoter
+DBP0000323	depositor	Rex Chisholm
+DBP0000323	synonym	pEMLC-myc
+DBP0000323	keyword	myc tag
+DBP0000323	keyword	expression vector
+DBP0000323	keyword	neomycin resistance
+DBP0000324	keyword	galactosidase marker
+DBP0000325	depositor	Pauline Schaap
+DBP0000325	synonym	#120-PS clone 1
+DBP0000325	synonym	#137-PS
+DBP0000325	synonym	pCGFP
+DBP0000325	keyword	GFP marker
+DBP0000325	keyword	expression vector
+DBP0000325	keyword	act15 promoter
+DBP0000326	depositor	Pauline Schaap
+DBP0000326	synonym	#125-PS  clone 1
+DBP0000326	keyword	GFP marker
+DBP0000326	keyword	TAP tag
+DBP0000326	keyword	expression vector
+DBP0000326	keyword	actin15 promoter
+DBP0000327	depositor	Pauline Schaap
+DBP0000327	synonym	#121-PS clone 1
+DBP0000327	keyword	YFP marker
+DBP0000327	keyword	expression vector
+DBP0000327	keyword	act15 promoter
+DBP0000328	depositor	Pauline Schaap
+DBP0000328	synonym	#127-PS clone 16
+DBP0000328	keyword	YFP marker
+DBP0000328	keyword	TAP tag
+DBP0000328	keyword	expression vector
+DBP0000328	keyword	act15 promoter
+DBP0000329	depositor	Pauline Schaap
+DBP0000329	synonym	#126-PS clone 14
+DBP0000329	keyword	YFP marker
+DBP0000329	keyword	TAP tag
+DBP0000329	keyword	expression vector
+DBP0000329	keyword	act15 promoter
+DBP0000331	depositor	Pauline Schaap
+DBP0000331	synonym	#129-PS clone 36
+DBP0000331	synonym	pNYFP-NTAP
+DBP0000331	keyword	YFP marker
+DBP0000331	keyword	TAP tag
+DBP0000331	keyword	expression vector
+DBP0000331	keyword	act15 promoter
+DBP0000333	depositor	Pauline Schaap
+DBP0000333	synonym	#140-PS clone 1
+DBP0000333	synonym	pCGFP-NTAP
+DBP0000333	keyword	GFP marker
+DBP0000333	keyword	TAP tag
+DBP0000333	keyword	expression vector
+DBP0000333	keyword	act15 promoter
+DBP0000334	depositor	Pauline Schaap
+DBP0000334	synonym	#147-PS
+DBP0000334	keyword	hygromycin resistance
+DBP0000334	keyword	knockout vector
+DBP0000335	depositor	Pauline Schaap
+DBP0000335	synonym	#141-PS clone 1
+DBP0000335	synonym	pCYFP-NTAP
+DBP0000335	keyword	YFP marker
+DBP0000335	keyword	TAP tag
+DBP0000335	keyword	expression vector
+DBP0000335	keyword	act15 promoter
+DBP0000336	depositor	Doug Robinson
+DBP0000336	synonym	pDXA-3H-B1
+DBP0000336	keyword	expression vector
+DBP0000336	keyword	blasticidin resistance
+DBP0000339	depositor	Grant Otto
+DBP0000339	synonym	A15/gfp-atg1
+DBP0000339	synonym	gfp-DdAtg1
+DBP0000339	synonym	gfp-Ddapg1
+DBP0000339	synonym	ddapg1-gfp
+DBP0000339	synonym	pdxa-gfp-atg1
+DBP0000339	synonym	pdxa-gfp-apg1
+DBP0000339	keyword	GFP marker
+DBP0000339	keyword	act15 promoter
+DBP0000339	keyword	expression vector
+DBP0000340	depositor	Grant Otto
+DBP0000340	synonym	RFPmars-atg8
+DBP0000340	synonym	RFPmars-apg8
+DBP0000340	synonym	A15/RFP-atg8
+DBP0000340	synonym	rfp-DdAtg8
+DBP0000340	synonym	rfp-DdApg8
+DBP0000340	keyword	act15 promoter
+DBP0000340	keyword	expression vector
+DBP0000340	keyword	RFP marker
+DBP0000341	depositor	Grant Otto
+DBP0000341	synonym	A15/GFP-Atg8
+DBP0000341	synonym	gfp-ddatg8
+DBP0000341	synonym	gfp-ddapg8
+DBP0000341	synonym	ptx-gfp-atg8
+DBP0000341	keyword	GFP marker
+DBP0000341	keyword	act15 promoter
+DBP0000341	keyword	expression vector
+DBP0000342	depositor	Grant Otto
+DBP0000342	synonym	pdxa-cfp-apg1
+DBP0000342	synonym	pdxa-cfp-atg1
+DBP0000342	synonym	pdxa/CFP-Atg1
+DBP0000342	keyword	CFP marker
+DBP0000342	keyword	act15 promoter
+DBP0000342	keyword	expression vector
+DBP0000346	depositor	Jakob Franke
+DBP0000346	synonym	pChtA-gfp
+DBP0000346	keyword	GFP marker
+DBP0000346	keyword	neomycin resistance
+DBP0000346	keyword	expression vector
+DBP0000330	depositor	Jakob Franke
+DBP0000330	synonym	MT-ChtA-pDXA
+DBP0000330	synonym	pDXA-ChtA-MT
+DBP0000330	keyword	act15 promoter
+DBP0000330	keyword	neomycin resistance
+DBP0000330	keyword	Myc tag
+DBP0000330	keyword	expression vector
+DBP0000330	keyword	extrachromosomal vector
+DBP0000344	depositor	Jakob Franke
+DBP0000344	synonym	V/63-MT-ChtA
+DBP0000344	keyword	Myc tag
+DBP0000344	keyword	ecmA promoter
+DBP0000345	depositor	Jakob Franke
+DBP0000345	synonym	V/Psa-MT-ChtA
+DBP0000345	keyword	Myc tag
+DBP0000345	keyword	psA promoter
+DBP0000332	depositor	Jakob Franke
+DBP0000332	synonym	MT-pDXA-pChtA
+DBP0000332	synonym	pDXA-pChtA-MT
+DBP0000332	keyword	Myc tag
+DBP0000332	keyword	neomycin resistance
+DBP0000348	depositor	Jonathan Chubb
+DBP0000348	keyword	expression vector
+DBP0000348	keyword	neomycin resistance
+DBP0000348	keyword	GFP marker
+DBP0000348	keyword	act15 promoter
+DBP0000350	depositor	J. Franke/R. Kessin
+DBP0000350	synonym	BJ22
+DBP0000350	synonym	gufB
+DBP0000351	depositor	Harry MacWilliams
+DBP0000351	keyword	act15 promoter
+DBP0000351	keyword	neomycin resistance
+DBP0000354	depositor	Paul Fisher
+DBP0000354	keyword	expression vector
+DBP0000354	keyword	galactosidase marker
+DBP0000354	keyword	neomycin resistance
+DBP0000354	keyword	act15 promoter
+DBP0000354	keyword	act6 promoter
+DBP0000355	depositor	Dale Hereld
+DBP0000355	synonym	pDH-29
+DBP0000355	keyword	uracil selection
+DBP0000355	keyword	REMI vector
+DBP0000356	depositor	Karin Weening (Pauline Schaap)
+DBP0000356	synonym	EXP-4(+)
+DBP0000356	keyword	expression vector
+DBP0000356	keyword	TAP tag
+DBP0000356	keyword	neomycin resistance
+DBP0000356	keyword	act15 promoter
+DBP0000357	depositor	Karin Weening (Pauline Schaap)
+DBP0000357	synonym	EXP-5(+)
+DBP0000357	keyword	expression vector
+DBP0000357	keyword	TAP tag
+DBP0000357	keyword	act15 promoter
+DBP0000357	keyword	neomycin resistance
+DBP0000364	depositor	Salvo Bozzaro
+DBP0000364	keyword	knockout vector
+DBP0000364	keyword	blasticidin resistance
+DBP0000365	depositor	Salvo Bozzaro
+DBP0000365	keyword	knockout vector
+DBP0000365	keyword	blasticidin resistance
+DBP0000366	depositor	Salvo Bozzaro
+DBP0000366	synonym	pDEXH-GFP-PiaA(G917D)
+DBP0000366	synonym	GFP-HSB1
+DBP0000366	keyword	GFP marker
+DBP0000366	keyword	expression vector
+DBP0000367	depositor	Masashi Fukusawa
+DBP0000367	synonym	MF-1
+DBP0000367	synonym	cudA-KO
+DBP0000367	keyword	knockout vector
+DBP0000368	depositor	Masashi Fukusawa
+DBP0000368	synonym	MF-2
+DBP0000368	synonym	cudA-KO
+DBP0000368	keyword	knockout vector
+DBP0000368	keyword	blasticidin resistance
+DBP0000353	depositor	Rob Insall
+DBP0000353	synonym	pRHI 71
+DBP0000353	keyword	RasGefA
+DBP0000369	depositor	U. Mintert (G. Gerisch)
+DBP0000369	synonym	12-7
+DBP0000369	synonym	pDEXR-GFPC-Gol(1-579)
+DBP0000369	synonym	Golvesin(C)-GFP
+DBP0000369	keyword	GFP marker
+DBP0000369	keyword	expression vector
+DBP0000369	keyword	neomycin resistance
+DBP0000370	depositor	U. Mintert (G. Gerisch)
+DBP0000370	synonym	131-30; &#916;(1-75;119-579)-golvesin(C)-GFP
+DBP0000370	keyword	GFP marker
+DBP0000370	keyword	expression vector
+DBP0000370	keyword	neomycin resistance
+DBP0000371	depositor	U. Mintert (G. Gerisch)
+DBP0000371	synonym	33-1
+DBP0000371	synonym	GFP-(N)-&#916;(1-75)-golvesinGFP
+DBP0000371	keyword	GFP marker
+DBP0000371	keyword	expression vector
+DBP0000371	keyword	neomycin resistance
+DBP0000373	depositor	U. Mintert (G. Gerisch)
+DBP0000373	synonym	83-8
+DBP0000373	synonym	GFP-(N)-&#916;(559-579)-golvesin
+DBP0000373	keyword	GFP marker
+DBP0000373	keyword	expression vector
+DBP0000373	keyword	neomycin resistance
+DBP0000374	depositor	U. Mintert (G. Gerisch)
+DBP0000374	synonym	I 10 (LL-AA)
+DBP0000374	synonym	I-10 (LL-AA)
+DBP0000374	synonym	1-10 (LL-AA)
+DBP0000374	synonym	GFP-(N)-golvesin-(L9A
+DBP0000374	synonym	L10A)
+DBP0000374	keyword	GFP marker
+DBP0000374	keyword	expression vector
+DBP0000374	keyword	neomycin resistance
+DBP0000376	depositor	Clement Nizak
+DBP0000376	synonym	PC
+DBP0000376	keyword	psA promoter
+DBP0000376	keyword	CFP marker
+DBP0000376	keyword	expression vector
+DBP0000376	keyword	neomycin resistance
+DBP0000377	depositor	Clement Nizak
+DBP0000377	synonym	EY
+DBP0000377	keyword	ecmA promoter
+DBP0000377	keyword	YFP marker
+DBP0000377	keyword	expression vector
+DBP0000377	keyword	neomycin resistance
+DBP0000378	depositor	Tom Egelhoff
+DBP0000378	synonym	TM
+DBP0000378	keyword	act15 promoter
+DBP0000378	keyword	neomycin resistance
+DBP0000378	keyword	expression vector
+DBP0000379	depositor	Tom Egelhoff
+DBP0000379	synonym	pBig-ala
+DBP0000379	synonym	BA1
+DBP0000379	keyword	act15 promoter
+DBP0000379	keyword	expression vector
+DBP0000379	keyword	neomycin resistance
+DBP0000380	depositor	Tom Egelhoff
+DBP0000380	synonym	pBig-asp
+DBP0000380	synonym	BA2
+DBP0000380	keyword	neomycin resistance
+DBP0000380	keyword	act15 promoter
+DBP0000380	keyword	expression vector
+DBP0000381	depositor	Tom Egelhoff
+DBP0000381	synonym	pBigGFPmyo
+DBP0000381	keyword	neomycin resistance
+DBP0000381	keyword	expression vector
+DBP0000381	keyword	act15 promoter
+DBP0000381	keyword	GFP marker
+DBP0000382	depositor	Tom Egelhoff
+DBP0000382	synonym	MA1
+DBP0000382	keyword	GFP marker
+DBP0000382	keyword	expression vector
+DBP0000382	keyword	neomycin resistance
+DBP0000382	keyword	act15 promoter
+DBP0000383	depositor	Tom Egelhoff
+DBP0000383	synonym	MA2
+DBP0000383	keyword	expression vector
+DBP0000383	keyword	neomycin resistance
+DBP0000383	keyword	act15 promoter
+DBP0000383	keyword	GFP marker
+DBP0000384	depositor	Gerti Weijer
+DBP0000384	synonym	III
+DBP0000384	keyword	blasticidin resistance
+DBP0000384	keyword	GFP marker
+DBP0000384	keyword	expression vector
+DBP0000384	keyword	act15 promoter
+DBP0000385	depositor	Karin Weening (Pauline Schaap)
+DBP0000385	synonym	PUC118BSRDBAMH_ACGKO
+DBP0000385	keyword	blasticidin resistance
+DBP0000385	keyword	knockout vector
+DBP0000386	depositor	Rex Chisholm
+DBP0000386	keyword	expression vector
+DBP0000386	keyword	neomycin resistance
+DBP0000386	keyword	act15 promoter
+DBP0000387	depositor	R. Guyer (R.A. Deering) (C. Rutherford)
+DBP0000387	keyword	neomycin resistance
+DBP0000387	keyword	extrachromosomal vector
+DBP0000387	keyword	act6 promoter
+DBP0000387	keyword	luciferase marker
+DBP0000388	depositor	Karl Saxe
+DBP0000389	depositor	Karl Saxe
+DBP0000389	synonym	pBS18-car2
+DBP0000389	synonym	pBS18/carB
+DBP0000389	synonym	pBS18-carB
+DBP0000390	depositor	Arturo De Lozanne
+DBP0000390	synonym	Aurora
+DBP0000390	keyword	neomycin resistance
+DBP0000390	keyword	expression vector
+DBP0000390	keyword	GFP marker
+DBP0000390	keyword	TAP tag
+DBP0000392	depositor	Arturo De Lozanne
+DBP0000392	synonym	DdAurora
+DBP0000392	keyword	extrachromosomal vector
+DBP0000396	depositor	Arturo De Lozanne
+DBP0000396	keyword	GFP marker
+DBP0000396	keyword	TAP tag
+DBP0000396	keyword	neomycin resistance
+DBP0000396	keyword	expression vector
+DBP0000397	depositor	Arturo De Lozanne
+DBP0000397	synonym	DdINCENP
+DBP0000397	synonym	icpA
+DBP0000397	keyword	DdINCENP
+DBP0000397	keyword	cleavage furrow
+DBP0000397	keyword	cell division
+DBP0000397	keyword	cytokinesis
+DBP0000397	keyword	inner centromeric protein
+DBP0000397	keyword	icpA
+DBP0000352	depositor	Bill Loomis
+DBP0000352	synonym	cotb-lacz
+DBP0000352	keyword	cotB promoter
+DBP0000352	keyword	galactosidase marker
+DBP0000352	keyword	expression vector
+DBP0000358	depositor	Peter Thomason (Ted Cox)
+DBP0000358	keyword	gateway vector
+DBP0000358	keyword	expression vector
+DBP0000358	keyword	act15 promoter
+DBP0000358	keyword	neomycin resistance
+DBP0000359	depositor	Peter Thomason (Ted Cox)
+DBP0000359	keyword	gateway vector
+DBP0000359	keyword	expression vector
+DBP0000359	keyword	act15 promoter
+DBP0000359	keyword	neomycin resistance
+DBP0000359	keyword	GFP marker
+DBP0000360	depositor	Peter Thomason (Ted Cox)
+DBP0000360	keyword	gateway vector
+DBP0000360	keyword	expression vector
+DBP0000360	keyword	act15 promoter
+DBP0000360	keyword	neomycin resistance
+DBP0000360	keyword	GFP marker
+DBP0000361	depositor	Peter Thomason (Ted Cox)
+DBP0000361	keyword	gateway vector
+DBP0000361	keyword	expression vector
+DBP0000361	keyword	neomycin resistance
+DBP0000361	keyword	galactosidase marker
+DBP0000362	depositor	Peter Thomason (Ted Cox)
+DBP0000362	keyword	gateway vector
+DBP0000362	keyword	expression vector
+DBP0000362	keyword	neomycin resistance
+DBP0000363	depositor	Peter Thomason (Ted Cox)
+DBP0000363	keyword	gateway vector
+DBP0000363	keyword	expression vector
+DBP0000363	keyword	neomycin resistance
+DBP0000363	keyword	GFP marker
+DBP0000372	depositor	U. Mintert (G. Gerisch)
+DBP0000372	synonym	9-10
+DBP0000372	synonym	pDEXR-GFPN-Gol(1-579)
+DBP0000372	synonym	Golvesin(N)-GFP
+DBP0000372	keyword	GFP marker
+DBP0000372	keyword	expression vector
+DBP0000372	keyword	neomycin resistance
+DBP0000375	depositor	Salvo Bozzaro
+DBP0000375	synonym	BLS-piaA-HSB1
+DBP0000375	synonym	pBPZ-4?
+DBP0000391	depositor	Arturo De Lozanne
+DBP0000391	synonym	Aurora
+DBP0000391	keyword	neomycin resistance
+DBP0000391	keyword	expression vector
+DBP0000391	keyword	TAP tag
+DBP0000391	keyword	GFP marker
+DBP0000393	depositor	Arturo De Lozanne
+DBP0000393	synonym	Aurora
+DBP0000393	keyword	GFP marker
+DBP0000393	keyword	neomycin resistance
+DBP0000393	keyword	expression vector
+DBP0000394	depositor	Arturo De Lozanne
+DBP0000394	synonym	Aurora
+DBP0000394	keyword	expression vector
+DBP0000394	keyword	GFP marker
+DBP0000394	keyword	neomycin resistance
+DBP0000395	depositor	Arturo De Lozanne
+DBP0000395	synonym	pTX-TAP-GFP
+DBP0000395	keyword	TAP tag
+DBP0000395	keyword	neomycin resistance
+DBP0000395	keyword	GFP marker
+DBP0000395	keyword	expression vector
+DBP0000395	keyword	act15 promoter
+DBP0000398	depositor	Arturo De Lozanne
+DBP0000398	synonym	GFP-DdINCENP-&#916;cs1
+DBP0000398	synonym	gfp-icpA-&#916;cs1
+DBP0000398	keyword	GFP marker
+DBP0000398	keyword	neomycin resistance
+DBP0000398	keyword	expression vector
+DBP0000399	depositor	Arturo De Lozanne
+DBP0000399	synonym	GFP-DdINCENP
+DBP0000399	synonym	gfp-icpA
+DBP0000399	keyword	GFP marker
+DBP0000399	keyword	neomycin resistance
+DBP0000399	keyword	expression vector
+DBP0000400	depositor	Arturo De Lozanne
+DBP0000400	synonym	GFP-DdINCENP-&#916;N
+DBP0000400	synonym	gfp-icpA--&#916;N
+DBP0000400	keyword	GFP marker
+DBP0000400	keyword	neomycin resistance
+DBP0000400	keyword	expression vector
+DBP0000401	depositor	Arturo De Lozanne
+DBP0000401	synonym	GFP-DdINCENP-&#916;C
+DBP0000401	synonym	gfp-icpA-&#916;C
+DBP0000401	keyword	GFP marker
+DBP0000401	keyword	neomycin resistance
+DBP0000401	keyword	expression vector
+DBP0000402	depositor	Arturo De Lozanne
+DBP0000402	synonym	GFP-DdINCENP-&#916;cs2
+DBP0000402	synonym	gfp-icpA-&#916;cs2
+DBP0000402	keyword	GFP marker
+DBP0000402	keyword	neomycin resistance
+DBP0000402	keyword	expression vector
+DBP0000403	depositor	Danny Fuller (Bill Loomis)
+DBP0000403	synonym	pTF169-Cla
+DBP0000403	synonym	acaA
+DBP0000403	synonym	cyclase
+DBP0000403	keyword	REMI vector
+DBP0000112	depositor	Clement Nizak
+DBP0000112	keyword	expression vector
+DBP0000112	keyword	RFP marker
+DBP0000112	keyword	act15 promoter
+DBP0000112	keyword	neomycin resistance
+DBP0000113	depositor	Yasuo Maeda
+DBP0000113	synonym	TRAP-1
+DBP0000113	synonym	pDNeoII
+DBP0000113	keyword	expression vector
+DBP0000115	depositor	Yasuo Maeda
+DBP0000115	synonym	TRAP-1
+DBP0000115	keyword	blasticidin resistance
+DBP0000115	keyword	tetOFF vector
+DBP0000001	depositor	Annette Muller-Taubenberger
+DBP0000001	synonym	339-3 (mRFPmars in pBsrH)
+DBP0000001	keyword	GFP marker
+DBP0000001	keyword	RFP marker
+DBP0000001	keyword	blasticidin resistance
+DBP0000001	keyword	expression vector
+DBP0000001	keyword	act15 promoter
+DBP0000002	depositor	Rick Firtel
+DBP0000002	synonym	PAKb KO construct
+DBP0000002	synonym	MIHCK KO construct
+DBP0000002	keyword	blasticidin resistance
+DBP0000002	keyword	knockout vector
+DBP0000003	depositor	Rick Firtel
+DBP0000003	synonym	PAKc KO construct
+DBP0000003	keyword	blasticidin resistance
+DBP0000003	keyword	knockout vector
+DBP0000004	depositor	Rick Firtel
+DBP0000004	synonym	PAKb KO construct with hygromycin cassette
+DBP0000004	synonym	mihck
+DBP0000004	keyword	hygromycin resistance
+DBP0000004	keyword	knockout vector
+DBP0000005	depositor	Petra Fey (Ted Cox)
+DBP0000005	keyword	GFP marker
+DBP0000005	keyword	neomycin resistance
+DBP0000005	keyword	REMI vector
+DBP0000005	keyword	act6 promoter
+DBP0000006	depositor	Petra Fey (Ted Cox)
+DBP0000006	keyword	GFP marker
+DBP0000006	keyword	neomycin resistance
+DBP0000006	keyword	REMI vector
+DBP0000006	keyword	act6 promoter
+DBP0000007	depositor	Petra Fey (Ted Cox)
+DBP0000007	keyword	GFP marker
+DBP0000007	keyword	neomycin resistance
+DBP0000007	keyword	REMI vector
+DBP0000007	keyword	act6 promoter
+DBP0000008	depositor	Jan Faix
+DBP0000008	synonym	cre/lox
+DBP0000008	synonym	Cre-loxP
+DBP0000008	synonym	pDEX-cre
+DBP0000008	synonym	crelox
+DBP0000008	keyword	cre-loxP vector
+DBP0000008	keyword	blasticidin resistance
+DBP0000008	keyword	act6 promoter
+DBP0000008	keyword	act15 promoter
+DBP0000009	depositor	Jan Faix
+DBP0000009	synonym	cre/lox
+DBP0000009	synonym	Cre-loxP
+DBP0000009	synonym	crelox
+DBP0000009	keyword	cre-loxP vector
+DBP0000009	keyword	blasticidin resistance
+DBP0000009	keyword	act6 promoter
+DBP0000010	depositor	Tomo Abe
+DBP0000010	synonym	EZ:TN pMOD-2<tet-Bsr>
+DBP0000010	synonym	EZ-TN(tetA15bsr)
+DBP0000010	synonym	EZTNtetA15Bsr
+DBP0000010	keyword	blasticidin resistance
+DBP0000010	keyword	tetracycline resistance
+DBP0000010	keyword	act15 promoter
+DBP0000199	depositor	Dietmar Manstein
+DBP0000199	keyword	expression vector
+DBP0000199	keyword	FLAG tag
+DBP0000199	keyword	neomycin resistance
+DBP0000199	keyword	discoidin promoter
+DBP0000201	depositor	Dietmar Manstein
+DBP0000201	keyword	expression vector
+DBP0000201	keyword	YFP marker
+DBP0000201	keyword	neomycin resistance
+DBP0000201	keyword	act15 promoter
+DBP0000202	depositor	Turgay Tekinay
+DBP0000202	synonym	pH13-KO
+DBP0000202	synonym	HRM13-KO
+DBP0000202	synonym	H13-bsr
+DBP0000202	keyword	knockout vector
+DBP0000202	keyword	blasticidin resistance
+DBP0000203	depositor	Dietmar Manstein
+DBP0000203	keyword	expression vector
+DBP0000203	keyword	His tag
+DBP0000203	keyword	neomycin resistance
+DBP0000203	keyword	GST tag
+DBP0000203	keyword	act15 promoter
+DBP0000204	depositor	Dietmar Manstein
+DBP0000204	keyword	Myc tag
+DBP0000204	keyword	neomycin resistance
+DBP0000204	keyword	expression vector
+DBP0000204	keyword	discoidin promoter
+DBP0000205	depositor	Dietmar Manstein
+DBP0000205	keyword	His tag
+DBP0000205	keyword	neomycin resistance
+DBP0000205	keyword	expression vector
+DBP0000205	keyword	discoidin promoter
+DBP0000206	depositor	Harry MacWilliams (via Stefan Pukatzki)
+DBP0000206	synonym	pV18-I-s65tgfp
+DBP0000206	synonym	pV18-ubi-s65t-gfp
+DBP0000206	synonym	pV18-ub-I-s65t-gfp
+DBP0000206	keyword	GFP marker
+DBP0000206	keyword	expression vector
+DBP0000206	keyword	neomycin resistance
+DBP0000207	depositor	Paul Fisher
+DBP0000207	synonym	hspA
+DBP0000207	keyword	neomycin resistance
+DBP0000207	keyword	extrachromosomal vector
+DBP0000208	depositor	Tom Egelhoff
+DBP0000208	synonym	mhKD-KO
+DBP0000208	keyword	knockout vector
+DBP0000208	keyword	blasticidin resistance
+DBP0000209	depositor	Jakob Franke (Stefan Pukatzki)
+DBP0000209	synonym	SonA-Flag
+DBP0000209	keyword	FLAG tag
+DBP0000209	keyword	expression vector
+DBP0000210	depositor	Tom Egelhoff
+DBP0000210	synonym	gfp-vwka
+DBP0000210	keyword	expression vector
+DBP0000210	keyword	GFP marker
+DBP0000210	keyword	neomycin resistance
+DBP0000211	depositor	Tom Egelhoff
+DBP0000211	synonym	flag-vwka
+DBP0000211	keyword	expression vector
+DBP0000211	keyword	FLAG tag
+DBP0000211	keyword	neomycin resistance
+DBP0000212	depositor	Tom Egelhoff
+DBP0000212	keyword	knockout vector
+DBP0000212	keyword	act15 promoter
+DBP0000212	keyword	blasticidin resistance
+DBP0000213	depositor	Rick Firtel
+DBP0000213	synonym	smek-ko
+DBP0000213	keyword	knockout vector
+DBP0000213	keyword	act15 promoter
+DBP0000213	keyword	neomycin resistance
+DBP0000347	depositor	Jonathan Chubb
+DBP0000347	keyword	transcriptional pulsing
+DBP0000347	keyword	MS2
+DBP0000349	depositor	Jane Borleis (Devreotes)
+DBP0000349	synonym	pJB-1
+DBP0000349	keyword	uracil selection
+DBP0000349	keyword	REMI vector
+DBP0000214	depositor	Rick Firtel
+DBP0000214	synonym	smek-oxp
+DBP0000214	synonym	smkA-oxp
+DBP0000214	synonym	smkA-OE
+DBP0000214	keyword	expression vector
+DBP0000214	keyword	act15 promoter
+DBP0000214	keyword	neomycin resistance
+DBP0000214	keyword	extrachromosomal vector
+DBP0000215	depositor	Junji Chida (Yasuo Maeda)
+DBP0000215	synonym	rps4-AS
+DBP0000215	synonym	rps4 antisense
+DBP0000215	synonym	rps4AS
+DBP0000215	keyword	neomycin resistance
+DBP0000215	keyword	extrachromosomal vector
+DBP0000216	depositor	Junji Chida (Yasuo Maeda)
+DBP0000216	synonym	rps4-OE
+DBP0000216	synonym	rps4 overexpressor
+DBP0000216	synonym	rps4OE
+DBP0000216	synonym	rps4-oxp
+DBP0000216	keyword	expression vector
+DBP0000216	keyword	act6 promoter
+DBP0000216	keyword	neomycin resistance
+DBP0000216	keyword	extrachromosomal vector
+DBP0000217	depositor	Jakob Franke
+DBP0000217	keyword	expression vector
+DBP0000218	depositor	Bill Loomis
+DBP0000218	synonym	pAK240Cla
+DBP0000218	synonym	DdERK2
+DBP0000218	synonym	erkB
+DBP0000218	keyword	knockout vector
+DBP0000219	depositor	Daphne Blumberg
+DBP0000219	synonym	pG3NeoI-AmpA
+DBP0000219	synonym	pG3-NeoI-AmpA
+DBP0000219	keyword	expression vector
+DBP0000219	keyword	neomycin resistance
+DBP0000219	keyword	act15 promoter
+DBP0000220	depositor	Daphne Blumberg
+DBP0000220	synonym	AmpA-KO
+DBP0000220	keyword	knockout vector
+DBP0000220	keyword	blasticidin resistance
+DBP0000221	depositor	Daphne Blumberg
+DBP0000221	synonym	AmpA-prom-gal
+DBP0000221	synonym	D11-1-6
+DBP0000221	keyword	galactosidase marker
+DBP0000221	keyword	expression vector
+DBP0000221	keyword	neomycin resistance
+DBP0000222	depositor	Daphne Blumberg
+DBP0000222	synonym	PL3-lacZ
+DBP0000222	synonym	PL3-gal
+DBP0000222	synonym	pspD-gal
+DBP0000222	synonym	pspD/lacZ
+DBP0000222	synonym	PR3-gal16
+DBP0000222	keyword	galactosidase marker
+DBP0000222	keyword	expression vector
+DBP0000222	keyword	neomycin resistance
+DBP0000223	depositor	Cathy Chia
+DBP0000223	synonym	gp130-ura
+DBP0000223	keyword	knockout vector
+DBP0000042	depositor	Peter Devreotes
+DBP0000042	synonym	cyclase cDNA
+DBP0000024	depositor	Peter Devreotes
+DBP0000024	synonym	pCP-33
+DBP0000024	keyword	neomycin resistance
+DBP0000024	keyword	extrachromosomal vector
+DBP0000224	depositor	Carole Parent
+DBP0000224	keyword	extrachromosomal vector
+DBP0000224	keyword	neomycin resistance
+DBP0000225	keyword	extrachromosomal vector
+DBP0000225	keyword	expression vector
+DBP0000225	keyword	neomycin resistance
+DBP0000226	synonym	pB-10S
+DBP0000226	synonym	pB10-S
+DBP0000226	keyword	neomycin resistance
+DBP0000226	keyword	expression vector
+DBP0000226	keyword	extrachromosomal vector
+DBP0000226	keyword	neomycin resistance
+DBP0000226	keyword	act6 promoter
+DBP0000032	depositor	Gadi Shaulsky
+DBP0000032	synonym	pBSR-1
+DBP0000032	keyword	blasticidin resistance
+DBP0000032	keyword	act15 promoter
+DBP0000032	keyword	REMI vector
+DBP0000228	depositor	Bill Loomis
+DBP0000228	synonym	pdiv2
+DBP0000228	synonym	DIV-2
+DBP0000228	keyword	uracil selection
+DBP0000228	keyword	REMI vector
+DBP0000229	depositor	Bill Loomis
+DBP0000229	synonym	pDIV-6
+DBP0000229	keyword	uracil selection
+DBP0000229	keyword	REMI vector
+DBP0000230	synonym	pDIV-1
+DBP0000230	keyword	uracil selection
+DBP0000230	keyword	REMI vector
+DBP0000231	depositor	Bill Loomis
+DBP0000231	synonym	pG3-NeoI
+DBP0000231	synonym	pg3neo1
+DBP0000231	synonym	pg3-neo1
+DBP0000231	keyword	expression vector
+DBP0000231	keyword	neomycin resistance
+DBP0000231	keyword	act15 promoter
+DBP0000232	depositor	Rob Kay
+DBP0000232	synonym	dmtA::gfp
+DBP0000232	keyword	expression vector
+DBP0000232	keyword	GFP marker
+DBP0000233	depositor	Rob Kay
+DBP0000233	synonym	regA KO bsr
+DBP0000233	synonym	regA-KO-bsr
+DBP0000233	keyword	knockout vector
+DBP0000233	keyword	blasticidin resistance
+DBP0000233	keyword	galactosidase marker
+DBP0000234	depositor	Rob Kay
+DBP0000234	synonym	iplA KO2
+DBP0000234	synonym	iplA-KO2
+DBP0000234	keyword	knockout vector
+DBP0000234	keyword	blasticidin resistance
+DBP0000235	depositor	Rob Kay
+DBP0000235	synonym	regA
+DBP0000235	keyword	act15 promoter
+DBP0000235	keyword	expression vector
+DBP0000236	depositor	Rob Kay
+DBP0000236	synonym	D212N mutant regA rescue vector
+DBP0000236	keyword	expression vector
+DBP0000237	depositor	Rob Kay
+DBP0000237	synonym	GST-rdeA
+DBP0000237	keyword	GST tag
+DBP0000237	keyword	expression vector
+DBP0000238	depositor	Rob Kay
+DBP0000238	synonym	GST-rdeA
+DBP0000238	keyword	GST tag
+DBP0000238	keyword	expression vector
+DBP0000239	depositor	Bill Loomis
+DBP0000239	synonym	pDIV5
+DBP0000239	synonym	pDIV-5
+DBP0000239	keyword	remi plasmid
+DBP0000239	keyword	pyr5-5 gene
+DBP0000239	keyword	uracil selction
+DBP0000240	depositor	Angelika Noegel
+DBP0000240	keyword	expression vector
+DBP0000240	keyword	act15 promoter
+DBP0000240	keyword	GFP marker
+DBP0000241	depositor	Angelika Noegel
+DBP0000241	keyword	expression vector
+DBP0000241	keyword	GFP marker
+DBP0000241	keyword	act15 promoter
+DBP0000242	depositor	Angelika Noegel
+DBP0000242	synonym	pfl-cap-gfp
+DBP0000242	keyword	expression vector
+DBP0000242	keyword	GFP marker
+DBP0000227	depositor	Carole Parent
+DBP0000227	synonym	pcp-43
+DBP0000227	synonym	aca expression vector
+DBP0000227	synonym	adenylyl cyclase
+DBP0000227	keyword	expression vector
+DBP0000227	keyword	act15 promoter
+DBP0000227	keyword	neomycin resistance
+DBP0000227	keyword	extrachromosomal vector
+DBP0000243	depositor	Pauline Schaap
+DBP0000243	synonym	pCTAP
+DBP0000243	synonym	#118-PS
+DBP0000243	keyword	TAP tag
+DBP0000243	keyword	expression vector
+DBP0000243	keyword	act15 promoter
+DBP0000244	depositor	Pauline Schaap
+DBP0000244	synonym	pNTAP
+DBP0000244	synonym	#117-PS
+DBP0000244	keyword	TAP tag
+DBP0000244	keyword	expression vector
+DBP0000244	keyword	act15 promoter
+DBP0000245	depositor	Katrin Koch (R. Graf)
+DBP0000245	synonym	TAP vector
+DBP0000245	synonym	act15TAPtag
+DBP0000245	keyword	TAP tag
+DBP0000245	keyword	act15 promoter
+DBP0000246	depositor	Rick Firtel
+DBP0000246	synonym	lst8/bsr
+DBP0000246	keyword	knockout vector
+DBP0000246	keyword	blasticidin resistance
+DBP0000247	depositor	Rick Firtel
+DBP0000247	keyword	expression vector
+DBP0000248	depositor	Rick Firtel
+DBP0000248	synonym	r2p3-oe
+DBP0000248	synonym	RIP3 OE
+DBP0000248	keyword	expression vector
+DBP0000249	depositor	Rick Firtel
+DBP0000249	synonym	r2p3-ko
+DBP0000249	synonym	RIP3 KO
+DBP0000249	keyword	knockout vector
+DBP0000250	depositor	Gerry Weeks
+DBP0000250	keyword	knockout vector
+DBP0000250	keyword	blasticidin resistance
+DBP0000251	depositor	Gerry Weeks
+DBP0000251	keyword	knockout vector
+DBP0000252	depositor	Gerry Weeks
+DBP0000252	synonym	RasG12
+DBP0000252	keyword	expression vector
+DBP0000253	depositor	Gerry Weeks
+DBP0000253	synonym	G-12
+DBP0000253	keyword	expression vector
+DBP0000254	depositor	Gerry Weeks
+DBP0000254	synonym	G-17
+DBP0000254	synonym	G17
+DBP0000254	keyword	expression vector
+DBP0000255	depositor	Gerry Weeks
+DBP0000255	synonym	1-17
+DBP0000255	keyword	expression vector
+DBP0000256	depositor	Gerry Weeks
+DBP0000256	synonym	1-12
+DBP0000256	keyword	expression vector
+DBP0000257	depositor	Yasuo Maeda
+DBP0000257	synonym	dng1-bsr
+DBP0000257	keyword	knockout vector
+DBP0000258	depositor	Yasuo Maeda
+DBP0000258	keyword	expression vector
+DBP0000259	depositor	Yasuo Maeda
+DBP0000259	keyword	GFP marker
+DBP0000259	keyword	expression vector
+DBP0000260	depositor	Gerry Weeks
+DBP0000260	synonym	pVEII-Rap1G12
+DBP0000260	keyword	neomycin resistance
+DBP0000260	keyword	act15 promoter
+DBP0000260	keyword	discoidin promoter
+DBP0000260	keyword	expression vector
+DBP0000261	depositor	Margaret Clarke
+DBP0000261	keyword	neomycin resistance
+DBP0000262	depositor	Margaret Clarke
+DBP0000262	keyword	expression vector
+DBP0000262	keyword	act6 promoter
+DBP0000263	depositor	Margaret Clarke
+DBP0000263	synonym	pVatM-gfp
+DBP0000263	keyword	expression vector
+DBP0000263	keyword	GFP marker
+DBP0000263	keyword	neomycin resistance
+DBP0000263	keyword	act15 promoter
+DBP0000263	keyword	act6 promoter
+DBP0000264	depositor	Harry MacWilliams
+DBP0000264	synonym	MB35-rtTAM2
+DBP0000264	synonym	621
+DBP0000264	synonym	tet-on
+DBP0000264	keyword	expression vector
+DBP0000264	keyword	act15 promoter
+DBP0000264	keyword	act6 promoter
+DBP0000264	keyword	neomycin resistance
+DBP0000264	keyword	tetON vector
+DBP0000265	depositor	Adrian Harwood
+DBP0000265	synonym	pA15gal
+DBP0000265	synonym	pA15lacZ
+DBP0000265	synonym	pA15-gal
+DBP0000265	synonym	pA15-lacZ
+DBP0000265	synonym	1AH
+DBP0000265	synonym	pActin15Gal
+DBP0000265	keyword	actin 15 promoter
+DBP0000265	keyword	galactosidase marker
+DBP0000265	keyword	expression vector
+DBP0000265	keyword	neomycin resistance
+DBP0000266	depositor	Adrian Harwood
+DBP0000266	synonym	pDdGal15
+DBP0000266	synonym	3AH
+DBP0000266	keyword	galactosidase marker
+DBP0000266	keyword	neomycin resistance
+DBP0000266	keyword	expression vector
+DBP0000266	keyword	act15 promoter
+DBP0000267	depositor	Adrian Harwood
+DBP0000267	synonym	pDdGal16
+DBP0000267	synonym	4AH
+DBP0000267	keyword	galactosidase marker
+DBP0000267	keyword	neomycin resistance
+DBP0000267	keyword	expression vector
+DBP0000267	keyword	act15 promoter
+DBP0000268	depositor	Adrian Harwood
+DBP0000268	synonym	pDdGal17
+DBP0000268	synonym	5AH
+DBP0000268	keyword	galactosidase marker
+DBP0000268	keyword	neomycin resistance
+DBP0000268	keyword	expression vector
+DBP0000268	keyword	act15 promoter
+DBP0000269	depositor	Adrian Harwood
+DBP0000269	synonym	pDdGal17
+DBP0000269	synonym	6AH
+DBP0000269	keyword	galactosidase marker
+DBP0000269	keyword	neomycin resistance
+DBP0000269	keyword	expression vector
+DBP0000269	keyword	act15 promoter
+DBP0000270	depositor	Adrian Harwood
+DBP0000270	synonym	pD19lac-2
+DBP0000270	synonym	pD19lacZ
+DBP0000270	synonym	pPsa-Gal
+DBP0000270	synonym	pspA-gal
+DBP0000270	synonym	2AH
+DBP0000270	keyword	galactosidase marker
+DBP0000270	keyword	expression vector
+DBP0000270	keyword	act15 promoter
+DBP0000270	keyword	psA promoter
+DBP0000271	depositor	Adrian Harwood
+DBP0000271	synonym	pActin15-Gsk3
+DBP0000271	synonym	pA15-gskA
+DBP0000271	synonym	pA15gsk3
+DBP0000271	synonym	7AH
+DBP0000271	keyword	act15 promoter
+DBP0000271	keyword	expression vector
+DBP0000271	keyword	His tag
+DBP0000272	depositor	Adrian Harwood
+DBP0000272	synonym	pA15-Rsub1
+DBP0000272	synonym	pA15Rsub1
+DBP0000272	synonym	8AH
+DBP0000272	keyword	actin 15 promoter
+DBP0000272	keyword	neomycin resistance
+DBP0000272	keyword	expression vector
+DBP0000272	keyword	act6 promoter
+DBP0000273	depositor	Adrian Harwood
+DBP0000273	synonym	pA15-Rm
+DBP0000273	synonym	pA15Rm
+DBP0000273	synonym	10AH
+DBP0000273	keyword	actin 15 promoter
+DBP0000273	keyword	expression vector
+DBP0000273	keyword	neomycin resistance
+DBP0000274	depositor	Adrian Harwood
+DBP0000274	synonym	pA15-Rc
+DBP0000274	synonym	pA15Rc
+DBP0000274	synonym	11AH
+DBP0000274	keyword	actin 15 promoter
+DBP0000274	keyword	expression vector
+DBP0000274	keyword	neomycin resistance
+DBP0000275	depositor	Adrian Harwood
+DBP0000275	synonym	PsA-Rm
+DBP0000275	synonym	pPsARm
+DBP0000275	synonym	12AH
+DBP0000275	synonym	pspA-Rm
+DBP0000275	keyword	psA promoter
+DBP0000275	keyword	neomycin resistance
+DBP0000275	keyword	expression vector
+DBP0000276	depositor	Adrian Harwood
+DBP0000276	synonym	pspA-Rc
+DBP0000276	synonym	PsA-Rc
+DBP0000276	synonym	pPsARc
+DBP0000276	synonym	13AH
+DBP0000276	keyword	psA promoter
+DBP0000276	keyword	expression vector
+DBP0000276	keyword	neomycin resistance
+DBP0000277	depositor	Adrian Harwood
+DBP0000277	synonym	pEcmARc
+DBP0000277	synonym	15AH
+DBP0000277	synonym	ecmA-Rc
+DBP0000277	keyword	ecmA promoter
+DBP0000277	keyword	expression vector
+DBP0000277	keyword	neomycin resistance
+DBP0000278	depositor	Adrian Harwood
+DBP0000278	synonym	pEcmARm
+DBP0000278	synonym	14AH
+DBP0000278	synonym	ecmA-Rm
+DBP0000278	keyword	ecmA promoter
+DBP0000278	keyword	expression vector
+DBP0000278	keyword	neomycin resistance
+DBP0000279	depositor	Adrian Harwood
+DBP0000279	synonym	aar KO
+DBP0000279	synonym	9AH
+DBP0000279	synonym	pAar-KO vector
+DBP0000279	keyword	blasticidin resistance
+DBP0000279	keyword	knockout vector
+DBP0000279	keyword	act15 promoter
+DBP0000280	depositor	Adrian Harwood
+DBP0000280	synonym	dpoA-KO
+DBP0000280	synonym	19AH
+DBP0000280	keyword	aardvark
+DBP0000281	depositor	Adrian Harwood
+DBP0000281	synonym	pA15StatWTpep
+DBP0000281	synonym	16AH
+DBP0000281	keyword	neomycin resistance
+DBP0000281	keyword	act15 promoter
+DBP0000282	depositor	Adrian Harwood
+DBP0000282	synonym	pA15Statalapep
+DBP0000282	synonym	17AH
+DBP0000282	keyword	neomycin resistance
+DBP0000282	keyword	act15 promoter
+DBP0000283	depositor	Adrian Harwood
+DBP0000283	synonym	pA15Statacidpep
+DBP0000283	synonym	18AH
+DBP0000283	keyword	neomycin resistance
+DBP0000283	keyword	act15 promoter
+DBP0000284	depositor	Tetsuya Muramoto (Hideko Ursushihara)
+DBP0000284	synonym	pRacF2-KO
+DBP0000284	keyword	knockout vector
+DBP0000285	depositor	Tetsuya Muramoto (Hideko Ursushihara)
+DBP0000285	synonym	pRacF2-KO
+DBP0000285	keyword	knockout construct
+DBP0000286	depositor	Tetsuya Muramoto (Hideko Ursushihara)
+DBP0000286	synonym	pRacF2-OE
+DBP0000286	keyword	expression vector
+DBP0000287	depositor	Tetsuya Muramoto (Hideko Ursushihara)
+DBP0000287	keyword	expression vector
+DBP0000288	depositor	Tetsuya Muramoto (Hideko Ursushihara)
+DBP0000288	synonym	C-1
+DBP0000288	keyword	expression vector
+DBP0000288	keyword	dominant negative mutant
+DBP0000289	depositor	Salvatore Bozzaro
+DBP0000289	synonym	piaWT
+DBP0000289	synonym	pMYC-86-6
+DBP0000289	keyword	expression vector
+DBP0000289	keyword	act15 promoter
+DBP0000410	depositor	Jan Faix
+DBP0000410	synonym	pDEX RH
+DBP0000410	synonym	pDEX.RH
+DBP0000410	synonym	pDEX-RH
+DBP0000410	synonym	pDEX_RH
+DBP0000410	keyword	expression vector
+DBP0000410	keyword	act15 promoter
+DBP0000410	keyword	act6 promoter
+DBP0000410	keyword	neomycin resistance
+DBP0000445	depositor	Jonathan Chubb
+DBP0000445	synonym	GFP-Set1
+DBP0000445	keyword	GFP marker
+DBP0000445	keyword	expression vector
+DBP0000460	synonym	ARP2-KO(BSR)
+DBP0000460	keyword	Arp2
+DBP0000460	keyword	arpB
+DBP0000460	keyword	arp2/3 complex
+DBP0000460	keyword	blasticidin cassette
+DBP0000463	depositor	Douglas Robinson
+DBP0000463	synonym	pDR-HygR
+DBP0000463	synonym	pDRH
+DBP0000463	keyword	hygromycin resistance
+DBP0000463	keyword	expression vector
+DBP0000463	keyword	act15 promoter
+DBP0000466	depositor	Doug Robinson
+DBP0000466	synonym	fimbrin hp
+DBP0000466	synonym	fimbrin hairpin
+DBP0000466	synonym	fimhp
+DBP0000466	synonym	fimA hp
+DBP0000466	synonym	fimA hairpin
+DBP0000466	synonym	fimbrin-HP:pLD1A15SN
+DBP0000466	keyword	expression vector
+DBP0000466	keyword	act15 promoter
+DBP0000499	depositor	Nelly Bennett
+DBP0000499	synonym	DDB0231535
+DBP0000499	keyword	GFP marker
+DBP0000499	keyword	expression vector
+DBP0000499	keyword	extrachromosomal vector
+DBP0000499	keyword	neomycin resistance
+DBP0000500	depositor	Nelly Bennett
+DBP0000500	synonym	DDB0231535
+DBP0000500	keyword	neomycin resistance
+DBP0000500	keyword	expression vector
+DBP0000500	keyword	extrachromosomal vector
+DBP0000500	keyword	GFP marker
+DBP0000501	depositor	Nelly Bennett
+DBP0000501	synonym	DDB0231535
+DBP0000501	synonym	myc2-vamp7
+DBP0000501	keyword	Myc tag
+DBP0000502	depositor	Nelly Bennett
+DBP0000502	synonym	AP1
+DBP0000502	synonym	micro1 subunit
+DBP0000502	synonym	myc2-apm1
+DBP0000502	keyword	Myc tag
+DBP0000503	depositor	Nelly Bennett
+DBP0000503	synonym	AP2
+DBP0000503	synonym	micro2 subunit
+DBP0000503	synonym	myc2-apm2
+DBP0000503	keyword	Myc tag
+DBP0000505	depositor	Nelly Bennett
+DBP0000505	synonym	AP4
+DBP0000505	synonym	micro4 subunit
+DBP0000505	synonym	myc2-apm4
+DBP0000505	keyword	Myc tag
+DBP0000506	depositor	Nelly Bennett
+DBP0000506	synonym	AP3
+DBP0000506	synonym	delta subunit
+DBP0000506	synonym	myc2-delta
+DBP0000506	keyword	Myc tag
+DBP0000507	depositor	P. Bolourani (G. Weeks)
+DBP0000507	synonym	rasG-bsr
+DBP0000507	keyword	knockout vector
+DBP0000507	keyword	blasticidin resistance
+DBP0000511	depositor	P. Bolourani (G. Weeks)
+DBP0000511	synonym	dmpA-bsr
+DBP0000511	keyword	blasticidin resistance
+DBP0000511	keyword	REMI vector
+DBP0000516	depositor	Douwe Veltman
+DBP0000516	keyword	neomycin resistance
+DBP0000516	keyword	expression vector
+DBP0000516	keyword	tetOFF vector
+DBP0000516	keyword	doxOFF vector
+DBP0000516	keyword	extrachromosomal vector
+DBP0000516	keyword	act6 promoter
+DBP0000516	keyword	act15 promoter
+DBP0000517	depositor	Douwe Veltman
+DBP0000517	keyword	expression vector
+DBP0000517	keyword	extrachromosomal vector
+DBP0000517	keyword	doxON vector
+DBP0000517	keyword	neomycin resistance
+DBP0000517	keyword	act6 promoter
+DBP0000517	keyword	act15 promoter
+DBP0000518	depositor	Douwe Veltman
+DBP0000518	keyword	expression vector
+DBP0000518	keyword	extrachromosomal vector
+DBP0000518	keyword	doxON vector
+DBP0000518	keyword	hygromycin resistance
+DBP0000518	keyword	act6 promoter
+DBP0000518	keyword	act15 promoter
+DBP0000519	depositor	Douwe Veltman
+DBP0000519	keyword	expression vector
+DBP0000519	keyword	extrachromosomal vector
+DBP0000519	keyword	doxON vector
+DBP0000519	keyword	blasticidin resistance
+DBP0000519	keyword	act6 promoter
+DBP0000519	keyword	act15 promoter
+DBP0000406	keyword	act15 promoter
+DBP0000406	keyword	expression vector
+DBP0000407	synonym	egeA-KO vector
+DBP0000407	keyword	egeA
+DBP0000407	keyword	early gene exprssion
+DBP0000407	keyword	remi mutant
+DBP0000407	keyword	pBSR
+DBP0000408	depositor	Elizabeth Villegas (Gad Shaulsky)
+DBP0000408	synonym	DDB_G0287153
+DBP0000408	keyword	REMI vector
+DBP0000415	depositor	Elizabeth Villegas (Gad Shaulsky)
+DBP0000415	synonym	DDB0191519
+DBP0000415	keyword	REMI vector
+DBP0000417	depositor	Elizabeth Villegas (Gad Shaulsky)
+DBP0000417	synonym	DDB0266506
+DBP0000417	keyword	REMI vector
+DBP0000419	depositor	Elizabeth Villegas (Gad Shaulsky)
+DBP0000419	synonym	rab7B
+DBP0000419	synonym	DDB0229399
+DBP0000419	keyword	REMI vector
+DBP0000420	depositor	Elizabeth Villegas (Gad Shaulsky)
+DBP0000420	synonym	pks26
+DBP0000420	synonym	DDB0235218
+DBP0000420	keyword	REMI vector
+DBP0000422	depositor	Elizabeth Villegas (Gad Shaulsky)
+DBP0000422	synonym	DDB0206439
+DBP0000422	synonym	DDB_G0280203
+DBP0000422	keyword	REMI vector
+DBP0000425	depositor	Elizabeth Villegas (Gad Shaulsky)
+DBP0000425	synonym	DDB0201649
+DBP0000425	synonym	docA
+DBP0000425	keyword	REMI vector
+DBP0000427	depositor	Elizabeth Villegas (Gad Shaulsky)
+DBP0000427	synonym	DDB_G0268978
+DBP0000427	synonym	DDB_G0268978
+DBP0000427	synonym	DDB0202322
+DBP0000427	synonym	DDB0202324
+DBP0000427	keyword	REMI vector
+DBP0000428	depositor	Elizabeth Villegas (Gad Shaulsky)
+DBP0000428	synonym	DDB0233658
+DBP0000428	synonym	DDB0184259
+DBP0000428	keyword	REMI vector
+DBP0000433	depositor	Elizabeth Villegas (Gad Shaulsky)
+DBP0000433	synonym	DDB0206498
+DBP0000433	synonym	DDB_G0280299
+DBP0000433	keyword	REMI vector
+DBP0000435	depositor	Elizabeth Villegas (Gad Shaulsky)
+DBP0000435	synonym	DDB0190091
+DBP0000435	synonym	DDB0190092
+DBP0000435	synonym	DDB_G0268864
+DBP0000435	synonym	DDB_G0268866
+DBP0000435	keyword	REMI vector
+DBP0000436	depositor	Elizabeth Villegas (Gad Shaulsky)
+DBP0000436	synonym	DDB0186291
+DBP0000436	synonym	DDB_G0284973
+DBP0000436	synonym	DDB0231987
+DBP0000436	synonym	tpsB
+DBP0000436	keyword	REMI vector
+DBP0000438	depositor	Elizabeth Villegas (Gad Shaulsky)
+DBP0000438	synonym	DDB0220010
+DBP0000438	synonym	DDB_G0279405
+DBP0000438	keyword	REMI vector
+DBP0000439	depositor	Elizabeth Villegas (Gad Shaulsky)
+DBP0000439	synonym	DDB0216237
+DBP0000439	synonym	abcC9
+DBP0000439	keyword	REMI vector
+DBP0000444	depositor	Jonathan Chubb
+DBP0000444	synonym	set1-bsr
+DBP0000444	keyword	blasticidin resistance
+DBP0000446	depositor	Jonathan Chubb
+DBP0000446	synonym	GFP-Set1:C147A
+DBP0000446	keyword	GFP marker
+DBP0000446	keyword	expression vector
+DBP0000448	depositor	Jane Borleis (Devreotes)
+DBP0000448	keyword	knockout vector
+DBP0000464	depositor	Douglas Robinson
+DBP0000464	synonym	pDR-Hyg:gfp-tubulin
+DBP0000464	synonym	GFP2 tubulin pDRHyg
+DBP0000464	keyword	GFP marker
+DBP0000464	keyword	hygromycin resistance
+DBP0000464	keyword	expression vector
+DBP0000464	keyword	act15 promoter
+DBP0000465	depositor	Douglas Robinson
+DBP0000465	synonym	pDR-Hyg:rfp-tubulin
+DBP0000465	synonym	RFP2 tubulin pDRHyg
+DBP0000465	keyword	RFP marker
+DBP0000465	keyword	hygromycin resistance
+DBP0000465	keyword	expression vector
+DBP0000465	keyword	act15 promoter
+DBP0000467	depositor	Doug Robinson
+DBP0000467	synonym	GFP-fimbrin pLD1A15SN
+DBP0000467	keyword	GFP marker
+DBP0000467	keyword	expression vector
+DBP0000467	keyword	act15 promoter
+DBP0000479	depositor	Aiko Amagai
+DBP0000479	keyword	GFP marker
+DBP0000479	keyword	expression vector
+DBP0000479	keyword	neomycin resistance
+DBP0000479	keyword	act6 promoter
+DBP0000479	keyword	act15 promoter
+DBP0000482	depositor	Aiko Amagai
+DBP0000482	synonym	VA6/RNAi-ACO
+DBP0000482	synonym	VA6-ACO RNAi
+DBP0000482	synonym	pVA6aco RNAi
+DBP0000482	keyword	neomycin resistance
+DBP0000482	keyword	expression vector
+DBP0000482	keyword	act6 promoter
+DBP0000483	depositor	Danny Fuller (Loomis)
+DBP0000483	synonym	P450-KO vector
+DBP0000483	synonym	redA-KO vector
+DBP0000483	synonym	pTF70hind
+DBP0000483	keyword	remi mutant
+DBP0000483	keyword	redA
+DBP0000483	keyword	CPR
+DBP0000483	keyword	cytochrome-P450 oxidoreductase
+DBP0000487	depositor	Francois Letourneur
+DBP0000487	synonym	CsA-P29F8-stop
+DBP0000487	keyword	clathrin-adaptor complex
+DBP0000487	keyword	AP-1
+DBP0000487	keyword	endocytosis
+DBP0000493	depositor	Leandro Sastre
+DBP0000493	synonym	srfB-KO
+DBP0000493	keyword	knockout vector
+DBP0000493	keyword	blasticidin resistance
+DBP0000495	depositor	Nelly Bennett
+DBP0000495	synonym	DDB0231536
+DBP0000495	keyword	RFP marker
+DBP0000495	keyword	blasticidin resistance
+DBP0000495	keyword	expression vector
+DBP0000496	depositor	Nelly Bennett
+DBP0000496	synonym	DDB0231533
+DBP0000496	synonym	RFP-Syn8
+DBP0000496	keyword	RFP marker
+DBP0000496	keyword	expression vector
+DBP0000504	depositor	Nelly Bennett
+DBP0000504	synonym	AP3
+DBP0000504	synonym	micro3 subunit
+DBP0000504	synonym	myc2-apm3
+DBP0000504	keyword	Myc tag
+DBP0000508	depositor	P. Bolourani (G. Weeks)
+DBP0000508	synonym	rasG::thyA
+DBP0000508	synonym	rasG-thy1
+DBP0000508	synonym	rasG-thyA
+DBP0000508	keyword	knockout vector
+DBP0000509	depositor	P. Bolourani (G. Weeks)
+DBP0000509	synonym	rasC-bsr
+DBP0000509	keyword	knockout vector
+DBP0000509	keyword	blasticidin resistance
+DBP0000510	depositor	P. Bolourani (G. Weeks)
+DBP0000510	synonym	pik4-bsr
+DBP0000510	synonym	pikD::bsr
+DBP0000510	synonym	pikD-bsr
+DBP0000510	keyword	rasC
+DBP0000510	keyword	G protein
+DBP0000510	keyword	signal transduction
+DBP0000512	depositor	P. Bolourani (G. Weeks)
+DBP0000512	synonym	rasC-OE
+DBP0000512	keyword	neomycin resistance
+DBP0000512	keyword	expression vector
+DBP0000513	depositor	P. Bolourani (G. Weeks)
+DBP0000513	synonym	rasG-OE
+DBP0000513	keyword	neomycin resistance
+DBP0000513	keyword	expression vector
+DBP0000514	depositor	P. Bolourani (G. Weeks)
+DBP0000514	synonym	act15-GFP-rasC
+DBP0000514	keyword	GFP marker
+DBP0000514	keyword	expression vector
+DBP0000514	keyword	act15 promoter
+DBP0000515	depositor	P. Bolourani (G. Weeks)
+DBP0000515	synonym	rasC-GFP-rasC
+DBP0000515	keyword	rasC
+DBP0000515	keyword	GFP
+DBP0000515	keyword	G protein
+DBP0000515	keyword	signal transduction
+DBP0000520	depositor	Douwe Veltman
+DBP0000520	keyword	expression vector
+DBP0000520	keyword	extrachromosomal vector
+DBP0000520	keyword	doxON vector
+DBP0000520	keyword	neomycin resistance
+DBP0000520	keyword	act6 promoter
+DBP0000520	keyword	act15 promoter
+DBP0000520	keyword	GST tag
+DBP0000405	depositor	Christophe Anjard
+DBP0000405	synonym	Kdel-Neo
+DBP0000405	keyword	act15 promoter
+DBP0000405	keyword	neomycin resistance
+DBP0000405	keyword	expression vector
+DBP0000443	depositor	Rob Guyer (Deering)
+DBP0000443	keyword	bleomycin resistance
+DBP0000443	keyword	luciferase marker
+DBP0000443	keyword	neomycin resistance
+DBP0000449	depositor	Jane Borleis (Devreotes)
+DBP0000454	depositor	Jeff Hadwiger
+DBP0000454	synonym	Galpha5::Thy
+DBP0000454	synonym	Ga5::Thy
+DBP0000454	keyword	knockout vector
+DBP0000481	depositor	Aiko Amagai
+DBP0000481	synonym	pVA6
+DBP0000481	keyword	neomycin resistance
+DBP0000481	keyword	expression vector
+DBP0000481	keyword	act6 promoter
+DBP0000484	depositor	Francois Letourneur
+DBP0000484	synonym	apm1-ko construct
+DBP0000484	synonym	mu1-ko
+DBP0000484	keyword	clathrin-adaptor complex
+DBP0000484	keyword	AP-1
+DBP0000484	keyword	endocytosis
+DBP0000521	depositor	Douwe Veltman
+DBP0000521	keyword	expression vector
+DBP0000521	keyword	extrachromosomal vector
+DBP0000521	keyword	doxON vector
+DBP0000521	keyword	neomycin resistance
+DBP0000521	keyword	act6 promoter
+DBP0000521	keyword	act15 promoter
+DBP0000521	keyword	TAP tag
+DBP0000522	depositor	Douwe Veltman
+DBP0000522	keyword	expression vector
+DBP0000522	keyword	extrachromosomal vector
+DBP0000522	keyword	doxON vector
+DBP0000522	keyword	neomycin resistance
+DBP0000522	keyword	act6 promoter
+DBP0000522	keyword	act15 promoter
+DBP0000522	keyword	GFP marker
+DBP0000523	depositor	Douwe Veltman
+DBP0000523	keyword	expression vector
+DBP0000523	keyword	extrachromosomal vector
+DBP0000523	keyword	doxON vector
+DBP0000523	keyword	neomycin resistance
+DBP0000523	keyword	act6 promoter
+DBP0000523	keyword	act15 promoter
+DBP0000523	keyword	RFP marker
+DBP0000524	depositor	Douwe Veltman
+DBP0000524	keyword	expression vector
+DBP0000524	keyword	extrachromosomal vector
+DBP0000524	keyword	doxON vector
+DBP0000524	keyword	neomycin resistance
+DBP0000524	keyword	act6 promoter
+DBP0000524	keyword	act15 promoter
+DBP0000524	keyword	TAP tag
+DBP0000525	depositor	Douwe Veltman
+DBP0000525	keyword	expression vector
+DBP0000525	keyword	extrachromosomal vector
+DBP0000525	keyword	doxON vector
+DBP0000525	keyword	neomycin resistance
+DBP0000525	keyword	act6 promoter
+DBP0000525	keyword	act15 promoter
+DBP0000525	keyword	GFP marker
+DBP0000526	depositor	Douwe Veltman
+DBP0000526	keyword	expression vector
+DBP0000526	keyword	extrachromosomal vector
+DBP0000526	keyword	doxON vector
+DBP0000526	keyword	neomycin resistance
+DBP0000526	keyword	act6 promoter
+DBP0000526	keyword	act15 promoter
+DBP0000526	keyword	RFP marker
+DBP0000527	depositor	Douwe Veltman
+DBP0000527	keyword	expression vector
+DBP0000527	keyword	extrachromosomal vector
+DBP0000527	keyword	doxON vector
+DBP0000527	keyword	hygromycin resistance
+DBP0000527	keyword	act6 promoter
+DBP0000527	keyword	act15 promoter
+DBP0000527	keyword	GFP marker
+DBP0000528	depositor	Douwe Veltman
+DBP0000528	keyword	expression vector
+DBP0000528	keyword	extrachromosomal vector
+DBP0000528	keyword	doxON vector
+DBP0000528	keyword	hygromycin resistance
+DBP0000528	keyword	act6 promoter
+DBP0000528	keyword	act15 promoter
+DBP0000528	keyword	GFP marker
+DBP0000529	depositor	Douwe Veltman
+DBP0000529	keyword	GFP tag
+DBP0000529	keyword	hygromycin resistance
+DBP0000529	keyword	expression vector
+DBP0000529	keyword	extrachromosomal vector
+DBP0000529	keyword	doxON vector
+DBP0000529	keyword	gateway vector
+DBP0000529	keyword	act6 promoter
+DBP0000529	keyword	act15 promoter
+DBP0000530	depositor	Douwe Veltman
+DBP0000530	keyword	GFP tag
+DBP0000530	keyword	hygromycin resistance
+DBP0000530	keyword	expression vector
+DBP0000530	keyword	doxON vector
+DBP0000530	keyword	extrachromosomal vector
+DBP0000530	keyword	gateway vector
+DBP0000530	keyword	act6 promoter
+DBP0000530	keyword	act15 promoter
+DBP0000531	depositor	Douwe Veltman
+DBP0000531	keyword	hygromycin resistance
+DBP0000531	keyword	expression vector
+DBP0000531	keyword	doxON vector
+DBP0000531	keyword	extrachromosomal vector
+DBP0000531	keyword	gateway vector
+DBP0000531	keyword	act6 promoter
+DBP0000531	keyword	act15 promoter
+DBP0000532	depositor	Douwe Veltman
+DBP0000532	keyword	neomycin resistance
+DBP0000532	keyword	expression vector
+DBP0000532	keyword	extrachromosomal vector
+DBP0000532	keyword	act6 promoter
+DBP0000532	keyword	act15 promoter
+DBP0000404	depositor	Danny Fuller (Bill Loomis)
+DBP0000404	synonym	pTF169-Eco
+DBP0000404	synonym	acaA
+DBP0000404	synonym	cyclase
+DBP0000404	keyword	REMI vector
+DBP0000409	depositor	Jan Faix
+DBP0000409	synonym	pDEX H
+DBP0000409	synonym	pDEX.H
+DBP0000409	synonym	pDEX-H
+DBP0000409	synonym	pDEX_H
+DBP0000409	keyword	neomycin resistance
+DBP0000409	keyword	expression vector
+DBP0000409	keyword	extrachromosomal vector
+DBP0000409	keyword	act6 promoter
+DBP0000409	keyword	act15 promoter
+DBP0000414	depositor	Markus Maniak
+DBP0000414	synonym	pBsr-H
+DBP0000414	keyword	blasticidin resistance
+DBP0000414	keyword	expression vector
+DBP0000414	keyword	act6 promoter
+DBP0000414	keyword	act15 promoter
+DBP0000451	depositor	Carole Parent
+DBP0000453	depositor	Susan Ross (Jeff Williams)
+DBP0000453	synonym	pHyg Tm (plus)/pG7
+DBP0000453	keyword	hygromycin resistance
+DBP0000453	keyword	expression vector
+DBP0000459	keyword	extrachromosomal expression vector
+DBP0000461	depositor	Satomi Matsuoka (M. Ueda)
+DBP0000461	synonym	aca-ko
+DBP0000461	synonym	acaA-bsr
+DBP0000461	synonym	acaA-ko
+DBP0000461	synonym	aca-bsr
+DBP0000461	keyword	acaA
+DBP0000461	keyword	adenylate cyclse
+DBP0000461	keyword	adenylyl cyclase null mutant
+DBP0000461	keyword	blasticidin cassette
+DBP0000461	keyword	chemotaxis
+DBP0000472	depositor	David Knecht
+DBP0000472	synonym	598-2
+DBP0000472	synonym	ABD-120
+DBP0000472	synonym	gelA
+DBP0000472	synonym	abpC
+DBP0000472	synonym	pDXAGFPABD120
+DBP0000472	synonym	GFP-FLNABD
+DBP0000472	synonym	GFP-ABD120
+DBP0000472	synonym	gfp-abd. gfpabd
+DBP0000472	keyword	actin-binding domain
+DBP0000472	keyword	gfp
+DBP0000472	keyword	expression vector
+DBP0000472	keyword	filamin
+DBP0000472	keyword	gelation factor
+DBP0000473	depositor	David Knecht
+DBP0000473	synonym	624-2
+DBP0000473	synonym	pDHyg-GFPABD120
+DBP0000473	synonym	pDH/GFP:FLNABD
+DBP0000473	synonym	pDHGFPABD120
+DBP0000473	keyword	actin-binding domain
+DBP0000473	keyword	gfp
+DBP0000473	keyword	expression vector
+DBP0000475	depositor	David Knecht (Annette Mueller-Taubenberger)
+DBP0000475	synonym	927-2
+DBP0000475	synonym	mars-limE-delta-coil
+DBP0000475	synonym	mars-limdcoil
+DBP0000475	keyword	actin-binding domain
+DBP0000475	keyword	rfp
+DBP0000475	keyword	expression vector
+DBP0000475	keyword	LIM
+DBP0000488	depositor	Francois Letourneur
+DBP0000488	keyword	clathrin-adaptor complex
+DBP0000488	keyword	AP-1
+DBP0000488	keyword	endocytosis
+DBP0000490	depositor	Francois Letourneur
+DBP0000490	synonym	GFP-Nt-Phg2
+DBP0000490	synonym	Phg2-GFP
+DBP0000490	keyword	clathrin-adaptor complex
+DBP0000490	keyword	AP-1
+DBP0000490	keyword	endocytosis
+DBP0000491	depositor	Francois Letourneur
+DBP0000491	keyword	clathrin-adaptor complex
+DBP0000491	keyword	AP-1
+DBP0000491	keyword	endocytosis
+DBP0000494	depositor	Nelly Bennett
+DBP0000494	synonym	DDB0231537
+DBP0000494	synonym	RFP-Syn7
+DBP0000494	keyword	blasticidin resistance
+DBP0000494	keyword	expression vector
+DBP0000494	keyword	extrachromosomal vector
+DBP0000494	keyword	RFP marked
+DBP0000498	depositor	Nelly Bennett
+DBP0000498	synonym	DDB0231535
+DBP0000498	keyword	neomycin resistance
+DBP0000498	keyword	expression vector
+DBP0000498	keyword	extrachromosomal vector
+DBP0000498	keyword	GFP marker
+DBP0000416	depositor	Elizabeth Villegas (Gad Shaulsky)
+DBP0000416	synonym	DDB0203824
+DBP0000416	synonym	DDB_G0276383
+DBP0000416	synonym	DDB0201646
+DBP0000416	synonym	pyr1-3
+DBP0000416	keyword	REMI vector
+DBP0000418	depositor	Elizabeth Villegas (Gad Shaulsky)
+DBP0000418	synonym	
+DBP0000418	synonym	DDB0217318
+DBP0000418	keyword	REMI vector
+DBP0000421	depositor	Elizabeth Villegas (Gad Shaulsky)
+DBP0000421	synonym	DDB_G0277239
+DBP0000421	synonym	DDB0169123
+DBP0000421	keyword	REMI vector
+DBP0000423	depositor	Elizabeth Villegas (Gad Shaulsky)
+DBP0000423	synonym	DDB0232272
+DBP0000423	synonym	DDB_G0273201
+DBP0000423	keyword	REMI vector
+DBP0000424	depositor	Elizabeth Villegas (Gad Shaulsky)
+DBP0000424	synonym	DDB0235158
+DBP0000424	synonym	DDB0204875
+DBP0000424	synonym	pikG
+DBP0000424	keyword	REMI vector
+DBP0000426	depositor	Elizabeth Villegas (Gad Shaulsky)
+DBP0000426	synonym	DDB0238000
+DBP0000426	synonym	DDB_G0278585
+DBP0000426	keyword	REMI vector
+DBP0000429	depositor	Elizabeth Villegas (Gad Shaulsky)
+DBP0000429	synonym	DDB0167632
+DBP0000429	synonym	DDB_G0274431
+DBP0000429	keyword	REMI vector
+DBP0000430	depositor	Elizabeth Villegas (Gad Shaulsky)
+DBP0000430	synonym	DDB0230079
+DBP0000430	synonym	pks2
+DBP0000430	keyword	REMI vector
+DBP0000431	depositor	Elizabeth Villegas (Gad Shaulsky)
+DBP0000431	synonym	DDB0203021
+DBP0000431	synonym	DDB0217110
+DBP0000431	synonym	DDB_G0273325
+DBP0000431	synonym	DDB_G0273271
+DBP0000431	keyword	REMI vector
+DBP0000432	depositor	Elizabeth Villegas (Gad Shaulsky)
+DBP0000432	synonym	DDB0186560
+DBP0000432	synonym	DDB_G0285547
+DBP0000432	keyword	REMI vector
+DBP0000434	depositor	Elizabeth Villegas (Gad Shaulsky)
+DBP0000434	synonym	DDB0216431
+DBP0000434	synonym	abkD
+DBP0000434	keyword	REMI vector
+DBP0000437	depositor	Elizabeth Villegas (Gad Shaulsky)
+DBP0000437	synonym	DDB0186759
+DBP0000437	synonym	DDB_G0285935
+DBP0000437	synonym	DDB0191460
+DBP0000437	synonym	helD
+DBP0000437	keyword	REMI vector
+DBP0000440	depositor	Elizabeth Villegas (Gad Shaulsky)
+DBP0000440	synonym	DDB0191265
+DBP0000440	synonym	dhkE
+DBP0000440	keyword	REMI vector
+DBP0000441	depositor	Elizabeth Villegas (Gad Shaulsky)
+DBP0000441	synonym	DDB0206368
+DBP0000441	synonym	DDB_G0280089
+DBP0000441	keyword	REMI vector
+DBP0000447	depositor	Jonathan Chubb
+DBP0000447	synonym	GFP-Set1:N142Q
+DBP0000447	keyword	expression vector
+DBP0000447	keyword	GFP marker
+DBP0000442	depositor	David Lam (Pierre Golstein)
+DBP0000442	synonym	iplA-KO
+DBP0000442	synonym	iplA KO
+DBP0000442	synonym	iplA (ins)
+DBP0000442	keyword	knockout vector
+DBP0000442	keyword	blasticidin resistance
+DBP0000450	depositor	Carole Parent
+DBP0000450	synonym	pKL-2
+DBP0000450	keyword	neomycin resistance
+DBP0000450	keyword	expression vector
+DBP0000452	depositor	Carole Parent
+DBP0000452	keyword	expression vector
+DBP0000452	keyword	extrachromosomal vector
+DBP0000452	keyword	neomycin resistance
+DBP0000455	depositor	Jeff Hadwiger
+DBP0000455	synonym	pyr5-6
+DBP0000455	keyword	uracil selection
+DBP0000455	keyword	knockout vector
+DBP0000456	depositor	Jeff Hadwiger
+DBP0000456	synonym	bsR
+DBP0000456	keyword	blasticidin
+DBP0000456	keyword	bsR cassette
+DBP0000457	depositor	Mehreen Zaki (Rob Insall)
+DBP0000457	keyword	Arp2
+DBP0000457	keyword	arpB
+DBP0000457	keyword	arp2/3 complex
+DBP0000457	keyword	extrachromosomal expression vector
+DBP0000457	keyword	aequorin
+DBP0000458	depositor	Mehreen Zaki (Rob Insall)
+DBP0000458	synonym	act15:myc-arpB
+DBP0000458	synonym	A15:myc-ARP2
+DBP0000458	keyword	Arp2
+DBP0000458	keyword	arpB
+DBP0000458	keyword	arp2/3 complex
+DBP0000458	keyword	extrachromosomal expression vector
+DBP0000458	keyword	aequorin
+DBP0000462	depositor	Susan Ross (Jeff Williams)
+DBP0000462	synonym	mrrA (SSF385) LacZ
+DBP0000462	synonym	mrrA-lacZ
+DBP0000462	keyword	promoter analysis
+DBP0000462	keyword	mybE
+DBP0000471	depositor	David Knecht
+DBP0000471	synonym	561-1
+DBP0000471	synonym	pDBsr-GFPABD120
+DBP0000471	synonym	pBsr-GFPFLNABD
+DBP0000471	keyword	actin-binding domain
+DBP0000471	keyword	gfp
+DBP0000471	keyword	expression vector
+DBP0000471	keyword	filamin
+DBP0000471	keyword	gelation factor
+DBP0000471	keyword	abpC
+DBP0000474	depositor	David Knecht (Annette Mueller-Taubenberger)
+DBP0000474	synonym	1076-1
+DBP0000474	synonym	marsFilABD
+DBP0000474	keyword	actin-binding domain
+DBP0000474	keyword	rfp
+DBP0000474	keyword	expression vector
+DBP0000476	depositor	Chris West
+DBP0000476	synonym	pVS-ecmA
+DBP0000476	keyword	Myc tag
+DBP0000476	keyword	neomycin resistance
+DBP0000476	keyword	expression vector
+DBP0000476	keyword	act15 promoter
+DBP0000476	keyword	ecmA promoter
+DBP0000477	depositor	Chris West
+DBP0000477	synonym	pVS4-HygR
+DBP0000477	synonym	pVS-HygR
+DBP0000477	synonym	pVShygr
+DBP0000477	keyword	Myc tag
+DBP0000477	keyword	hygromycin resistance
+DBP0000477	keyword	expression vector
+DBP0000477	keyword	act15 promoter
+DBP0000477	keyword	dicoidin promoter
+DBP0000478	depositor	Aiko Amagai
+DBP0000478	keyword	neomycin resistance
+DBP0000478	keyword	expression vector
+DBP0000480	depositor	Aiko Amagai
+DBP0000480	synonym	VA6-ACO
+DBP0000480	synonym	VA6-DdACO
+DBP0000480	synonym	pVA6aco
+DBP0000480	keyword	neomycin resistance
+DBP0000480	keyword	act6 promoter
+DBP0000485	depositor	Francois Letourneur
+DBP0000485	synonym	apm4-ko construct
+DBP0000485	synonym	pLA17
+DBP0000485	synonym	mu4-ko construct
+DBP0000485	keyword	clathrin-adaptor complex
+DBP0000485	keyword	AP-1
+DBP0000485	keyword	endocytosis
+DBP0000486	depositor	Francois Letourneur
+DBP0000486	synonym	apm2-ko construct
+DBP0000486	synonym	mu2-ko
+DBP0000486	keyword	clathrin-adaptor complex
+DBP0000486	keyword	AP-1
+DBP0000486	keyword	endocytosis
+DBP0000489	depositor	Francois Letourneur
+DBP0000489	keyword	clathrin-adaptor complex
+DBP0000489	keyword	AP-1
+DBP0000489	keyword	endocytosis
+DBP0000492	depositor	David Knecht
+DBP0000492	keyword	RFP marker
+DBP0000492	keyword	expression vector
+DBP0000497	depositor	Nelly Bennett
+DBP0000497	synonym	DDB0231533
+DBP0000497	synonym	GFP-syn8
+DBP0000497	keyword	GFP marker
+DBP0000497	keyword	expression vector
+DBP0000567	depositor	Douwe Veltman
+DBP0000567	keyword	RFP marker
+DBP0000567	keyword	expression vector
+DBP0000568	depositor	Douwe Veltman
+DBP0000568	keyword	gateway vector
+DBP0000571	depositor	Harry MacWilliams
+DBP0000571	synonym	V18-labile luciferase
+DBP0000571	keyword	luciferase marker
+DBP0000571	keyword	neomycin resistance
+DBP0000571	keyword	expression vector
+DBP0000572	depositor	Harry MacWilliams
+DBP0000572	synonym	psA-labile-S65Tgfp
+DBP0000572	keyword	GFP marker
+DBP0000572	keyword	expression vector
+DBP0000572	keyword	psA promoter
+DBP0000573	depositor	Harry MacWilliams
+DBP0000573	synonym	psA-i-alpha-gal
+DBP0000573	keyword	galactosidase marker
+DBP0000573	keyword	neomycin resistance
+DBP0000573	keyword	expression vector
+DBP0000573	keyword	psA promoter
+DBP0000578	depositor	Harry MacWilliams
+DBP0000578	synonym	ecmA0 ialphagal & ecmA0-Ugus
+DBP0000578	keyword	galactosidase marker
+DBP0000578	keyword	glucoronidase marker
+DBP0000578	keyword	expression vector
+DBP0000578	keyword	ecmAO promoter
+DBP0000635	depositor	Tom Egelhoff
+DBP0000635	keyword	FLAG tag
+DBP0000635	keyword	neomycin resistance
+DBP0000635	keyword	expression vector
+DBP0000635	keyword	act15 promoter
+DBP0000640	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000640	synonym	p24DdBBC728.B2
+DBP0000640	synonym	BCN214036
+DBP0000640	keyword	blasticidin resistance
+DBP0000640	keyword	REMI vector
+DBP0000641	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000641	synonym	p24DDBBC715.B2
+DBP0000641	synonym	BCN173834
+DBP0000641	keyword	blasticidin resistance
+DBP0000641	keyword	REMI vector
+DBP0000642	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000642	synonym	p24DdBBC008.B2
+DBP0000642	synonym	BCN105955
+DBP0000642	keyword	blasticidin resistance
+DBP0000642	keyword	REMI vector
+DBP0000643	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000643	synonym	p24DdBBC029.B2
+DBP0000643	synonym	BCN901703
+DBP0000643	keyword	blasticidin resistance
+DBP0000643	keyword	REMI vector
+DBP0000644	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000644	synonym	p24DdBBC024.A3
+DBP0000644	synonym	BCN224743
+DBP0000644	keyword	blasticidin resistance
+DBP0000644	keyword	REMI vector
+DBP0000645	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000645	synonym	p24DdBBC030.B2
+DBP0000645	synonym	BCN228884
+DBP0000645	keyword	blasticidin resistance
+DBP0000645	keyword	REMI vector
+DBP0000646	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000646	synonym	p24DdBBC728.A1
+DBP0000646	synonym	BCN194541
+DBP0000646	keyword	blasticidin resistance
+DBP0000646	keyword	REMI vector
+DBP0000647	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000647	synonym	p24DdBBC012.A3
+DBP0000647	synonym	BCN160399
+DBP0000647	keyword	blasticidin resistance
+DBP0000647	keyword	REMI vector
+DBP0000648	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000648	synonym	p24DdBBC029.A4
+DBP0000648	synonym	BCN145248
+DBP0000648	keyword	blasticidin resistance
+DBP0000648	keyword	REMI vector
+DBP0000649	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000649	synonym	p24DdBBC727.A5
+DBP0000649	synonym	BCN901208
+DBP0000649	keyword	blasticidin resistance
+DBP0000649	keyword	REMI vector
+DBP0000650	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000650	synonym	p24DdBBC703.B2
+DBP0000650	synonym	BCN215248
+DBP0000650	keyword	blasticidin resistance
+DBP0000650	keyword	REMI vector
+DBP0000651	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000651	synonym	p24DdBBC707.A4
+DBP0000651	synonym	BCN133430
+DBP0000651	keyword	blasticidin resistance
+DBP0000651	keyword	REMI vector
+DBP0000652	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000652	synonym	p24DdBBC725.A1
+DBP0000652	synonym	BCN149995
+DBP0000652	keyword	blasticidin resistance
+DBP0000652	keyword	REMI vector
+DBP0000653	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000653	synonym	p24DdBBC705.A1
+DBP0000653	synonym	BCN191208
+DBP0000653	keyword	blasticidin resistance
+DBP0000653	keyword	REMI vector
+DBP0000654	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000654	synonym	p24DdBBC725.A3
+DBP0000654	synonym	BCN187975
+DBP0000654	keyword	blasticidin resistance
+DBP0000654	keyword	REMI vector
+DBP0000655	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000655	synonym	p24DdBBC723.A4
+DBP0000655	synonym	BCN152218
+DBP0000656	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000656	synonym	p24DdBBC703.B2
+DBP0000656	synonym	BCN148278
+DBP0000656	keyword	blasticidin resistance
+DBP0000656	keyword	REMI vector
+DBP0000657	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000657	synonym	p24DdBBC723.A4
+DBP0000657	synonym	BCN124238
+DBP0000657	keyword	blasticidin resistance
+DBP0000657	keyword	REMI vector
+DBP0000658	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000658	synonym	p24DdBBC728.A3
+DBP0000658	synonym	BCN183531
+DBP0000659	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000659	synonym	p24DdBBC725.A4
+DBP0000659	synonym	BCN163632
+DBP0000659	keyword	blasticidin resistance
+DBP0000659	keyword	REMI vector
+DBP0000660	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000660	synonym	p24DdBBC718.B2
+DBP0000660	synonym	BCN124844
+DBP0000660	keyword	blasticidin resistance
+DBP0000660	keyword	REMI vector
+DBP0000533	depositor	Douwe Veltman
+DBP0000533	keyword	blasticidin resistance
+DBP0000533	keyword	expression vector
+DBP0000533	keyword	extrachromosomal vector
+DBP0000533	keyword	act6 promoter
+DBP0000533	keyword	act15 promoter
+DBP0000534	depositor	Douwe Veltman
+DBP0000534	keyword	hygromycin resistance
+DBP0000534	keyword	expression vector
+DBP0000534	keyword	extrachromosomal vector
+DBP0000534	keyword	act6 promoter
+DBP0000534	keyword	act15 promoter
+DBP0000541	depositor	Douwe Veltman
+DBP0000541	keyword	RFP marker
+DBP0000541	keyword	neomycin resistance
+DBP0000541	keyword	expression vector
+DBP0000541	keyword	extrachromosomal vector
+DBP0000541	keyword	act6 promoter
+DBP0000541	keyword	act15 promoter
+DBP0000544	depositor	Douwe Veltman
+DBP0000544	keyword	RFP marker
+DBP0000544	keyword	neomycin resistance
+DBP0000544	keyword	expression vector
+DBP0000544	keyword	extrachromosomal vector
+DBP0000544	keyword	gateway vector
+DBP0000544	keyword	act6 promoter
+DBP0000544	keyword	act15 promoter
+DBP0000545	depositor	Douwe Veltman
+DBP0000545	keyword	RFP marker
+DBP0000545	keyword	neomycin resistance
+DBP0000545	keyword	expression vector
+DBP0000545	keyword	extrachromosomal vector
+DBP0000545	keyword	gateway vector
+DBP0000545	keyword	act6 promoter
+DBP0000545	keyword	act15 promoter
+DBP0000546	depositor	Douwe Veltman
+DBP0000546	keyword	GFP marker
+DBP0000546	keyword	neomycin resistance
+DBP0000546	keyword	expression vector
+DBP0000546	keyword	extrachromosomal vector
+DBP0000546	keyword	gateway vector
+DBP0000546	keyword	act6 promoter
+DBP0000546	keyword	act15 promoter
+DBP0000547	depositor	Douwe Veltman
+DBP0000547	keyword	GFP marker
+DBP0000547	keyword	hygromycin resistance
+DBP0000547	keyword	expression vector
+DBP0000547	keyword	extrachromosomal vector
+DBP0000547	keyword	gateway vector
+DBP0000547	keyword	act6 promoter
+DBP0000547	keyword	act15 promoter
+DBP0000558	depositor	Douwe Veltman
+DBP0000558	keyword	RFP marker
+DBP0000558	keyword	expression vector
+DBP0000558	keyword	gateway vector
+DBP0000558	keyword	act15 promoter
+DBP0000560	depositor	Douwe Veltman
+DBP0000560	keyword	expression vector
+DBP0000560	keyword	gateway vector
+DBP0000560	keyword	act15 promoter
+DBP0000562	depositor	Douwe Veltman
+DBP0000562	keyword	RFP marker
+DBP0000562	keyword	expression vector
+DBP0000563	depositor	Douwe Veltman
+DBP0000563	keyword	GST tag
+DBP0000566	depositor	Douwe Veltman
+DBP0000566	keyword	GFP marker
+DBP0000566	keyword	expression vector
+DBP0000574	depositor	Harry MacWilliams
+DBP0000574	synonym	psA ialphagal & psA-Ugus
+DBP0000574	keyword	galactosidase marker
+DBP0000574	keyword	glucoronidase marker
+DBP0000574	keyword	neomycin resistance
+DBP0000574	keyword	expression vector
+DBP0000574	keyword	psA promoter
+DBP0000581	depositor	Harry MacWilliams
+DBP0000581	synonym	Ecm0 ialphagal & Ecm0 Ugus
+DBP0000581	keyword	galactosidase marker
+DBP0000581	keyword	glucoronidase marker
+DBP0000581	keyword	expression vector
+DBP0000581	keyword	ecmO promoter
+DBP0000582	depositor	Danny Fuller (Loomis)
+DBP0000582	synonym	ptagB/IGFP
+DBP0000582	keyword	GFP marker
+DBP0000582	keyword	neomycin resistance
+DBP0000582	keyword	expression vector
+DBP0000583	depositor	Danny Fuller (Loomis)
+DBP0000583	synonym	pcotB/IGFP
+DBP0000583	keyword	GFP marker
+DBP0000583	keyword	neomycin resistance
+DBP0000583	keyword	expression vector
+DBP0000583	keyword	cotB promoter
+DBP0000590	depositor	Yoshinori Kawabe (Pauline Schaap)
+DBP0000590	keyword	neomycin resistance
+DBP0000590	keyword	cre-loxP vector
+DBP0000598	depositor	Margaret Clarke
+DBP0000598	keyword	GFP marker
+DBP0000598	keyword	neomycin resistance
+DBP0000598	keyword	expression vector
+DBP0000634	depositor	Tom Egelhoff
+DBP0000634	keyword	GFP marker
+DBP0000634	keyword	neomycin resistance
+DBP0000634	keyword	expression vector
+DBP0000634	keyword	act15 promoter
+DBP0000636	depositor	Tom Egelhoff
+DBP0000636	keyword	FLAG tag
+DBP0000636	keyword	neomycin resistance
+DBP0000636	keyword	expression vector
+DBP0000636	keyword	act15 promoter
+DBP0000676	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000676	synonym	p24DdBBC732.A3
+DBP0000676	synonym	BCN142117
+DBP0000676	keyword	blasticidin resistance
+DBP0000676	keyword	REMI vector
+DBP0000703	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000703	synonym	p24DdBBC018.A6
+DBP0000703	synonym	BCN172218
+DBP0000703	keyword	blasticidin resistance
+DBP0000703	keyword	REMI vector
+DBP0000704	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000704	synonym	p24DdBBC711.B3
+DBP0000704	synonym	BCN211006
+DBP0000704	keyword	blasticidin resistance
+DBP0000704	keyword	REMI vector
+DBP0000705	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000705	synonym	p24DdBBC711.B3
+DBP0000705	synonym	BCN214339
+DBP0000705	keyword	blasticidin resistance
+DBP0000705	keyword	REMI vector
+DBP0000706	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000706	synonym	p24DdBBC711.B3
+DBP0000706	synonym	BCN186359
+DBP0000706	keyword	blasticidin resistance
+DBP0000706	keyword	REMI vector
+DBP0000707	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000707	synonym	p24DdBBC012.A3
+DBP0000707	synonym	BCN119591
+DBP0000707	keyword	blasticidin resistance
+DBP0000707	keyword	REMI vector
+DBP0000708	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000708	synonym	p24DdBBC730.B3
+DBP0000708	synonym	BCN172925
+DBP0000708	keyword	blasticidin resistance
+DBP0000708	keyword	REMI vector
+DBP0000709	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000709	synonym	p24DdBBC729.A6
+DBP0000709	synonym	BCN146359
+DBP0000709	keyword	blasticidin resistance
+DBP0000709	keyword	REMI vector
+DBP0000710	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000710	synonym	p24DdBBC713.B2
+DBP0000710	synonym	BCN181107
+DBP0000710	keyword	blasticidin resistance
+DBP0000710	keyword	REMI vector
+DBP0000580	depositor	Harry MacWilliams
+DBP0000580	synonym	ecm0-ialphagal
+DBP0000580	keyword	galactosidase marker
+DBP0000580	keyword	expression vector
+DBP0000580	keyword	ecmO promoter
+DBP0000585	depositor	Satarupa Das / Carole Parent Lab
+DBP0000585	synonym	Fret-pDXA-YFP-MCS
+DBP0000585	synonym	Bdomain-Fret-pAB3
+DBP0000585	keyword	YFP marker
+DBP0000585	keyword	neomycin resistance
+DBP0000585	keyword	expression vector
+DBP0000585	keyword	act15 promoter
+DBP0000592	depositor	Yoshinori Kawabe (Pauline Schaap)
+DBP0000592	keyword	neomycin resistance
+DBP0000592	keyword	knockout vector
+DBP0000592	keyword	cre-loxP vector
+DBP0000593	depositor	Yoshinore Kawabe (Pauline Schaap)
+DBP0000593	keyword	expression vector
+DBP0000604	depositor	Anupama Khare (Gad Shaulsky)
+DBP0000604	synonym	pDEX-Cre-hyg<sup>R</sup>
+DBP0000604	keyword	hygromycin resistance
+DBP0000604	keyword	expression vector
+DBP0000604	keyword	cre-loxP vector
+DBP0000604	keyword	act15 promoter
+DBP0000605	depositor	Anupama Khare (Gad Shaulsky)
+DBP0000605	synonym	p&#916;chtC
+DBP0000605	keyword	knockout vector
+DBP0000605	keyword	cre-loxP vector
+DBP0000606	depositor	Anupama Khare (Gad Shaulsky)
+DBP0000606	synonym	ptagB/lacZ
+DBP0000606	keyword	galactosidase marker
+DBP0000606	keyword	neomycin resistance
+DBP0000606	keyword	expression vector
+DBP0000621	depositor	Wolfgang Nellen
+DBP0000621	synonym	pDBsr2a cTAP
+DBP0000621	keyword	TAP tag
+DBP0000621	keyword	expression vector
+DBP0000621	keyword	act15 promoter
+DBP0000632	depositor	Tom Egelhoff
+DBP0000632	keyword	GFP marker
+DBP0000632	keyword	neomycin resistance
+DBP0000632	keyword	expression vector
+DBP0000632	keyword	act15 promoter
+DBP0000711	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000711	synonym	p24DdBBC703.B3
+DBP0000711	synonym	BCN214844
+DBP0000711	keyword	blasticidin resistance
+DBP0000711	keyword	REMI vector
+DBP0000712	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000712	synonym	p24DdBBC725.A4
+DBP0000712	synonym	BCN146965
+DBP0000712	keyword	blasticidin resistance
+DBP0000712	keyword	REMI vector
+DBP0000713	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000713	synonym	p24DdBBC030.A3
+DBP0000713	synonym	BCN196359
+DBP0000713	keyword	blasticidin resistance
+DBP0000713	keyword	REMI vector
+DBP0000714	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000714	synonym	p24DdBBC026.A3
+DBP0000714	synonym	BCN174743
+DBP0000714	keyword	blasticidin resistance
+DBP0000714	keyword	REMI vector
+DBP0000715	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000715	synonym	p24DdBBC026.A1
+DBP0000715	synonym	BCN132016
+DBP0000715	keyword	blasticidin resistance
+DBP0000715	keyword	REMI vector
+DBP0000716	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000716	synonym	p24DdBBC021.A1
+DBP0000716	synonym	BCN134137
+DBP0000716	keyword	blasticidin resistance
+DBP0000716	keyword	REMI vector
+DBP0000717	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000717	synonym	p24DdBBC024.A6
+DBP0000717	synonym	BCN225349
+DBP0000717	keyword	blasticidin resistance
+DBP0000717	keyword	REMI vector
+DBP0000718	depositor	Catherine Pears
+DBP0000718	keyword	Myc tag
+DBP0000718	keyword	expression vector
+DBP0000718	keyword	act15 promoter
+DBP0000719	depositor	Regina Teo (Adrian Harwood)
+DBP0000719	synonym	JSK123; ipkB<sup>OE</sup>; itpk1-OE
+DBP0000719	keyword	neomycin resistance
+DBP0000719	keyword	expression vector
+DBP0000720	depositor	Regina Teo (Adrian Harwood)
+DBP0000720	synonym	JSK134; ipkA1<sup>OE</sup>; ipkA1-OE
+DBP0000720	keyword	FLAG tag
+DBP0000720	keyword	neomycin resistance
+DBP0000720	keyword	expression vector
+DBP0000722	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000722	synonym	p24DdBBC722.A1
+DBP0000722	synonym	BCN134440
+DBP0000722	keyword	blasticidin resistance
+DBP0000722	keyword	REMI vector
+DBP0000723	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000723	synonym	p24DdBBC724.A5
+DBP0000723	synonym	BCN164440
+DBP0000723	keyword	blasticidin resistance
+DBP0000723	keyword	REMI vector
+DBP0000724	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000724	synonym	p24DdBBC030.B2
+DBP0000724	synonym	BCN111511
+DBP0000724	keyword	blasticidin resistance
+DBP0000724	keyword	REMI vector
+DBP0000725	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000725	synonym	p24DdBBC032.A1
+DBP0000725	synonym	BCN243228
+DBP0000725	keyword	blasticidin resistance
+DBP0000725	keyword	REMI vector
+DBP0000726	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000726	synonym	p24DdBBC003.A3
+DBP0000726	synonym	BCN219389
+DBP0000726	keyword	blasticidin resistance
+DBP0000726	keyword	REMI vector
+DBP0000727	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000727	synonym	p24DdBBC031.A3
+DBP0000727	synonym	BCN901602
+DBP0000727	keyword	blasticidin resistance
+DBP0000727	keyword	REMI vector
+DBP0000728	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000728	synonym	p24DdBBC026.A1
+DBP0000728	synonym	BCN141915
+DBP0000728	keyword	blasticidin resistance
+DBP0000728	keyword	REMI vector
+DBP0000535	depositor	Douwe Veltman
+DBP0000535	keyword	GFP marker
+DBP0000535	keyword	neomycin resistance
+DBP0000535	keyword	expression vector
+DBP0000535	keyword	extrachromosomal vector
+DBP0000535	keyword	act6 promoter
+DBP0000535	keyword	act15 promoter
+DBP0000536	depositor	Douwe Veltman
+DBP0000536	keyword	RFP marker
+DBP0000536	keyword	neomycin resistance
+DBP0000536	keyword	expression vector
+DBP0000536	keyword	extrachromosomal vector
+DBP0000536	keyword	act6 promoter
+DBP0000536	keyword	act15 promoter
+DBP0000538	depositor	Douwe Veltman
+DBP0000538	keyword	FLAG tag
+DBP0000538	keyword	neomycin resistance
+DBP0000538	keyword	expression vector
+DBP0000538	keyword	extrachromosomal vector
+DBP0000538	keyword	act6 promoter
+DBP0000538	keyword	act15 promoter
+DBP0000540	depositor	Douwe Veltman
+DBP0000540	keyword	GFP marker
+DBP0000540	keyword	neomycin resistance
+DBP0000540	keyword	expression vector
+DBP0000540	keyword	extrachromosomal vector
+DBP0000540	keyword	act6 promoter
+DBP0000540	keyword	act15 promoter
+DBP0000542	depositor	Douwe Veltman
+DBP0000542	keyword	TAP tag
+DBP0000542	keyword	neomycin resistance
+DBP0000542	keyword	expression vector
+DBP0000542	keyword	extrachromosomal vector
+DBP0000542	keyword	act6 promoter
+DBP0000542	keyword	act15 promoter
+DBP0000543	depositor	Douwe Veltman
+DBP0000543	keyword	GFP marker
+DBP0000543	keyword	neomycin resistance
+DBP0000543	keyword	expression vector
+DBP0000543	keyword	extrachromosomal vector
+DBP0000543	keyword	gateway vector
+DBP0000543	keyword	act6 promoter
+DBP0000543	keyword	act15 promoter
+DBP0000548	depositor	Douwe Veltman
+DBP0000548	keyword	RFP marker
+DBP0000548	keyword	hygromycin resistance
+DBP0000548	keyword	expression vector
+DBP0000548	keyword	extrachromosomal vector
+DBP0000548	keyword	gateway vector
+DBP0000548	keyword	act6 promoter
+DBP0000548	keyword	act15 promoter
+DBP0000549	depositor	Douwe Veltman
+DBP0000549	keyword	RFP marker
+DBP0000549	keyword	hygromycin resistance
+DBP0000549	keyword	expression vector
+DBP0000549	keyword	extrachromosomal vector
+DBP0000549	keyword	gateway vector
+DBP0000549	keyword	act6 promoter
+DBP0000549	keyword	act15 promoter
+DBP0000556	depositor	Douwe Veltman
+DBP0000556	keyword	GFP marker
+DBP0000556	keyword	expression vector
+DBP0000556	keyword	gateway vector
+DBP0000556	keyword	act15 promoter
+DBP0000557	depositor	Douwe Veltman
+DBP0000557	keyword	RFP marker
+DBP0000557	keyword	expression vector
+DBP0000557	keyword	gateway vector
+DBP0000557	keyword	act15 promoter
+DBP0000559	depositor	Douwe Veltman
+DBP0000559	keyword	GFP marker
+DBP0000559	keyword	expression vector
+DBP0000559	keyword	gateway vector
+DBP0000559	keyword	act15 promoter
+DBP0000570	depositor	Harry MacWilliams
+DBP0000570	synonym	A15BSR-pic20H mcs R
+DBP0000570	keyword	blasticidin resistance
+DBP0000570	keyword	act15 promoter
+DBP0000575	depositor	Harry MacWilliams
+DBP0000575	synonym	ecmB-i-alpha-gal
+DBP0000575	keyword	galactosidase marker
+DBP0000575	keyword	expression vector
+DBP0000575	keyword	ecmB promoter
+DBP0000576	depositor	Harry MacWilliams
+DBP0000576	synonym	ecmA0-labile-S65Tgfp
+DBP0000576	keyword	GFP marker
+DBP0000576	keyword	expression vector
+DBP0000576	keyword	ecmA promoter
+DBP0000577	depositor	Harry MacWilliams
+DBP0000577	synonym	ecmA0-i-alpha-gal
+DBP0000577	keyword	galactosidase marker
+DBP0000577	keyword	expression vector
+DBP0000577	keyword	ecmA promoter
+DBP0000579	depositor	Harry MacWilliams
+DBP0000579	synonym	ecm0-labile-gfp
+DBP0000579	keyword	GFP marker
+DBP0000579	keyword	neomycin resistance
+DBP0000579	keyword	expression vector
+DBP0000579	keyword	ecmO promoter
+DBP0000599	depositor	Yoshinore Kawabe (Pauline Schaap)
+DBP0000599	synonym	pTasB::Gal
+DBP0000599	keyword	galactosidase marker
+DBP0000599	keyword	neomycin resistance
+DBP0000599	keyword	expression vector
+DBP0000619	depositor	Wolfgang Nellen
+DBP0000619	synonym	pDneo2a-GFP TAP
+DBP0000619	keyword	GFP marker
+DBP0000619	keyword	TAP tag
+DBP0000619	keyword	neomycin resistance
+DBP0000619	keyword	expression vector
+DBP0000619	keyword	act15 promoter
+DBP0000623	depositor	Wolfgang Nellen
+DBP0000623	synonym	pDBsr2a-TAP 6xMyc
+DBP0000623	keyword	Myc tag
+DBP0000623	keyword	TAP tag
+DBP0000623	keyword	expression vector
+DBP0000623	keyword	act15 promoter
+DBP0000625	depositor	Wolfgang Nellen
+DBP0000625	synonym	pDneo2a mRFP
+DBP0000625	keyword	HA tag
+DBP0000625	keyword	expression vector
+DBP0000625	keyword	act15 promoter
+DBP0000629	depositor	Wolfgang Nellen
+DBP0000629	synonym	pDBsrXP GFP
+DBP0000629	keyword	GFP marker
+DBP0000629	keyword	neomycin resistance
+DBP0000629	keyword	expression vector
+DBP0000629	keyword	act15 promoter
+DBP0000661	depositor	Ricardo Escalante
+DBP0000661	keyword	blasticidin resistance
+DBP0000661	keyword	knockout vector
+DBP0000729	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000729	synonym	p24DdBBC019.A3
+DBP0000729	synonym	BCN189187
+DBP0000730	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000730	synonym	p24DdBBC026.A1
+DBP0000730	synonym	BCN134743
+DBP0000730	keyword	blasticidin resistance
+DBP0000730	keyword	REMI vector
+DBP0000731	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000731	synonym	p24DdBBC720.A2
+DBP0000731	synonym	BCN197470
+DBP0000731	keyword	blasticidin resistance
+DBP0000731	keyword	REMI vector
+DBP0000732	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000732	synonym	p24DdBBC716.B2
+DBP0000732	synonym	BCN103127
+DBP0000732	keyword	blasticidin resistance
+DBP0000732	keyword	REMI vector
+DBP0000733	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000733	synonym	p24DdBBC022.B4
+DBP0000733	synonym	BCN132824
+DBP0000733	keyword	blasticidin resistance
+DBP0000733	keyword	REMI vector
+DBP0000734	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000734	synonym	p24DdBBC006.A2
+DBP0000734	synonym	BCN218177
+DBP0000735	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000735	synonym	p24DdBBC018.A4
+DBP0000735	synonym	BCN101006
+DBP0000735	keyword	blasticidin resistance
+DBP0000735	keyword	REMI vector
+DBP0000633	depositor	Tom Egelhoff
+DBP0000633	keyword	GFP marker
+DBP0000633	keyword	neomycin resistance
+DBP0000633	keyword	expression vector
+DBP0000633	keyword	act15 promoter
+DBP0000589	depositor	Yoshinori Kawabe (Pauline Schaap)
+DBP0000589	keyword	neomycin resistance
+DBP0000589	keyword	cre-loxP vector
+DBP0000591	depositor	Yoshinori Kawabe (Pauline Schaap)
+DBP0000591	keyword	knockout vector
+DBP0000591	keyword	cre-loxP vector
+DBP0000602	depositor	Rocio Benabentos (Shaulsky Lab)
+DBP0000602	keyword	hygromycin resistance
+DBP0000602	keyword	knockout vector
+DBP0000721	depositor	Margaret Clarke
+DBP0000721	synonym	PH-PLCdelta1-GFP
+DBP0000721	keyword	neomycin resistance
+DBP0000721	keyword	expression vector
+DBP0000736	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000736	synonym	p24DdBBC724.A2
+DBP0000736	synonym	BCN172723
+DBP0000736	keyword	blasticidin resistance
+DBP0000736	keyword	REMI vector
+DBP0000737	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000737	synonym	p24DdBBC012.A3
+DBP0000737	synonym	BCN119591
+DBP0000737	keyword	blasticidin resistance
+DBP0000737	keyword	REMI vector
+DBP0000738	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000738	synonym	p24DdBBC029.B2
+DBP0000738	synonym	BCN193127
+DBP0000738	keyword	blasticidin resistance
+DBP0000738	keyword	REMI vector
+DBP0000739	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000739	synonym	p24DdBBC707.B2
+DBP0000739	synonym	BCN137571
+DBP0000739	keyword	blasticidin resistance
+DBP0000739	keyword	REMI vector
+DBP0000740	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000740	synonym	p24DdBBC029.A4
+DBP0000740	synonym	BCN193127
+DBP0000740	keyword	blasticidin resistance
+DBP0000740	keyword	REMI vector
+DBP0000741	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000741	synonym	p24DdBBC026.A2
+DBP0000741	synonym	BCN140298
+DBP0000741	keyword	blasticidin resistance
+DBP0000741	keyword	REMI vector
+DBP0000742	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000742	synonym	p24DdBBC003.A1
+DBP0000742	synonym	BCN189490
+DBP0000742	keyword	blasticidin resistance
+DBP0000742	keyword	REMI vector
+DBP0000743	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000743	synonym	p24DdBBC009.A6
+DBP0000743	synonym	BCN203834
+DBP0000743	keyword	blasticidin resistance
+DBP0000743	keyword	REMI vector
+DBP0000744	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000744	synonym	p24DdBBC009.A4
+DBP0000744	synonym	BCN207773
+DBP0000745	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000745	synonym	p24DdBBC030.B4
+DBP0000745	synonym	BCN228884
+DBP0000745	keyword	blasticidin resistance
+DBP0000745	keyword	REMI vector
+DBP0000746	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000746	synonym	p24DdBBC032.A6
+DBP0000746	synonym	BCN218783
+DBP0000746	keyword	blasticidin resistance
+DBP0000746	keyword	REMI vector
+DBP0000747	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000747	synonym	p24DdBBC020.A3
+DBP0000747	synonym	BCN149086
+DBP0000747	keyword	blasticidin resistance
+DBP0000747	keyword	REMI vector
+DBP0000748	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000748	synonym	p24DdBBC009.B4
+DBP0000748	synonym	BCN207167
+DBP0000748	keyword	blasticidin resistance
+DBP0000748	keyword	REMI vector
+DBP0000749	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000749	synonym	p24DdBBC123.A2
+DBP0000749	synonym	BCN192319
+DBP0000749	keyword	blasticidin resistance
+DBP0000749	keyword	REMI vector
+DBP0000778	depositor	Rocio Benabentos (Shaulsky Lab)
+DBP0000778	keyword	hygromycin resistance
+DBP0000778	keyword	knockout vector
+DBP0000779	depositor	Rocio Benabentos (Shaulsky Lab)
+DBP0000779	keyword	blasticidin resistance
+DBP0000779	keyword	cre-loxP vector
+DBP0000779	keyword	gateway vector
+DBP0000780	depositor	Rocio Benabentos (Shaulsky Lab)
+DBP0000780	keyword	blasticidin resistance
+DBP0000780	keyword	cre-loxP vector
+DBP0000781	depositor	Rocio Benabentos (Shaulsky Lab)
+DBP0000781	keyword	blasticidin resistance
+DBP0000781	keyword	cre-loxP vector
+DBP0000782	depositor	Rocio Benabentos (Shaulsky Lab)
+DBP0000782	keyword	blasticidin resistance
+DBP0000782	keyword	cre-loxP vector
+DBP0000783	depositor	Rocio Benabentos (Shaulsky Lab)
+DBP0000783	keyword	blasticidin resistance
+DBP0000783	keyword	cre-loxP vector
+DBP0000784	depositor	Rocio Benabentos (Shaulsky Lab)
+DBP0000784	keyword	blasticidin resistance
+DBP0000784	keyword	cre-loxP vector
+DBP0000785	depositor	Rocio Benabentos (Shaulsky Lab)
+DBP0000785	keyword	blasticidin resistance
+DBP0000785	keyword	cre-loxP vector
+DBP0000785	keyword	gateway vector
+DBP0000553	depositor	Douwe Veltman
+DBP0000553	keyword	RFP marker
+DBP0000553	keyword	expression vector
+DBP0000553	keyword	act15 promoter
+DBP0000555	depositor	Douwe Veltman
+DBP0000555	keyword	GFP marker
+DBP0000555	keyword	expression vector
+DBP0000555	keyword	act15 promoter
+DBP0000569	depositor	Harry MacWilliams
+DBP0000569	synonym	A15BSR-pic20H mcs F
+DBP0000569	keyword	blasticidin resistance
+DBP0000569	keyword	act15 promoter
+DBP0000600	keyword	Myc tag
+DBP0000600	keyword	expression vector
+DBP0000600	keyword	act15 promoter
+DBP0000611	depositor	Wolfgang Nellen
+DBP0000611	synonym	pDneo2a-TAP GFP
+DBP0000611	keyword	GFP marker
+DBP0000611	keyword	TAP tag
+DBP0000611	keyword	neomycin resistance
+DBP0000611	keyword	expression vector
+DBP0000611	keyword	act15 promoter
+DBP0000614	depositor	Wolfgang Nellen
+DBP0000614	synonym	pDneo2a 6xMyc
+DBP0000614	keyword	Myc tag
+DBP0000614	keyword	expression vector
+DBP0000614	keyword	act15 promoter
+DBP0000620	depositor	Wolfgang Nellen
+DBP0000620	synonym	pDBsr2a nTAP
+DBP0000620	keyword	TAP tag
+DBP0000620	keyword	expression vector
+DBP0000620	keyword	act15 promoter
+DBP0000622	depositor	Wolfgang Nellen
+DBP0000622	synonym	pDBsr2a-6xMyc TAP
+DBP0000622	keyword	Myc tag
+DBP0000622	keyword	TAP tag
+DBP0000622	keyword	expression vector
+DBP0000622	keyword	act15 promoter
+DBP0000624	depositor	Wolfgang Nellen
+DBP0000624	synonym	pDneo2a 3xFLAG
+DBP0000624	keyword	FLAG tag
+DBP0000624	keyword	expression vector
+DBP0000624	keyword	act15 promoter
+DBP0000626	depositor	Wolfgang Nellen
+DBP0000626	synonym	pDBsrXP 3xHA
+DBP0000627	depositor	Wolfgang Nellen
+DBP0000627	synonym	pDBsrXP 6xMyc
+DBP0000627	keyword	Myc tag
+DBP0000627	keyword	expression vector
+DBP0000627	keyword	act15 promoter
+DBP0000639	depositor	Susan Ross (Jeff Williams)
+DBP0000639	keyword	RFP marker
+DBP0000639	keyword	neomycin resistance
+DBP0000639	keyword	expression vector
+DBP0000639	keyword	act6 promoter
+DBP0000639	keyword	ecmAO promoter
+DBP0000677	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000677	synonym	p24DdBBC724.A2
+DBP0000677	synonym	BCN172723
+DBP0000677	keyword	blasticidin resistance
+DBP0000677	keyword	REMI vector
+DBP0000678	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000678	synonym	p24DdBBC725.A5
+DBP0000678	synonym	BCN147066
+DBP0000678	keyword	blasticidin resistance
+DBP0000678	keyword	REMI vector
+DBP0000679	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000679	synonym	p24DdBBC714.A2
+DBP0000679	synonym	BCN139692
+DBP0000679	keyword	blasticidin resistance
+DBP0000679	keyword	REMI vector
+DBP0000680	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000680	synonym	p24DdBBC725.B2
+DBP0000680	synonym	BCN187975
+DBP0000680	keyword	blasticidin resistance
+DBP0000680	keyword	REMI vector
+DBP0000681	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000681	synonym	p24DdBBC703.A1
+DBP0000681	synonym	BCN214743
+DBP0000681	keyword	blasticidin resistance
+DBP0000681	keyword	REMI vector
+DBP0000684	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000684	synonym	p24DdBBC701.A1
+DBP0000684	synonym	BCN241511
+DBP0000684	keyword	blasticidin resistance
+DBP0000684	keyword	REMI vector
+DBP0000685	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000685	synonym	p24DdBBC730.A1
+DBP0000685	synonym	BCN174036
+DBP0000685	keyword	blasticidin resistance
+DBP0000685	keyword	REMI vector
+DBP0000686	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000686	synonym	p24DdBBC723.B1
+DBP0000686	synonym	BCN151511
+DBP0000686	keyword	blasticidin resistance
+DBP0000686	keyword	REMI vector
+DBP0000687	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000687	synonym	p24DdBBC727.B1
+DBP0000687	synonym	BCN186662
+DBP0000687	keyword	blasticidin resistance
+DBP0000687	keyword	REMI vector
+DBP0000688	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000688	synonym	p24DdBBC003.A1
+DBP0000688	synonym	BCN105349
+DBP0000688	keyword	blasticidin resistance
+DBP0000688	keyword	REMI vector
+DBP0000689	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000689	synonym	p24DdBBC714.B1
+DBP0000689	synonym	BCN238480
+DBP0000689	keyword	blasticidin resistance
+DBP0000689	keyword	REMI vector
+DBP0000690	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000690	synonym	P24DDBBC026.A3
+DBP0000690	synonym	BCN138682
+DBP0000690	keyword	blasticidin resistance
+DBP0000690	keyword	REMI vector
+DBP0000691	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000691	synonym	p24DdBBC019.A1
+DBP0000691	synonym	BCN187975
+DBP0000691	keyword	blasticidin resistance
+DBP0000691	keyword	REMI vector
+DBP0000692	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000692	synonym	p24DdBBC019.A3
+DBP0000692	synonym	BCN125551
+DBP0000692	keyword	blasticidin resistance
+DBP0000692	keyword	REMI vector
+DBP0000693	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000693	synonym	p24DdBBC026.A3
+DBP0000693	synonym	BCN165248
+DBP0000693	keyword	blasticidin resistance
+DBP0000693	keyword	REMI vector
+DBP0000694	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000694	synonym	p24DdBBC016.A3
+DBP0000694	synonym	BCN233834
+DBP0000694	keyword	blasticidin resistance
+DBP0000694	keyword	REMI vector
+DBP0000695	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000695	synonym	p24DdBBC026.A2
+DBP0000695	synonym	BCN132925
+DBP0000695	keyword	blasticidin resistance
+DBP0000695	keyword	REMI vector
+DBP0000696	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000696	synonym	p24DdBBC029.A2
+DBP0000696	synonym	BCN901703
+DBP0000696	keyword	blasticidin resistance
+DBP0000696	keyword	REMI vector
+DBP0000552	depositor	Douwe Veltman
+DBP0000552	keyword	GFP marker
+DBP0000552	keyword	expression vector
+DBP0000552	keyword	act15 promoter
+DBP0000554	depositor	Douwe Veltman
+DBP0000554	keyword	RFP marker
+DBP0000554	keyword	expression vector
+DBP0000554	keyword	act15 promoter
+DBP0000561	depositor	Douwe Veltman
+DBP0000561	synonym	1.21
+DBP0000561	keyword	GFP marker
+DBP0000561	keyword	expression vector
+DBP0000561	keyword	extrachromosomal vector
+DBP0000564	depositor	Douwe Veltman
+DBP0000564	keyword	TAP tag
+DBP0000565	depositor	Douwe Veltman
+DBP0000565	keyword	TAP tag
+DBP0000584	depositor	Danny Fuller (Loomis)
+DBP0000584	synonym	pecmA/IGFP
+DBP0000584	keyword	GFP marker
+DBP0000584	keyword	neomycin resistance
+DBP0000584	keyword	expression vector
+DBP0000584	keyword	ecmA promoter
+DBP0000841	keyword	expression vector
+DBP0000841	keyword	act15 promoter
+DBP0000841	keyword	neomycin resistance
+DBP0000841	keyword	extrachromosomal vector
+DBP0000601	depositor	Rocio Benabentos (Shaulsky Lab)
+DBP0000601	keyword	blasticidin resistance
+DBP0000601	keyword	knockout vector
+DBP0000601	keyword	cre-loxP vector
+DBP0000608	depositor	Wolfgang Nellen
+DBP0000608	keyword	TAP tag
+DBP0000608	keyword	expression vector
+DBP0000608	keyword	act6 promoter
+DBP0000608	keyword	act15 promoter
+DBP0000609	depositor	Wolfgang Nellen
+DBP0000609	synonym	pDneo2a-TAP 6xMyc
+DBP0000609	keyword	Myc tag
+DBP0000609	keyword	TAP tag
+DBP0000609	keyword	expression vector
+DBP0000609	keyword	act6 promoter
+DBP0000609	keyword	act15 promoter
+DBP0000610	depositor	Wolfgang Nellen
+DBP0000610	synonym	pDneo2a-TAP 3xHA
+DBP0000610	keyword	HA tag
+DBP0000610	keyword	TAP tag
+DBP0000610	keyword	expression vector
+DBP0000610	keyword	act15 promoter
+DBP0000612	depositor	Wolfgang Nellen
+DBP0000612	keyword	act6 promoter
+DBP0000613	depositor	Wolfgang Nellen
+DBP0000613	synonym	pDneo2a GFP
+DBP0000613	keyword	GFP marker
+DBP0000613	keyword	neomycin resistance
+DBP0000613	keyword	expression vector
+DBP0000613	keyword	act6 promoter
+DBP0000615	depositor	Wolfgang Nellen
+DBP0000615	synonym	pDneo2a 3xHA
+DBP0000615	keyword	HA tag
+DBP0000615	keyword	expression vector
+DBP0000615	keyword	act15 promoter
+DBP0000616	depositor	Wolfgang Nellen
+DBP0000616	keyword	TAP tag
+DBP0000616	keyword	expression vector
+DBP0000616	keyword	act15 promoter
+DBP0000617	depositor	Wolfgang Nellen
+DBP0000617	synonym	pDneo2a-3xHA TAP
+DBP0000617	keyword	HA tag
+DBP0000617	keyword	TAP tag
+DBP0000617	keyword	expression vector
+DBP0000617	keyword	act15 promoter
+DBP0000618	depositor	Wolfgang Nellen
+DBP0000618	synonym	pDneo2a-6xMyc TAP
+DBP0000618	keyword	Myc tag
+DBP0000618	keyword	TAP tag
+DBP0000618	keyword	act15 promoter
+DBP0000638	depositor	Susan Ross (Jeff Williams)
+DBP0000638	keyword	FLAG tag
+DBP0000638	keyword	neomycin resistance
+DBP0000638	keyword	expression vector
+DBP0000638	keyword	act15 promoter
+DBP0000697	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000697	synonym	p24DdBBC030.A5
+DBP0000697	synonym	BCN111511
+DBP0000697	keyword	blasticidin resistance
+DBP0000697	keyword	REMI vector
+DBP0000698	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000698	synonym	p24DdBBC026.B1
+DBP0000698	synonym	BCN187066
+DBP0000698	keyword	blasticidin resistance
+DBP0000698	keyword	REMI vector
+DBP0000699	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000699	synonym	p24DdBBC026.B1
+DBP0000699	synonym	BCN205046
+DBP0000699	keyword	blasticidin resistance
+DBP0000699	keyword	REMI vector
+DBP0000700	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000700	synonym	p24DdBBC023.A4
+DBP0000700	synonym	BCN130703
+DBP0000700	keyword	blasticidin resistance
+DBP0000700	keyword	REMI vector
+DBP0000701	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000701	synonym	p24DdBBC018.A3
+DBP0000701	synonym	BCN208581
+DBP0000702	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000702	synonym	p24DdBBC027.A3
+DBP0000702	synonym	BCN150399
+DBP0000702	keyword	blasticidin resistance
+DBP0000702	keyword	REMI vector
+DBP0000843	depositor	Qingyou Du (Pauline Schaap)
+DBP0000843	keyword	knockout vector
+DBP0000843	keyword	neomycin resistance
+DBP0000537	depositor	Douwe Veltman
+DBP0000537	keyword	GST tag
+DBP0000537	keyword	neomycin resistance
+DBP0000537	keyword	expression vector
+DBP0000537	keyword	extrachromosomal vector
+DBP0000537	keyword	act6 promoter
+DBP0000537	keyword	act15 promoter
+DBP0000539	depositor	Douwe Veltman
+DBP0000539	keyword	TAP tag
+DBP0000539	keyword	neomycin resistance
+DBP0000539	keyword	expression vector
+DBP0000539	keyword	extrachromosomal vector
+DBP0000539	keyword	act6 promoter
+DBP0000539	keyword	act15 promoter
+DBP0000550	depositor	Douwe Veltman
+DBP0000550	keyword	GFP marker
+DBP0000550	keyword	hygromycin resistance
+DBP0000550	keyword	expression vector
+DBP0000550	keyword	extrachromosomal vector
+DBP0000550	keyword	gateway vector
+DBP0000550	keyword	act6 promoter
+DBP0000550	keyword	act15 promoter
+DBP0000551	depositor	Douwe Veltman
+DBP0000551	keyword	expression vector
+DBP0000551	keyword	act15 promoter
+DBP0000587	depositor	Anupama Khare (Gad Shaulsky's lab)
+DBP0000587	keyword	blasticidin resistance
+DBP0000587	keyword	REMI vector
+DBP0000587	keyword	knockout vector
+DBP0000588	depositor	Anupama Khare (Gad Shaulsky's lab)
+DBP0000588	keyword	cre-loxP vector
+DBP0000596	depositor	Margaret Clarke
+DBP0000596	keyword	GFP marker
+DBP0000596	keyword	neomycin resistance
+DBP0000596	keyword	expression vector
+DBP0000596	keyword	act15 promoter
+DBP0000597	depositor	Margaret Clarke
+DBP0000597	keyword	GFP marker
+DBP0000597	keyword	neomycin resistance
+DBP0000597	keyword	expression vector
+DBP0000603	depositor	Anupama Khare (Gad Shaulsky)
+DBP0000603	synonym	ptgB-BsR
+DBP0000603	keyword	blasticidin resistance
+DBP0000603	keyword	REMI vector
+DBP0000603	keyword	knockout vector
+DBP0000630	depositor	Wolfgang Nellen
+DBP0000630	synonym	pDBsrXP mRFPmars
+DBP0000630	keyword	RFP marker
+DBP0000630	keyword	expression vector
+DBP0000630	keyword	act15 promoter
+DBP0000631	depositor	Catherine Pears
+DBP0000631	keyword	Myc tag
+DBP0000631	keyword	expression vector
+DBP0000631	keyword	act15 promoter
+DBP0000637	depositor	Tom Egelhoff
+DBP0000637	keyword	FLAG tag
+DBP0000637	keyword	neomycin resistance
+DBP0000637	keyword	expression vector
+DBP0000637	keyword	act15 promoter
+DBP0001013	depositor	Shigenori Hirose (Adam Kuspa)
+DBP0001013	synonym	pTgrB1-HA/tgrC1-rep
+DBP0001013	keyword	HA tag
+DBP0001013	keyword	pyr5-6 resistance
+DBP0001013	keyword	
+DBP0001014	depositor	Shigenori Hirose (Adam Kuspa)
+DBP0001014	synonym	pTgrB1deltaC-HA/tgrC1-rep
+DBP0001014	keyword	HA tag
+DBP0001014	keyword	pyr5-6 resistance
+DBP0001020	depositor	Gong Chen (Gad Shaulsky)
+DBP0001020	keyword	neomycin resistance
+DBP0001020	keyword	expression vector
+DBP0001020	keyword	
+DBP0001026	depositor	Gong Chen (Gad Shaulsky)
+DBP0001026	keyword	expression vector
+DBP0001026	keyword	neomycin resistance
+DBP0001028	depositor	Gong Chen (Gad Shaulsky)
+DBP0001028	keyword	expression vector
+DBP0001028	keyword	neomycin resistance
+DBP0001029	depositor	Gong Chen (Gad Shaulsky)
+DBP0001029	keyword	expression vector
+DBP0001029	keyword	neomycin resistance
+DBP0000668	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000668	synonym	p24DdBBC705.B2
+DBP0000668	synonym	BCN165248
+DBP0000668	keyword	blasticidin resistance
+DBP0000668	keyword	REMI vector
+DBP0000669	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000669	synonym	p24DdBBC705.B4
+DBP0000669	synonym	BCN165248
+DBP0000669	keyword	blasticidin resistance
+DBP0000669	keyword	REMI vector
+DBP0001038	depositor	Hajara Lawal (Pauline Schaap)
+DBP0001038	keyword	promoter
+DBP0001038	keyword	neomycin resistance
+DBP0000672	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000672	synonym	p24DdBBC723.B1
+DBP0000672	synonym	BCN151511
+DBP0000672	keyword	blasticidin resistance
+DBP0000672	keyword	REMI vector
+DBP0001030	depositor	Gong Chen (Gad Shaulsky)
+DBP0001030	keyword	expression vector
+DBP0001030	keyword	blasticidin resistance
+DBP0001030	keyword	Myc tag
+DBP0001039	depositor	Hajara Lawal (Pauline Schaap)
+DBP0001039	keyword	promoter
+DBP0001039	keyword	neomycin resistance
+DBP0001040	depositor	Hajara Lawal (Pauline Schaap)
+DBP0001040	keyword	promoter
+DBP0001040	keyword	neomycin resistance
+DBP0000801	depositor	Ricardo Escalante
+DBP0000803	depositor	Ricardo Escalante
+DBP0000804	depositor	Paul Kriebel / Carole Parent
+DBP0000804	keyword	YFP
+DBP0000804	keyword	neomycin
+DBP0000804	keyword	expression vector
+DBP0000804	keyword	act15 promoter
+DBP0000805	depositor	Peter Thomason / Rob Insall
+DBP0000805	synonym	GFP-wshA
+DBP0000805	keyword	GFP
+DBP0000805	keyword	hygromycin
+DBP0000805	keyword	expression vector
+DBP0000805	keyword	extrachromosomal vector.
+DBP0000815	depositor	Douwe Veltman / Robert Insall
+DBP0000815	keyword	luciferase marker
+DBP0000815	keyword	neomycin resistance
+DBP0000815	keyword	expression vector
+DBP0000815	keyword	doxON vector
+DBP0000815	keyword	act6 promoter
+DBP0000815	keyword	act15 promoter
+DBP0000817	depositor	Jessica Kelsey / Daphne Blumberg
+DBP0000817	keyword	blasticidin resistance
+DBP0000817	keyword	knockout vector
+DBP0000817	keyword	cre-loxP vector
+DBP0000820	depositor	Jessica Kelsey / Daphne Blumberg
+DBP0000820	synonym	pGSTCAST(ndm)
+DBP0000820	keyword	blasticidin resistance
+DBP0000820	keyword	expression vector
+DBP0000820	keyword	GST tag
+DBP0000821	depositor	Jessica Kelsey / Daphne Blumberg
+DBP0000821	synonym	pGSTGBD(ndm)
+DBP0000821	keyword	blasticidin resistance
+DBP0000821	keyword	expression vector
+DBP0000821	keyword	GST tag
+DBP0000864	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000861	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000863	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000866	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0001041	depositor	Hajara Lawal (Pauline Schaap)
+DBP0001041	keyword	promoter
+DBP0001041	keyword	neomycin resistance
+DBP0000818	depositor	Jessica Kelsey / Daphne Blumberg
+DBP0000818	keyword	neomycin resistance
+DBP0000818	keyword	expression vector
+DBP0000818	keyword	GFP marker
+DBP0000818	keyword	act15 promoter
+DBP0000818	keyword	extrachromosomal vector
+DBP0000852	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000824	depositor	Jessica Kelsey / Daphne Blumberg
+DBP0000824	keyword	blasticidin resistance
+DBP0000824	keyword	expression vector
+DBP0000824	keyword	RFP marker
+DBP0000824	keyword	cre-loxP vector
+DBP0000824	keyword	extrachromosomal vector
+DBP0000825	depositor	Jessica Kelsey / Daphne Blumberg
+DBP0000825	synonym	pNdmko
+DBP0000825	keyword	blasticidin resistance
+DBP0000825	keyword	knockout vector
+DBP0000825	keyword	REMI vector
+DBP0000829	depositor	Jessica Kelsey / Daphne Blumberg
+DBP0000829	keyword	blasticidin resistance
+DBP0000829	keyword	expression vector
+DBP0000829	keyword	RFP marker
+DBP0000829	keyword	cre-loxP vector
+DBP0000829	keyword	extrachromosomal vector
+DBP0000847	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000854	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000855	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000859	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000865	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000867	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000868	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000869	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000890	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000891	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000786	depositor	Rocio Benabentos (Shaulsky Lab)
+DBP0000787	depositor	Rocio Benabentos (Shaulsky Lab)
+DBP0000788	depositor	Rocio Benabentos  (Shaulsky Lab)
+DBP0000788	keyword	blasticidin resistance
+DBP0000788	keyword	cre-loxP vector
+DBP0000788	keyword	gateway vector
+DBP0000789	depositor	Rocio Benabentos (Shaulsky Lab)
+DBP0000789	keyword	blasticidin
+DBP0000789	keyword	cre-loxP vector
+DBP0000789	keyword	gateway vector
+DBP0000790	depositor	Rocio Benabentos (Shaulsky Lab)
+DBP0000791	depositor	Rocio Benabentos (Shaulsky lab)
+DBP0000791	keyword	knockout vector
+DBP0000792	depositor	Rocio Benabentos (Shaulsky Lab)
+DBP0000792	keyword	knockout vector
+DBP0000792	keyword	uracil selection
+DBP0000793	depositor	Rocio Benabentos (Shaulsky Lab)
+DBP0000793	keyword	expression vector
+DBP0000794	depositor	Rocio Benabentos (Shaulsky Lab)
+DBP0000794	keyword	expression vector
+DBP0000795	depositor	Rocio Benabentos (Shaulsky Lab)
+DBP0000795	keyword	expression vector
+DBP0000796	depositor	Rocio Benabentos (Shaulsky Lab)
+DBP0000796	keyword	expression vector
+DBP0000797	depositor	Rocio Benabentos (Shaulsky Lab)
+DBP0000797	keyword	expression vector
+DBP0000798	depositor	Rocio Benabentos (Shaulsky Lab)
+DBP0000798	keyword	blasticidin resistance
+DBP0000798	keyword	expression vector
+DBP0000799	depositor	Rocio Benabentos (Shaulsky Lab)
+DBP0000800	depositor	Rocio Benabentosx (Shaulsky Lab)
+DBP0000806	depositor	Daniel Dickinson / James Nelson and Bill Weis Lab
+DBP0000806	synonym	pDox::&#945;-cateninhp
+DBP0000806	keyword	neomycin resistance
+DBP0000806	keyword	expression vector
+DBP0000806	keyword	extrachromosomal vector
+DBP0000807	depositor	Daniel Dickinson / James Nelson and Bill Weis Lab
+DBP0000807	keyword	neomycin resistance
+DBP0000807	keyword	expression vector
+DBP0000807	keyword	extrachromosomal vector
+DBP0000808	depositor	Daniel Dickinson / James Nelson and Bill Weis Lab
+DBP0000808	keyword	RFP marker
+DBP0000808	keyword	hygromycin resistance
+DBP0000808	keyword	expression vector
+DBP0000808	keyword	extrachromosomal vector
+DBP0000812	depositor	Joern Linkner / Jan Faix
+DBP0000812	keyword	neomycin resistance
+DBP0000812	keyword	expression vector
+DBP0000812	keyword	extrachromosomal vector
+DBP0000812	keyword	cre-loxP vector
+DBP0000835	depositor	Annette Muller-Taubenberger
+DBP0000835	synonym	715-35
+DBP0000835	keyword	blasticidin resistance
+DBP0000835	keyword	expression vector
+DBP0000835	keyword	act15 promoter
+DBP0000836	depositor	Annette Muller-Taubenberger
+DBP0000836	synonym	766-4
+DBP0000836	keyword	blasticidin resistance
+DBP0000836	keyword	expression vector
+DBP0000836	keyword	act15 promoter
+DBP0000837	depositor	Annette Muller-Taubenberger
+DBP0000837	synonym	713-24
+DBP0000837	keyword	blasticidin resistance
+DBP0000837	keyword	expression vector
+DBP0000837	keyword	act15 promoter
+DBP0000838	depositor	Annette Muller-Taubenberger
+DBP0000838	synonym	488-13
+DBP0000838	keyword	neomycin resistance
+DBP0000838	keyword	expression vector
+DBP0000838	keyword	act15 promoter
+DBP0000840	synonym	loxP-BsR cassette
+DBP0000840	synonym	bsR-loxP
+DBP0000840	keyword	blasticidin resistance
+DBP0000840	keyword	cre-loxP vector
+DBP0000850	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000851	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000856	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000858	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000860	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000862	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000892	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000893	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000894	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000895	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000896	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000831	depositor	Jessica Kelsey / Daphne Blumberg
+DBP0000831	keyword	neomycin resistance
+DBP0000831	keyword	expression vector
+DBP0000831	keyword	extrachromosomal vector
+DBP0000831	keyword	act15 promoter
+DBP0000832	depositor	Beth Noratel / Daphne Blumberg
+DBP0000833	depositor	Beth Noratel / Daphne Blumberg
+DBP0000833	keyword	cre-loxP vector
+DBP0000833	keyword	blasticidin resistance
+DBP0000833	keyword	TAP tag
+DBP0000833	keyword	expression vector
+DBP0000834	depositor	Beth Noratel / Daphne Blumberg
+DBP0000834	keyword	TAP tag
+DBP0000834	keyword	expression vector
+DBP0000846	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000848	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000849	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000853	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000828	depositor	Douwe Veltman / Robert Insall
+DBP0000828	keyword	cloning vector
+DBP0000830	depositor	Jessica Kelsey / Daphne Blumberg
+DBP0000830	keyword	blasticidin resistance
+DBP0000830	keyword	knockout vector
+DBP0000830	keyword	cre-loxP vector
+DBP0000830	keyword	extrachromosomal vector
+DBP0000819	depositor	Jessica Kelsey / Daphne Blumberg
+DBP0000819	synonym	pGSTBAR(ndm)
+DBP0000819	keyword	blasticidin resistance
+DBP0000819	keyword	expression vector
+DBP0000819	keyword	GST tag
+DBP0000822	depositor	Jessica Kelsey / Daphne Blumberg
+DBP0000822	synonym	pLMBD2Bko
+DBP0000822	keyword	blasticidin resistance
+DBP0000822	keyword	knockout vector
+DBP0000822	keyword	REMI vector
+DBP0000827	depositor	Jessica Kelsey / Daphne Blumberg
+DBP0000827	keyword	blasticidin resistance
+DBP0000827	keyword	REMI vector
+DBP0000827	keyword	act15 promoter
+DBP0000839	synonym	BsR cassette
+DBP0000839	synonym	bsRcas
+DBP0000839	keyword	blasticidin resistance
+DBP0000842	keyword	GFP marker
+DBP0000842	keyword	neomycin resistance
+DBP0000842	keyword	act15 promoter
+DBP0000842	keyword	expression vector
+DBP0000842	keyword	extrachromosomal vector
+DBP0000857	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000870	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000871	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000876	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000878	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000879	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000880	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000881	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000882	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000802	depositor	Ricardo Escalante
+DBP0000809	depositor	Daniel Dickinson / James Nelson and Bill Weis Lab
+DBP0000809	synonym	pGolvesin-&#916;(76-118)-GFP
+DBP0000809	keyword	GFP marker
+DBP0000809	keyword	hygromycin resistance
+DBP0000809	keyword	expression vector
+DBP0000809	keyword	extrachromosomal vector
+DBP0000810	depositor	Daniel Dickinson / James Nelson and Bill Weis Lab
+DBP0000810	synonym	pAct15::&#945;-cateninhp
+DBP0000810	keyword	neomycin resistance
+DBP0000810	keyword	expression vector
+DBP0000810	keyword	extrachromosomal vector
+DBP0000810	keyword	act15 promoter
+DBP0000811	depositor	Daniel Dickinson / James Nelson and Bill Weis Lab
+DBP0000811	synonym	pGST-&#945;-catenin
+DBP0000811	keyword	expression vector
+DBP0000811	keyword	extrachromosomal vector
+DBP0000813	depositor	Zhihui Chen / Pauline Schaap
+DBP0000813	keyword	YFP marker
+DBP0000813	keyword	neomycin resistance
+DBP0000813	keyword	expression vector
+DBP0000813	keyword	act15 promoter
+DBP0000814	depositor	Zhihui Chen / Pauline Schaap
+DBP0000814	synonym	Chen KO 1
+DBP0000814	keyword	blasticidin resistance
+DBP0000814	keyword	knockout vector
+DBP0000814	keyword	act15 promoter
+DBP0000816	depositor	Douwe Veltman / Robert Insall
+DBP0000816	keyword	luciferase marker
+DBP0000816	keyword	neomycin resistance
+DBP0000816	keyword	expression vector
+DBP0000816	keyword	doxOFF vector
+DBP0000816	keyword	tetOFF vector
+DBP0000816	keyword	act6 promoter
+DBP0000816	keyword	act15 promoter
+DBP0000844	depositor	Qingyou Du (Pauline Schaap)
+DBP0000844	keyword	expression vector
+DBP0000844	keyword	neomycin resistance
+DBP0000844	keyword	His tag
+DBP0000872	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000873	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000874	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000875	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000877	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000883	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000884	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000885	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000886	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000887	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000888	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000889	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000969	depositor	Oliver Hoeller / Orion Weiner
+DBP0000969	synonym	pTet-on GFP-Rac1AV12
+DBP0000969	keyword	hygromycin resistance
+DBP0000969	keyword	extrachromosomal vector
+DBP0000969	keyword	doxON vector
+DBP0000969	keyword	GFP marker
+DBP0000966	depositor	Oliver Hoeller / Orion Weiner
+DBP0000966	synonym	pRFP-PI3K1
+DBP0000966	keyword	neomycin resistance
+DBP0000966	keyword	extrachromosomal vector
+DBP0000966	keyword	RFP marker
+DBP0000970	depositor	Oliver Hoeller / Orion Weiner
+DBP0000970	synonym	pRFP-PI3K1YFP-PI3K1(N-terminus)
+DBP0000970	keyword	neomycin resistance
+DBP0000970	keyword	extrachromosomal vector
+DBP0000970	keyword	YFP marker
+DBP0000971	depositor	Oliver Hoeller / Orion Weiner
+DBP0000971	keyword	neomycin resistance
+DBP0000971	keyword	extrachromosomal vector
+DBP0000971	keyword	YFP marker
+DBP0000972	depositor	Oliver Hoeller / Orion Weiner
+DBP0000972	synonym	pcAR1-RFP-FRB
+DBP0000972	keyword	neomycin resistance
+DBP0000972	keyword	extrachromosomal vector
+DBP0000972	keyword	RFP marker
+DBP0000977	depositor	Yulia Artemenko (Devreotes Lab)
+DBP0000977	keyword	blasticidin resistance
+DBP0000978	depositor	Yulia Artemenko (Devreotes Lab)
+DBP0000978	keyword	neomycin resistance
+DBP0000978	keyword	GFP marker
+DBP0000981	depositor	Kazuki Horikawa
+DBP0000981	keyword	blasticidin reseistance
+DBP0000981	keyword	GFP marker
+DBP0000963	depositor	Oliver Hoeller / Orion Weiner
+DBP0000963	synonym	pFRB-RFP-Gbeta
+DBP0000963	keyword	hygromycin resistance
+DBP0000963	keyword	extrachromosomal vector
+DBP0000963	keyword	RFP marker
+DBP0000963	keyword	gateway vector
+DBP0000964	depositor	Oliver Hoeller / Orion Weiner
+DBP0000964	keyword	neomycin resistance
+DBP0000964	keyword	extrachromosomal vectorYFP marker
+DBP0000939	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000940	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000941	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000942	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000943	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000944	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000945	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000946	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000947	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000948	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000949	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000983	depositor	Petros Batsios (AG Ralph Graef Lab)
+DBP0000983	keyword	blasticidin reseistance
+DBP0000985	depositor	Petros Batsios (AG Ralph Graef Lab)
+DBP0000985	keyword	neomycin resistance
+DBP0000909	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000910	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000911	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000912	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000913	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000914	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000928	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000929	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000930	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000931	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000932	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000933	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000934	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000935	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000936	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000937	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000938	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000979	depositor	Yulia Artemenko (Devreotes Lab)
+DBP0000979	keyword	expression vector
+DBP0000979	keyword	extrachromosomal vector
+DBP0000979	keyword	doxON vector
+DBP0000979	keyword	hygromycin resistance
+DBP0000979	keyword	act6 promoter
+DBP0000979	keyword	act15 promoter
+DBP0000979	keyword	GFP marker
+DBP0000980	depositor	Kazuki Horikawa
+DBP0000980	keyword	blasticidin resistance
+DBP0000903	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000904	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000905	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000906	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000907	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000908	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000915	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000916	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000917	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000918	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000919	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000920	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000921	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000922	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000923	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000924	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000925	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000926	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000927	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000950	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000951	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000952	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000953	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000954	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000955	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000956	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000957	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000958	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000959	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000960	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000965	depositor	Oliver Hoeller / Orion Weiner
+DBP0000965	synonym	pCalnexinA-CFP-FKBP
+DBP0000965	keyword	neomycin resistance
+DBP0000965	keyword	extrachromosomal
+DBP0000965	keyword	CFP marker
+DBP0000967	depositor	Oliver Hoeller / Orion Weiner
+DBP0000967	synonym	pYFP-RBD(PI3K1)
+DBP0000967	keyword	neomycin resistance
+DBP0000967	keyword	extrachromosomal vector
+DBP0000967	keyword	YFP marker
+DBP0000982	depositor	Kazuki Horikawa
+DBP0000982	keyword	blasticidin resistance
+DBP0000982	keyword	RFP marker
+DBP0000897	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000898	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000899	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000900	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000901	depositor	Christopher Quang Dung Dinh/Adam Kuspa
+DBP0000968	depositor	Oliver Hoeller / Orion Weiner
+DBP0000968	synonym	pRFP-PTEN
+DBP0000968	keyword	hygromycin resistance
+DBP0000968	keyword	extrachromosomal vector
+DBP0000968	keyword	RFP marker
+DBP0000968	keyword	gateway vector
+DBP0000973	depositor	Chris Dinh / Adam Kuspa
+DBP0000973	synonym	TZ-7
+DBP0000973	keyword	blasticidin resistance
+DBP0000973	keyword	knockout vector
+DBP0000989	depositor	Jason King
+DBP0000989	keyword	GFP marker
+DBP0000989	keyword	hygromycin resistance
+DBP0000989	keyword	expression vector
+DBP0000989	keyword	extrachromosomal vector
+DBP0000989	keyword	gateway vector
+DBP0000989	keyword	act6 promoter
+DBP0000989	keyword	act15 promoter
+DBP0000997	depositor	Salvo Bozzaro
+DBP0000997	keyword	expression vector
+DBP0000997	keyword	GFP marker
+DBP0000997	keyword	act15 promoter
+DBP0000997	keyword	neomycin resistance
+DBP0000998	depositor	Salvo Bozzaro
+DBP0000998	keyword	knockout vector
+DBP0000998	keyword	blasticidin resistance
+DBP0000999	depositor	Salvo Bozzaro
+DBP0000999	keyword	expression vector
+DBP0000999	keyword	GFP marker
+DBP0000999	keyword	neomycin resistance
+DBP0000999	keyword	act15 promoter
+DBP0001001	depositor	Yoko Yamada (Pauline Schaap)
+DBP0001001	keyword	hygromycin resistance
+DBP0001001	keyword	expression vector
+DBP0001001	keyword	RFP marker
+DBP0001003	depositor	Yoko Yamada (Pauline Schaap)
+DBP0001003	synonym	Pvio_spaA-KO
+DBP0001003	keyword	knockout vector
+DBP0001003	keyword	neomycin resistance
+DBP0001005	depositor	Yoko Yamada (Pauline Schaap)
+DBP0001005	synonym	spaA-KO
+DBP0001005	keyword	blasticidin resistance
+DBP0001005	keyword	knockout vector
+DBP0001006	depositor	Yoko Yamada (Pauline Schaap)
+DBP0001006	synonym	spaAp-spaA-YFP-Hyg
+DBP0001006	keyword	expression vector
+DBP0001006	keyword	hygromycin resistance
+DBP0001006	keyword	YFP marker
+DBP0001011	depositor	Shigenori Hirose (Adam Kuspa)
+DBP0001011	synonym	tgrB1
+DBP0001011	synonym	BsR
+DBP0001011	keyword	blasticidin resistance
+DBP0001011	keyword	expression vector
+DBP0001011	keyword	tgrB1 promotor
+DBP0001009	depositor	David Knecht / Douwe Veltman
+DBP0001009	keyword	expression vector
+DBP0001009	keyword	act15 promoter
+DBP0001009	keyword	extrachromosomal vector
+DBP0001009	keyword	RFP marker
+DBP0001009	keyword	neomycin resistance
+DBP0001010	depositor	David Knecht / Douwe Veltman
+DBP0001010	keyword	expression vector
+DBP0001010	keyword	act15 promoter
+DBP0001010	keyword	extrachromosomal vector
+DBP0001010	keyword	RFP marker
+DBP0001010	keyword	neomycin resistance
+DBP0001012	depositor	Shigenori Hirose (Adam Kuspa)
+DBP0001012	synonym	tgrC1p
+DBP0001012	synonym	BsR
+DBP0001012	keyword	blasticidin resistance
+DBP0001012	keyword	expression vector
+DBP0001015	depositor	Shigenori Hirose (Adam Kuspa)
+DBP0001015	keyword	HA tag
+DBP0001015	keyword	blasticidin resistance
+DBP0001015	keyword	expression vector
+DBP0001016	depositor	Shigenori Hirose (Adam Kuspa)
+DBP0001016	synonym	pTgrB1:tgrB1(AX4)&#916;C-HA
+DBP0001016	keyword	expression vector
+DBP0001016	keyword	HA tag
+DBP0001016	keyword	blasticidin resistance
+DBP0001017	depositor	Shigenori Hirose (Adam Kuspa)
+DBP0001017	keyword	expression vector
+DBP0001017	keyword	blasticidin resistance
+DBP0001018	depositor	Shigenori Hirose (Adam Kuspa)
+DBP0001018	synonym	pTgrB1:tgrB1(AX4)
+DBP0001018	keyword	blasticidin resistance
+DBP0001018	keyword	expression vector
+DBP0001019	depositor	Shigenori Hirose (Adam Kuspa)
+DBP0001019	synonym	pTgrC1:tgrC1(AX4)
+DBP0001019	keyword	blasticidin resistance
+DBP0001019	keyword	expression vector
+DBP0001021	depositor	Gong Chen (Gad Shaulsky)
+DBP0001021	keyword	neomycin resistance
+DBP0001021	keyword	His tag
+DBP0001021	keyword	expression vector
+DBP0001022	depositor	Gong Chen (Gad Shaulsky)
+DBP0001022	synonym	pDXA[act15]:His7:TgrB1/QS31
+DBP0001022	keyword	expression vector
+DBP0001022	keyword	neomycin resistance
+DBP0001022	keyword	His tag
+DBP0001022	keyword	
+DBP0001023	depositor	Gong Chen (Gad Shaulsky)
+DBP0001023	keyword	His tag
+DBP0001023	keyword	neomycin resistance
+DBP0001023	keyword	expression vector
+DBP0001024	depositor	Gong Chen (Gad Shaulsky)
+DBP0001024	synonym	pDXA-A15ssHis7TgrB1ex(QS45)
+DBP0001024	keyword	expression vector
+DBP0001024	keyword	neomycin resistance
+DBP0001024	keyword	His tag
+DBP0000986	depositor	Michael Friedrich (Nellen Lab)
+DBP0000986	keyword	neomycin resistance
+DBP0000986	keyword	extrachromosomal vector
+DBP0000986	keyword	act6 promoter
+DBP0000986	keyword	expression vector
+DBP0000986	keyword	act15 promoter
+DBP0000987	depositor	Jason King
+DBP0000987	keyword	GFP marker
+DBP0000987	keyword	hygromycin resistance
+DBP0000987	keyword	expression vector
+DBP0000987	keyword	extrachromosomal vector
+DBP0000987	keyword	gateway vector
+DBP0000987	keyword	act6 promoter
+DBP0000987	keyword	act15 promoter
+DBP0000988	depositor	Jason King
+DBP0000988	keyword	GFP marker
+DBP0000988	keyword	hygromycin resistance
+DBP0000988	keyword	expression vector
+DBP0000988	keyword	extrachromosomal vector
+DBP0000988	keyword	gateway vector
+DBP0000988	keyword	act6 promoter
+DBP0000988	keyword	act15 promoter
+DBP0000988	keyword	GFP marker
+DBP0000995	depositor	Jason King
+DBP0000995	keyword	hygromycin resistance
+DBP0000995	keyword	GFP marker
+DBP0000995	keyword	RFP marker
+DBP0000991	depositor	Jason King
+DBP0000991	keyword	hygromycin resistance
+DBP0000991	keyword	GFP marker
+DBP0000992	depositor	Jason King
+DBP0000992	keyword	RFP marker
+DBP0000992	keyword	GFP marker
+DBP0000992	keyword	hygromycin resistance
+DBP0000992	keyword	expression vector
+DBP0000992	keyword	extrachromosomal vector
+DBP0000992	keyword	gateway vector
+DBP0000992	keyword	act6 promoter
+DBP0000992	keyword	act15 promoter
+DBP0000993	depositor	Jason King
+DBP0000993	keyword	blasticidin resistance
+DBP0000993	keyword	cre-loxP vector
+DBP0000993	keyword	cloning vector
+DBP0000994	depositor	Jason King
+DBP0000994	keyword	GFP marker
+DBP0000994	keyword	hygromycin resistance
+DBP0000994	keyword	expression vector
+DBP0000994	keyword	extrachromosomal vector
+DBP0000994	keyword	gateway vector
+DBP0000994	keyword	act6 promoter
+DBP0000994	keyword	act15 promoter
+DBP0000996	depositor	Salvo Bozzaro
+DBP0000996	keyword	blasticidin resistance
+DBP0000996	keyword	knockout vector
+DBP0001000	depositor	Salvo Bozzaro
+DBP0001000	keyword	act15 promoter
+DBP0001000	keyword	neomycin resistance
+DBP0001000	keyword	GFP marker
+DBP0001000	keyword	expression vector
+DBP0001025	depositor	Gong Chen (Gad Shaulsky)
+DBP0001025	keyword	expression vector
+DBP0001025	keyword	neomycin resistance
+DBP0001004	depositor	Yoko Yamada (Pauline Schaap)
+DBP0001004	synonym	cotCp-Dfas_spaA-YFP
+DBP0001004	keyword	neomycin resistance
+DBP0001004	keyword	expression vector
+DBP0001004	keyword	YFP marker
+DBP0001007	depositor	Yoshinori Kawabe (Pauline Schaap)
+DBP0001007	keyword	expression vector
+DBP0001007	keyword	neomycin resistance
+DBP0001027	depositor	Gong Chen (Gad Shaulsky)
+DBP0001027	keyword	expression vector
+DBP0001027	keyword	neomycin resistance
+DBP0001031	depositor	Gong Chen (Gad Shaulsky)
+DBP0001031	keyword	blasticidin resistance
+DBP0001031	keyword	act15 promoter
+DBP0001032	depositor	Hajara Lawal (PaulineSchaap)
+DBP0001032	keyword	promoter
+DBP0001032	keyword	neomycin resistance
+DBP0001033	depositor	Hajara Lawal (Pauline Schaap)
+DBP0001033	keyword	promoter
+DBP0001033	keyword	neomycin resistance
+DBP0001034	depositor	Hajara Lawal (Pauline Schaap)
+DBP0001034	keyword	promoter
+DBP0001034	keyword	neomycin resistance
+DBP0001035	depositor	Hajara Lawal (Pauline Schaap)
+DBP0001035	keyword	promoter
+DBP0001035	keyword	neomycin resistance
+DBP0001036	depositor	Hajara Lawal (Pauline Schaap)
+DBP0001036	keyword	promoter
+DBP0001036	keyword	neomycin resistance
+DBP0001037	depositor	Hajara Lawal (Pauline Schaap)
+DBP0001037	keyword	promoter
+DBP0001037	keyword	neomycin resistance
+DBP0001063	depositor	Gillian Forbes (Schaap Lab)
+DBP0001063	keyword	neomycin resistance
+DBP0001044	depositor	Amy Baldwin (Hardwood and Thompson labs)
+DBP0001044	keyword	blasticidin resistance
+DBP0001044	keyword	pLPBLP
+DBP0001045	depositor	Amy Baldwin (Hardwood and Thompson labs)
+DBP0001045	keyword	blasticidin resistance
+DBP0001045	keyword	pLPBLP
+DBP0001049	depositor	Amy Baldwin (Hardwood and Thompson labs)
+DBP0001049	keyword	blasticidin resistance
+DBP0001049	keyword	pLPBLP
+DBP0001059	depositor	Gillian Forbes (Schaap Lab)
+DBP0001059	keyword	neomycin resistance
+DBP0001046	depositor	Amy Baldwin (Hardwood and Thompson labs)
+DBP0001046	keyword	blasticidin resistance
+DBP0001046	keyword	pLPBLP
+DBP0001050	depositor	Amy Baldwin (Hardwood and Thompson labs)
+DBP0001050	keyword	blasticidin resistance
+DBP0001050	keyword	pLPBLP
+DBP0001068	depositor	Gillian Forbes (Schaap Lab)
+DBP0001068	keyword	neomycin resistance
+DBP0001051	depositor	Amy Baldwin (Hardwood and Thompson labs)
+DBP0001051	keyword	blasticidin resistance
+DBP0001051	keyword	pLPBLP
+DBP0001061	depositor	Gillian Forbes (Schaap Lab)
+DBP0001061	keyword	neomycin resistance
+DBP0001071	depositor	Yan You (Jin Lab)
+DBP0001071	keyword	Extrachromosomal expression vector
+DBP0001071	keyword	neomycin resistance
+DBP0001042	depositor	Hajara Lawal (Pauline Schaap)
+DBP0001042	keyword	promoter
+DBP0001042	keyword	neomycin resistance
+DBP0001047	depositor	Amy Baldwin (Hardwood and Thompson labs)
+DBP0001047	keyword	blasticidin resistance
+DBP0001047	keyword	pLPBLP
+DBP0001048	depositor	Amy Baldwin (Hardwood and Thompson labs)
+DBP0001048	keyword	blasticidin resistance
+DBP0001048	keyword	pLPBLP
+DBP0001055	depositor	Koryu Kin (Schaap Lab)
+DBP0001055	keyword	neomycin resistance
+DBP0001056	depositor	Koryu Kim (Schaap Lab)
+DBP0001056	keyword	neomycin resistance
+DBP0001060	depositor	Gillian Forbes (Schaap Lab)
+DBP0001060	keyword	neomycin resistance
+DBP0001062	depositor	Gillian Forbes (Schaap Lab)
+DBP0001062	keyword	neomycin resistance
+DBP0001064	depositor	Gillian Forbes (Schaap Lab)
+DBP0001064	keyword	neomycin resistance
+DBP0001065	depositor	Gillian Forbes (Schaap Lab)
+DBP0001065	keyword	neomycin resistance
+DBP0001066	depositor	Gillian Forbes (Schaap Lab)
+DBP0001066	keyword	neomycin resistance
+DBP0001043	depositor	Alexandra Surcel (Robinson Lab)
+DBP0001043	keyword	neomycin resistance
+DBP0001043	keyword	act15 promoter
+DBP0001043	keyword	expression vector
+DBP0001043	keyword	RFP marker
+DBP0001043	keyword	tdtom promoter
+DBP0001043	keyword	act6 promoter
+DBP0001053	depositor	Jeff Hadwiger
+DBP0001053	keyword	thymidine selection
+DBP0001054	depositor	Jeff Hadwiger
+DBP0001054	keyword	blasticidin resistance
+DBP0001057	depositor	Gillian Forbes (Schaap Lab)
+DBP0001057	keyword	neomycin resistance
+DBP0001058	depositor	Gillian Forbes (Schaap Lab)
+DBP0001058	keyword	neomycin resistance
+DBP0001067	depositor	Koryu Kim (Schaap Lab)
+DBP0001067	keyword	neomycin resistance
+DBP0001069	depositor	Miao Pan (Tian Jin)
+DBP0001069	keyword	neomycin resistance
+DBP0001070	depositor	Miao Pan (Tian Jin)
+DBP0001070	keyword	neomycin resistance

@@ -1,0 +1,955 @@
+DBP0000034	pCFC5	Expression vector containing N-terminal epitope tag (T7 antigen); Vector contains Act6P-G418R-Act8T casette; Plasmid from Chen and Katz.
+DBP0000098	GFP-G&#946;	Reporter construct (GFP fused to NH2-terminus of G&#946; subunit). The coding region of GFP-G&#946; fusion protein was cloned into pMC34, an extrachromosomal expression vector.
+DBP0000099	G&#946;-YFP	Reporter construct (YFP fused to NH2-terminal of G&#946;). The gene encoding the full-length YFP was fused to the NH2-terminus of the G&#946; gene. A BglII restriction site was added at the junction that consisted of two additional amino acids, arginine and serine. This &#946;-YFP fusion protein was cloned into the CV5 vector. CV5 was derived from p88 by addition of an actin 15 expression cassette from pMC34.
+DBP0000100	pUNK-KO	MHCK B knockout vector with bsR cassette
+DBP0000101	pDF15	myosin heavy chain kinase gene replacement vector containing the Thy1 gene
+DBP0000102	pMKC-Hyg1	myosin heavy chain knockout vector containing hygromycin resistance cassette
+DBP0000103	pDNeo2	Expression vector including the start codon and first 8 amino acids of actin 6; <b>Sequence note:</b> This sequence has been provided by Piero Morandini and Klaus Salger.
+DBP0000104	FadA-KO	fadA knock-out vector (Bsr cassette inserted in the HindIII site)
+DBP0000105	pFadB-KO	fadB knockout vector with the Bsr cassette inserted in the BglII site.
+DBP0000106	amiB-KO (p82ClaI)	Recapitulation of the R8-2 amiB- REMI mutant (aggregation-minus B)
+DBP0000107	amiB-KO (p12-3NdeI)	Recapitulation of the R12-3 amiB- REMI mutant (aggregation-minus B)
+DBP0000011	pTX-GFP	GFP expression under control of the actin15 promoter (extrachromosomal vector based on Ddp1)
+DBP0000012	pREP	Plasmid for cotransformation with pDXA/DXD series expression vectors. Pedigree: neoR cassette from pnDedeltaI removed by cutting with SacI/BamHI.
+DBP0000013	ncsA	ncsA cDNA in PET15b (NcsA protein)
+DBP0000014	calA	calA cDNA in PET15b (Dicty calmodulin I)
+DBP0000015	cbpJ	cbpJ cDNA in PET15b (CbpJ protein) calcium-binding protein
+DBP0000016	pNcsA-KO	ncsA cDNA clone (SSL268) in pBluescript KS - with the blasticidin S cassette from pBsR519 cloned into the ClaI site near the middle of the coding region.
+DBP0000017	pCnxA-GFP(S65T)	calnexin-S65T-GFP in pDEXRH (G418); S65T GFP was fused to the C&#8208;terminus of calnexin with a spacer (RSSSKLK) in between
+DBP0000018	pGFP(S65T)-crtA	S65T-GFP-calreticulin in pDEXRH (G418)
+DBP0000020	pMC34	cAR1 cDNA minus first 2 codons,  (nt 97-1312), cloned into the BglII site of pJK1
+DBP0000022	pJK3	cAR1 cDNA cloned in the extrachromosomal expression vector pJK1
+DBP0000023	pCV5	CV5 is derived from p88 by the addition of an actin 15 expression cassette from pMC34.
+DBP0000025	pB18	Integrating expression vector. containing the actin6 neo cassette.
+DBP0000026	pTorA-B18	TorA expression vector
+DBP0000027	pRHI30	Plasmid containing a truncated pyr5-6 region; <b> Sequence note: </b> the sequence below represents the insert only (Robert Insall).
+DBP0000028	pCAR2-B18	cAR2 over-expression vector
+DBP0000029	pCAR3-B18	cAR3 over-expression vector
+DBP0000030	pRJ525	cAR3 in pBlueScript
+DBP0000031	pDXA-HC	Expression vector under control of the actin 15 promoter and carrying an N-terminal histidine tag and a C-terminal c-myc tag.  Plasmid has been resequenced.
+DBP0000033	pBSR3	REMI plasmid containing blasticidin cassette (SmaI and ApaI sites were introduced in pBSR1 flanking the BamHI site)
+DBP0000035	pCFC6	Expression vector containing N-terminal epitope tag (T7 antigen); Vector contains Act6P-G418R-Act8T casette; Plasmid from Chen and Katz.
+DBP0000036	pBsR519	ampicillin-resistant vector with bsR cassette
+DBP0000037	pBsR479	ampicillin-resistant vector with bsR cassette
+DBP0000038	pBsR503	Kanamycin-resistant vector with bsR cassette
+DBP0000039	pDd56	EcmB (ST310) cDNA clone isolated as a prestalk-enriched, DIF-inducible mRNA (2.4-kb cDNA cloned in the PstI site of pUC8). DDB0216219
+DBP0000040	pDd63	EcmA (ST430) cDNA clone isolated as a prestalk-enriched, DIF-inducible mRNA (2.3-kb cDNA cloned in the PstI site of pUC8); DDB0220137
+DBP0000041	pUCBsr&#916;Bam	REMI plasmid; <b> Sequence note: </b> The sequence of the terminator is missing and indicated by a poly-a. Note that only one of the Xba sites can be cut, allowing to obtain the famous Xba-Hind cassette (Pierre Cosson).
+DBP0000043	p6B (CAR1)	Partial cAR1 cDNA in pBlue Script.
+DBP0000044	pMB35	Transactivator plasmid containing the tTA<sub>s</sub>* gene under the control of A15P and 2H3T; tet-off
+DBP0000045	pMB38	pMB38 is a cloning vector for the gene of interest.    Extrachromosomal response plasmid containing the inducible promoter TRE-P<sub>min</sub> upstream of the 2H3T terminator with 4 unique restriction sites in between.    Both tetON and tetOFF systems exist for Dicty. The tetOFF system was pioneered by Dingermann and colleagues, but the most frequently used  vectors are those constructed by Blaauw et al., Gene 252:71-82, 2000.  The Dicty tetON system is derived from yeast vectors described in Urlinger  et al., PNAS 97:7963-8, 2000; the rtTa-M2 element was recloned into the Blaauw vector MB35 by Adriano Ceccarelli, and students in my lab have shown that the performance of this tetON system in Dicty (induction  factor, response time) is similar to that of the tetOFF system.    Both the original tetOFF MB35 and its tetON version are neo vectors. In practice one needs a Dicty strain carrying one or the other of these, which one overtransforms with a second, blasticidin vector (Blauuw et al. MB38) carrying the gene of interest. Once one has cloned one's gene into MB38, it can be overtransformed into both tetON and tetOFF strains. Both MB35 and MB38 are in the stock center, as are cells containing MB35. H. MacWilliams
+DBP0000046	pEcmA-Gal	EcmA PCR'd promoter fragments inserted into BamHI site of A15deltaBam-gal. 3'end, Bam/BglII at +250 (just upstream of EcmA-ATG). 5'end, BamHI site at variable points. (prestalk marker)
+DBP0000048	pA15-Rm	(pActRsub-A<sup>E</sup>B<sup>E</sup>)  Two glycine->glutamic acid mutations in the regulatory subunit of PKA. Overexpression results in inhibition of the catalytic subunit in the presence of cAMP.
+DBP0000117	pAct15-Gal	Galactosidase expression vector with actin 15 promoter. The XbaI/BglII fragment of the actin 15 promoter was cloned into pdDGal17.
+DBP0000108	GFP-Arp2/pBIG(G418)	The arp2 fragment was subloned into the pBIG plasmid downstream of the actin15 promoter, the GFP coding sequence, and a Gly-Pro-Gly linker sequence, and upstream of the actin15 terminator.
+DBP0000019	pMC25	cAR1 gene disruption construct (ura selection): 2-kb region immediately upstream of cAR1 coding region and 0.4-kb 3'coding region plus 0.1-kb 3'non-translated region subloned into pBluescript-SK. 3.7-kb ClaI fragment from pDU3B1 was subloned between the fragments.
+DBP0000158	CS4 5.03	Blasticidin cassette is loxed; plasmid can be used to replace the endogenous NSFA gene with the ts variant, which exists in HM1067. Plasmid is similar to the unloxed version used to generate NSFA2 (Pmid 12183371; d7379).
+DBP0000021	pJK1	Extrachromosal vector containing a neoR cassette derived from the Ddp1-based vector pATANB43 (Pmid 2813371) into which the actin15 promoter and the 2H3 terminator have been inserted.
+DBP0000118	pVEII	inducible gene expression vector containing the discoidin gamma promoter; constructed by replacing the act6 promoter in pDnNeo2. <br/><br/> Transformation vector which can be used for expression of genes from the discoidin I gamma promoter. The vector contains a multiple cloning site for inserting the gene of interest. The discoidin ATG is located upstream of the MCS. We recommend sequencing the junction of the insert using a primer within the promoter. The oligo: 5'-GAA AAA TTA AAA TTT CAT ACA AAT TAT C-3' worked well for us; you can start reading at the ATG - XbaI site.  <br/><br/>  Regulation of the promoter is described in Vauti et al., Mol. Cell. BioI. 8, 4080-4088, 1990. The paper by Blusch et al., Nucl. Acids Res. 20, 6235-6238, 1992 describes use of pVEII as an inducible expression system. This has now been working for several people (e.g. M. Clarke, G. Weeks). In addition, Dictyostelium cells with altered discoidin expression can be used to get higher or lower expression. These mutant strains can be obtained from B. Wetterauer and H. MacWilliams (PMID 8464730 and PMID 8396055). <b> Sequence note: </b> This sequence has been provided by Piero Morandini and Klaus Salger.
+DBP0000119	pDE102	Vector containing hygromycin cassette
+DBP0000120	pDE109	Non-autonomous extrachromosomal expression vector with hygromycin selection cassette.
+DBP0000121	pBIG	Autonomous replicating extrachromosomal expression vector with G418 castte.
+DBP0000122	pLittle	Autonomous replicating extrachromosomal expression vector with G418 cassette, derived from pBIG by the removal of a 1.3-kb KpnI fragment.
+DBP0000123	pTIKL	Autonomous replicating extrachromosomal expression vector with G418 cassette. Same as pLittle but with 2 NcoI sites in the neoR cassette removed with site-directed muagenesis.
+DBP0000124	carB::lacZ	carB-lacZ expression construct
+DBP0000125	pJH154	BamHI genomic fragment (4.2 kb) containing the entire G&#945;4 gene (including promoter, terminator, etc.) cloned into BamHI site of pT3T718U (Pharmacia). A 2.2-kb EcoRI-BamHI neoR cassette from B10SX was inserted into EcoRI site.
+DBP0000126	pJH161	G&#945;4::lacZ fusion containing the promoter and first 17 codons of G&#945;4 gene. Inserted into pAT153L cloning vector. Also contains a neoR cassette (EcoRI fragment).
+DBP0000127	pJH206	XhoI-BclI genomic fragment (3.1 kb) containing entire G&#945;5 gene (including promoter, terminator, etc.) cloned into pT3T718U with added BclI site (Pharmacia). A 2.2kb EcoRI-BamHI neoR cassette from B10SX was inserted into EcoRI site.
+DBP0000128	pJH210	G&#945;5::lacZ fusion containing the promoter and first 14 codons of G&#945;5 gene. Inserted into pAT153L cloning vector. Also contains a  neoR cassette (EcoRI fragment).
+DBP0000129	pJH214	PCR segment of the G&#945;5 gene that was later disrupted with the Thy1 gene to yield vector pJH216.
+DBP0000047	EcmO-Gal	EcmA PCR'd promoter fragments inserted into BamHI site of A15deltaBam-gal. 5' end, Bam/BglII at -1694. 5' end, BamHI site at variable points.  (5' junction of available promoter)
+DBP0000051	pEcmB-Gal	Galactosidase fusion expression vector (prestalk marker)
+DBP0000178	V/PsA-I-S65T-GFP	Ligation of PsA-I-S65T and V18Tn5DRE. Constructed by Xba1/Xho1 shotgun starting from PsA-I-S65Tgfp in A6Tn5 (no. 190 and 63-ugus in V18Tn5DRE (no. 344).
+DBP0000179	V/A15-GFP	
+DBP0000180	V/63-I-S65T	emcA promoter driving semilabile GFP in V18TnDRE. The gfp has a protein half life of around 4 hours. The promoter is the entire original ecmA promoter and ultimately comes from 63-neo-gal (Jeff Williams). Constructed by Bgl2/XhoI shotgun from V/63-idq-gal in V18tn5 (no. 323) and Psa-I-s65tgfp in Sk- (no. 177).
+DBP0000181	PSA/idq-gal&#916;5	
+DBP0000182	V/A6-gal	
+DBP0000183	V/PSA-gal	
+DBP0000184	V/63-idq-gal	
+DBP0000185	pDd31P4 Neo	spiA promoter in pDdGal16
+DBP0000186	pDXA-3H-Hygro	Dictyostelium expression vector derived from the vector pDXA-3H (6.1 kb), containing an hygromycin resistance cassette and a C-terminal histidine tag.
+DBP0000187	pDE104	integrative vector with hygromycin selection under the control of the act15 promoter and act15 terminator; note that hygromycin selection does not works reproducibly
+DBP0000188	pJH138	G&#945;4-KO construct (G&#945;4::pyr5-6)
+DBP0000189	pTorA-GFP-B18	Expression vector with GFP-labeled TorA (in the integrating vector pB18).
+DBP0000190	pGEG10	
+DBP0000191	pA15-PsiA(ORF)	psiA rescue vector, in Exp4(+), under the control of the actin 15 promoter.
+DBP0000192	pGEG04-V12	
+DBP0000193	pGEG04-KAX3	
+DBP0000198	pDXA-3H	Expression vector under control of the actin 15 promoter and carrying a C-terminal 8-histidine tag. <b> Sequence note: </b> sequence length is 6105 bp.
+DBP0000075	pMYC4	Plasmid for generating G&#945;1/G&#945;2 chimeras (backbone is pBluescript KS-).
+DBP0000076	pMYC5	Plasmid for generating G&#945;2/G&#945;1 chimeras (backbone is pBluescript KS-).
+DBP0000077	pMYC-86-6	Vector expressing the piaA<sup>WT</sup> gene (full-length piaA cDNA). See d6652, PhD Thesis of M.Y. Chen.
+DBP0000078	pYL23	piaA knockout construct, made by replacing 0.4-kb EcoRI-HindIII fragment of the coding region with a vector carrying the URA selectable marker.
+DBP0000079	pGSP1	Extrachromosomal ACG expression vector (coding sequence of ACG inserted in pJK1).
+DBP0000080	pGACG	Insertion of fragment from p&#955;22 into pG1D at the common XbaI site.
+DBP0000081	pAcbA-BSR-KO	acbA knockout vector
+DBP0000082	pRJ648 (5cAR3ura)	cAR3-KO vector
+DBP0000083	pRJ544 (5car3neo)	cAR3 knockout construct
+DBP0000084	pRHI38	Vector expressing the CRAC<sup>WT</sup> gene. CRAC cDNA cloned into pRHI8, an expression vector derived from pATANB43 (pers. communic. R. Insall, 5/27/08).
+DBP0000085	pBSA15	A15-neo cassette cloned in pBluescript in its BamHI-EcoRI site.
+DBP0000086	pA15	
+DBP0000087	pACA.URA	ACA knockout construct
+DBP0000088	YakA-KO	YakA knockout vector (8-kb religated BglII fragment of genomic DNA from REMI mutant, containing the plasmid pBSR3?)  .
+DBP0000089	pDng-KI	Dominant-negative knock-in construct for G&#947; (Dicty G&#947; without the C-terminal four amino acids). Same as G&#947;&#916;?
+DBP0000090	pEgeA-GFP	GFP fused to the COOH-terminal of EgeA expression vector.
+DBP0000091	pGSP2	Plasmid containing genomic fragment of ACA.
+DBP0000092	pPIA-HIS-GFP	A PiaA-eGFP expression vector containing a 2x proline linker and the hexyl histidine sequence. A full desription can be found on page 135 of the PhD thesis of J. Silverman (2004).
+DBP0000093	pCAR1-GFP	
+DBP0000094	pDXA-MCS-YFP	Dictyostelium expression vector with a C-terminal YFP tag.
+DBP0000095	pDXA-CFP-MCS	Dictyostelium expression vector with an N-terminal CFP tag.
+DBP0000096	pDXA-HY	Dictyostelium expression vector with proteins expressed from the actin 15 promoter and providing an N-terminal 7-His tag and a C-terminal YL1/2-epitope tag.
+DBP0000097	srfA-KO	srfA knockout vector
+DBP0000109	pDXA-FLAG	Dictyostelium expression vector based on Ddp2 (extrachromosomal in the presence of pREP)
+DBP0000110	pDXA-GFP2	Dictyostelium expression vector based on Ddp2 (extrachromosomal in the presence of pREP)
+DBP0000111	pTX-FLAG	Dictyostelium extrachromosomal expression vector based on Ddp1
+DBP0000049	pspA-Gal (D19-Gal)	Construct drives the expression of beta-galactosidase as fusion protein containing the first five amino acids of PsA, under the control of a prespore promoter.
+DBP0000050	pEcmAO-Gal	Galactosidase fusion expression vector (prestalk marker)
+DBP0000052	pV18-bsr	V18 promoter driving BsR in pUC118 backbone.  V18 promoter was amplified by PCR with downstream primer containing N-terminus of BsR up to Bgl2 site. PCR product was cloned in PBS SK- yielding pV18BsRN (no. 267). Removed again with Bgl2/Xba1 digestion and cloned into Bgl2/Xba1 restricted A15BsR (no. 134).
+DBP0000053	pV/63-Gal	
+DBP0000054	pPatB-KO	patB (P-type H<sup>+</sup>-ATPase) gene disruption construct.
+DBP0000055	EXPpatA-AS	patB (Ca<sup>2+</sup>-ATPase PAT1) antisense construct
+DBP0000056	cbpA-KO	cbpA (calcium-binding protein 1)  gene disruption construct.
+DBP0000057	cupB-AS	cupB (Ca<sup>2+</sup>/Calcineurin-regulated  cup gene) antisense construct.
+DBP0000058	Scar-KO construct (p9A/O7C11)	Scar-KO construct (Scar<sup>-</sup>::Blast), isolated as suppressor of carB-null
+DBP0000059	pAK2	carB-KO construct (car2<sup>-</sup>::thy)
+DBP0000060	pVS	Expression vector with discoidin promoter (growing cells) for secretory proteins. G418 selectable. BglII and BamHI sites upstream of and downstream from a c-myc tag.
+DBP0000061	pVSC	Expression vector with cotB promoter (prespore cells) for secretory proteins. G418 selectable. BglII and BamHI sites upstream of, and downstream from, a c-myc tag.
+DBP0000062	pAT&#968;-BsrR-Rev	Targeting vector for the psiA gene
+DBP0000063	pDXA-3C	Expression vector under control of the actin 15 promoter and carrying a C-terminal c-myc tag.
+DBP0000064	G&#947;-YFP	G&#947;-YFP construct (unpublished)
+DBP0000065	pTorA-KO	TorA KO vector (in SP73)
+DBP0000066	pPTEN-GFP	The PTEN cDNA was cloned upstream of the start codon of the GFP gene. The resulting PTEN-GFP construct  was inserted downstrean of the actin 15 promoter in the extrachromosomal vector pJK1.
+DBP0000067	pPTEN-KO	pten KO vector
+DBP0000068	CRAC-GFP (pWf1)	Full-length cDNA of CRAC was cloned upstream of the start codon of GFP. The resulting CRAC-GFP construct was inserted in the constitutive expression vector B18.
+DBP0000069	PH-GFP (pWf38)	700-bp N-terminal PH domain of CRAC fused to GFP, by cloning it into the GFP expression vector pb15rsGFP. This gives constitutive expression under the control of the actin 15 promoter.
+DBP0000070	pCAR1-B18	cAR1 over-expression vector
+DBP0000071	pMC36	cAR1 cDNA in the BglII site of pJK1
+DBP0000072	YakA-GFP	GFP was fused to the C terminus  of YakA, which was truncated by deleting the 190 C-terminal amino acids.
+DBP0000073	pCAR3-KO-ura	Not sure whether it is the 5cAR3ura vector described in Johnson et al. (1993) (d4673)
+DBP0000074	pDNeo67	Expression vector derived from pDNeoII by BAL31 digestion of the 4 methionine codons between the actin6 promoter and the mcs. The start codon has to be provided by the insert.
+DBP0000116	pRNR-P	regulated expression vector based on the DNA-damage inducibility of the rnrB gene (ribonucleotide reductase promoter)
+DBP0000290	pDEXH-GFP-PiaA<sup>WT</sup>	GFP-Pianissimo expression vector. piaA<up>WT</sup> was subcloned into the pDEXH vector containing the GFP gene.
+DBP0000291	pB10TP4	Not available.    Same as pB10TP2 except for a modification in the polylinker (JG Williams, pers. commun.)
+DBP0000292	lvsB-KO	Knockout vector with bsR cassette for lvsB gene
+DBP0000293	lvsC-KO	Knockout vector with bsR cassette for lvsC gene
+DBP0000294	lvsD-KO	Knockout vector with bsR cassette for lvsD gene
+DBP0000295	lvsE-KO	Knockout vector with bsR cassette for lvsE gene
+DBP0000296	lvsF-KO	Knockout vector with bsR cassette for lvsF gene
+DBP0000297	pLD1A15SN:GFPdynacortin	
+DBP0000298	pLD1A15SN:dynhp	Expression vector for dynacortin hairpin construct.
+DBP0000299	pDimA-KO	dimA knockout construct
+DBP0000300	pA15/pHluorin	Cytosolic pH-sensor
+DBP0000301	pDU3B1	DdPYR5-6 gene (3.7-kb genomic DNA in pBR322)
+DBP0000302	G&#945;2-CFP	Reporter construct (CFP inserted into the helical domain of G&#945;2 in a location optimal for FRET).
+DBP0000303	pRHI25	Remi plasmid with truncated pyr5-6. Similar to pRHI30 but some of the PCR'd sequence was removed from the clone. <b> Sequence note: </b> the sequence below represents the insert only with coding in caps (Robert Insall).
+DBP0000305	pi3k2-gfp	Reporter construct: pi3k2 ligated to GFP and expressed in  EXP-4(+)
+DBP0000306	pCalpHluorin	ER pH-sensor ; the ER marker calreticulin is fused to ratiometric pHluorin.
+DBP0000307	pten-KO-hyg	PTEN-knockout vector with hygromycin cassette.
+DBP0000308	pSadA-GFP	C-terminal GFP fusion
+DBP0000309	pLD1A15SN:myoIIhp	Expression vector for myosin II hairpin construct.
+DBP0000310	pLD1A15SN	Modified pLD1 vector which contains the Ddp2-based origin of replication.
+DBP0000311	pA15lagC	
+DBP0000312	pax1-	pax1 knockout vector (in pBLuescript-SKII) containing bsr cassette.
+DBP0000313	pDV-CYFP	Tandem affinity purification vector with expression under control of the actin 15 promoter, and a YFP tag at the C-terminus.
+DBP0000314	Act 15 ACG	
+DBP0000315	dimB-KO	dimB knockout vector.
+DBP0000316	lim2-	Kanamycin-resistant limB-knockout vector (in pCR-BluntII-TOPO) with hygromycin-resistance cassette.
+DBP0000317	Myc10	
+DBP0000318	sGCKO3486	
+DBP0000319	pdsB KO5234	
+DBP0000320	pdsB KO1234	
+DBP0000321	BS15	
+DBP0000322	Act 15 ACG-Y	
+DBP0000323	pmycELC	ELC (essential myosin light chain) cDNA tagged with a 30-base myc sequence at the 3'end, introduced in expression vector pBORP.
+DBP0000324	pV63gal	
+DBP0000325	pDV-CGFP	Tandem affinity purification vector with expression under control of the actin 15 promoter, and a C-terminal GFP tag.
+DBP0000326	pDV-CGFP-CTAP	Tandem affinity purification vector with expression under control of the actin 15 promoter, and a C-terminal GFP and C-terminal TAP
+DBP0000327	pDV-NYFP	Tandem affinity purification vector with expression under control of the actin 15 promoter, and an N-terminal YFP tag.
+DBP0000328	pDV-NYFP-CTAP	Tandem affinity purification vector with expression under control of the actin 15 promoter, and an N-terminal YFP and C-terminal TAP tag.
+DBP0000329	pDV-CYFP-CTAP	Tandem affinity purification vector with expression under control of the actin 15 promoter, and a C-terminal YFP and C-terminal TAP tag.
+DBP0000331	pDV-NTAP-NYFP	Tandem affinity purification vector with expression under control of the actin 15 promoter, and N-terminal TAP and YFP tags.
+DBP0000333	pDV-NTAP-CGFP	Tandem affinity purification vector with expression under control of the actin 15 promoter, and an N-terminal TAP tag and C-terminal GFP.
+DBP0000334	pAcgA-KO-Hygro	knock out vector for the acgA gene with hygromycin resistance. This plasmid was made by Marcel Meima in P. Schapp's lab. It has not been published although an ACG knockout was made with it.
+DBP0000335	pDV-NTAP-CYFP	Tandem affinity purification vector with expression under control of the actin 15 promoter, and an N-terminal TAP tag and C-terminal YFP
+DBP0000336	pDXA-3H-BL	<a href="/db/cgi-bin/dictyBase/SC/plasmid_details.pl?id=198" target="new">pDXA-3H </a> in which the G418-resistance cassette has been replaced with a blasticidin-resistance marker; note, this added a second <b>Xho I</b> restriction site into the vector, making this site unsuitable for cloning purposes.
+DBP0000339	pA15/GFP-Apg1	GFP-Apg1 fusion construct under the control of the actin 15 promoter (in pDXA-HC)
+DBP0000340	pA15/RFP-Apg8	RFP-DdApg8 fusion construct under the control of the actin 15 promoter (in RFPmars). Ddatg8 was obtained by PCR with the primers GGGGATCCGTTCATGTATCAA and GGGGATCCTTATAAATCACTA and cloned into the BamHI restriction site of the plasmid RFPmars.
+DBP0000341	pA15/GFP-Apg8	GFP-DdApg8 fusion construct under the control of the actin 15 promoter (in pTX-GFP).
+DBP0000342	pA15/CFP-Apg1	Fusion construct of CFP and DdApg1 under the control of the actin 15 promoter (in pDXA-HC).
+DBP0000346	fbxA/gfp-neo	Plasmid that expresses GFP under the control of the fbxA promoter (in a pTX-GFP background).
+DBP0000330	pA15/myc-fbxa	Myc-tagged FbxA in pDXA background.
+DBP0000344	ecmA/myc-fbxA	Myc-tagged FbxA under the control of the prestalk ecmA promoter.
+DBP0000345	pspA/myc-fbxA	Myc-tagged FbxA under the control of the prespore pspA promoter, in a pDXA background.
+DBP0000332	fbxA/myc-fbxA	Myc-tagged FbxA under the control of the fbxA promoter in a pDXA background.
+DBP0000348	pJRC76	MS2-GFP expression vector
+DBP0000350	pJB22	gufB (Gene of Unknown Function)
+DBP0000351	pA15/aequorin	plasmid containing the aequorin gene under the control of the act15 promoter, G418 resistant; constructed by Robert Insall
+DBP0000354	pPROF120	Apoaequorin expression plasmid derived from pDNeo2.
+DBP0000355	pDH29	Remi plasmid for ura selection (derived from pJB1)
+DBP0000356	pEXP4(+)	Integrating expression vector based on pATSP.
+DBP0000357	EXP5(+)	Integrating expression vector derived from EXP4(+) by removal of the HindIII and XbaI sites, and replacement of the mcs.
+DBP0000364	RasGEFM-KO vector	RasGefM knockout vector
+DBP0000365	Nramp1-KO vector	Nramp1 knockout vector
+DBP0000366	pDEXH-GFP-PiaA<sup>HSB1</sup>	GFP-PIA expression vector (temperature sensitive)
+DBP0000367	MF1	cudA knockout vector obtained from original REMI mutant (using pRHI30) by EcoRI digestion and religation.
+DBP0000368	MF2	cudA knockout vector containing an internal deletion and bsr cassette.
+DBP0000353	pRHI71	RasGefA (aimless) in pRHI8, which is a Ddp1-based extrachromosomal vector.
+DBP0000369	pGolvesin-GFP	Golvesin with C-terminal GFP tag
+DBP0000370	pGolvesin-GFP(76-118)	Core fragment of golvesin with C-terminal GFP tag.
+DBP0000371	pGolvesin-GFP(76-579)	Golvesin lacking the N-terminal 75 amino acids with C-terminal GFP tag.
+DBP0000373	pGFP-Golvesin(1-558)	Golvesin with C-terminal deletion and N-terminal GFP tag.
+DBP0000374	pGFP-Golvesin-(L9A,L10A)	Full-length golvesin lacking the dileucine motif, with N-terminal GFP tag.
+DBP0000376	pTX-PsA-CFP	ECFP from Clontech was amplified by PCR and cloned into the pTX vector after removal of the actin 15 promoter and insertion of the <i>PsA</i> promoter.
+DBP0000377	pTX-ecmA-YFP	YFP from citrine was amplified by PCR and cloned into the pTX vector after removal of the actin 15 promoter and insertion of the <i>ecmA</i> promoter.
+DBP0000378	pTIKL-MyD	Expresses full-length mhcA fused to actin15 promoter. MHC fragment from pMyD was excised as xbaI-SacI fragment and ligated into pTIKL. Made by Taro Uyeda. Use G418 selection for Dicty, ampicillin for bacteria.
+DBP0000379	pBIGALA	Expresses <i>mhcA</i> fused to actin 15 promoter, carrying "3xALA" mutation of threonines 1823, 1833, and 2029. Use G418 selection for Dicty, ampicillin for bacteria.
+DBP0000380	pBIGASP	Expresses <i>mhcA</i> fused to actin 15 promoter, carrying "3xASP" mutation of threonines 1823, 1833, and 2029. Use G418 selection for Dicty, ampicillin for bacteria.
+DBP0000381	pBIG-GFP-myo	Expresses <i>mhcA</i> with GFP fused at N-terminus, driven by actin 15 promoter. Use G418 selection for Dicty, ampicillin for bacteria.
+DBP0000382	pGFP-MHC-3xALA	Expresses "3xALA" mutant version of Dictyostelium <i>mhcA</i> with GFP fused at N-terminus, driven by actin 15 promoter. Use G418 selection for Dicty, ampicillin for bacteria.
+DBP0000383	pGFP-MHC-3xASP	Expresses "3xASP" mutant version of Dictyostelium <i>mhcA</i> with GFP fused at N-terminus, driven by actin 15 promoter. Use G418 selection for Dicty, ampicillin for bacteria.
+DBP0000384	pA15/paxB-GFP(S65T)	paxillin-GFP expression vector; blasticidin resistance marker
+DBP0000385	ACG-KO	Knockout plasmid for acgA
+DBP0000386	pBORP	Expression vector containing neoR cassette.
+DBP0000387	pVTL2	Autonomously propagating luciferase-encoding vector.
+DBP0000388	pJR1	
+DBP0000389	pBS18/car2	
+DBP0000390	pTAP-Aur	Full-length DdAurora gDNA cloned in TAPGFP-tag vector for protein expression and purification in <i>Dictyostelium</i>. N-terminal TAPGFP tag; neoR. (by Hui Li)
+DBP0000392	pMBP-Aur	Full-length DdAurora       cDNA cloned in bacterial vector pMal-c2X (NEB) for protein purification in <i>E. coli</i>. N-terminal MBP tag; ampR.
+DBP0000396	pTAP-INCENP	Full-length DdINCENP cDNA cloned in TAPGFP-tag vector for protein expression and purification in <i>Dictyostelium</i>. N-terminal GFP tag; neoR. (by Qian Chen)
+DBP0000397	pTAP-INCENP-&#916;cs1	The first 500 amino acids of DdINCENP cloned in TAPGFP-tag vector for protein expression and purification in <i>Dictyostelium</i>. N-terminal GFP tag; neoR. (by Qian Chen)
+DBP0000352	pCotB/LacZ	Reporter construct expressing &#946;-galactosidase under control of the prespore cotB promoter
+DBP0000358	pPT130	Gateway vector (expression vector for recombination cloning).
+DBP0000359	pPT131	Gateway vector (expression vector for recombination cloning).
+DBP0000360	pPT132	Gateway vector (expression vector for recombination cloning).
+DBP0000361	pPT134	Gateway vector (expression vector for recombination cloning).
+DBP0000362	pPT135	Gateway vector (expression vector for recombination cloning).
+DBP0000363	pPT165	Gateway vector (expression vector for recombination cloning).
+DBP0000372	pGFP-Golvesin	Golvesin with N-terminal GFP tag.
+DBP0000375	piaA-HSB1	Mutated form of the piaA gene, containing the temperature-sensitive mutation, isolated from the mutant HSB1 and inserted into pBlueScript.
+DBP0000391	pTAP-Aur-KD	Expression construct for expressing kinase inactive form of TAPGFP-DdAurora(K139R) in <i>Dictyostelium</i>. N-terminal TAPGFP tag; neoR. (by Hui Li)
+DBP0000393	pTX-Aur	Full-length DdAurora gDNA cloned in pTX-GFP for examination of subcellular localization of DdAurora. N-terminal GFP tag; neoR. (by Hui Li)
+DBP0000394	pTX-Aur-KD	Expression construct for expressing kinase inactive form of GFP-DdAurora. The ATP-binding site Lysine139 was replaced by Arginine (Terada et al., 1998; Pmid: 9450992). N-terminal GFP tag; neoR. (by Hui Li)
+DBP0000395	pTX-TAPGFP	TAPGFP-tag vector for protein expression and purification in <i>Dictyostelium</i>. A TAP     tag was inserted was inserted to the N-terminal of GFP in pTX-GFP.
+DBP0000398	pTX-INCENP-&#916;cs1	The first 500 amino acids of DdINCENP cloned in pTX-GFP for the subcelluar localization of GFP-DdINCENP<sub>1-500</sub>. N-terminal GFp tag; neoR. (by Qian Chen)
+DBP0000399	pTX-INCENP	Full-length DdINCENP (icpA) cDNA cloned in pTX-GFP for examination of subcellular localization of GFP-DdINCENP. N-terminal GFP tag;   neoR. (by Qian Chen)
+DBP0000400	pTX-INCENP-&#916;N	The last 833 amino acids of DdINCENP, including the IN-box, cloned in pTX-GFP for the examination of the subcelluar localization of GFP-DdINCENP<sub>488-1320</sub>. N-terminal GFP tag; neoR. (by Qian Chen)
+DBP0000401	pTX-INCENP-&#916;C	The first 1013 amino acids of DdINCENP, not including the IN-domain, cloned in pTX-GFP for the examination of the subcelluar localization of GFP-DdINCENP<sub>1-1013</sub>. N-terminal GFP tag; neoR. (by Qian Chen)
+DBP0000402	pTX-INCENP-&#916;cs2	The first 273 amino acids of DdINCENP cloned in pTX-GFP for the examination of the subcelluar localization of GFP-DdINCENP<sub>1-273</sub>. N-terminal GFP tag; neoR. (by Qian Chen)
+DBP0000403	pTF169Cla	Plasmid popped out of DG1108 (acaA- remi mutant). The insertion in the gene was at the DpnII site at bp2575 relative to the ATG, with the T7 of BamHI-cut pBSR1 reading towards the 3-prime end of the gene.
+DBP0000112	pTX-RFPmars	<i>Dictyostelium</i> extrachromosomal expression vector based on Ddp1. Cells are bright red. The RFP is derived from 339-3: mRFPmars in pBsrH (ID# 1).    GFP of pTX-GFP was replaced with RFPmars of plasmid 339-3: RFP fragment of 339-3 obtained by cutting with BglII (blunted with Klenow) and BamHI. Inserted into pTX-GFP digested with SalI (blunted with Klenow) and BamHI.
+DBP0000113	pDNeo2-Dd-TRAP1	Dd-TRAP1 overexpression vector
+DBP0000115	pTRAP1-RNAi MB38	Dd-TRAP1 knockdown vector utilizing the tetracycline-regulated gene expression system (tet-off system) described by Blaauw et al., 2000 (pmid 10903439).
+DBP0000001	pmRFPmars	Synthetic brilliant red fluorescent protein, mRFPmars.    The last amino acid that  belongs to mRFPmars sequence in the 339-3 vector is A. G and S correspond to the BamHI restriction site, E and F to the EcoRI restriction site. There is no His-tag encoded by 339-3 as this is made for expression in Dictyostelium. The sequence you insert into the MCS has to end with a stop codon as there is no stop present in the sequence.
+DBP0000002	SL515	PAKb (mihck) KO construct. cDNA fragment 970-2057 was amplified, digested with XhoI (introduced) and EcoRI, and ligated in pBluescript-SK. The blasticidin cassette was inserted in the BamHI site at nt 1686.
+DBP0000003	SL405	PAKc KO construct. The BamHI blasticidin cassette was inserted in the BglII site created at position 560 of the PAKc cDNA, and a SpeI-XhoI fragment was ligated into pBluescript-SK.
+DBP0000004	SL516	PAKb (mihck) KO construct for double null mutant. The BamHI hygromycin cassette was inserted in the BamHI site at position 1686 of the PAKb cDNA, and an EcoRI-XhoI fragment was ligated into pBluescript-SK.
+DBP0000005	pREMI:GFP-1	REMI plasmid (neoR) for gene trapping, with GFP that can only be expressed from host promoter.
+DBP0000006	pREMI:GFP-2	REMI plasmid (neoR) for gene trapping, with GFP that can only be expressed from host promoter.
+DBP0000007	pREMI:GFP-3	REMI plasmid (neoR) for gene trapping, with GFP that can only be expressed from host promoter.
+DBP0000008	pDEX-NLS-cre	Dictyostelium Cre expression vector for the generation of multiple gene disruptions
+DBP0000009	pLPBLP	Plasmid containing Bsr cassette with LoxP sites for generating multiple gene disruptions.
+DBP0000010	pEZTN:tetR-bsR	Vector containing a transposable bsR cassette; total size 5.4 kb; transposon size 3 kb.
+DBP0000199	pDXA-3FLAG	Dictyostelium expression vector with an N-terminal FLAG tag.
+DBP0000201	pDXA-YFP-MCS	Dictyostelium expression vector with an N-terminal YFP tag.
+DBP0000202	atgN-KO	atgN knockout construct containing bsr cassette.
+DBP0000203	pDXA-GST	Dictyostelium expression vector with an N-terminal GST tag and a C-terminal histidine tag.
+DBP0000204	pDXD-3C	Dictyostelium expression vector under control of the inducible discoidin I&#947; promoter and carrying a C-terminal c-myc tag.
+DBP0000205	pDXD-3H	Dictyostelium expression vector under control of the inducible discoidin I&#947; promoter and carrying a C-terminal histidine tag.
+DBP0000206	pV18-I-S65T-GFP	V18 promoter driving ubi-I-s65tgfp in V18Tn5turbo background
+DBP0000207	pPROF128	HspA (chaperonin 60) antisense construct in pDNeo2.
+DBP0000208	pBsr-Nsi-MHCKD-KO	mhkD knockout vector
+DBP0000209	pV18-VSon1-FLAG	Flag-tagged SonA cDNA
+DBP0000210	pTX-GFP-vwk	GFP-labeled vwk (vWFA kinase) expression vector
+DBP0000211	pTX-FLAG-vwk	FLAG-labeled vwk (vWFA kinase) expression vector
+DBP0000212	pVWKA-KO1	vwkA kockout vector
+DBP0000213	smkA-KO	smkA knockout construct
+DBP0000347	pJRC36	dscA MS2-tagging vector
+DBP0000349	pJB1	pyr5-6 gene (ClaI fragment of pDU3B1) in pBluescript.
+DBP0000214	SMEK OE	SMEK overexpression construct
+DBP0000215	rps4<sup>AS</sup>	Antisense construct for the mitochondial ribosomal protein S4 (RPS4)
+DBP0000216	rps4<sup>OE</sup>	Overexpression construct for the mitochondial ribosomal protein S4 (RPS4)
+DBP0000217	pDE-0.9	Coding region of the extracellular phosphodiesterase. (0.9-kb BstBI-EcoRI fragment, from cDNA clone p-1.2, subcloned in pUC19 digested with AccI and EcoRI)
+DBP0000218	p240Cla	erkB knockout vector (2.1-kb and 1.7-kb genomic fragments flanking the remi plasmid DIV6)
+DBP0000219	pG3Neo-AmpA	Construct used to generate Ampa overexpressors and to rescue AmpA knockouts
+DBP0000220	pTVKO4	Construct used to generate ampA null mutant
+DBP0000221	pAmpA/lacZ	ampA promoter-lacZ fusion construct
+DBP0000222	pPL3/lacZ	PL3 promoter-lacZ fusion construct (PL3 is prespore gene pspD encoding spore coat protein SP87)
+DBP0000223	pGP130-ura	knockout plasmid for gp130 (uracil cassette in genomic gp130)
+DBP0000042	pBS-ACA	partial ACA cDNA (adenylyl cyclase) in pBlueScript
+DBP0000024	pCP33	Extrachromosomal vector with neo cassette. Based on p155d1, with multiple cloning site added.
+DBP0000224	p155d1	7268-bp Csp451 fragment of Ddp1 in p60.
+DBP0000225	p60	Dictyostelium expression vector: 2.3-kb SalI-EcoRI fragment (neoR cassette) of pB10S subcloned into pGEM3Z.
+DBP0000226	pB10S	Not available yet. Dictyostelium expression vector containing neoR cassette (actin 6 promoter, Tn5 neomycin resistance gene, actin 8 terminator (in reverse)).
+DBP0000032	pBSR1	REMI plasmid with blasticidin cassette, with the sequence CAACAAGATCTAGAATTAG changed to CAACAAGATCCAGAATTAG to eliminate the internal BglII and XbaI sites to make it more convenient for REMI usage; <b> Sequence note: </b> the sequence below is pBSR3 minus nt 29-50.
+DBP0000228	pDIV2	Remi plasmid (DIV2 is the same as DIV1 shown below, except it contains the pyr5-6-containing ClaI fragment in the opposite orientation).
+DBP0000229	pDIV6	Remi plasmid. The PstI-SacI pyr5-6 fragment from DIV1 was ligated into PstI/SacI digested pGEM-5Zf(+) (Promega).
+DBP0000230	pDIV1	pyr5-6 remi plasmid (not yet available)
+DBP0000231	pG3NeoI	Expression vector in which the expression of the neomycin phosphotransferase gene (Tn903) is driven by the actin 15 promoter.
+DBP0000232	pCT7	dmtA promoter driving gfp
+DBP0000233	pDT1	regA KO bsr. Insert blasticidin cassette into AHindIII332pKS (pDT4) as Xba fragment, then insert 3' homology as NotI/SacII PCR products.
+DBP0000234	pDT5 (iplA-KO2)	iplA knockout construct
+DBP0000235	pDT12	regA driven by actin 15
+DBP0000236	pPT17	D212N mutant regA "rescue" vector.
+DBP0000237	pPT39	GST-rdeA H63Q expression vector
+DBP0000238	pPT40	GST-rdeA H65Q expression vector (inactive mutant)
+DBP0000239	DIV5	remi plasmid for uracil selection (not yet available)
+DBP0000240	pN-CAP-Pro-GFP	N-terminal domain of CAP (containing the proline-rich region) cloned in frame with GFP in pDdA15gfp.
+DBP0000241	pPro-C-CAP-GFP	C-terminal domain of CAP (containing the proline-rich region) cloned in frame with GFP in pDdA15gfp.
+DBP0000242	pflCAP-GFP	Full-length CAP cloned in frame with GFP in pDEX-T65S-GFP.
+DBP0000227	pCP43	ACA (adenylyl cyclase) expression vector: ACA cDNA with act15 promoter cloned into ApaI/BstXI sites of pCP43. The ACA cDNA came with its own terminator (800-bp 3'-untranslated region)
+DBP0000243	pDV-CTAP	Tandem affinity purification vector with expression under control of the actin 15 promoter, and a TAP tag at the C-terminus.
+DBP0000244	pDV-NTAP	Tandem affinity purification vector with expression under control of the actin 15 promoter, and a TAP tag at the N-terminus.
+DBP0000245	pKK4	Tandem affinty purification (TAP) vector.
+DBP0000246	LST8-KO	LST8 knockout vector
+DBP0000247	LST8-OE	LST8 overexpression vector
+DBP0000248	RIP3-OE	RIP3 overexpression vector
+DBP0000249	RIP3-KO	RIP3 knockout vector
+DBP0000250	RasC-bsr	Knockout vector for RasC
+DBP0000251	RasC-thy	Knockout vector for RasC
+DBP0000252	RasG	RasG (wild type) overexpression vector (based on pVEII)
+DBP0000253	RasG-G12T	Mutated RasG overexpression vector (based on pVEII)
+DBP0000254	RasG-S17N	Mutated RasG overexpression vector (based on pVEII)
+DBP0000255	Rap1-S17N	Mutated Rap1 overexpression vector (based on pVEII)
+DBP0000256	Rap1-G12V	Mutated Rap1 overexpression vector (based on pVEII)
+DBP0000257	DNG1-KO	DNG1 knockout vector
+DBP0000258	DNG1-OE	DNG1 overexpression vector
+DBP0000259	DNG1-GFP	DNG1-GFP vector
+DBP0000260	Rap1	Rap1 overexpression vector (in pVEII)
+DBP0000261	pVMop	G418-selectable transformation vector containing vatM driven by its own promoter.
+DBP0000262	pVATM-act6	Vector for vatM promoter replacement.
+DBP0000263	pDXA-VatM-GFP	VatM-GFP fusion protein expression vector
+DBP0000264	pMB35-M2	tetON drive; both tetON and tetOFF systems exist for Dicty. The tetOFF system was pioneered by Dingermann and colleagues, but the most frequently used  vectors are those constructed by Blaauw et al., Gene 252:71-82, 2000.  The Dicty tetON system is derived from yeast vectors described in Urlinger  et al., PNAS 97:7963-8, 2000; the rtTa-M2 element was recloned into the Blaauw vector MB35 by Adriano Ceccarelli, and students in my lab have shown that the performance of this tetON system in Dicty (induction  factor, response time) is similar to that of the tetOFF system.    Both the original tetOFF MB35 and its tetON version are neo vectors. In practice one needs a Dicty strain carrying one or the other of these, which one overtransforms with a second, blasticidin vector (Blauuw et al. MB38) carrying the gene of interest. Once one has cloned one's gene into MB38, it can be overtransformed into both tetON and tetOFF strains. Both MB35 and MB38 are in the stock center, as are cells containing MB35. H. MacWilliams
+DBP0000265	pAct15-Gal	Galactosidase expression vector. The XbaI/BglII fragment of the actin 15 promoter was cloned into pdDGal17.
+DBP0000266	pDdGal-15 (H<sup>+</sup>)	Galactosidase vector with HindIII site after terminator.
+DBP0000267	pDdGal-16 (H<sup>-</sup>)	Galactosidase vector without HindIII site after terminator.
+DBP0000268	pDdGal-17 (H<sup>+</sup>)	Galactosidase vector with HindIII site after terminator.
+DBP0000269	pDdGal-17 (H<sup>-</sup>)	Galactosidase vector without HindIII site after terminator.
+DBP0000270	pD19-lacZ	LacZ (&#946;-galactosidase) expression under control of the prespore promoter D19 (Psa or pspA).
+DBP0000271	pActin15-GskA	gskA expression vector (actin15::gskA) made by subcloning the gskA cDNA into pDXA-3H (gskA contains C-terminal 6xHistidine tag).
+DBP0000272	pActin15-Rsub1	actin15::PKA-Rsubunit (wild type) expression vector containing the actin6-neoR cassette.
+DBP0000273	pActin15-Rm	actin15::PKA-Rsubunit (Rm mutant) expression vector.
+DBP0000274	pActin15-Rc	actin15::PKA-Rsubunit (Rc mutant does bind C subunit = control) expression vector.
+DBP0000275	pPsA-Rm	PsA::PKA-Rsubunit (Rm mutant) expression vector.
+DBP0000276	pPsA-Rc	PsA::PKA-Rsubunit (Rc mutant does bind C subunit = control) expression vector
+DBP0000277	pEcmA-Rc	EcmA::PKA-Rsubunit (Rc mutant does bind C subunit = control) expression vector
+DBP0000278	pEcmA-Rm	EcmA::PKA-Rsubunit (Rm mutant) expression vector
+DBP0000279	pA15-BSR-aarA-KO	aardvark knockout vector generated by replacing a 600-base-pair ClaI/EcoRI fragment in the aar cDNA with a 1.4-kilobase (kb) ClaI/EcoRI fragment containing a blasticidin-resistance gene expressed from an actin-15 promoter
+DBP0000280	dpoA KO construct	dpoA knockout vector (plasmid rescued with ClaI from REMI mutant HAD172).
+DBP0000281	pActin15StatWTpep	actin15::StatA containing WT GSK3 peptide specific substrate
+DBP0000282	pActin15StatAlapep	actin15::StatA containing Ser-Ala GSK3 peptide specific substrate
+DBP0000283	pActin15StatAcidpep	actin15::StatA containing Ser-Asp GSK3 peptide specific substrate
+DBP0000284	pGEG02-K	Rho GTPase (RacF2) knockout construct for KAX3
+DBP0000285	pGEG02-V	Rho GTPase (RacF2) knockout construct for V12
+DBP0000286	pRacF2-WT	Rho GTPase (RacF2) overexpression vector
+DBP0000287	pRacF2-G12V	Rho GTPase (RacF2) overexpression vector (constitutive active)
+DBP0000288	pRacF2-N17T	Rho GTPase (RacF2) overexpression vector (dominant negative).
+DBP0000289	piaA<sup>WT</sup>	Pianissimo expression vector used to rescue the HSB1 strain.   Insert is most likely in pMyc86/6, but could also be in pBluescript.
+DBP0000410	pDEXRH	Modified version of pDEXH. Expression vector based on pIC20R. Expression of inserted cDNAs is driven by an actin 15 promoter and terminated by an actin 8 tandem terminator. Bacterial Tn5 under the control of the actin 6 promoter allows selection of Dictyostelium transformants  with G418. <b> Sequence note: </b> 1-290 is actin 15 promoter; 311-402 is actin 8 terminator.
+DBP0000445	pJRC119	GFP-Set1 rescue construct (in pDEXH82).
+DBP0000460	arpB-KO	Knockout construct for arpB (blasticidin cassette from pRHI148 was excised as a ClaI fragment and ligated into the BstBI site of arpB)
+DBP0000463	pDRHyg	Ddp1-based expression vector containing a hygromycin selection cassette.
+DBP0000466	pLD1A15SN:fimbrin RNAi	Expression vector for fimbrin RNAi hairpin
+DBP0000499	GFP-VAMP7[L35A]-stop	KpnI-GFP-SacI-BamHI-VAMP7[L35A]-<u>stop</u>-XhoI-NsiI-myc-stop (in pDXD-3C)    Decorates the endocytic compartments and sometimes the contractile vacuole bladders. The plasma membrane is decorated in about 70% of the cells.
+DBP0000500	VAMP7-GFP	BamHI-VAMP7-XhoI-GFP-NsiI-myc-<u>stop</u> (in pDXD-3C)
+DBP0000501	(Myc)2-VAMP7	KpnI-myc-BglII-myc-sacI-BamHI-VAMP7-XhoI-NsiI-myc-<u>stop</u> (in pDXD-3C)    In IFs, 9E10 labels endocytic compartments and also in some cells the plasma membrane.
+DBP0000502	(Myc)2-apm1	KpnI-myc-BglII-myc-SacI-BamHI-apm1-XhoI-NsiI-myc-<u>stop</u>  (in pDXD-3C)    No visible structure in IFs.
+DBP0000503	(Myc)2-apm2	KpnI-myc-BglII-myc-SacI-BamHI-apm2-<u>stop</u>-XhoI-NsiI...  (in pDXD-3C)    No visible structure in IFs.
+DBP0000505	(Myc)2-apm4	KpnI-myc-BglII-myc-SacI-BamHI-apm4-<u>stop</u>-XhoI-NsiI...  (in pDXD-3C)    No visible structure in IFs.
+DBP0000506	(Myc)2-delta	KpnI-myc-BglII-myc-SacI-BamHI-delta-xhoI-nsiI-myc-<u>stop</u>  (in pDXD-3C)    No visible structure in IFs.
+DBP0000507	pRasG::bsr	Knockout vector for rasG
+DBP0000511	dmpA::bsr	Remi rescued plasmid from rasC-/dmpA- cells (dmpA knockout vector).
+DBP0000516	pDM309	Extrachromosomal, inducible expression vector. Transactivator tTA. MCS BglII/SpeI. G418 resistance.
+DBP0000517	pDM310	Extrachromosomal, inducible expression vector. Transactivator rtTA M2<sub>s</sub>*. MCS BglII/SpeI. G418 resistance.
+DBP0000518	pDM359	Extrachromosomal, inducible expression vector. Transactivator rtTA M2<sub>s</sub>*. MCS BglII/SpeI. Hygromycin resistance.
+DBP0000519	pDM360	Extrachromosomal, inducible expression vector. Transactivator rtTA M2<sub>s</sub>*. MCS BglII/SpeI. Blasticidin resistance.
+DBP0000406	Kdel-neo	Mutated Dd PK2 protein kinase over-expression vector. (K-neo cut with KpnI, blunt-ended with T4-polymerase, and religated)
+DBP0000407	pBSEGE	The plasmid pBSEGE was rescued from egeA- genomic DNA by circularization of a HindIII fragment.
+DBP0000408	pLAS3	Plasmid rescued with EcoR1 from cheater mutant LAS3 (DDB0187308; putative ubiquitin-conjugating enzyme E2).
+DBP0000415	pLAS5	Plasmid rescued with EcoRI from cheater mutant LAS5. GeneDDB0191519 (rsc6) REMI mutant; similar to heat shock protein Hsp20 domain-containing protein; but does not contain a Hsp20 domain
+DBP0000417	pLAS7	Plasmid rescued with EcoRI from cheater mutant LAS7. Remi insertion in DDB_G0290685 (unknown gene product; highly repetitive protein: contains close to 100 repeats of the sequences DGENNQ, DGGENNQ, or very related sequences)
+DBP0000419	pLAS18	Plasmid rescued with EcoRI from cheater mutant LAS18. Non-intragenic REMI insertion near rab7B (Rab GTPase).
+DBP0000420	pLAS19	Plasmid rescued with EcoRI from cheater mutant LAS19. Remi insertion in pks26 (putative polyketide synthase; beta-ketoacyl synthase family protein).
+DBP0000422	pLAS27	Plasmid rescued with BglII from cheater mutant LAS27. Non-intragenic remi insertion near DDB_G0280203.
+DBP0000425	pLAS32	Plasmid rescued with BglII from cheater mutant LAS32. Remi insertion in docA (timA, DG1012, DG2016). SH3 domain-containing protein; DOCK family protein;  putative guanine nucleotide exchange factor (GEF). Similar to H. sapiens DOCK180 protein.
+DBP0000427	pLAS38	Plasmid rescued with BglII from cheater mutant LAS38. Non-intragenic REMI insertion (DDB0202322, DDB0202324).
+DBP0000428	pLAS39	Plasmid rescued with BglII from cheater mutant LAS39. Remi insertion in DDB_G0292148 (Arf GTPase activating protein).
+DBP0000433	pLAS54	Plasmid rescued with EcoRI from cheater mutant LAS54. Remi insertion in gene DDB_G0280299 (unkown function).
+DBP0000435	pLAS57	Plasmid rescued with EcoRI from cheater mutant LAS57. Non-intragenic remi insertion between genes DDB_G0268864 and DDB_G0268866 (unknown functions).
+DBP0000436	pLAS58	Plasmid rescued with EcoRI from cheater mutant LAS58. Non-intragenic remi insertion between DDB_G0284973 and tpsB (glycosyltransferase &#945;,&#945;-trehalose-phosphate synthase trehalose 6-phosphate synthase trehalose-phosphatase)
+DBP0000438	pLAS70	Plasmid rescued with ClaI from cheater mutant LAS70. Remi insertion in DDB_G0279405 (putative protein serine/threonine kinase;  CAMKK family protein kinase;  Meta subfamily protein kinase).
+DBP0000439	pLAS91	Plasmid rescued with EcoRI from cheater mutant LAS91. Remi insertion in abcC9 (ABC transporter C family protein).
+DBP0000444	pJRC13	Set1 bsr disruption plasmid
+DBP0000446	pJRC88	GFP-Set1:C147A construct (in pDEXH82)
+DBP0000448	pYL44	piaA knockout vector made by Yu Long. EcoRI-XbaI 1.4-kb bsr cassette from pJH280 ligated with pYL23digested with ecoRI and XbaI (4.4 kb).
+DBP0000464	pDRH:GFP-tubulin	Ddp1-based expression vector for GFP-tubulin containing a hygromycin selection cassette.
+DBP0000465	pDRH:RFP-tubulin	Ddp1-based expression vector for RFP-tubulin containing a hygromycin selection cassette.
+DBP0000467	pLD1A15SN:GFP-fimbrin	Expression vector for GFP-fimbrin
+DBP0000479	pDNeo67-dia2-gfp	Vector expressing DIA2-GFP.
+DBP0000482	VA6aco RNAi	Dd-aco knockdown vector.
+DBP0000483	pTF70-HindIII	Popout vector from the Remi mutant DG1047 (Cytochrome-P450 oxidoreductase - redA - knockout vector). Remi plasmid was pBSR3.
+DBP0000487	pBC18	Chimeric protein, with the extracellular portion of the contact site A protein fused to the transmembrane domain of the integral protein P29F8 and to the cytoplasmic sequence KTRVSQNSG, in the expression vector pDCEV4.
+DBP0000493	pGMET-Easy-srfB-bsr	Knockout plasmid for srfB using blasticidin selection.
+DBP0000495	RFP-Vti1	RFP-BamHI-Vti1-<u>stop</u>-EcoRI (in pBsrH-mRFPmars)    Decorates the bladders and tubular network of the contractile vacuole.
+DBP0000496	RFP-Syntaxin8	RFP-BamHI-Syntaxin8-<u>stop</u>-EcoRI (in pBsrH-mRFPmars)    Decorates the bladders and tubular network of the contractile vacuole.
+DBP0000504	(Myc)2-apm3	KpnI-myc-BglII-myc-SacI-BamHI-apm3-xhoI-NsiI-myc-<u>stop</u>  (in pDXD-3C)    No visible structure in IFs.
+DBP0000508	rasG::thy1	Knockout vector for rasG
+DBP0000509	rasC::bsr (pJLW26)	Knockout vector for rasC
+DBP0000510	pik4::bsr	Remi rescued plasmid from rasC-/pik4- cells (pikD knockout vector)
+DBP0000512	rasC rescue plasmid	rasC cDNA with rasC promoter plus G418 cassette for rasC-ko rescue.
+DBP0000513	rasG rescue plasmid	rasG genomic DNA plus G418 cassette for rasG-ko rescue.
+DBP0000514	act15::[rasC/GFP]	GFP-rasC expression construct under control of the actin15 promoter.
+DBP0000515	rasC::[GFP/rasC]	GFP-rasC expression construct under control of the rasC promoter.
+DBP0000520	pDM331	Extrachromosomal, inducible expression vector. Transactivator rtTA M2<sub>s</sub>*. MCS BglII/SpeI. G418 resistance. N-terminal GST tag.
+DBP0000405	pK-neo	Dd PK2 protein kinase over-expression vector.
+DBP0000443	pVTL-AL	Dictyostelium reporter plasmid containing the AP-endonuclease (apeA) upstream sequence in front of the luciferase gene is inducible with bleomycin (DNA-damaging agent).
+DBP0000449	pGSP6	
+DBP0000454	pJH216	G&#945;5 gene knockout construct (g&#945;5::Thy1). Thy1 gene replaces a PstI-SpeI fragment in G&#945;5 genomic fragment. Excise gene disruption fragment with EcoRV-EcoRI digest.
+DBP0000468	pA15TX	
+DBP0000481	VA6	The expression vector VA6 was made by ligation of the XbaI-HindIII fragment of pDNeo2 (containing the actin 6 promoter and MCS) with the pRNR-P vector from which the the rnrB promoter was removed by digestion with XbaI and HindIII.
+DBP0000484	pFL603	apm1-knockout construct. PCR amplified 3'- and 5'-regions of apm1 (mu1 or ?1), with bsR cassette inserted in between, in pBluescript.
+DBP0000521	pDM332	Extrachromosomal, inducible expression vector. Transactivator rtTA M2<sub>s</sub>*. MCS BglII/SpeI. G418 resistance. N-terminal TAP tag.
+DBP0000522	pDM334	Extrachromosomal, inducible expression vector. Transactivator rtTA M2<sub>s</sub>*. MCS BglII/SpeI. G418 resistance. N-terminal GFP tag.
+DBP0000523	pDM335	Extrachromosomal, inducible expression vector. Transactivator rtTA M2<sub>s</sub>*. MCS BglII/SpeI. G418 resistance. N-terminal mRFPmars tag.
+DBP0000524	pDM338	Extrachromosomal, inducible expression vector. Transactivator rtTA M2<sub>s</sub>*. MCS BglII/SpeI. G418 resistance. C-terminal TAP tag.
+DBP0000525	pDM340	Extrachromosomal, inducible expression vector. Transactivator rtTA M2<sub>s</sub>*. MCS BglII/SpeI. G418 resistance. C-terminal GFP tag.
+DBP0000526	pDM341	Extrachromosomal, inducible expression vector. Transactivator rtTA M2<sub>s</sub>*. MCS BglII/SpeI. G418 resistance. C-terminal mRFPmars tag.
+DBP0000527	pDM369	Extrachromosomal, inducible expression vector. Transactivator rtTA M2<sub>s</sub>*. MCS BglII/SpeI. Hygromycin resistance. N-terminal GFP tag.
+DBP0000528	pDM370	Extrachromosomal, inducible expression vector. Transactivator rtTA M2<sub>s</sub>*. MCS BglII/SpeI. Hygromycin resistance. C-terminal GFP tag.
+DBP0000529	pDM371	Extrachromosomal, inducible expression vector. Transactivator rtTA M2<sub>s</sub>*. Gateway. Hygromycin resistance. N-terminal GFP tag.
+DBP0000530	pDM372	Extrachromosomal, inducible expression vector. Transactivator rtTA M2<sub>s</sub>*. Gateway. Hygromycin resistance. C-terminal GFP tag.
+DBP0000531	pDM373	Extrachromosomal, inducible expression vector. Transactivator rtTA M2<sub>s</sub>*. Gateway. Hygromycin resistance.
+DBP0000532	pDM304	extrachromosomal expression vector. MCS BglII/SpeI; G418 resistance; modular expression vector
+DBP0000404	pTF169Eco	Plasmid popped out of DG1108 (acaA- remi mutant) with EcoRI. The insertion in the gene was at the DpnII site at bp2575 relative to the ATG, with the T7 of BamHI-cut pBSR1 reading towards the 3-prime end of the gene.
+DBP0000409	pDEXH	Expression vector based on pIC20R. Expression of inserted cDNAs is driven by an actin 15 promoter and terminated by an actin 8 tandem terminator. Bacterial Tn5 phosphotransferase under the control of the actin 6 promoter allows selection of Dictyostelium transformants  with G418. <b> Sequence note: </b> 1-290 is actin 15 promoter; 301-394 is actin 8 terminator.
+DBP0000414	pBsrH	Expression vector derived from pDEXH by replacing the neoR cassette with the bsR cassette.
+DBP0000451	pGSP9	Full-length genomic construct of ACA containing about 1 kb of 5-prime untranslated sequence.
+DBP0000453	pHygTm(plus)/pG7	Vector containing new hygromycin Bam cassette with cabA terminator. EcoR1 and BglII within Hyg were killed by mutagenesis. Made by Masashi Fukusawa (pers. commun. Jeff Williams, 5-8-08)
+DBP0000459	pRHI8	Extrachromosomal expression vector. The BglII and NotI sites are too close to one another so it cuts badly. Use pRHI76 instead.
+DBP0000461	pACA-KO	Two DNA fragments were amplified using genomic DNA as template. One of the fragments corresponds to the region upstream of the <i>aca</i> open reading frame. The other one corresponds to the region encoding the middle part of the <i>aca</i> open reading frame. The blasticidin cassette was also amplified by PCR and inserted in the middle of both cyclase fragments using the metod of Kuwayama <i>et al.</i> (Pmid 11788728; d7349), and cloned into pCR-BluntII-TOPO.
+DBP0000469	pA15XPT1	<b> Sequence note: </b> Complete sequence is 4604 b.p. of pA15XPT1-TERM AT SAL.
+DBP0000470	pA6NPTII	<b> Sequence note: </b> Complete sequence is 6678  b.p.
+DBP0000472	pDXA-GFPABD120	Vector expressing a fusion protein between GFP and the actin-binding domain of ABD120 (filamin).
+DBP0000473	pDH-GFPABD120	Vector containing a hygromycin-resistance cassette expressing a fusion of GFP and the actin-binding domain of ABD120 (filamin). <b> Sequence note: </b> PCR product of ABP120 ABD cloned into BglII site of pDHGFP; GFP-ABD coding: 291-1757.
+DBP0000475	pMars-LimE-delta-coil	RFPmars-limE-delta-coil fusion plasmid containing a blasticidin resistance marker; LimE-delta-coil cloned into the EcoRI site of plasmid 339-3 (mRFPmars in pBsrH)
+DBP0000488	pFL505	Full-length apm1 (mu1 or &micro;1) expression construct in pDXA-3C.
+DBP0000490	pFL712	Full-length cDNA sequence coding for Phg2 was cloned into the pDXA-GFP2 expression vector.
+DBP0000491	pFL674	CsA-Rh50
+DBP0000494	RFP-Syntaxin7	RFP-BamHI-Syntaxin7-<u>stop</u>-EcoRI  (in pBsrH-RFPmars)    An EcoRI site was introduced in the sequence by the silent A777G mutation. Decorates endocytic compartments and sometimes the contractile vacuole bladders.
+DBP0000498	GFP-VAMP7-stop	KpnI-GFP-SacI-BamHI-VAMP7-<u>stop</u>-XhoI-NsiI-myc-stop (in pDXD-3C)    Decorates the endocytic compartments and sometimes the contractile vacuole bladders. The plasma membrane is also decorated in about 10% of the cells.
+DBP0000416	pLAS6	Plasmid rescued with EcoRI from cheater mutant LAS6. Remi insertion between genes DDB0203824 (DDB_G0276383) and DDB0201646 (pyr1-3).
+DBP0000418	pLAS8	Plasmid rescued with EcoRI from cheater mutant LAS8. Remi insertion in . Similar to Oryza sativa (Japonica cultivar-group). Putative zinc transporter protein ZIP1.
+DBP0000421	pLAS26	Plasmid rescued with BglII from cheater mutant LAS26. Remi insertion in  DDB_G0277239 (Non-receptor tyrosine kinase spore lysis A (EC 2.7.1.112) (Tyrosine-protein kinase 1).
+DBP0000423	pLAS29	Plasmid rescued with BglII from cheater mutant LAS29. Remi insertion in DDB_G0273201 (DNA-binding HORMA domain-containing protein;  mitotic spindle assembly checkpoint protein).
+DBP0000424	pLAS31	Plasmid rescued with BglII from cheater mutant LAS31. Remi insertion in pikG (phosphatidylinositol 3-kinase; PI3kinase).
+DBP0000426	pLAS34	Plasmid rescued with BglII from cheater mutant LAS34. Remi insertion in DDB_G0278585 (unknown function).
+DBP0000429	pLAS43	Plasmid rescued with SpeI from cheater mutant LAS43. Remi insertion in  DDB_G0274431 (hypothetical 127.0 kDa protein).
+DBP0000430	pLAS44	Plasmid rescued with SpeI from cheater mutant LAS44. Remi insertion in pks2- (putative polyketide synthase; beta-ketoacyl synthase family protein).
+DBP0000431	pLAS49	Plasmid rescued with BglII from cheater mutant LAS49. Non-intragenic remi insertion near genes DDB_G0273325 and DDB_G0273271.
+DBP0000432	pLAS51	Plasmid rescued with BglII from cheater mutant LAS51. Non-intragenic REMI insertion near gene DDB_G0285547 (unknown function).
+DBP0000434	pLAS53	Plasmid rescued with EcoRI from cheater mutant LAS53. Remi insertion in  abkD (putative protein serine/threonine kinase;  ABC1 family protein kinase;  ABC1-B subfamily protein kinase). Contains ABC1 kinase (protein kinase-like) domain; yeast ABC1 essential for the electron transfer in the BC(1) complex; E.coli homolog required for ubiquinone biosynthesis).
+DBP0000437	pLAS60	Plasmid rescued with ClaI from cheater mutant LAS60. Non-intragenic remi insertion between genes DDB_G0285935 and helD (DEAD/DEAH box helicase;  putative RNA splicing factor). Conserved RNA helicase; S. cerevisiae prp16 involved in the second catalytic step of splicing, exhibits ATP-dependent RNA unwinding activity.
+DBP0000440	pLAS99	Plasmid rescued with EcoRI from cheater mutant LAS99. Remi insertion in  dhkE (histidine kinase; protein kinase, atypical group; HisK family protein kinase).
+DBP0000441	pLAS103	Plasmid rescued with EcoRI from cheater mutant LAS103. Remi insertion in gene DDB_G0280089 (unknown function).
+DBP0000447	pJRC89	GFP-Set1:N142Q construct (in pDEXH82).
+DBP0000442	iplA(ins)	iplA knockout vector.
+DBP0000450	pKL2	ACA fragment from pGSP9 inserted in the Dictyostelium expression vector pB18. pKL2 was used to generate aca-/ACA<sub>act-15</sub> cells.
+DBP0000452	pGSP10	ACA fragment from pGSP9 inserted into the Dictyostelium extrachromosomal expression vector pATANB43. pGSP10 was used to generate aca-/ACA cells.
+DBP0000455	pJH48	Pyr5-6 gene with SalI linker inserted at PvuII site, can be excised with Asp718 and used to create pyr5-6- mutants (e.g., JH8)
+DBP0000456	pJH280	HindIII/KpnI frag from pUCBsr&#61508;Bam inserted into the same sites of pBluescript SK- (Stratagene).  Many restriction sites available for excising Bsr gene.  Reference for pUCBsr&#61508;Bam - Adachi H, Hasebe T, Yoshinaga K, Ohta T, Sutoh K. (1994) Isolation of Dictyostelium discoideum cytokinesis mutants by restriction enzyme-mediated integration of the blasticidin S resistance marker. Biochem Biophys Res Commun. 205:1808-14.
+DBP0000457	pRHI76	Extrachromosomal expression vector. Aequorin inserted as BglII-NotI fragment between the constitutive actin15 promoter and the 2H3 terminator of pRHI8.
+DBP0000458	pJSK19	Myc-tagged Dictyostelium replacement Arp2 expressed in pRHI76.
+DBP0000462	mrrA:lacZ	Complete <i>mrrA</i> upstream promoter region fused to lacZ.
+DBP0000471	pBSR-GFPABD120	Vector containing a blasticidin resistance cassette, expressing a fusion of GFP and the actin-binding domain of ABD120 (filamin).
+DBP0000474	mars-ABD120	Vector with a bsR-resistance cassette, expressing a fusion  of the actin-binding domain of ABD120 (filamin) and RFP.  The plasmid was originally constructed by Annette Mueller-Taubenberger. The sequence was repaired by Dave Knecht (Y218N)
+DBP0000476	pVSE	Expression vector with ecmA promoter (prestalk cells) for secretory proteins. G418 selectable. BglII and BamHI sites upstream of, and downstream from, a c-myc tag.    Vector is derived from pVS4 by replacement of the discoidin promoter with the ecmA promoter.
+DBP0000477	pVS-Hyg	Expression vector with discoidin promoter (growing cells) for secretory proteins. Hygromycin selectable. BglII and BamHI sites upstream of and downstream from a c-myc tag. The SalI fragment (hygR cassette) from pDHGFP was cloned into the XhoI site of pVS4 (pVS clone 4). NruI and AfeI were used to remove most of the neoR cassette (personal commun. Chris West).
+DBP0000478	pRNR-zyg1	Inducible expression vector for  overexpression of the zyg1 gene.
+DBP0000480	VA6aco	Vector containing the actin 6 promoter upstream of the Dd-aco cDNA and the V18 promoter upstream of the neoR gene (Tn5).
+DBP0000485	pLAI7	apm4-knockout construct. PCR-amplified 3' and 5' regions of apm4 (mu4 or &micro;4), with a bsR cassette inserted in between, in pBluescript.
+DBP0000486	pFL474	apm2-knockout construct. PCR-amplified 3' and 5' regions of apm2 (mu2 or ?2), with a bsR cassette inserted in between, in pBluescript.
+DBP0000489	pFL619	&gamma;-Adaptin-GFP expression construct in pDXA-3C.
+DBP0000492	DsRed	DsRed expression vector pDG75 (expressing Discosoma sp. Red Fluorescent protein);     transformed bacteria are red  when grown in LB with ampicillin (75 ?g/ml) and 1 mM IPTG.
+DBP0000497	GFP-Syntaxin8	KpnI-GFP-SacI-BamHI-Syntaxin8-XhoI-NsiI-myc-<u>stop</u> (in pDXD-3C)    Decorates the bladders and tubular network of the contractile vacuole.
+DBP0000567	pDM312	Plasmid containing C-terminal mRFPmars tag.
+DBP0000568	pDM347	Plasmid containing Gateway conversion cassette.
+DBP0000571	pV18-labile-luc	labile luciferase gene under control of the V18 (rpl11) promoter
+DBP0000572	pPSA-labile-S65T-GFP	psA promoter driving short-lived GFP, in V18Tn5 backbone
+DBP0000573	pPsA-i-alpha-gal	psA promoter driving labile gal in V18Tn5DRE
+DBP0000578	pEcmA0-i-alpha-gal & pEcmA0-Ugus	ecmA0 promoter (aka "63") driving labile gal and stable gus
+DBP0000635	pTX-MKC2	FLAG fusion at N-terminus of MHCKC with actin 15 promoter
+DBP0000640	pDDB_G0268888-REMI	bacterial selection: amp; dicty selection: bsR; parent pBBC
+DBP0000641	pDDB_G0269760-REMI	bacterial selection: amp; dicty selection: bsR; parent pBBC
+DBP0000642	pDDB_G0270786-REMI	bacterial selection: amp; dicty selection: bsR; parent pBBC
+DBP0000643	pDDB_G0272885-DDB_G0274011-REMI	bacterial selection: amp; dicty selection: bsR; parent pBBC
+DBP0000644	pDDB_G0273131-DDB_G0273639-REMI	bacterial selection: amp; dicty selection: bsR; parent pBBC
+DBP0000645	pDDB_G0274689-REMI	bacterial selection: amp; dicty selection: bsR; parent pBBC
+DBP0000646	pDDB_G0275467-REMI	bacterial selection: amp; dicty selection: bsR; parent pBBC
+DBP0000647	pDDB_G0277103-REMI	bacterial selection: amp; dicty selection: bsR; parent pBBC
+DBP0000648	pDDB_G0277545-REMI	bacterial selection: amp; dicty selection: bsR; parent pBBC
+DBP0000649	pDDB_G0280375-REMI	bacterial selection: amp; dicty selection: bsR; parent pBBC
+DBP0000650	pDDB_G0281057-REMI	bacterial selection: amp; dicty selection: bsR; parent pBBC
+DBP0000651	pDDB_G0281769-REMI	bacterial selection: amp; dicty selection: bsR; parent pBBC
+DBP0000652	pDDB_G0281975-REMI	bacterial selection: amp; dicty selection: bsR; parent pBBC
+DBP0000653	pDDB_G0282491-REMI	bacterial selection: amp; dicty selection: bsR; parent pBBC
+DBP0000654	pDDB_G0286967-REMI	bacterial selection: amp; dicty selection: bsR; parent pBBC
+DBP0000655	pDDB_G0287895/DDB_G0287897-REMI	bacterial selection: amp; dicty selection: bsR; parent pBBC
+DBP0000656	pDDB_G0288419-REMI	bacterial selection: amp; dicty selection: bsR; parent pBBC
+DBP0000657	pDDB_G0288419-REMI	bacterial selection: amp; dicty selection: bsR; parent pBBC
+DBP0000658	pDDB_G0289805-REMI	bacterial selection: amp; dicty selection: bsR; parent pBBC
+DBP0000659	pDDB_G0293982-REMI	bacterial selection: amp; dicty selection: bsR; parent pBBC
+DBP0000660	pDDB_G0305538-REMI	bacterial selection: amp; dicty selection: bsR; parent pBBC
+DBP0000533	pDM326	Extrachromosomal expression vector. MCS BglII/SpeI. Blasticidin resistance.
+DBP0000534	pDM358	Extrachromosomal expression vector. MCS BglII/SpeI. Hygromycin resistance.
+DBP0000541	pDM324	Extrachromosomal expression vector. MCS BglII/SpeI. G418 resistance. C-terminal mRFPmars tag.
+DBP0000544	pDM352	Extrachromosomal expression vector. Gateway. G418 resistance. N-terminal mRFPmars tag.
+DBP0000545	pDM354	Extrachromosomal expression vector. Gateway. G418 resistance. C-terminal mRFPmars tag.
+DBP0000546	pDM353	Extrachromosomal expression vector. Gateway. G418 resistance. C-terminal GFP tag.
+DBP0000547	pDM448	Extrachromosomal modular expression vector. Gateway. Hygromycin resistance. N-terminal GFP tag.
+DBP0000558	pDM413	NgoMIV shuttle vector. Gateway. C-terminal mRFPmars tag.
+DBP0000560	pDM414	NgoMIV shuttle vector. Gateway.
+DBP0000562	pDM131	Plasmid containing N-terminal mRFPmars tag.
+DBP0000563	pDM193	Plasmid containing N-terminal GST tag.
+DBP0000566	pDM313	Plasmid containing C-terminal GFP tag.
+DBP0000574	pPsA-i-alpha-gal & pPSA-Ugus	psA promoter driving labile gal and stable gus
+DBP0000581	pEcm0-i-alpha-gal & pEcm0-Ugus	ecm0 promoter driving labile gal and stable gus
+DBP0000582	pTagB/GFP(S65T)	GFP(S65T) expressed under the control of the tagB promoter
+DBP0000583	pCotB/GFP(S65T)	GFP(S65T) expressed under the control of the cotB promoter
+DBP0000590	pLoxNeoII	contains G418 cassette and loxP sequence; parent: pUC19
+DBP0000598	pGFP-2FYVE	contains two copies of the FYVE domain from the human Hrs gene fused to the C-terminus of GFP in the Dictyostelium expression vector pTX-GFP; labels membranes enriched in phosphatidylinositol (3)-phosphate (early endosomes); NOTE, the attached map depicts the parental vector pTX-GFP
+DBP0000634	pTX-MKA1	carries GFP fused to N-terminus of MHCKA, with actin 15 promoter
+DBP0000636	pTX-MKA2	FLAG fusion at N-terminus of MHCKA, with actin 15 promoter
+DBP0000676	pDDB_G0278171-REMI	bacterial selection: amp; dicty selection: bsR; parent pBBC
+DBP0000703	pDDB_G0274267-REMI	bacterial selection: amp; dicty selection: bsR; parent pBBC
+DBP0000704	pDDB_G0277431-REMI	bacterial selection: amp; dicty selection: bsR; parent pBBC
+DBP0000705	pDDB_G0272965-REMI	bacterial selection: amp; dicty selection: bsR; parent pBBC
+DBP0000706	pDDB_G0272670-REMI	bacterial selection: amp; dicty selection: bsR; parent pBBC
+DBP0000707	pDDB_G0295493-REMI	bacterial selection: amp; dicty selection: bsR; parent pBBC
+DBP0000708	pDDB_G0275745-REMI	bacterial selection: amp; dicty selection: bsR; parent pBBC
+DBP0000709	pDDB_G0289231-REMI	bacterial selection: amp; dicty selection: bsR; parent pBBC
+DBP0000710	pDDB_G0275241-REMI	bacterial selection: amp; dicty selection: bsR; parent pBBC
+DBP0000580	pEcm0-i-alpha-gal	ecm0 promoter driving labile gal in V18Tn5 backbone
+DBP0000585	pDXA-YFP-MCS1-PKA-Fret	cAMP-binding domain B from the mammalian PKA RII &#946;-subunit cloned between eCFP and eYFP in a Dictyostelium expression vector; FRET probe to detect cAMP in Dicty.  The map are is the parental vector pDXA-YFP-MCS, see sequence for more information.
+DBP0000592	pTasBloxP-KO	plasmid for knocking out tasB in Polysphondylium pallidum; parent: pLoxNeoI (DSC: 589)
+DBP0000593	pTasBexp	Vector for expression of TasB under its own promoter
+DBP0000604	pDEX-Cre-hygR	Dictyostelium Cre expression vector with a hygromycin resistance cassette.
+DBP0000605	pDchtC	Knockout vector to delete almost the entire chtC gene. Linearize with BamHI and use for homologous recombination. Used to create CCR2 / DBS0307850.
+DBP0000606	pTagB/lacZ	Dictyostelium expression vector, expressing lacZ under the tagB promoter.
+DBP0000621	pDBsr2a-cTAP	
+DBP0000632	pTX-MKB1	carries GFP fused to N-terminus of MHCKB, with actin 15 promoter
+DBP0000711	pDDB_G0284847-REMI	bacterial selection: amp; dicty selection: bsR; parent pBBC
+DBP0000712	pDDB_G0273315-REMI	bacterial selection: amp; dicty selection: bsR; parent pBBC
+DBP0000713	pDDB_G0280943-REMI	bacterial selection: amp; dicty selection: bsR; parent pBBC
+DBP0000714	pDDB_G0292168-REMI	bacterial selection: amp; dicty selection: bsR; parent pBBC
+DBP0000715	pDDB_G0278457-REMI	bacterial selection: amp; dicty selection: bsR; parent pBBC
+DBP0000716	pDDB_G0289791-REMI	bacterial selection: amp; dicty selection: bsR; parent pBBC
+DBP0000717	pDDB_G0291824-REMI	bacterial selection: amp; dicty selection: bsR; parent pBBC
+DBP0000718	pAct15/SodA-myc	C-terminal myc-tag/sodA cloned into pAct15-Gal
+DBP0000719	pItpk1-OE	itpk1 overexpression vector
+DBP0000720	pIpkA1-OE	ipkA1 overexpression vector with an N-terminal FLAG tag; the parental vector is ptx-FLAG
+DBP0000722	pDDB_G0276269-REMI	bacterial selection: amp; dicty selection: bsR; parent pBBC
+DBP0000723	pDDB_G0291350-REMI	bacterial selection: amp; dicty selection: bsR; parent pBBC
+DBP0000724	pDDB_G0267692-REMI	bacterial selection: amp; dicty selection: bsR; parent pBBC
+DBP0000725	pDDB_G0285747-REMI	bacterial selection: amp; dicty selection: bsR; parent pBBC
+DBP0000726	pDDB_G0290347-REMI	bacterial selection: amp; dicty selection: bsR; parent pBBC
+DBP0000727	pDDB_G0279355-REMI	bacterial selection: amp; dicty selection: bsR; parent pBBC
+DBP0000728	pDDB_G0277487-REMI	bacterial selection: amp; dicty selection: bsR; parent pBBC
+DBP0000535	pDM317	Extrachromosomal expression vector. MCS BglII/SpeI. G418 resistance. N-terminal GFP tag. - Douwe Veltman will send a new version of the plasmid (April 2009)
+DBP0000536	pDM318	Extrachromosomal expression vector. MCS BglII/SpeI. G418 resistance. N-terminal mRFPmars tag.
+DBP0000538	pDM320	Extrachromosomal expression vector. MCS BglII/SpeI. G418 resistance. N-terminal FLAG tag.
+DBP0000540	pDM323	Extrachromosomal expression vector. MCS BglII/SpeI. G418 resistance. C-terminal GFP tag.
+DBP0000542	pDM321	Extrachromosomal expression vector. MCS BglII/SpeI. G418 resistance. C-terminal TAP tag.
+DBP0000543	pDM351	Extrachromosomal expression vector. Gateway. G418 resistance. N-terminal GFP tag.
+DBP0000548	pDM449	Extrachromosomal modular expression vector. Gateway. Hygromycin resistance. N-terminal mRFPmars tag.
+DBP0000549	pDM451	Extrachromosomal modular expression vector. Gateway. Hygromycin resistance. C-terminal mRFPmars tag.
+DBP0000556	pDM410	NgoMIV shuttle vector. Gateway. N-terminal GFP tag.
+DBP0000557	pDM411	NgoMIV shuttle vector. Gateway. N-terminal mRFPmars tag.
+DBP0000559	pDM412	NgoMIV shuttle vector. Gateway. C-terminal GFP tag.
+DBP0000570	pA15BSR-pic20HmcsR	act15:BSR vector with the pic20H multiple cloning site inserted in the reverse orientation at the 3' end of the act8 terminator
+DBP0000575	pEcmB-i-alpha-gal	ligation of ecmBprom into iDQgal backbone
+DBP0000576	pEcmA0-labile-S65T-GFP	ecmA promoter driving semilabile GFP in V18Tn5DRE
+DBP0000577	pEcmA0-i-alpha-gal	ecmA whole promoter driving iDQgal / V18Tn5 backbone
+DBP0000579	pEcm0-labile-S65T-GFP	ligation of labile GFP into pst0p/V18Tn5 backbone
+DBP0000599	pTasB:Gal	This vector contains lacZ driven by TasB promoter
+DBP0000619	pDneo2a-GFP-TAP	
+DBP0000623	pDBsr2a-TAP-6xMyc	
+DBP0000625	pDneo2a-mRFP	
+DBP0000629	pDBsrXP-GFP	
+DBP0000661	pMidA-KO	Mid A KO vector; dicty resistance marker is blasticidin; bacterial resistance marker is Ampicillin; parental vector is pGEMt from PROMEGA
+DBP0000729	pDDB_G0286031-REMI	bacterial selection: amp; dicty selection: bsR; parent pBBC
+DBP0000730	pDDB_G0287877-REMI	bacterial selection: amp; dicty selection: bsR; parent pBBC
+DBP0000731	pDDB_G0288007-REMI	bacterial selection: amp; dicty selection: bsR; parent pBBC
+DBP0000732	pDDB_G0278235-REMI	bacterial selection: amp; dicty selection: bsR; parent pBBC
+DBP0000733	pDDB_G0289503-REMI	bacterial selection: amp; dicty selection: bsR; parent pBBC
+DBP0000734	pDDB_G0290481-REMI	bacterial selection: amp; dicty selection: bsR; parent pBBC
+DBP0000735	pDDB_G0291263-REMI	bacterial selection: amp; dicty selection: bsR; parent pBBC
+DBP0000633	pTX-MKC1	carries GFP at N-terminus of MHCKC, with actin 15 promoter
+DBP0000589	pLoxNeoI	contains G418 cassette and loxP sequence; parent: pUC19
+DBP0000591	pTasAloxP-KO	plasmid for knocking out tasA in Polysphondylium pallidum; parent: pLoxNeoI (DSC: 589)
+DBP0000602	pHYG-tgrC1-KO	tgrC1 knock-out plasmid
+DBP0000721	PH-PLC&#948;1-GFP	Used for live cell microscopy, labels membranes containing PI(4,5)P2.
+DBP0000736	pDDB_G0285859-REMI	bacterial selection: amp; dicty selection: bsR; parent pBBC
+DBP0000737	pDDB_G0295493-REMI	bacterial selection: amp; dicty selection: bsR; parent pBBC
+DBP0000738	pDDB_G0295493-REMI	bacterial selection: amp; dicty selection: bsR; parent pBBC
+DBP0000739	pDDB_G0267380-REMI	bacterial selection: amp; dicty selection: bsR; parent pBBC
+DBP0000740	pDDB_G0295493-REMI	bacterial selection: amp; dicty selection: bsR; parent pBBC
+DBP0000741	pDDB_G0267938-REMI	bacterial selection: amp; dicty selection: bsR; parent pBBC
+DBP0000742	pDDB_G0273059-DDB_G0273737-REMI	bacterial selection: amp; dicty selection: bsR; parent pBBC
+DBP0000743	pDDB_G0270652-REMI	bacterial selection: amp; dicty selection: bsR; parent pBBC
+DBP0000744	pDDB_G0269288-REMI	bacterial selection: amp; dicty selection: bsR; parent pBBC
+DBP0000745	pDDB_G0291800-REMI	bacterial selection: amp; dicty selection: bsR; parent pBBC
+DBP0000746	pDDB_G0270470-REMI	bacterial selection: amp; dicty selection: bsR; parent pBBC
+DBP0000747	pDDB_G0270724-REMI	bacterial selection: amp; dicty selection: bsR; parent pBBC
+DBP0000748	pDDB_G0285747-REMI	bacterial selection: amp; dicty selection: bsR; parent pBBC
+DBP0000749	pDDB_G0278945-REMI	bacterial selection: amp; dicty selection: bsR; parent pBBC
+DBP0000778	pTgrB1-hyg	Used to KO tgrB1 (DDB_G0280689). Bacterial selection: amp; dicty selection: hygR; parent pLPBLP
+DBP0000779	pTgrB1/AX4:DEST- bsR	Destination vector (Invitrogen system) to insert any allele into the tgrB1 single gene replacement system, which would insert this allele into tgrB1 locus. Bacterial selection: amp and chloramphenicol; dicty selection: bsR; parent pLPBLP
+DBP0000780	pTgrB1/AX4:tgrB1/AX4-bsR	tgrB1 single gene replacement plasmid with tgrB1-AX4 allele. Bacterial selection: amp; dicty selection: bsR; parent pLPBLP
+DBP0000781	pTgrB1/AX4]:tgrB1/QS4-bsR	tgrB1 single gene replacement plasmid with tgrB1-QS4 allele. Bacterial selection: amp; dicty selection: bsR; parent pLPBLP
+DBP0000782	pTgrB1/AX4:tgrB1/QS31-bsR	tgrB1 single gene replacement plasmid with tgrB1-QS31 allele. Bacterial selection: amp; dicty selection: bsR; parent pLPBLP
+DBP0000783	pTgrB1/AX4:tgrB1/QS38-bsR	tgrB1 single gene replacement plasmid with tgrB1-QS38 allele. Bacterial selection: amp; dicty selection: bsR; parent pLPBLP
+DBP0000784	pTgrB1/AX4:tgrB1/QS45-bsR	tgrB1 single gene replacement plasmid with tgrB1-QS45 allele. Bacterial selection: amp; dicty selection: bsR; parent pLPBLP
+DBP0000785	pTgrC1/AX4]:DEST- bsR	Destination vector (Invitrogen system) to insert any allele into the tgrC1 single gene replacement system, which would insert this allele into tgrC1 locus. Bacterial selection: amp and chloromphenicol; dicty selection: bsR; parent pLPBLP
+DBP0000553	pDM328	NgoMIV shuttle vector. MCS BglII/SpeI. N-terminal mRFPmars tag.
+DBP0000555	pDM329	NgoMIV shuttle vector. MCS BglII/SpeI. C-terminal GFP tag.
+DBP0000569	pA15BSR-pic20HmcsF	act15:BSR vector with the pic20H multiple cloning site inserted in the forward orientation at the 3' end of the act8 terminator
+DBP0000600	pDneo2a-6xMYC	
+DBP0000611	pDneo2a-TAP-GFP	
+DBP0000614	pDneo2a-6xMyc	
+DBP0000620	pDBsr2a-nTAP	
+DBP0000622	pDBsr2a-6xMyc-TAP	
+DBP0000624	pDneo2a-3xFLAG	
+DBP0000626	pDBsrXP-3xHA	
+DBP0000627	pDBsrXP-6xMyc	
+DBP0000639	pEcmAO-RFPmars	
+DBP0000677	pDDB_G0285859-REMI	bacterial selection: amp; dicty selection: bsR; parent pBBC
+DBP0000678	pDDB_G0268222-REMI	bacterial selection: amp; dicty selection: bsR; parent pBBC
+DBP0000679	pDDB_G0291464-REMI	bacterial selection: amp; dicty selection: bsR; parent pBBC
+DBP0000680	pDDB_G0284159-REMI	bacterial selection: amp; dicty selection: bsR; parent pBBC
+DBP0000681	pDDB_G0293662-REMI	bacterial selection: amp; dicty selection: bsR; parent pBBC
+DBP0000684	pDDB_G0278353-REMI	bacterial selection: amp; dicty selection: bsR; parent pBBC
+DBP0000685	pDDB_G0279135-REMI	bacterial selection: amp; dicty selection: bsR; parent pBBC
+DBP0000686	pDDB_G0282113-REMI	bacterial selection: amp; dicty selection: bsR; parent pBBC
+DBP0000687	pDDB_G0270666-REMI	bacterial selection: amp; dicty selection: bsR; parent pBBC
+DBP0000688	pDDB_G0269834-REMI	bacterial selection: amp; dicty selection: bsR; parent pBBC
+DBP0000689	pDDB_G0287421_RTE-REMI	bacterial selection: amp; dicty selection: bsR; parent pBBC
+DBP0000690	pDDB_G0269306-REMI	bacterial selection: amp; dicty selection: bsR; parent pBBC
+DBP0000691	pDDB_G0287515-REMI	bacterial selection: amp; dicty selection: bsR; parent pBBC
+DBP0000692	pDDB_G0277951-REMI	bacterial selection: amp; dicty selection: bsR; parent pBBC
+DBP0000693	pDDB_G0279783-REMI	bacterial selection: amp; dicty selection: bsR; parent pBBC
+DBP0000694	pDDB_G0269150-REMI	bacterial selection: amp; dicty selection: bsR; parent pBBC
+DBP0000695	pDDB_G0286363-REMI	bacterial selection: amp; dicty selection: bsR; parent pBBC
+DBP0000696	pDDB_G0287659-REMI	bacterial selection: amp; dicty selection: bsR; parent pBBC
+DBP0000552	pDM327	NgoMIV shuttle vector. MCS BglII/SpeI. N-terminal GFP tag.
+DBP0000554	pDM330	NgoMIV shuttle vector. MCS BglII/SpeI. C-terminal mRFPmars tag.
+DBP0000561	pGFP (1-21)	plasmid containing GFP tag for N-terminal fusion
+DBP0000564	pDM229	Plasmid containing N-terminal TAP tag.
+DBP0000565	pDM276	Plasmid containing C-terminal TAP tag.
+DBP0000584	pEcmA/GFP(S65T)	GFP(S65T) expressed under the control of the ecmA promoter
+DBP0000841	pMB74	Expression construct under control of the actin15 promoter
+DBP0000601	pBSR-tgrB1-KO	tgrB1 knock-out plasmid
+DBP0000608	pDneo2a-nTAP	
+DBP0000609	pDneo2a-TAP-6xMyc	
+DBP0000610	pDneo2a-TAP-3xHA	
+DBP0000612	pDneo2a	Expression vector created by modifying the commonly used pDneo2 vector, removing the first 8 amino acids and start codon of the actin 6 gene.
+DBP0000613	pDneo2a-GFP	expression vector for GFP under the control of the actin 6 promoter; parental vector is  pDneo2a that has the first amino acids and start codon of act6 removed; neomycin resistance
+DBP0000615	pDneo2a-3xHA	
+DBP0000616	pDneo2a-cTAP	
+DBP0000617	pDneo2a-3xHA-TAP	
+DBP0000618	pDneo2a-6xMyc-TAP	
+DBP0000638	pEcmB-RFPmars	MARS-RFP fusion expression vector (pre-stalk marker)
+DBP0000697	pDDB_G0270586-REMI	bacterial selection: amp; dicty selection: bsR; parent pBBC
+DBP0000698	pDDB_G0283535-REMI	bacterial selection: amp; dicty selection: bsR; parent pBBC
+DBP0000699	pDDB_G0271808-REMI	bacterial selection: amp; dicty selection: bsR; parent pBBC
+DBP0000700	pDDB_G0277245-REMI	bacterial selection: amp; dicty selection: bsR; parent pBBC
+DBP0000701	pDDB_G0273017-REMI	bacterial selection: amp; dicty selection: bsR; parent pBBC
+DBP0000702	pDDB_G0290535-REMI	bacterial selection: amp; dicty selection: bsR; parent pBBC
+DBP0000843	pLox-NeoI-RegA	Plasmid for knocking out regA in Polysphondylium pallidum; parent: pLoxNeoI (DSC: 589)
+DBP0000537	pDM314	Extrachromosomal expression vector. MCS BglII/SpeI. G418 resistance. N-terminal GST tag.
+DBP0000539	pDM315	Extrachromosomal expression vector. MCS BglII/SpeI. G418 resistance. N-terminal TAP tag.
+DBP0000550	pDM450	Extrachromosomal modular expression vector. Gateway. Hygromycin resistance. C-terminal GFP tag.
+DBP0000551	pDM344	NgoMIV shuttle vector. MCS BglII/SpeI.
+DBP0000587	pRccA	plasmid to create rccA knock out mutant; parent plasmid: pBSR1
+DBP0000588	pchtC	Inserted PCR fragment containing regions from the chtC gene (around the insertion site) from pLAS5 (using SP6 and T7 primers) into the ClaI site of the pLPBLP plasmid.  Parental strain: pLPBLP (pBluescript II KS+ backbone)
+DBP0000596	pPRX-GFP	expresses a fusion of GFP to the peroxisomal targeting sequence Ser-Lys-Leu-COOH, under the control of the actin-15 promoter. This plasmid brightly labels peroxisomes in Dictyostelium cells; based on pPRX?GFP
+DBP0000597	pTopA-GFP	fusion of GFP to the first 35 amino acids of Dictyostelium DNA topoisomerase II (topA, aka top2mt), which targets the GFP to mitochondria; brightly labels mitochondria in Dictyostelium cells; construct made in pDXA-3H
+DBP0000603	pTagB-BsR	REMI rescue construct from a tagB insertion mutant (insertion at position 2672 of the tagB coding region). Linearize with ClaI to use for homologous recombination
+DBP0000630	pDBsrXP-mRFPmars	
+DBP0000631	pA15-500-myc	Plasmid to drive the overexpression of SOD using the actin 15 promoter; contains C-terminal myc tag.
+DBP0000637	pTX-MKB2	FLAG fusion at N-terminus of MHCKB, with actin 15 promoter
+DBP0001013	pTgrB1-HA/tgrC1	tgrB1-tgrC1 allele of AX4 replacement plasmid; tgrB1 has C-terminal HA tag; plasmid resistance marker (Dicty): pyr5-6
+DBP0001014	pTgrB1&#916;C-HA/tgrC1	tgrB1/tgrC1 allele of AX4 replacement plasmid; tgrB1 has C-terminal tuncation (828-902) in cytosolic domain and HA tag; plasmid resistance marker (Dicty): pyr5-6
+DBP0001020	pDXA-A15ssHis7TgrB1ex(AX4)	secretory over-expression His-tagged TgrB1(AX4)extracellular domain; plasmid resistance marker (Dicty): neoymycin; parental vector: pDXA; insert length: 2.8kb
+DBP0001026	pDXA-A15TgrC1ex(QS4)	secretory over-expression untagged tgrC1(QS4) extracellular domain; plasmid resistance marker (Dicty): neomycin; parental vector: pDXA; insert length: 2.8kb
+DBP0001028	pDXA-A15TgrC1ex(QS37)	secretory over-expression untagged tgrC1(QS37) extracellular domain; plasmid resistance marker (Dicty): neomycin; parental vector: pDXA; insert length: 2.8kb
+DBP0001029	pDXA-A15TgrC1ex(QS45)	secretory over-expression untagged tgrC1(QS45) extracellular domain; plasmid resistance marker (Dicty): neomycin; parental vector: pDXA; insert length: 2.8kb
+DBP0000668	pDDB_G0278663-REMI	bacterial selection: amp; dicty selection: bsR; parent pBBC; Clone 1 of 2
+DBP0000669	pDDB_G0278663-REMI	bacterial selection: amp; dicty selection: bsR; parent pBBC; Clone 2 of 2
+DBP0001038	pDd17-gal-DDB_G0278537	DDB_G0278537 promoter driven by LacZ; plasmid resistance marker (dicty): neomycin; insert length: 1kb; parental vector: pDd17-gal
+DBP0000672	pDDB_G0282113-REMI	bacterial selection: amp; dicty selection: bsR; parent pBBC
+DBP0001030	pDMBsr-tgrB1::ssmycTgrB1ex(AX4)	expression myc-tagged tgrB1(AX4) whole protein; plasmid resistance marker (Dicty): blasticidin; parental vector: pDMBSr; insert length: 2.8kb
+DBP0001039	pDd17-gal-DDB_G0282455	DDB_G0282455 promoter driven by LacZ; plasmid resistance marker (dicty): neomycin; insert length: 1.2kb; parental vector: pDd17-gal
+DBP0001040	pDd17-gal-DDB_G0292810	DDB_G0292810 promoter driven by LacZ; plasmid resistance marker (dicty): neomycin; insert length: 2.0kb; parental vector: pDd17-gal
+DBP0000801	pGFP-pgkA	The gene coding for PgkA (DDB_G0287595) was amplified by RT-PCR using RNA isolated from growing cells. The fragment was then cloned into the XhoI-XbaI sites of the vector pTX-GFP (kindly deposited in the DSC by Tom Egelhoff).NOTE, the attached map depicts the parental vector pTX-GFP
+DBP0000803	pGFP-Tkt	The gene coding for Tkt-1 (DDB_G0272618) was amplified by RT-PCR using RNA isolated from growing cells. The fragment was then cloned into the XhoI-XbaI sites of the vector pTX-GFP (kindly deposited at the DSC by Tom Egelhoff).
+DBP0000804	pPK6	acaA was tagged at the c-terminal end with YFP using a sph-1 linker. This construct was used for over-expressing ACA-YFP for fluorescent microscopy.
+DBP0000805	pLP122	Plasmid expressing an N-terminal GFP tag followed by the wshA coding sequence. The expressed fusion protein demonstrates the expected localization in Dictyostelium cells, and rescues the phenotype of the wshA-null mutant.
+DBP0000815	pDM295	tet-on control vector expressing luciferase
+DBP0000817	pAmpAFB-	Plasmid used to knock out the gene, ampA. Plasmids was constructed with removable floxed bsr cassette and contains a 1000 bp coding region of ampA and another 1500 bp coding region downstream of the first.  A 500 bp sequence was left out between the two coding regions.  The regions were inserted at EcoRI, HindIII and SpeI, SacII restriction sites into a pBluescript plasmid containing a floxed bsr cassette previously inserted at a SmaI site.
+DBP0000820	pGSTCAST	The plasmid was used to create a GST fusion product of the CAST domain in DDB_G0272368/ndm. The CAST domain gene (amino acids 650 ? 1628) segment of DDB_G0272368/ndm was cloned into a pGEX-6P-1 vector (GE Healthcare). The pGEX-6P-1 contains a tac promoter and lacIq gene for inducible expression by Isopropyl beta-D-1-thiogalactopyranoside (IPTG), and also a GST fusion protein tag for placement on the N-terminus of the protein segment.
+DBP0000821	pGSTGBD	The plasmid was used to create a GST fusion product of the GBDs domain in DDB_G0272368/ndm. The GBD domain gene (amino acids 163 ? 921) segment of DDB_G0272368/ndm was cloned into a pGEX-6P-1 vector (GE Healthcare). The pGEX-6P-1 contains a tac promoter and lacIq gene for inducible expression by Isopropyl beta-D-1-thiogalactopyranoside (IPTG), and also a GST fusion protein tag for placement on the N-terminus of the protein segment.
+DBP0000864	pDDB_G0293550-REMI	DDB_G0293550 REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr6:3024213
+DBP0000861	pLmpB-REMI	lmpB REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr4:5254791
+DBP0000863	pDDB_G0275747-REMI	DDB_G0275747 REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr2:5873088
+DBP0000866	pDDB_G0282463-REMI	DDB_G0282463 REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr3:5793047
+DBP0001041	pDd17-gal-PPL_04427	PPL_04427 promoter driven by LacZ; plasmid resistance marker (dicty): neomycin; insert length: 4.5kb; parental vector: pDd17-gal
+DBP0000818	pGFPsma	The plasmid was used to generate an overexpression of the gene, DDB_G0281803/sma. The rescue plasmid was constructed containing an N-terminal GFP coding sequence and a Gly-Pro-Gly linker sequence fused to the sma cDNA.  The plasmid also contains an actin 15 promoter and terminator.  The full length sma cDNA replaced the arp2/3 gene at BamHI and SacI restriction sites in the GFP-Arp2/pBIG plasmid.
+DBP0000852	pDDB_G0267458-REMI	DDB_G0267458 REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr1:202526
+DBP0000824	pAmpA-mRFP	The mRFP-AmpA plasmid was constructed so that the AmpA hydrophobic leader sequence (MLNKLILLLILSSCLVLSVKSEV ? predicted cleavage site underlined) preceded the mRFP coding sequence (Fischer et al 2004) which was followed by the remainder of the AmpA coding sequence starting with the amino acid ?N? which immediately follows the hydrophobic leader. A BglII(ampA promoter region) ?Age I (AmpA coding region well C-terminal to the hydrophobic leader) fragment containing the hydrophobic leader-mRFP fused in frame to ampA coding sequence was cloned into the BglII ?AgeI site in a genomic copy of the full length ampA gene in pGem3 (pGem3-C12) to replace the endogenous Bgl II-Age I fragment and the floxed blastocidin cassette from pLPBLP (Kimmel 2006) was inserted in the multiple cloning site at the Pst1-Xma1 site. This plasmid has been introduced as a closed circular plasmid and expresses mRFP-AmpA and gives an overexpresser phenotype. It is necessary to use antibody to detect the fusion protein because the mRFP signal is not strong enough to image live cells.
+DBP0000825	pNdm-ko	The original REMI plasmid (pGEM3) with flanking ndm genomic DNA linearized with ClaI   was used to create knockout strains in Wt, ampAOE and ampA- backgrounds. The pGEM3 plasmid which has a 1488bp blasticidin resistance cassette (added at a SmaI site) was linearized by BamHI and incorporated into the DDB_G0272368/ndm gene.  The NDMko plasmid was removed using ClaI to include flanking gene DNA, sufficient to create future ndm gene knockouts.
+DBP0000829	pSma-mRFP	The plasmid was used for a knock-in gene replacement of   DDB_G0281803/sma, such that the product would contain a C-terminal mRFP tag. The SMAmRFP plasmid contains a 3? coding region and a non-coding region sequence for promoting homologous recombination.  The coding region is followed in frame by the mRFPmars coding sequence at the carboxy terminus of the protein.  Following the mRFPmars coding region is a 270 bp AmpA terminator sequence.  The plasmid also contains a floxed blasticidin resistant cassette inserted at the SmaI site for selection.
+DBP0000847	pDDB_G0283373-REMI	DDB_G0283373 REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr4:556693
+DBP0000854	pDDB_G0268806_ps-REMI	DDB_G0268806_ps REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr1:2140882
+DBP0000855	pAdprt1B-REMI	adprt1B REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr3:1745536
+DBP0000859	pDG1113 -REMI	DG1113 REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr3:4213739
+DBP0000865	pDDB_G0285605-REMI	DDB_G0285605 REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr4:3453642
+DBP0000867	pDDB_G0279727-REMI	DDB_G0279727 REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr3:2394355
+DBP0000868	pAbcG16-REMI	abcG16 REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr5:2689877
+DBP0000869	pDDB_G0273053-REMI	DDB_G0273053 REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr2:2288489
+DBP0000890	pDDB_G0284899-REMI	DDB_G0284899 REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr4:2616787
+DBP0000891	pDDB_G0280583-REMI	DDB_G0280583 REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr3:3528613
+DBP0000786	pTgrC1/AX4:tgrC1AX4-bsR	tgrC1 single gene replacement plasmid with tgrC1-AX4 allele. Bacterial selection: amp; dicty selection: bsR; parent Plpblp
+DBP0000787	pTgrC1/AX4:tgrC1QS4-bsR	tgrC1 single gene replacement plasmid with tgrC1-QS4 allele. Bacterial selection: amp; dicty selection: bsR; parent pLPBLP
+DBP0000788	pTgrC1/AX4:tgrC1QS31-bsR	tgrC1 single gene replacement plasmid with tgrC1-QS31 allele. Bacterial selection: amp; dicty selection: bsR; parent pLPBLP
+DBP0000789	pTgrC1/AX4:tgrC1QS38-bsR	tgrC1 single gene replacement plasmid with tgrC1-QS38 allele. Bacterial selection: amp; dicty selection: bsR; parent pLPBLP
+DBP0000790	pTgrC1/AX4:tgrC1QS45-bsR	tgrC1 single gene replacement plasmid with tgrC1-QS45 allele. Bacterial selection: amp; dicty selection: bsR; parent pLPBLP
+DBP0000791	pPyr56-KO	Used to KO pyr56 gene (DDB_G0280041). Bacterial selection: amp; dicty selection: none (5FOA); parent pMfeI-tRNA (ochre), based on pBluescript II SK(-)
+DBP0000792	pTgrB1/tgrC1-KO-pyr56+	Used to KO tgrB1 (DDB_G0280689) and tgrC1 (DDB_G0280531) and insert a pyr56 gene (DDB_G02800041) into the tgrB1/tgrC1 locus. Bacterial selection: amp; dicty selection: none; parent pRHI13
+DBP0000793	pAX4-tgrB1/tgrC1	tgrB1/tgrC1 double gene replacement plasmid with tgrB1-AX4 and tgrC1-AX4 alleles, driven by AX4 promoter. Used to insert these alleles into the tgrB1/tgrC1 locus. Bacterial selection: amp; dicty selection: none (5FOA); parent pGEM3
+DBP0000794	pQS4-tgrB1/tgrC1	tgrB1/tgrC1 double gene replacement plasmid with tgrB1-QS4 and tgrC1-QS4 alleles, driven by QS4 promoter. Used to insert these alleles into the tgrB1/tgrC1 locus. Bacterial selection: amp; dicty selection: none (5FOA); parent pGEM3
+DBP0000795	pQS31-tgrB1/tgrC1	tgrB1/tgrC1 double gene replacement plasmid with tgrB1-QS31 and tgrC1-QS31 alleles, driven by QS31 promoter. Used to insert these alleles into the tgrB1/tgrC1 locus. Bacterial selection: amp; dicty selection: none (5FOA); parent pGEM3
+DBP0000796	pQS38-tgrB1/tgrC1	tgrB1/tgrC1 double gene replacement plasmid with tgrB1-QS38 and tgrC1-QS38 alleles, driven by QS38 promoter. Used to insert these alleles into the tgrB1/tgrC1 locus. Bacterial selection: amp; dicty selection: none (5FOA); parent pGEM3
+DBP0000797	pQS45-tgrB1/tgrC1	tgrB1/tgrC1 double gene replacement plasmid with tgrB1-QS45 and tgrC1-QS45 alleles, driven by QS45 promoter. Used to insert these alleles into the tgrB1/tgrC1 locus. Bacterial selection: amp; dicty selection: none (5FOA); parent pGEM3
+DBP0000798	pAX4-tgrB1/tgrC1-bsR	tgrB1/tgrC1 Merodiploid plasmid with tgrB1-AX4 and tgrC1-AX4 alleles, driven by AX4 promoter. Used to insert an extra set of tgrB1/tgrC1 alleles randomly in the genome. Bacterial selection: amp; dicty selection: bsR; parent pGEM3
+DBP0000799	pQS4-tgrB1/tgrC1-bsR	tgrB1/tgrC1 Merodiploid plasmid with tgrB1-QS4 and tgrC1-QS4 alleles, driven by QS4 promoter. Used to insert an extra set of tgrB1/tgrC1 alleles randomly in the genome. Bacterial selection: amp; dicty selection: bsR; parent pGEM3
+DBP0000800	pQS31-tgrB1/tgrC1-bsR	tgrB1/tgrC1 Merodiploid plasmid with tgrB1-QS31 and tgrC1-QS31 alleles, driven by QS31 promoter. Used to insert an extra set of tgrB1/tgrC1 alleles randomly in the genome. Bacterial selection: amp; dicty selection: bsR; parent pGEM3
+DBP0000806	pDox-alpha-cateninhp	RNAi construct for D. discoideum alpha-catenin (ctnnA); the hairpin is expressed under the control of a doxycycline-inducible promoter, allowing controlled knockdown of ctnnA.
+DBP0000807	pGST-Aardvark	Doxycycline-inducible extrachromosomal expression vector for expression and purification of GST-Aardvark (aarA) from Dicty cultures.
+DBP0000808	pmRFP-dcsA	Vector for the expression of mRFP-tagged cellulose synthase (dcsA) under the control of its own promoter. The actin 15 promoter in pDM358 has been replaced by the dcsA promoter.
+DBP0000812	pTX-NLS-Cre	Extrachromosomal Dictyostelium Cre expression vector for the removal of floxed Bsr-cassettes.
+DBP0000835	pDdPlum	Dd Plum (in 456-22 HindIII-BamHI; minus GFP)
+DBP0000836	pSFGFP	SFGFP in 456-22 (minus GFP; HindIII-BamHI)
+DBP0000837	pDdDendra2	Dd Dendra2 (in 456-22 HindIII-BamHI; minus GFP)
+DBP0000838	pDdCherry-mRFP	mRFP_DdCherry (in 82, HindIII-EcoRI)
+DBP0000840	loxP-Blasticidin S resistance cassette	gene replacement construct flanked by target DNA and used for homologous recombination; loxP sites on both sides of the Bsr cassette allow removal of the resistance marker when expressing a cre recombinase; for curation purpose only
+DBP0000850	pDDB_G0280503-REMI	DDB_G0280503 REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr3:3455385
+DBP0000851	pDDB_G0267848-REMI	DDB_G0267848 REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr1:965278
+DBP0000856	pDDB_G0270048-REMI	DDB_G0270048 REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr1:4104356
+DBP0000858	pRoco5-REMI	roco5 REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr5:1445173
+DBP0000860	pDDB_G0272184-REMI	DDB_G0272184 REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr2:1513811
+DBP0000862	pIrlB-1-REMI	irlB-1 REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr2:2540818
+DBP0000892	pDDB_G0280005_ps-REMI	DDB_G0280005_ps REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr3:2861553
+DBP0000893	pAbcC9-REMI	abcC9 REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr4:2945237
+DBP0000894	pDDB_G0273405_ps-REMI	DDB_G0273405_ps REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr2:2913342
+DBP0000895	pDDB_G0285609-REMI	DDB_G0285609 REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr4:3456678
+DBP0000896	pDDB_G0281767-REMI	DDB_G0281767 REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr3:4932161
+DBP0000831	pTIKL-LMBD2B	The TIKLLMBD2B plasmid was used to create an overexpression of DDB_G0281669/LMBD2B. The plasmid contains the full length lmbd2B cDNA inserted at XbaI-SacI restriction sites into pTIKL-MyD.
+DBP0000832	pG3-C129	Plasmid containing the full length genomic EcoR1 fragment that contains the entire AmpA gene in pGem3 at the EcoR1 site; includes about 1kb upstream and downstream of the ampA gene.
+DBP0000833	pKL5	? pKL4 with the flox blasticidin cassette and the AmpA 3? region digested from pKL2 and inserted between HindIII and NotI.  ? AmpA-TAP Tag with AmpA terminator, Floxed-blastocidin resistance cassette and 1Kb of sequence from downstream of the AmpA gene.  This plasmid construct was transformed as a circular plasmid to generate a strain that makes excess AmpA-Tap tag fusion protein and gives an AmpA overexpresser phenotype.  The KpnI ?NotI fragment has been used to generate single copy knock In constructs of the AmpA-tap tag fusion protein selecting for recombination between the upstream AmpA regions and the 1+Kb 3? non coding region of the AmpA gene.  The construct was used for both westerns and immunofluorescence.  The Tap Tag is placed at the C-Terminal end of AmpA. The AmpA 3? downstream region from the AmpA termination codon to a site ~1000 base pairs downstream was PCR amplified. The 5? primer containing a Bam H1 site (underlined) was  5? AAGGGAACAAAAGCTGGAGGATCCATG  and the 3? primer containing a Not I site (underlined) was 5? TCAAGGATGAGCGGC CGCAATTCTCTATGGTCAACATTA.  This PCR fragment was ligated into pLPBLP (Kimmel 2006) at the BamH1 Not1 site. This plasmid contains the floxed blasticidin cassette at the BamH1-Hind III site and the AmpA terminator, Tap tag fused in frame to the AmpA coding sequence and the full ampA promoter region as a Hind III- KpnI fragment.
+DBP0000834	pKL4	Contains the AmpA promoter + coding sequence and the TAP tag fused in frame to the C terminus of AmpA and inserted between KpnI and XhoI with the AmpA ~200bp terminator immediately downstream in the Xho-HindIII site. ? The AmpA promoter, coding region and in frame fusion to the Tap tag was excised from pKL1 by Kpn I ? XhoI and subcloned into the pKL3 plasmid at the KpnI-XhoI site so that the AmpA terminator sequence was immediately downstream of the AmpA-Tap tag fusion protein gene. This generated plasmid pKL4.
+DBP0000846	pDDB_G0288519-REMI	DDB_G0288519 REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr5:1635820
+DBP0000848	pDDB_G0270662-REMI	DDB_G0270662 REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr1:3696352
+DBP0000849	pXacC-REMI	xacC REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr4:3110471
+DBP0000853	pDDB_G0292842_ps-REMI	DDB_G0292842_ps REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr6:2139155
+DBP0000828	pDM368	PCR ligation vector, kanamycin resistant; must be propagated in E. coli DB3.1, see ref for more details.
+DBP0000830	pSma-KO	The plasmid was used to knock out the gene, DDB_G0281803/sma. The SMAko plasmid contains a 1Kb coding region and another 1Kb coding downstream of the first.  A 500 bp sequence was left out between the two coding regions.  The regions were inserted at EcoRI, HindIII and SpeI, SacII restriction sites into a pBluescript plasmid containing a floxed blasticidin resistance cassette previously inserted at a SmaI site.
+DBP0000819	pGSTBAR	The plasmid was used to create a GST fusion product of the BAR domain in DB_G0272368/ndm.The BAR domain gene (amino acids 1376 ? 1618) segment of DDB_G0272368/ndm was cloned into a pGEX-6P-1 vector (GE Healthcare). The pGEX-6P-1 contains a tac promoter and lacIq gene for inducible expression by Isopropyl beta-D-1-thiogalactopyranoside (IPTG), and also a GST fusion protein tag for placement on the N-terminus of the protein segment.
+DBP0000822	pLMBD2B-ko	Plasmid to knockout the gene, lmbd2b. The original REMI plasmid (pGEM3) with flanking lmbd2B genomic DNA linearized with ClaI was used to create knockout strains in Wt, ampAOE and ampA- backgrounds.  The pGEM3 plasmid which has a 1488bp blasticidin resistance cassette (added at a SmaI site) was linearized by BamHI and incorporated into the DDB_G0281669/lmbd2B gene.  The LMBD2Bko plasmid was removed using ClaI to include flanking gene DNA, sufficient to create future lmbd2B gene knockouts.
+DBP0000827	pGEM3+bsr	The plasmid was used to generate REMI mutagenesis. The plasmid was used for REMI, it is the pGEM3 plasmid (Promega) with a 1488bp blasticidin resistance cassette (Bsr).  It contains a Dictyostelium actin 15 promoter and an actin 8 terminator sequence; the cassette was added at a SmaI site in pGEM3.
+DBP0000839	Blasticidin S resistance cassette	gene replacement construct typically flanked by target DNA and used for homologous recombination, conferring blasticidin S resistance; for curation purpose only
+DBP0000842	pMB74GFP	GFP expression construct under control of the actin15 promoter
+DBP0000845	neomycin resistance cassette	gene replacement construct typically flanked by target DNA and used for homologous recombination, conferring neomycin (G418) resistance; for curation purpose only
+DBP0000857	pDDB_G0278333-REMI	DDB_G0278333 REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr3:715753
+DBP0000870	pTgrJ1-REMI	tgrJ1 REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr2:646708
+DBP0000871	pDDB_G0281349_ps-REMI	DDB_G0281349_ps REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr3:4382554
+DBP0000876	pDDB_G0289363-REMI	DDB_G0289363 REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr5:2707405
+DBP0000878	pDDB_G0290835-REMI	DDB_G0290835 REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr5:4620721
+DBP0000879	pPgtD-REMI	pgtD REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr3:1203720
+DBP0000880	pCofD-1-REMI	cofD-1 REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr2:2311735
+DBP0000881	pDDB_G0275671-REMI	DDB_G0275671 REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr2:5687400
+DBP0000882	pSadA-REMI	sadA REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr5:1639241
+DBP0000802	pRFP-GFP-Atg8	The construct RFP-GFP-Atg8 was generated using GFP-Atg8 fragment amplified by PCR from the vector pA15/GFP-Apg8 (kindly deposited at the DSC by Grant OTTO). This fragment was then cloned in frame using XhoI site at the C terminus of the RFP protein from the vector pTX-RFPmars (kindly deposited at the DSC by Clement Nizak).
+DBP0000809	pGolvesin-delta(76-118)-GFP	Golgi marker cloned into pDM358,  a hygromycin-resistant extrachromosomal expression vector.
+DBP0000810	pAct15-alpha-cateninhp	RNAi construct for D. discoideum alpha-catenin (ctnnA). The hairpin is expressed under the control of the actin 15 promoter.
+DBP0000811	pGST-alpha-catenin	E.coli expression vector (pGEX) for D. discoideum alpha-catenin (ctnnA). Protein is expressed as a TEV-cleavable GST fusion.
+DBP0000813	pB17SDdDgcA-YFP	dgcA overexpression vector under the control of the act15 promoter
+DBP0000814	pDgcA-KO	dgcA knockout vector
+DBP0000816	pDM281	tetOFF or doxOFF control vector expressing luciferase
+DBP0000844	pET28a-RegA	Plasmid used for Acas RegA expression vector in bacteria E.coli BL21DE3; Acas RegA is fused at the N-terminus to a hex-his-tag
+DBP0000872	pDDB_G0271248-REMI	DDB_G0271248 REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr2:227717
+DBP0000873	pAp2s1-REMI	ap2s1 REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr5:3163840
+DBP0000874	pDDB_G0287825-REMI	DDB_G0287825 REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr5:772632
+DBP0000875	pDDB_G0272953-REMI	DDB_G0272953 REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr2:1905849
+DBP0000877	pDDB_G0291632-REMI	DDB_G0291632 REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr6:428069
+DBP0000883	pDDB_G0277661-REMI	DDB_G0277661 REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr2:8258855
+DBP0000884	pSgmC-REMI	sgmC REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr3:5591567
+DBP0000885	pDDB_G0268570-REMI	DDB_G0268570 REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr1:1492160
+DBP0000886	pKcnma1-REMI	kcnma1 REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr1:3814380
+DBP0000887	pVps13D-REMI	vps13D REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr4:4616863
+DBP0000888	pDDB_G0290061-REMI	DDB_G0290061 REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr5:3592963
+DBP0000889	pFnkE-REMI	fnkE REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr2:5841954
+DBP0000969	pHO578	doxycycline-inducible variant of GFP-Rac1A(V12); parental vector: pDM369
+DBP0000966	pOH271	RFP-pikA overexpression construct; parental vector pDXA-YFP modified
+DBP0000970	pHO57	YFP-pikA (N-terminal region: aa170-290) overexpression construct; parental vector pDXA-YFP
+DBP0000971	pHO34	myrostylation tag(SRC) YFP- FRB for overexpression; anchor to stick proteins to the plasma membrane upon Rapamycin treatment; parental vector: pDXA-YFP
+DBP0000972	pHO39	carA-RFP- FRB for overexpression; anchor to stick proteins to the plasma membrane upon Rapamycin treatment; parental vector: pDXA-YFP modified
+DBP0000975	pMUW1630	The extrachromosomal plasmid pMUW1630 carries the expression cassette consisting of a strong act15 promotor and polyadenylation signal, secretion signal of the PsA protein, and multiple cloning site.
+DBP0000977	pPCR4-TOPO-krsBKO	Plasmid used to knock out krsB; KrsBKO insert is first excised with SalI and NotI, and then amplified with the following primers: CGCGTCGACCTATTAATACAGGATAGGATCAACATCAC and CGCGCGGCCGCCTCACTCTTTGGTACATTAGTC, and the PCR product was transformed into AX2 cells; total vector length: 6.8 kb; insert length: 2.8 kb; parental vector: PCR4-TOPO
+DBP0000978	pKF3/KrsB-GFP	Used to overexpress KrsB; KrsB was cloned into BgIII+XhoI of pKF3 (in font of GFP); BgIII site destroyed; total vector length: 11.8 kb; insert length: 4.4 kb; parental vector: pKF3
+DBP0000981	pUniv_CKI_mEGFP	GFP knock-in module at the C-terminus of gene of interest; insert length: 2.2.5 kb; parental vector: pBluescript
+DBP0000963	pHO536	FRB-RFP-Gbeta (gpbA) overexpression construct; bait to trap Gbeta at the ER upon rapamycin addition; parental vector: pDM448
+DBP0000964	pHO167	calnexinA-YFP-FKBP (cnxA) overexpression construct; anchor at the ER to trap baits upon rapamycin addition; parental vector: pDXA-YFP-MCS
+DBP0000976	pMUW110	pMUW100 encodes the Rep protein; Ddp2 ori; ColE1 ori; beta-lactamase; neomycin resistance gene
+DBP0000939	pDDB_G0292462-REMI	DDB_G0292462 REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr6:1678362
+DBP0000940	pDDB_G0289903-REMI	DDB_G0289903 REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr5:3386664
+DBP0000941	pDDB_G0276551-REMI	DDB_G0276551 REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr2:6874177
+DBP0000942	pDDB_G0288987-REMI	DDB_G0288987 REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr5:2207637
+DBP0000943	pAdprh-REMI	Adprh REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr5:3078245
+DBP0000944	pDDB_G0293300-REMI	DDB_G0293300 REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr6:2736118
+DBP0000945	pUppA-REMI	UppA REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr5:3441051
+DBP0000946	pDDB_G0287931-REMI	DDB_G0287931 REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr5:863802
+DBP0000947	pTpp1-REMI	Tpp1 REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr1:3853350
+DBP0000948	pComF-1-REMI	ComF-1 REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr2:2776552
+DBP0000949	pCinC-REMI	CinC REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr5:692345
+DBP0000983	pPB86	Recently, Roux and co-workers published a method of proximity-dependent biotin identification (BioID), which is especially useful to identify putative interactors of insoluble proteins [Roux, 2012]. In this method bait proteins are tagged with a point mutated version of the E. coli biotinylase BirA (BirA-R118G), which promiscuously biotinylates any target protein in close proximity in vivo. Biotinylated proteins can then be identified and purified using suitable streptavidin conjugates and affinity chromatography media.   This BirA-R118G vector for N-terminal fusions is based on the GFP-Vectors pIS76 (Bla). The complete BirA-R118G sequence flanked by NheI and SalI restriction sites was custom synthesized (GenArt, Thermo Fisher Scientific, Waltham, MA, USA), whereby each codon was replaced by the most common one based on the Dictyostelium codon bias table published on the genome project website (www.dictybase.org). GFP in pIS76 was then replaced by BirA-R118G using the NheI and SalI restriction sites yielding pPB86.  This vector can be used for overexpression of BirA-R118G fusion proteins in Dictyostelium. The well-characterized actin6-promoter was chosen to drive expression of the bait protein, since its activity can be controlled by cell culture conditions. This vector can be used for BioID in Dictyostelium.    Partental vector: pIS76; Insert/Vector Length: Insert BirA-R118G(991bp), vector 6012bp
+DBP0000985	pPB87	Recently, Roux and co-workers published a method of proximity-dependent biotin identification (BioID), which is especially useful to identify putative interactors of insoluble proteins [Roux, 2012]. In this method bait proteins are tagged with a point mutated version of the E. coli biotinylase BirA (BirA-R118G), which promiscuously biotinylates any target protein in close proximity in vivo. Biotinylated proteins can then be identified and purified using suitable streptavidin conjugates and affinity chromatography media.   This BirA-R118G vector for N-terminal fusions is based on the GFP-Vector pIS77 (G418), respectively [Schulz, 2009]. The complete BirA-R118G sequence flanked by NheI and SalI restriction sites was custom synthesized (GenArt, Thermo Fisher Scientific, Waltham, MA, USA), whereby each codon was replaced by the most common one based on the Dictyostelium codon bias table published on the genome project website (www.dictybase.org). GFP in pIS77 was then replaced by BirA-R118G using the NheI and SalI restriction sites yielding pPB87.  This vector can be used for overexpression of BirA-R118G fusion proteins in Dictyostelium. The well-characterized actin6-promoter was chosen to drive expression of the bait protein, since its activity can be controlled by cell culture conditions. This vector can be used for BioID in Dictyostelium.    Partental vector: pIS77; Insert/Vector Length: Insert BirA-R118G(991bp), vector 7593bp
+DBP0000909	pAslA-1-REMI	AslA-1 REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr2:2719024
+DBP0000910	pDDB_G0280811-REMI	DDB_G0280811 REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr3:3753133
+DBP0000911	pDDB_G0283199-REMI	DDB_G0283199 REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr4:409813
+DBP0000912	pDDB_G0269128-REMI	DDB_G0269128 REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr1:3056833
+DBP0000913	pIqgD-REMI	IqgD REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr2:5941744
+DBP0000914	pDDB_G0270342-REMI	DDB_G0270342 REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr1:4673160
+DBP0000928	pSgkB-REMI	SgkB REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr4:2088746
+DBP0000929	pDDB_G0293612-REMI	DDB_G0293612 REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr6:3143638
+DBP0000930	pDDB_G0267496-REMI	DDB_G0267496 REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr1:224544
+DBP0000931	pDDB_G0268872-REMI	DDB_G0268872 REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr1:2294457
+DBP0000932	pDDB_G0287083-REMI	DDB_G0287083 REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr4:5307403
+DBP0000933	pUdpB-REMI	UdpB REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr9:3914346
+DBP0000934	pDDB_G0267496-REMI	DDB_G0267496 REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr1:224651
+DBP0000935	pDDB_G0271900-REMI	DDB_G0271900 REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr2:1045307
+DBP0000936	pDDB_G0287873-REMI	DDB_G0287873REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr5:625903
+DBP0000937	pDDB_G0293762-REMI	DDB_G0293762 REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr6:3295778
+DBP0000938	pDDB_G0273285-REMI	DDB_G0273285 REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr2:2617104
+DBP0000979	pDM359/KrsB-GFP	Used for doxycycline-inducible expression of KrsB; KrsB-GFP amplified from krsB-GFP/pKF3 9with BamHI & XbaI sites on primer ends) and cloned into BgIII/SpeI sites of pDM359 (sites were destroyed); total vector length: 13.1 kb; insert length: 4.4 kb; parental vector: pDM359
+DBP0000980	pUniv_CKI_Turq2	Turq2 knock-in module at the C-terminus on gene of interest; insert length: 2.2 kb; parental vector: pBluescript
+DBP0000903	pDDB_G0278761-REMI	DDB_G0278761 REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr3:1133648
+DBP0000904	pMscS-REMI	MscS REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr2:7824434
+DBP0000905	pPsaA-REMI	PsaA REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr1:3844532
+DBP0000906	pPsaA-REMI	PsaA REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr1:3844542
+DBP0000907	pDDB_G0293856-REMI	DDB_G0293856 REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr6:3390511
+DBP0000908	pDDB_G0271962-REMI	DDB_G0271962 REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr2:1081690
+DBP0000915	pOrfR1062-REMI	OrfR1062 REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr2:1666477
+DBP0000916	pMed23-REMI	Med23 REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr1:4869190
+DBP0000917	pDDB_G0270344-REMI	DDB_G0270344 REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr1:4674265
+DBP0000918	pDDB_G0277419-REMI	DDB_G0277419 REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr2:8054361
+DBP0000919	pDDB_G0280029_ps-REMI	DDB_G0280029_ps REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr3:2854484
+DBP0000920	pOrfR1062-REMI	OrfR1062 REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr2:1665743
+DBP0000921	pDDB_G0278087_ps-REMI	DDB_G0278087_ps REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr3:256277
+DBP0000922	pDDB_G0293948-REMI	pDDB_G0293948 REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr6:3559965
+DBP0000923	pDDB_G0349499-REMI	DDB_G0349499 REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr2:2211482
+DBP0000924	pDDB_G0293612-REMI	DDB_G0293612 REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr6:3143542
+DBP0000925	pDDB_G0285499-REMI	DDB_G0285499 REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr4:3316116
+DBP0000926	pCepK-REMI	CepK REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr6:2993532
+DBP0000927	pDDB_G0283215-REMI	DDB_G0283215 REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr4:313016
+DBP0000950	pFia-REMI	Fia REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr4:1932550
+DBP0000951	pD7-REMI	D7 REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr4:2276275
+DBP0000952	pAbcC3-REMI	AbcC3 REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr5:796000
+DBP0000953	pDDB_G0289517-REMI	DDB_G0289517 REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr5:2902373
+DBP0000954	pAdh5-REMI	Adh5 REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr3:5044094
+DBP0000955	pDDB_G0286177_ps-REMI	DDB_G0286177_ps REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr4:4150379
+DBP0000956	pDDB_G0269796_ps-REMI	DDB_G0269796_ps REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr1:3589319
+DBP0000957	pDDB_G0268524_RTE-REMI	DDB_G0268524_RTE REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr1:843294
+DBP0000958	pDDB_G0277355-REMI	DDB_G0277355 REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr2:7839407
+DBP0000959	pDDB_G0272016-REMI	DDB_G0272016 REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr2:1175185
+DBP0000960	pDDB_G0284625-REMI	DDB_G0284625 REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr4:2258425
+DBP0000965	pHO232	calnexinA-CFP-FKBP overexpression construct; anchor to trap proteins at the ER upon Rapamycin treatment; parental vector: pDXA-YFP modified
+DBP0000967	pOH250	reporter construct for Ras activity; different specificity to generic Raf1(RBD); overexpression of pikA ras-binding domain fused to YFP; parental vector: pDXA-YFP modified
+DBP0000982	pUniv_CKI_mRFPmars	mRFPmars knock-in module at the C-terminus of gene of interest;  insert length: 2.2 kb; parental vector: pBluescript
+DBP0000897	pDDB_G0286827_ps-REMI	DDB_G0286827_ps REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr4:4953276
+DBP0000898	pDDB_G0290697-REMI	DDB_G0290697 REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr5:4432136
+DBP0000899	pDDB_G0287873-REMI	DDB_G0287873 REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr5:626176
+DBP0000900	pDDB_G0270652-REMI	DDB_G0270652?REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr1:3648172
+DBP0000901	pDDB_G0287167-REMI	DDB_G0287167 REMI plasmid; bacterial selection: amp; dicty selection: bsR; parent pBSRI; Insert location of chr4:5424509
+DBP0000902	hygromycin B resistance cassette	gene replacement construct typically flanked by target DNA and used for homologous recombination, conferring hygromycin S resistance; for curation purpose only
+DBP0000968	pHO313	overexpression of RFP-pten; parental vector: pDM451
+DBP0000973	pV20066	abcC8 knockout construct, parental plasmid pTZTN; transposon mediated mutagenesis; vector background available in the sequence section
+DBP0000989	pJSK613	GFP-vps5 expression plasmid; total vector length: 9440 bp; insert length: 1653 bp; parental vector: pDM448
+DBP0000997	pDexRH(-)NrampB(C)GFP	NrampB fused to GFP at the C-terminus cloned in the pDEXRH- vector
+DBP0000998	pBLS-hephA-bsr	hephA knockout vector in a Bluescript construct
+DBP0000999	pDEX-HECTwt-GFP	fusion of the HECTPH1 protein (gene hephA) HECT domain (residues 4855-5212) to GFP at the C-terminus, in the pDEXH vector
+DBP0001001	pCotC-mRFPmars-Hyg	Expression vector for cotC-mRFPmars protein fusion under the cotC promoter; parental vector: pExp4-Hyg; insert length: 2.9kb; total vector length: 8.3kb
+DBP0001003	pPvio-spaA-KO	Polysphondylium violaceum spaA knockout vector; parental vector: pLox-Neo III; insert length: 5.3kb; total vector length: 8.2kb; plasmid resistance marker (Dicty): Neo
+DBP0001005	pSpaA-KO	spaA knockout vector; parental vector: pJet1.2blunt; insert length: 3.2kb; total vector length: 6.2kb
+DBP0001006	pSpaAp-spaA-YFP	spaA-YFP fusion vector expressed from the spaA promoter; parental vector: pExp4-Hyg; insert length: 5.2kb; total vector length: 10.6kb
+DBP0001011	pTgrB1	tgrB1 from AX4 strain expression plasmid under native tgrB1 promoter; gene expression plasmid with tgrB1 promotor; parental vector: pLPBLP;
+DBP0001009	pDM1210	Extrachromosomal expression vector, C-terminal expression of mCherry, G418 resistant
+DBP0001010	pDM1208	Extrachromosomal expression vector, N-terminal expression of mCherry, G418 resistant
+DBP0001012	pTgrC1	tgrC1 from AX4 strain expression plasmid under native tgrC1 promoter; gene expression plasmid with tgrC1 promotor; parental vector: pLPBLP
+DBP0001015	pTgrB1:tgrB1(AX4)-HA	tgrB1 from AX4 strain expression plasmid under native tgrB1 promoter; HA tag is added at the C-terminal end
+DBP0001016	pTgrB1:tgrB1&#916;C-HA	tgrB1 from AX4 strain expression plasmid under native tgrB1 promoter; the c-terminal cytosolic domain of tgrB1 (828-902) is truncated and HA-tag is added
+DBP0001017	pTgrB1:tgrB1(AX4 - L864F)	tgrB1 from AX4 strain expression plasmid under native tgrB1 promotor; L846F mutation turns tgrB1 to constitutively active; restores tgrB1/tgrC1 double knockout phenotype
+DBP0001018	pTgrB1:tgrB1	tgrB1 from AX4 strain expression plasmid under native tgrB1 promoter; parent vector pLPBLP, bsR
+DBP0001019	pTgrC1:tgrC1	tgrC1 from AX4 strain expression plasmid under native tgrC1 promoter; plasmid resistance marker (Dicty): blasticidin
+DBP0001021	pDXA-A15ssHis7TgrB1ex(QS4)	secretory over-expression His-tagged tgrB1(QS4) extracellular domain; parental vector: pDXA; insert length: 2.8kb; plasmid resistance marker (Dicty): neoymycin
+DBP0001022	pDXA-A15ssHis7TgrB1ex(QS31)	secretory over-expression His-tagged TgrB1(QS31) extracellular domain; plasmid resistance marker (Dicty): neomycin; parental vector: pDXA; insert length: 2.8kb
+DBP0001023	pDXA-A15ssHis7TgrB1ex(QS37)	secretory over-expression His-tagged tgrB1(QS37) extracellular domain; plasmid resistance marker (Dicty): neomycin; parental vector: pDXA; insert length: 2.8kb
+DBP0001024	pDXA[act15]:His7:TgrB1/QS45	secretory over-expression His-tagged TgrB1(QS45) extracellular domain; plasmid resistance marker (Dicty): neomycin; parental vector: pDXA; insert length: 2.8kb
+DBP0000986	pDM_lITR_BglII/SpeI_rITR	Vector can be used for bidirectional expression of a target sequence which leads to the generation of siRNAs to knockdown the corresponding target gene (see also Friedrich et al., 2015).     Since the knock-down plasmid contains inverted repeats cloning may lead to deletions or rearrangements of the vector, cloning in E.coli Sure cells avoids this problem.    Parental Vector: pDM304 (Veltman, 2009); Total Vector Length: 6933 bp.
+DBP0000987	pJSK489	GFP-Atg18 expression plasmid;  total vector length: 8930 bp; insert length: 1125 bp; parental vector: pDM448
+DBP0000988	pJSK542	GFP-Atg18/vmp1-RFP  co-expression plasmid; atg18 length: 1125 bp; vmp1 length: 1218 bp; parental vector: pDM451
+DBP0000995	pJSK498	GFP-Atg8/ TagRFP-atg18 co-expression plasmid; atg18 length: 1125 bp; vmp1 length: 375 bp; parental vector: pJSK468
+DBP0000991	pJSK621	SibC-GFP expression plasmid; total vector length: 12831 bp; insert length: 5871 bp; parental vector: pDM1045
+DBP0000992	pLP151	GFP-WASH/RFP-vps5 co-expression plasmid; WASH length: 1416 bp; VPS5 length: 1635 bp; parental vector: pDM448
+DBP0000993	pJSK471	LoxP-Blasticidin Atg1 KO construct; 7688 bp; insert length: 3286 bp; parental vector: pDM368; plasmid resistance marker (bacterial): kanamycin
+DBP0000994	pJSK614	GFP-vps29 expression plasmid; total vector length: 8360 bp; insert length: 555 bp; parental vector: pDM448
+DBP0000996	pGEMT_NrampB_CreBsr	floxed BsR cassette (from pLPBLP) inserted into the nrampB gene, cloned in pGEM-tEasy (Promega); may be linearized with EcoRI
+DBP0001000	pDEX-HECTC-5185-S-GFP	point mutation of the conserved Cysteine 5185 to a Serine in the HECT domain of the HECTPH1 protein (gene hephA); mutated in the pDEX-HECTwt-GFP construct, also available
+DBP0001025	pDXA-A15TgrC1ex(AX4)	secretory over-expression untagged TgrC1(AX4) extracellular domain; plasmid resistance marker (Dicty): neomycin; parental vector: pDXA; insert length: 2.8kb
+DBP0001004	pCotCp-Df-spaA-YFP	Overexpression vector of D. fasciculatum spaA under the D. discoideum cotC promoter; parental vector: pDd-gal17   backbone; insert length: 3.1kb; total vector length: 8.6kb;  gene: DFA_08790; note: recombination seems to occur frequently
+DBP0001007	pPp-GSK3-OE	Overexpression of P.pallidum gskA driven by its own promoter; parental vector: pDdNYFP; insert length: 3.0kb; total vector length: 9.4kb
+DBP0001027	pDXA-A15TgrC1ex(QS31)	secretory over-expression untagged tgrC1(QS31) extracellular domain; plasmid resistance marker (Dicty): neomycin; parental vector: pDXA; insert length: 2.8kb
+DBP0001031	pDMBsr	Displace g418 resistance into blasticidin s resistance in pDM314; the act15 promoter is on BamHI side; dicty resistance: blasticidin; parental vector: pDM314
+DBP0001032	pDd17-gal-DDB_G0293854	DDB G0293854 promoter driven by LacZ; parental vector: pDd17-gal; insert length: 1.1kb; plasmid resistance marker (dicty): neomycin
+DBP0001033	pDd17-gal-DDB_G0277757	DDB_ G0277757 promoter driven by LacZ; plasmid resistance marker (dicty): neomycin; insert length: 1.1kb; parental vector: pDd17-gal
+DBP0001034	pDd17-gal-DDB_G0271196	DDB_G0271196 promoter driven by LacZ; plasmid resistance marker (dicty): neomycin; insert length: 1.3kb; parental vector: pDd17-gal
+DBP0001035	pDd17-gal-DDB_G0275687	DDB_G0275687 promoter driven by LacZ; plasmid resistance marker (dicty): neomycin; insert length: 1kb; parental vector: pDd17-gal
+DBP0001036	pDd17-gal-DDB_G0274663	DDB_G0274663 promoter driven by LacZ; plasmid resistance marker (dicty): neomycin; insert length: 1.4kb; parental vector: pDd17-gal
+DBP0001037	pDd17-gal-DDB_G0276063	DDB_G0276063 promoter driven by LacZ; plasmid resistance marker (dicty): neomycin; insert length: 1kb; parental vector: pDd17-gal
+DBP0001063	pDDB_G0280217/lacZ	The construct was made by sub-cloning the DDB_G0280217promoter as a 1279 bp XbaI/BglII fragment into XbaI/BglII restricted pDdGal-17; This fragment consists of the region -1271 to +3 bp from theDDB_G0280217start and restriction sites; The construct drives the expression of &#946;-gal when activated; Parental vector: pDdGal-17; Insert length: 1279 bp; Total vector length: 9761 bp; dictyBase gene: DDB_G0280217; bacteria used: E. coli (XL1-Blue);
+DBP0001044	pGWDI-G1	The sequences directly upstream and downstream of the BamHI sites were mutated to contain an MmeI site, an I-sceI site and a specific vector index. Using these vectors, the GWDI insert sequences were amplified using the T3 and T7 primers. They comprise a blasticidin resistance gene with promoter and terminator sequences and left and right border arms.The resulting GWDI-G inserts have GATC- sticky ends generated by BamHI cleavage. The arms terminate in 4 base overhangs after restriction enzyme digestion. The inserts and their arms can be distinguished by unique 6 bp indices.
+DBP0001045	pGWDI-G2	The sequences directly upstream and downstream of the BamHI sites were mutated to contain an MmeI site, an I-sceI site and a specific vector index. Using these vectors, the GWDI insert sequences were amplified using the T3 and T7 primers. They comprise a blasticidin resistance gene with promoter and terminator sequences and left and right border arms.The resulting GWDI-G inserts have GATC- sticky ends generated by BamHI cleavage. The arms terminate in 4 base overhangs after restriction enzyme digestion. The inserts and their arms can be distinguished by unique 6 bp indices; parent plasmid: pLPBLP
+DBP0001049	pGWDI-C8	The sequences directly upstream and downstream of the BamHI sites were mutated to contain an MmeI site, an I-sceI site and a specific vector index. Using these vectors, the GWDI insert sequences were amplified using the T3 and T7 primers. They comprise a blasticidin resistance gene with promoter and terminator sequences and left and right border arms. In addition to these, we also generated GWDI-C inserts, which have -CATG sticky ends generated by SphI cleavage. The arms terminate in 4 base overhangs after restriction enzyme digestion. The inserts and their arms can be distinguished by unique 6 bp indices; parent plasmid: pLPBLP
+DBP0001059	pExpl7/lacZ	The construct was made by sub-cloning the DDB_G0288331promoter as a 1270bp XbaI/BglII fragment into XbaI/BglII restricted pDdGal-17; This fragment consists of the region -1225to +39 bp from theDDB_G0288331start and restriction sites; This includes the full intergenic region before DDB_G0288331; The construct drives the expression of &#946;-gal when activated; Parental vector: pDdGal-17; Insert length: 1270 bp; Total vector length: 9752 bp; dictyBase gene: expl7(DDB_G0288331); Bacteria used: E. coli (XL1-Blue);
+DBP0001046	pGWDI-G5	The sequences directly upstream and downstream of the BamHI sites were mutated to contain an MmeI site, an I-sceI site and a specific vector index. Using these vectors, the GWDI insert sequences were amplified using the T3 and T7 primers. They comprise a blasticidin resistance gene with promoter and terminator sequences and left and right border arms.The resulting GWDI-G inserts have GATC- sticky ends generated by BamHI cleavage. The arms terminate in 4 base overhangs after restriction enzyme digestion. The inserts and their arms can be distinguished by unique 6 bp indices; parent plasmid: pLPBLP
+DBP0001050	pGWDI-C7	The sequences directly upstream and downstream of the BamHI sites were mutated to contain an MmeI site, an I-sceI site and a specific vector index. Using these vectors, the GWDI insert sequences were amplified using the T3 and T7 primers. They comprise a blasticidin resistance gene with promoter and terminator sequences and left and right border arms. In addition to these, we also generated GWDI-C inserts, which have -CATG sticky ends generated by SphI cleavage. The arms terminate in 4 base overhangs after restriction enzyme digestion. The inserts and their arms can be distinguished by unique 6 bp indices; parent plasmid: pLPBLP
+DBP0001068	pSigK/lacZ	The construct was made by sub-cloning the DDB_G0267476 promoter as a 655 bp XbaI/BglII fragment into XbaI/BglII restricted pDdGal-17. This fragment consists of the region -632_+24 bp from the DDB_G0267476 start and restriction sites. This includes the full intergenic region before DDB_G0267476. The construct drives the expression of &#946;-gal when activated; parental vector: pDdGAI-17; vector length: 9137 bp.
+DBP0001051	pGWDI-G3	The sequences directly upstream and downstream of the BamHI sites were mutated to contain an MmeI site, an I-sceI site and a specific vector index. Using these vectors, the GWDI insert sequences were amplified using the T3 and T7 primers. They comprise a blasticidin resistance gene with promoter and terminator sequences and left and right border arms.The resulting GWDI-G inserts have GATC- sticky ends generated by BamHI cleavage. The arms terminate in 4 base overhangs after restriction enzyme digestion. The inserts and their arms can be distinguished by unique 6 bp indices; parent plasmid: pLPBLP
+DBP0001061	pDDB_G0287091/lacZ	The construct was made by sub-cloning the DDB_G0287091 promoter as a 730 bp XbaI/BamHI fragment into XbaI/BglII restricted pDdGal-17; The sequence contains a BglII internal restriction site; The BglII site from the parental vector is lost; The fragment consists of the region -718 to +6 bp from theDDB_G0287091 start and restriction sites; The construct drives the expression of &#946;-gal when activated; Parental vector: pDdGal-17; Insert length: 730 bp; Total vector length: 9212; dictyBase gene: staE(DDB_G0287091); Bacteria used: E. coli (XL1-Blue);
+DBP0001071	pKIF1A-pTM1285	Extrachromosomal expression vector; EGFP- tag; G418 resistance; parent plasmid, PTM1258, digested with BpiI and KIF1A gRNA sequence inserted between two BpiI sites; CRISPR/Cas9 all-in-one vector
+DBP0001042	pDd17-gal	plasmid resistance marker (dicty): neomycin
+DBP0001047	pGWDI-C4	The sequences directly upstream and downstream of the BamHI sites were mutated to contain an MmeI site, an I-sceI site and a specific vector index. Using these vectors, the GWDI insert sequences were amplified using the T3 and T7 primers. They comprise a blasticidin resistance gene with promoter and terminator sequences and left and right border arms. In addition to these, we also generated GWDI-C inserts, which have -CATG sticky ends generated by SphI cleavage. The arms terminate in 4 base overhangs after restriction enzyme digestion. The inserts and their arms can be distinguished by unique 6 bp indices; parent plasmid: pLPBLP
+DBP0001048	pGWDI-C6	The sequences directly upstream and downstream of the BamHI sites were mutated to contain an MmeI site, an I-sceI site and a specific vector index. Using these vectors, the GWDI insert sequences were amplified using the T3 and T7 primers. They comprise a blasticidin resistance gene with promoter and terminator sequences and left and right border arms. In addition to these, we also generated GWDI-C inserts, which have -CATG sticky ends generated by SphI cleavage. The arms terminate in 4 base overhangs after restriction enzyme digestion. The inserts and their arms can be distinguished by unique 6 bp indices; parent plasmid: pLPBLP
+DBP0001055	tgrR1/LacZ	Reporter construct expressing &#946;-galactosidase under control of the tgrR1 promoter; Parental vector: pDdGal-17; Insert length: 980 bp; Total vector length: 9.5 kb; dictyBase gene: tgrR1 (DDB_G0275745); Bacteria used: E.coli (XL1-Blue);
+DBP0001056	pTgrR1/LacZ	Reporter construct expressing &#946;-galactosidase under control of the tgrR1 promoter; Parental vector: pDdGal-17; Insert length: 980 bp; Total vector length: 9.5 kb; dictyBase gene: tgrR1 (DDB_G0275745); Bacteria used: E.coli (XL1-Blue);
+DBP0001060	pDDB_G0285289/lacZ	The construct was made by sub-cloning the DDB_G0285289 promoter as a 869 bp XbaI/BamHIfragment into XbaI/BglIIrestricted pDdGal-17; The sequence contains a BglII internal restriction site; The BglII site from the parental vector is lost; The fragment consists of the region -851to +12bp from theDDB_G0285289 start and restriction sites; The construct drives the expression of &#946;-gal when activated; Parental vector: pDdGal-17; Insert length: 869 bp; Total vector length: 9351; dictyBase gene: spoB(DDB_G0285289); Bacteria used: E. coli (XL1-Blue);
+DBP0001062	pDDB_G0271780/lacZ	The construct was made by sub-cloning the DDB_G0271780 promoter as a 1086 bp NheI/BglII fragment into XbaI/BglII restricted pDdGal-17; The sequence contains a XbaI internal restriction site; The XbaI site from the parental vector is lost; The fragment consists of the region -1072 to +9 bp from theDDB_G0271780 start and restriction sites; The construct drives the expression of &#946;-gal when activated; Parental vector: pDdGal-17; Insert length: 1086 bp; Total vector length: 9568 bp; dictyBase gene: beiF(DDB_G0271780); Bacteria used: E. coli (XL1-Blue);
+DBP0001064	pDDB_G0279361/lacZ	The construct was made by sub-cloning the DDB_G0279361 promoter as a 1082 bp XbaI/BglII fragment into XbaI/BglII restricted pDdGal-17; This fragment consists of the region -980to +96bp from theDDB_G0279361 start and restriction sites; Thisincludes the full intergenic region before DDB_G0279361; The construct drives the expression of &#946;-gal when activated; Parental vector: pDdGal-17; Insert length: 1082 bp; Total vector length: 9564 bp; dictyBase gene: staf(DDB_G0279361); Bacteria used: E. coli (XL1-Blue);
+DBP0001065	pDDB_G0269904/lacZ	The construct was made by sub-cloning the DDB_G0269904 promoter as a 1720 bp XbaI/BamHI fragment into XbaI/BglII restricted pDdGal-17; The sequence contains a BglII internal restriction site; The BglII site from the parental vector is lost; The fragment consists of the region -1555 to +160 bp from theDDB_G0269904 start and restriction sites; The construct drives the expression of &#946;-gal when activated; Parental vector: pDdGal-17; Insert length: 1720 bp; Total vector length: 10202 bp; dictyBase gene: staG(DDB_G0269904); Bacteria used: E. coli (XL1-Blue);
+DBP0001066	pDDB_G0276687/lacZ	The construct was made by sub-cloning the DDB_G0276687 promoter as a 905 bp XbaI/BglII fragment into XbaI/BglII restricted pDdGal-17;This fragment consists of the region -892 to +9 bp from theDDB_G0276687 start and restriction sites; The construct drives the expression of &#946;-gal when activated; Parental vector: pDdGal-17; Insert length: 905kb; Total vector length: 9387kb; Bacteria used: E. coli (XL1-Blue); dictyBase gene: beiE (DDB_G0276687);
+DBP0001043	pAS-tdtom-NLSpLD1	Overexpression of nuclear localization sequence with tandem dimeric tomato fluorophore attached; inserted with Sall and Notl into the pLD1A15SN vector; insert length 1.5 kb; parental vector length 5.7 kb; total insert length 7.2 kb; Dicty resistance marker: neomycin;
+DBP0001053	pJH770	Digest with XhoI and XbaI; Total vector length: 7kb; DictyBase genes: erk2(DDB_G0269918), thyA(DDB_G0280045); Plasmid reistance marker: thyA
+DBP0001054	pJH693	Digest with XhoI and HindIII to insert blasticidin resistance gene; Total vector length: 5.5kb; DictyBase gene: erk1(DDB_G0286353); Bacteria used: DH5alpha;
+DBP0001057	pDDB_G0295797/lacZ	The construct was made by sub-cloning the DDB_G0295797 promoter as a 817 bp XbaI/BglII fragment into XbaI/BglII restricted pDdGal-17; This fragment consists of the region -808 to +3 bp from theDDB_G0295797 start and restriction sites; The construct drives the expression of &#946;-gal when activated; Parental vector: pDdGal-17; Insert length: 817 bp; Total vector length: 9299; dictyBase gene: expl7(DDB_G0295797); Bacteria used: E. coli (XL1-Blue);
+DBP0001058	pDDB_G0288489/lacZ	The construct was made by sub-cloning the DDB_G0288489promoter as a 776 bp XbaI/BglII fragment into XbaI/BglII restricted pDdGal-17; This fragment consists of the region -743to +27bp from theDDB_G0288489start and restriction sites; The construct drives the expression of &#946;-gal when activated; Parental vector: pDdGal-17; Insert length: 776 bp; Total vector length: 9258 bp; dictyBase gene: spoA(DDB_G0288489); Bacteria based used: E. coli (XL1-Blue);
+DBP0001067	pBeiB/YFP	Reporter construct expressing YFP under control of the beiB promoter; Parental vector: pDV-CYFP; Insert length: 1kb; Total vector length: 8.2kb;  Bacteria used: E. coli (XL1-Blue); dictyBase gene: beiB(DDB_G0278537);
+DBP0001069	pDV-fAR1-CYFP	overexpression of fAR1 with YFP tag; parental vector: pDV-CYFP, dictyBase genes: far1
+DBP0001070	pDV-fAR1-CYFP	overexpression of fAR1 with YFP tag; parental vector: pDV-CYFP, dictyBase genes: far1, plasmid resistance: amp
