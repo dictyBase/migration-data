@@ -5,17 +5,17 @@ data:
     id: 1
     type: link
   - attributes:
-      description: 'Teaching Protocols'
+      description: "Teaching Protocols"
       url: /research/teach
     id: 2
     type: link
   - attributes:
-      description: 'Dicty Stock Center'
+      description: "Dicty Stock Center"
       url: /stockcenter
     id: 3
     type: link
   - attributes:
-      description: 'Genome Browser'
+      description: "Genome Browser"
       url: http://dictybase.org/tools/jbrowse/?data=data%2Fjbrowse%2Fdiscoideum&loc=6%3A1..50022&tracks=reference%2Cgene%2Ctranscript&highlight=
     id: 4
     type: link
@@ -43,4 +43,9 @@ data:
       description: Contact
       url: /stockcenter/contact
     id: 9
+    type: link
+  - attributes:
+      description: "Privacy Policy"
+      url: /privacy-policy
+    id: 10
     type: link

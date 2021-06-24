@@ -71,6 +71,14 @@
                 "url": "/stockcenter/contact",
                 "description": "Contact"
             }
+        },
+        {
+            "type": "link",
+            "id": "10",
+            "attributes": {
+                "url": "/privacy-policy",
+                "description": "Privacy Policy"
+            }
         }
     ]
 }
