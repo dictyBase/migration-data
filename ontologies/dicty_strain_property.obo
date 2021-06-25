@@ -1,7 +1,7 @@
 format-version: 1.2
 date: 25:02:2021 19:11
 saved-by: pfey
-auto-generated-by: OBO-Edit 2.2
+auto-generated-by: OBO-Edit 2.3-beta
 default-namespace: dicty_strain_property
 ontology: ddstrainprop
 property_value: http://purl.org/dc/elements/1.1/description "A structured controlled vocabulary of various strain properties of the slime-mould Dictyostelium discoideum." xsd:string
