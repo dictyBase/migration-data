@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 25:06:2021 14:23
+date: 25:06:2021 16:56
 saved-by: pfey
 auto-generated-by: OBO-Edit 2.2
 default-namespace: Dicty Phenotypes
@@ -3855,7 +3855,7 @@ creation_date: 2019-03-01T15:53:27Z
 id: DDPHENO:0000585
 name: aberrant response to hypoxia
 def: "Deviation from the normal, usual, or expected events during the response to hypoxia." [DDB:pf]
-synonym: "aberrant response to decreased oxygen " EXACT []
+synonym: "aberrant response to decreased oxygen" EXACT []
 is_a: DDPHENO:0001034 ! aberrant cellular response to stress
 created_by: pfey
 creation_date: 2019-11-18T14:20:30Z
@@ -5017,7 +5017,7 @@ creation_date: 2021-06-21T17:25:36Z
 id: DDPHENO:0000716
 name: decreased production of siRNA involved in RNA interference
 def: "Reduction in level of modification of  siRNA production involved in RNA interference." [DDB:pf]
-synonym: " decreased production of siRNA involved in RNAi" EXACT []
+synonym: "decreased production of siRNA involved in RNAi" EXACT []
 is_a: DDPHENO:0000022 ! aberrant production of siRNA involved in RNA interference
 created_by: pfey
 creation_date: 2021-06-24T12:40:11Z
