@@ -6953,7 +6953,7 @@ DBS0351367	myoB-/[act15]:myoB(S332A)	Dictyostelium discoideum	myoB with S332A su
 DBS0351459	rasD-/AX3	Dictyostelium discoideum	rasD null mutant in AX3
 DBS0351441	HL73/HL203	Dictyostelium discoideum	heterozygote diploid tester strain; Parents: HL24(DBS0236219), HL203
 DBS0351453	HL208/XP99	Dictyostelium discoideum	heterozygote diploid tester strain; Parents: HL208 and XP99(DBS0237086)
-DBS0351471	AX4	Dictyostelium discoideum	AX4 strain from the Thompson lab that is the parent of GWDI strains. A different isolate of that strain is being sequenced, <a href="http://dictybase.org/db/cgi-bin/dictyBase/phenotype/strain_and_phenotype_details.pl?genotype_id=2083">   AX4</a>
+DBS0351471	AX4	Dictyostelium discoideum	AX4 strain from the Thompson lab that is the parent of GWDI strains. A different isolate of that strain is being sequenced
 DBS0351500	tipB-	Dictyostelium discoideum	tipB REMI mutant
 DBS0351520	AK1334	Dictyostelium discoideum	REMI insertion between two genes, nip7 and DDB_G0271574; note that it is unclear if this mutation has direct impact on any of the adjacent genes.
 DBS0350878	hephA-	Dictyostelium discoideum	hephA knock-out mutant in AX2
