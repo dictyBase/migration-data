@@ -4,14 +4,9 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001198",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE. Was not defined before obsoletion.",
           "xrefs" : [ "DDB:pf" ]
         },
-        "synonyms" : [ {
-          "pred" : "hasRelatedSynonym",
-          "val" : "increased sensitivity to infection by Cryptococcus neoformans",
-          "xrefs" : [ ]
-        } ],
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dicty Phenotypes"
@@ -39,14 +34,9 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001196",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
-          "xrefs" : [ "DDB:pf" ]
-        },
-        "synonyms" : [ {
-          "pred" : "hasRelatedSynonym",
-          "val" : "increased resistance to infection by Mycobacterium avium",
+          "val" : "OBSOLETE. Was not defined before obsoletion.",
           "xrefs" : [ ]
-        } ],
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dicty Phenotypes"
@@ -59,14 +49,9 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001197",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
-          "xrefs" : [ "DDB:pf" ]
-        },
-        "synonyms" : [ {
-          "pred" : "hasRelatedSynonym",
-          "val" : "increased resistance to infection by Cryptococcus neoformans",
+          "val" : "OBSOLETE. Was not defined before obsoletion.",
           "xrefs" : [ ]
-        } ],
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dicty Phenotypes"
@@ -79,14 +64,9 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001194",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE. Was not defined before obsoletion.",
           "xrefs" : [ "DDB:pf" ]
         },
-        "synonyms" : [ {
-          "pred" : "hasRelatedSynonym",
-          "val" : "increased sensitivity to infection",
-          "xrefs" : [ ]
-        } ],
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dicty Phenotypes"
@@ -99,14 +79,9 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001195",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
-          "xrefs" : [ "DDB:pf" ]
-        },
-        "synonyms" : [ {
-          "pred" : "hasRelatedSynonym",
-          "val" : "increased resistance to infection",
+          "val" : "OBSOLETE. Was not defined before obsoletion.",
           "xrefs" : [ ]
-        } ],
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dicty Phenotypes"
@@ -138,7 +113,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001193",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE. Was not defined before obsoletion.",
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
@@ -186,7 +161,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000274",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE. Complete inability for SDF production.",
           "xrefs" : [ "DDB:pg" ]
         },
         "basicPropertyValues" : [ {
@@ -367,40 +342,10 @@
       "type" : "CLASS",
       "lbl" : "increased number of mitochondria"
     }, {
-      "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000273",
-      "meta" : {
-        "definition" : {
-          "val" : "OBSOLETE.",
-          "xrefs" : [ "DDB:pg" ]
-        },
-        "basicPropertyValues" : [ {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
-          "val" : "Dicty Phenotypes"
-        } ],
-        "deprecated" : true
-      },
-      "type" : "CLASS",
-      "lbl" : "obsolete decreased SDF production"
-    }, {
-      "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001120",
-      "meta" : {
-        "definition" : {
-          "val" : "OBSOLETE.",
-          "xrefs" : [ "DDB:pg" ]
-        },
-        "basicPropertyValues" : [ {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
-          "val" : "Dicty Phenotypes"
-        } ],
-        "deprecated" : true
-      },
-      "type" : "CLASS",
-      "lbl" : "obsolete abolished protein kinase B activation"
-    }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000031",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE. Complete inability for rendocytosis.",
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
@@ -417,6 +362,36 @@
       },
       "type" : "CLASS",
       "lbl" : "obsolete abolished rate of endocytosis"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000273",
+      "meta" : {
+        "definition" : {
+          "val" : "OBSOLETE.  Reduction in extent, amount or accumulation of SDF production.",
+          "xrefs" : [ "DDB:pg" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Phenotypes"
+        } ],
+        "deprecated" : true
+      },
+      "type" : "CLASS",
+      "lbl" : "obsolete decreased SDF production"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001120",
+      "meta" : {
+        "definition" : {
+          "val" : "OBSOLETE. Complete inability for protein kinase B activation.",
+          "xrefs" : [ "DDB:pg" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Phenotypes"
+        } ],
+        "deprecated" : true
+      },
+      "type" : "CLASS",
+      "lbl" : "obsolete abolished protein kinase B activation"
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001362",
       "meta" : {
@@ -1000,14 +975,9 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000261",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE. Complete inability for prestalk cell differentiation in response to DIF-1.",
           "xrefs" : [ "DDB:pg" ]
         },
-        "synonyms" : [ {
-          "pred" : "hasExactSynonym",
-          "val" : "abolished pst cell differentiation in response to DIF-1",
-          "xrefs" : [ ]
-        } ],
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dicty Phenotypes"
@@ -1638,7 +1608,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001143",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE. Deviation from the normal, usual, or expected events during regulation of Ran GTPase activity.",
           "xrefs" : [ "DDB:pg" ]
         },
         "basicPropertyValues" : [ {
@@ -1725,7 +1695,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001144",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE. Deviation from the normal, usual, or expected events during regulation of Rap GTPase activity.",
           "xrefs" : [ "DDB:pg" ]
         },
         "basicPropertyValues" : [ {
@@ -1796,7 +1766,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001141",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE. Deviation from the normal, usual, or expected events during regulation of Rac GTPase activity.",
           "xrefs" : [ "DDB:pg" ]
         },
         "basicPropertyValues" : [ {
@@ -1811,7 +1781,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001383",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE. Reduction in extent, amount, or accumulation of extracellular pteridine level.",
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
@@ -1862,21 +1832,6 @@
       "type" : "CLASS",
       "lbl" : "decreased cytochrome C oxidase activity"
     }, {
-      "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001142",
-      "meta" : {
-        "definition" : {
-          "val" : "OBSOLETE.",
-          "xrefs" : [ "DDB:pg" ]
-        },
-        "basicPropertyValues" : [ {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
-          "val" : "Dicty Phenotypes"
-        } ],
-        "deprecated" : true
-      },
-      "type" : "CLASS",
-      "lbl" : "obsolete aberrant regulation of Rab GTPase activity"
-    }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000053",
       "meta" : {
         "definition" : {
@@ -1917,10 +1872,25 @@
       "type" : "CLASS",
       "lbl" : "abolished protein binding"
     }, {
+      "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001142",
+      "meta" : {
+        "definition" : {
+          "val" : "OBSOLETE. Deviation from the normal, usual, or expected events during regulation of Rab GTPase activity.",
+          "xrefs" : [ "DDB:pg" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Phenotypes"
+        } ],
+        "deprecated" : true
+      },
+      "type" : "CLASS",
+      "lbl" : "obsolete aberrant regulation of Rab GTPase activity"
+    }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001381",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE. Reduction in extent, amount or accumulation of extracellular glucose.",
           "xrefs" : [ "DDB:pg" ]
         },
         "basicPropertyValues" : [ {
@@ -1963,6 +1933,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000292",
       "meta" : {
+        "definition" : {
+          "val" : "OBSOLETE. Was not defined before obsoletion.",
+          "xrefs" : [ ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
           "val" : "pfey"
@@ -1980,6 +1954,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000293",
       "meta" : {
+        "definition" : {
+          "val" : "OBSOLETE. Was not defined before obsoletion.",
+          "xrefs" : [ ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
           "val" : "2015-05-05T17:03:59Z"
@@ -2027,7 +2005,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001382",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE. Increase in amount or accumulation of extracellular glucose.",
           "xrefs" : [ "DDB:pg" ]
         },
         "basicPropertyValues" : [ {
@@ -2042,7 +2020,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001140",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE. Deviation from the normal, usual, or expected events during regulation of Ras GTPase activity.",
           "xrefs" : [ "DDB:pg" ]
         },
         "basicPropertyValues" : [ {
@@ -2124,7 +2102,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001149",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE. Reduction in extent, amount or accumulation of positive regulation of Ran GTPase activity.",
           "xrefs" : [ "DDB:pg" ]
         },
         "basicPropertyValues" : [ {
@@ -2135,21 +2113,6 @@
       },
       "type" : "CLASS",
       "lbl" : "obsolete decreased positive regulation of Ran GTPase activity"
-    }, {
-      "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001147",
-      "meta" : {
-        "definition" : {
-          "val" : "OBSOLETE.",
-          "xrefs" : [ "DDB:pg" ]
-        },
-        "basicPropertyValues" : [ {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
-          "val" : "Dicty Phenotypes"
-        } ],
-        "deprecated" : true
-      },
-      "type" : "CLASS",
-      "lbl" : "obsolete decreased positive regulation of Rac GTPase activity"
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001389",
       "meta" : {
@@ -2186,10 +2149,25 @@
       },
       "type" : "CLASS"
     }, {
+      "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001147",
+      "meta" : {
+        "definition" : {
+          "val" : "OBSOLETE. Reduction in extent, amount or accumulation of positive regulation of Rac GTPase activity.",
+          "xrefs" : [ "DDB:pg" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Phenotypes"
+        } ],
+        "deprecated" : true
+      },
+      "type" : "CLASS",
+      "lbl" : "obsolete decreased positive regulation of Rac GTPase activity"
+    }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001148",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE. Increase in extent, amount, or degree of positive regulation of Rac GTPase activity.",
           "xrefs" : [ "DDB:pg" ]
         },
         "basicPropertyValues" : [ {
@@ -2234,25 +2212,10 @@
       "type" : "CLASS",
       "lbl" : "aberrant lipid binding"
     }, {
-      "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001145",
-      "meta" : {
-        "definition" : {
-          "val" : "OBSOLETE.",
-          "xrefs" : [ "DDB:pg" ]
-        },
-        "basicPropertyValues" : [ {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
-          "val" : "Dicty Phenotypes"
-        } ],
-        "deprecated" : true
-      },
-      "type" : "CLASS",
-      "lbl" : "obsolete decreased positive regulation of Rab GTPase activity"
-    }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001387",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE. Deviation from the normal, usual, or expected events during CRAC localization to the plasma membrane.",
           "xrefs" : [ "DDB:pg" ]
         },
         "basicPropertyValues" : [ {
@@ -2263,6 +2226,21 @@
       },
       "type" : "CLASS",
       "lbl" : "obsolete aberrant CRAC localization to the plasma membrane"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001145",
+      "meta" : {
+        "definition" : {
+          "val" : "OBSOLETE. Reduction in extent, amount or accumulation of positive regulation of Rab GTPase activity.",
+          "xrefs" : [ "DDB:pg" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Phenotypes"
+        } ],
+        "deprecated" : true
+      },
+      "type" : "CLASS",
+      "lbl" : "obsolete decreased positive regulation of Rab GTPase activity"
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000056",
       "meta" : {
@@ -2277,21 +2255,6 @@
       },
       "type" : "CLASS"
     }, {
-      "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001388",
-      "meta" : {
-        "definition" : {
-          "val" : "OBSOLETE.",
-          "xrefs" : [ "DDB:pg" ]
-        },
-        "basicPropertyValues" : [ {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
-          "val" : "Dicty Phenotypes"
-        } ],
-        "deprecated" : true
-      },
-      "type" : "CLASS",
-      "lbl" : "obsolete increased CRAC localization to the plasma membrane"
-    }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000057",
       "meta" : {
         "basicPropertyValues" : [ {
@@ -2304,6 +2267,21 @@
         "deprecated" : true
       },
       "type" : "CLASS"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001146",
+      "meta" : {
+        "definition" : {
+          "val" : "OBSOLETE. Increase in extent, amount, or degree of positive regulation of Rab GTPase activity.",
+          "xrefs" : [ "DDB:pg" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Phenotypes"
+        } ],
+        "deprecated" : true
+      },
+      "type" : "CLASS",
+      "lbl" : "obsolete increased positive regulation of Rab GTPase activity"
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000299",
       "meta" : {
@@ -2318,10 +2296,10 @@
       },
       "type" : "CLASS"
     }, {
-      "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001146",
+      "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001388",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE. Increase in extent, amount, or degree of CRAC localization to the plasma membrane.",
           "xrefs" : [ "DDB:pg" ]
         },
         "basicPropertyValues" : [ {
@@ -2331,7 +2309,7 @@
         "deprecated" : true
       },
       "type" : "CLASS",
-      "lbl" : "obsolete increased positive regulation of Rab GTPase activity"
+      "lbl" : "obsolete increased CRAC localization to the plasma membrane"
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000043",
       "meta" : {
@@ -2419,7 +2397,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000044",
       "meta" : {
         "definition" : {
-          "val" : "OBSLOTETE.",
+          "val" : "OBSLOTETE. Deviation from the normal, usual, or expected events during SDF production.",
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
@@ -2648,6 +2626,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000281",
       "meta" : {
+        "definition" : {
+          "val" : "OBSOLETE. Was not defined before obsoletion.",
+          "xrefs" : [ ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dicty Phenotypes"
@@ -2819,6 +2801,21 @@
       "type" : "CLASS",
       "lbl" : "increased positive regulation of GTPase activity"
     }, {
+      "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001136",
+      "meta" : {
+        "definition" : {
+          "val" : "OBSOLETE. Increase in extent, amount, or degree of chemoattractant-mediated F-actin polymerization.",
+          "xrefs" : [ "DDB:pg" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Phenotypes"
+        } ],
+        "deprecated" : true
+      },
+      "type" : "CLASS",
+      "lbl" : "obsolete increased chemoattractant-mediated F-actin polymerization"
+    }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000289",
       "meta" : {
         "definition" : {
@@ -2843,21 +2840,6 @@
       },
       "type" : "CLASS",
       "lbl" : "decreased defense response to Gram-negative bacterium"
-    }, {
-      "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001136",
-      "meta" : {
-        "definition" : {
-          "val" : "OBSOLETE.",
-          "xrefs" : [ "DDB:pg" ]
-        },
-        "basicPropertyValues" : [ {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
-          "val" : "Dicty Phenotypes"
-        } ],
-        "deprecated" : true
-      },
-      "type" : "CLASS",
-      "lbl" : "obsolete increased chemoattractant-mediated F-actin polymerization"
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001378",
       "meta" : {
@@ -3054,21 +3036,6 @@
       "type" : "CLASS",
       "lbl" : "increased glycogen level"
     }, {
-      "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001135",
-      "meta" : {
-        "definition" : {
-          "val" : "OBSOLETE.",
-          "xrefs" : [ "DDB:pg" ]
-        },
-        "basicPropertyValues" : [ {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
-          "val" : "Dicty Phenotypes"
-        } ],
-        "deprecated" : true
-      },
-      "type" : "CLASS",
-      "lbl" : "obsolete abolished chemoattractant-mediated F-actin polymerization"
-    }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000288",
       "meta" : {
         "definition" : {
@@ -3120,6 +3087,21 @@
       },
       "type" : "CLASS",
       "lbl" : "increased intracellular pH"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001135",
+      "meta" : {
+        "definition" : {
+          "val" : "OBSOLETE. Complete inability for chemoattractant-mediated F-actin polymerization.",
+          "xrefs" : [ "DDB:pg" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Phenotypes"
+        } ],
+        "deprecated" : true
+      },
+      "type" : "CLASS",
+      "lbl" : "obsolete abolished chemoattractant-mediated F-actin polymerization"
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000046",
       "meta" : {
@@ -3520,6 +3502,21 @@
       },
       "type" : "CLASS"
     }, {
+      "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001154",
+      "meta" : {
+        "definition" : {
+          "val" : "OBSOLETE. Reduction in extent, amount or accumulation of positive regulation of Ras GTPase activity.",
+          "xrefs" : [ "DDB:pg" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Phenotypes"
+        } ],
+        "deprecated" : true
+      },
+      "type" : "CLASS",
+      "lbl" : "obsolete decreased positive regulation of Ras GTPase activity"
+    }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001396",
       "meta" : {
         "definition" : {
@@ -3542,30 +3539,19 @@
       "type" : "CLASS",
       "lbl" : "increased protein localization to plasma membrane"
     }, {
-      "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001154",
-      "meta" : {
-        "definition" : {
-          "val" : "OBSOLETE.",
-          "xrefs" : [ "DDB:pg" ]
-        },
-        "basicPropertyValues" : [ {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
-          "val" : "Dicty Phenotypes"
-        } ],
-        "deprecated" : true
-      },
-      "type" : "CLASS",
-      "lbl" : "obsolete decreased positive regulation of Ras GTPase activity"
-    }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001397",
       "meta" : {
         "definition" : {
-          "val" : "Extended duration for cAMP signal relay during early development.",
+          "val" : "Extended duration for cAMP oscillatory signaling during early development.",
           "xrefs" : [ "DDB:pf" ]
         },
         "synonyms" : [ {
-          "pred" : "hasRelatedSynonym",
-          "val" : "prolonged cAMP signal propagation",
+          "pred" : "hasExactSynonym",
+          "val" : "increased cAMP-induced cAMP pulse",
+          "xrefs" : [ ]
+        }, {
+          "pred" : "hasExactSynonym",
+          "val" : "increased cAMP relay",
           "xrefs" : [ ]
         } ],
         "basicPropertyValues" : [ {
@@ -3574,7 +3560,7 @@
         } ]
       },
       "type" : "CLASS",
-      "lbl" : "increased cAMP signal relay"
+      "lbl" : "increased cAMP oscillatory signaling"
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001155",
       "meta" : {
@@ -3608,6 +3594,21 @@
       },
       "type" : "CLASS"
     }, {
+      "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001152",
+      "meta" : {
+        "definition" : {
+          "val" : "OBSOLETE. Increase in extent, amount, or degree of positive regulation of Rap GTPase activity.",
+          "xrefs" : [ "DDB:pg" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Phenotypes"
+        } ],
+        "deprecated" : true
+      },
+      "type" : "CLASS",
+      "lbl" : "obsolete increased positive regulation of Rap GTPase activity"
+    }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000063",
       "meta" : {
         "basicPropertyValues" : [ {
@@ -3620,21 +3621,6 @@
         "deprecated" : true
       },
       "type" : "CLASS"
-    }, {
-      "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001152",
-      "meta" : {
-        "definition" : {
-          "val" : "OBSOLETE.",
-          "xrefs" : [ "DDB:pg" ]
-        },
-        "basicPropertyValues" : [ {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
-          "val" : "Dicty Phenotypes"
-        } ],
-        "deprecated" : true
-      },
-      "type" : "CLASS",
-      "lbl" : "obsolete increased positive regulation of Rap GTPase activity"
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001394",
       "meta" : {
@@ -3696,7 +3682,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001153",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE. Increase in extent, amount, or degree of positive regulation of Ras GTPase activity.",
           "xrefs" : [ "DDB:pg" ]
         },
         "basicPropertyValues" : [ {
@@ -3733,7 +3719,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001150",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE. Increase in extent, amount, or degree of positive regulation of Ran GTPase activity.",
           "xrefs" : [ "DDB:pg" ]
         },
         "basicPropertyValues" : [ {
@@ -3761,7 +3747,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001151",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE. Reduction in extent, amount or accumulation of positive regulation of Rap GTPase activity.",
           "xrefs" : [ "DDB:pg" ]
         },
         "basicPropertyValues" : [ {
@@ -3912,12 +3898,16 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001398",
       "meta" : {
         "definition" : {
-          "val" : "Shortened duration for cAMP signal relay during early development.",
+          "val" : "Shortened duration for cAMP oscillatory signaling during early development.",
           "xrefs" : [ "DDB:pf" ]
         },
         "synonyms" : [ {
-          "pred" : "hasRelatedSynonym",
-          "val" : "shortened cAMP signal propagation",
+          "pred" : "hasExactSynonym",
+          "val" : "decreased cAMP-induced cAMP pulse",
+          "xrefs" : [ ]
+        }, {
+          "pred" : "hasExactSynonym",
+          "val" : "shortened cAMP relay",
           "xrefs" : [ ]
         } ],
         "basicPropertyValues" : [ {
@@ -3926,7 +3916,7 @@
         } ]
       },
       "type" : "CLASS",
-      "lbl" : "decreased cAMP signal relay"
+      "lbl" : "decreased cAMP oscillatory signaling"
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001156",
       "meta" : {
@@ -4160,6 +4150,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000094",
       "meta" : {
+        "definition" : {
+          "val" : "OBSOLETE. Was not defined before obsoletion.",
+          "xrefs" : [ ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dicty Phenotypes"
@@ -4490,7 +4484,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001173",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE. Deviation from the normal, usual, or expected events during aspidocyte differentiation.",
           "xrefs" : [ "DDB:pg" ]
         },
         "basicPropertyValues" : [ {
@@ -5596,8 +5590,8 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000423",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
-          "xrefs" : [ "DDB:pf" ]
+          "val" : "OBSOLETE. Was not defined before obsoletion.",
+          "xrefs" : [ ]
         },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
@@ -5730,7 +5724,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000421",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE. Late onset or slower progression for cAMP-induced Ca2+ influx.",
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
@@ -5773,7 +5767,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000422",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE. Reduction in extent, amount or degree of Ca2+ induced Ca2+ influx.",
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
@@ -5848,7 +5842,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000420",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE. Reduction in extent, amount or degree of cAMP-induced Ca2+ influx.",
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
@@ -5927,7 +5921,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000451",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE. Quantitative increase in peripheral cells during sexual reproduction.",
           "xrefs" : [ "DDB:pg" ]
         },
         "basicPropertyValues" : [ {
@@ -5992,7 +5986,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001309",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE. Complete inability for activation of  of Ran GTPase activity.",
           "xrefs" : [ "DDB:pg" ]
         },
         "basicPropertyValues" : [ {
@@ -6020,7 +6014,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001307",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE. Complete inability for activation of  of Rab GTPase activity.",
           "xrefs" : [ "DDB:pg" ]
         },
         "basicPropertyValues" : [ {
@@ -6035,14 +6029,9 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001308",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE. Complete inability for activation of  of Rac GTPase activity.",
           "xrefs" : [ "DDB:pg" ]
         },
-        "synonyms" : [ {
-          "pred" : "hasRelatedSynonym",
-          "val" : "abolished activation of Rho GTPase activity",
-          "xrefs" : [ ]
-        } ],
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dicty Phenotypes"
@@ -6356,14 +6345,9 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001301",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE. Reduction in extent, amount ordegree of protein kinase B activity.",
           "xrefs" : [ "DDB:pg" ]
         },
-        "synonyms" : [ {
-          "pred" : "hasExactSynonym",
-          "val" : "decreased PKB activity",
-          "xrefs" : [ ]
-        } ],
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dicty Phenotypes"
@@ -6438,14 +6422,9 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001302",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE. Increase in extent, amount, or degree of protein kinase B activity.",
           "xrefs" : [ "DDB:pg" ]
         },
-        "synonyms" : [ {
-          "pred" : "hasExactSynonym",
-          "val" : "increased PKB activity",
-          "xrefs" : [ ]
-        } ],
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dicty Phenotypes"
@@ -6585,14 +6564,9 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001300",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE. Complete inability for protein kinase B activity.",
           "xrefs" : [ "DDB:pg" ]
         },
-        "synonyms" : [ {
-          "pred" : "hasExactSynonym",
-          "val" : "abolished PKB activity",
-          "xrefs" : [ ]
-        } ],
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dicty Phenotypes"
@@ -6734,8 +6708,8 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000449",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
-          "xrefs" : [ "DDB:kp" ]
+          "val" : "OBSOLETE. Was not defined before obsoletion.",
+          "xrefs" : [ ]
         },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
@@ -6801,6 +6775,21 @@
       "type" : "CLASS",
       "lbl" : "aberrant G protein-coupled receptor signaling"
     }, {
+      "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000205",
+      "meta" : {
+        "definition" : {
+          "val" : "OBSOLETE. Reduction in extent, amount or accumulation of extracellular CF50 level.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Phenotypes"
+        } ],
+        "deprecated" : true
+      },
+      "type" : "CLASS",
+      "lbl" : "obsolete decreased extracellular CF50 level"
+    }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001536",
       "meta" : {
         "definition" : {
@@ -6824,7 +6813,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000447",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE. Increase in extent, amount, or degree of myosin protein level.",
           "xrefs" : [ "DDB:pg" ]
         },
         "basicPropertyValues" : [ {
@@ -6835,17 +6824,6 @@
       },
       "type" : "CLASS",
       "lbl" : "obsolete increased myosin protein level"
-    }, {
-      "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000205",
-      "meta" : {
-        "basicPropertyValues" : [ {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
-          "val" : "Dicty Phenotypes"
-        } ],
-        "deprecated" : true
-      },
-      "type" : "CLASS",
-      "lbl" : "obsolete decreased extracellular CF50 level"
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000448",
       "meta" : {
@@ -6993,14 +6971,9 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000204",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE. Reduction in extent, amount or accumulation of extracellular counting factor component level.",
           "xrefs" : [ "DDB:pg" ]
         },
-        "synonyms" : [ {
-          "pred" : "hasExactSynonym",
-          "val" : "decreased level of extracellular CF component(s)",
-          "xrefs" : [ ]
-        } ],
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dicty Phenotypes"
@@ -7067,14 +7040,9 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000201",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE. Reduction in extent, amount, or degree of glycogen synthase kinase 3 activity.",
           "xrefs" : [ "DDB:pg" ]
         },
-        "synonyms" : [ {
-          "pred" : "hasExactSynonym",
-          "val" : "decreased GSK3 activity",
-          "xrefs" : [ "DDB:kp" ]
-        } ],
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dicty Phenotypes"
@@ -7222,14 +7190,9 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000444",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE. Increase in extent, amount, or degree of intracellular counting factor (CF) level.",
           "xrefs" : [ "DDB:pg" ]
         },
-        "synonyms" : [ {
-          "pred" : "hasExactSynonym",
-          "val" : "increased level of intracellular CF component(s)",
-          "xrefs" : [ ]
-        } ],
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dicty Phenotypes"
@@ -7290,6 +7253,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000441",
       "meta" : {
+        "definition" : {
+          "val" : "OBSOLETE. Was not defined before obsoletion.",
+          "xrefs" : [ ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dicty Phenotypes"
@@ -7331,14 +7298,9 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000442",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE.  Increase in extent, amount, or degree of  counting factr component level.",
           "xrefs" : [ "DDB:pg" ]
         },
-        "synonyms" : [ {
-          "pred" : "hasExactSynonym",
-          "val" : "increased level of extracellular CF component(s)",
-          "xrefs" : [ ]
-        } ],
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dicty Phenotypes"
@@ -7518,7 +7480,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001329",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE. Reduction in extent, amount or accumulation of extracellular cAMP level.",
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
@@ -7533,22 +7495,9 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000238",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE. Deviation from the normal, usual, or expected events during DNA-mediated transformation.",
           "xrefs" : [ "DDB:pf" ]
         },
-        "synonyms" : [ {
-          "pred" : "hasNarrowSynonym",
-          "val" : "aberrant REMI efficiency",
-          "xrefs" : [ ]
-        }, {
-          "pred" : "hasRelatedSynonym",
-          "val" : "aberrant transformation efficiency",
-          "xrefs" : [ ]
-        }, {
-          "pred" : "hasNarrowSynonym",
-          "val" : "aberrant homologous recombination",
-          "xrefs" : [ ]
-        } ],
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dicty Phenotypes"
@@ -7583,40 +7532,6 @@
       "type" : "CLASS",
       "lbl" : "decreased protein modification"
     }, {
-      "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000239",
-      "meta" : {
-        "definition" : {
-          "val" : "OBSOLETE.",
-          "xrefs" : [ "DDB:pf" ]
-        },
-        "synonyms" : [ {
-          "pred" : "hasNarrowSynonym",
-          "val" : "decreased REMI efficiency",
-          "xrefs" : [ ]
-        }, {
-          "pred" : "hasRelatedSynonym",
-          "val" : "decreased transformation efficiency",
-          "xrefs" : [ ]
-        }, {
-          "pred" : "hasNarrowSynonym",
-          "val" : "decreased homologous recombination",
-          "xrefs" : [ ]
-        } ],
-        "basicPropertyValues" : [ {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
-          "val" : "pfey"
-        }, {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
-          "val" : "2015-01-27T11:48:35Z"
-        }, {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
-          "val" : "Dicty Phenotypes"
-        } ],
-        "deprecated" : true
-      },
-      "type" : "CLASS",
-      "lbl" : "obsolete decreased DNA mediated transformation"
-    }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001328",
       "meta" : {
         "definition" : {
@@ -7635,6 +7550,27 @@
       },
       "type" : "CLASS",
       "lbl" : "abolished protein modification"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000239",
+      "meta" : {
+        "definition" : {
+          "val" : "OBSOLETE. Reduction in extent, amount or degree of DNA mediated transformation.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2015-01-27T11:48:35Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Phenotypes"
+        } ],
+        "deprecated" : true
+      },
+      "type" : "CLASS",
+      "lbl" : "obsolete decreased DNA mediated transformation"
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000478",
       "meta" : {
@@ -7820,7 +7756,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000235",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE. Increase in extent, amount, or degree of aneuploidy.",
           "xrefs" : [ "DDB:pg" ]
         },
         "basicPropertyValues" : [ {
@@ -8054,7 +7990,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001316",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE. Complete inability for peptidyl-proline 4-dioxygenase activity.",
           "xrefs" : [ "DDB:pg" ]
         },
         "basicPropertyValues" : [ {
@@ -8178,7 +8114,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001314",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE. Reduction in extent, amount or degree of peptidyl-proline 4-dioxygenase activity.",
           "xrefs" : [ "DDB:pg" ]
         },
         "basicPropertyValues" : [ {
@@ -8193,7 +8129,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001315",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE Increase in extent, amount, or degree of peptidyl-proline 4-dioxygenase activity.",
           "xrefs" : [ "DDB:pg" ]
         },
         "basicPropertyValues" : [ {
@@ -8248,7 +8184,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000465",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE. Complete inability for cAMP-induced Ca2+ influx.",
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
@@ -8277,7 +8213,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001312",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE. Complete inability for activation of  of Ras GTPase activity.",
           "xrefs" : [ "DDB:pg" ]
         },
         "basicPropertyValues" : [ {
@@ -8319,7 +8255,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001313",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE. Deviation from the normal, usual, or expected events during peptidyl-proline 4-dioxygenase activity.",
           "xrefs" : [ "DDB:pg" ]
         },
         "basicPropertyValues" : [ {
@@ -8334,7 +8270,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001310",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE. Complete inability for activation of  of Rap GTPase activity.",
           "xrefs" : [ "DDB:pg" ]
         },
         "basicPropertyValues" : [ {
@@ -8532,7 +8468,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001100",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE.  Complete inability for DIF production.",
           "xrefs" : [ "DDB:pg" ]
         },
         "basicPropertyValues" : [ {
@@ -8684,7 +8620,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000493",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE. Complete inability for CRAC localization to the plasma membrane.",
           "xrefs" : [ "DDB:pg" ]
         },
         "basicPropertyValues" : [ {
@@ -9046,7 +8982,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000256",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE. Complete inability for potassium-dependent chemotaxis to cAMP.",
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
@@ -9376,7 +9312,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000255",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE. Deviation from the normal, usual, or expected events during potassium-dependent chemotaxis to cAMP.",
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
@@ -9435,6 +9371,27 @@
       "type" : "CLASS",
       "lbl" : "decreased protein phosphorylation"
     }, {
+      "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000241",
+      "meta" : {
+        "definition" : {
+          "val" : "OBSOLETE. Complete inability for DNA-mediated transformation.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2015-01-29T14:57:44Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Phenotypes"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        } ],
+        "deprecated" : true
+      },
+      "type" : "CLASS",
+      "lbl" : "obsolete abolished DNA mediated transformation"
+    }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000483",
       "meta" : {
         "definition" : {
@@ -9474,7 +9431,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001330",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE.  Increase in extent, amount, or degree of cAMP level.",
           "xrefs" : [ "DDB:pg" ]
         },
         "basicPropertyValues" : [ {
@@ -9485,36 +9442,6 @@
       },
       "type" : "CLASS",
       "lbl" : "obsolete increased extracellular cAMP level"
-    }, {
-      "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000241",
-      "meta" : {
-        "definition" : {
-          "val" : "OBSOLETE.",
-          "xrefs" : [ "DDB:pf" ]
-        },
-        "synonyms" : [ {
-          "pred" : "hasNarrowSynonym",
-          "val" : "abolished REMI",
-          "xrefs" : [ ]
-        }, {
-          "pred" : "hasNarrowSynonym",
-          "val" : "abolished homologous recombination",
-          "xrefs" : [ ]
-        } ],
-        "basicPropertyValues" : [ {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
-          "val" : "2015-01-29T14:57:44Z"
-        }, {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
-          "val" : "Dicty Phenotypes"
-        }, {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
-          "val" : "pfey"
-        } ],
-        "deprecated" : true
-      },
-      "type" : "CLASS",
-      "lbl" : "obsolete abolished DNA mediated transformation"
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000242",
       "meta" : {
@@ -9552,6 +9479,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000484",
       "meta" : {
+        "definition" : {
+          "val" : "OBSOLETE.  Eas not defined before obsoletion.",
+          "xrefs" : [ ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dicty Phenotypes"
@@ -9601,22 +9532,9 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000240",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE. Increase in extent, amount, or degree of DNA mediated transformation.",
           "xrefs" : [ "DDB:pf" ]
         },
-        "synonyms" : [ {
-          "pred" : "hasNarrowSynonym",
-          "val" : "increased REMI efficiency",
-          "xrefs" : [ ]
-        }, {
-          "pred" : "hasRelatedSynonym",
-          "val" : "increased transformation efficiency",
-          "xrefs" : [ ]
-        }, {
-          "pred" : "hasNarrowSynonym",
-          "val" : "increased homologous recombination",
-          "xrefs" : [ ]
-        } ],
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
           "val" : "pfey"
@@ -9635,7 +9553,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000480",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE. Deviation from the normal, usual, or expected events during cAMP signaling.",
           "xrefs" : [ "DDB:pg" ]
         },
         "basicPropertyValues" : [ {
@@ -9775,21 +9693,6 @@
       "type" : "CLASS",
       "lbl" : "abolished double strand break repair"
     }, {
-      "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000489",
-      "meta" : {
-        "definition" : {
-          "val" : "OBSOLETE.",
-          "xrefs" : [ "DDB:pf" ]
-        },
-        "basicPropertyValues" : [ {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
-          "val" : "Dicty Phenotypes"
-        } ],
-        "deprecated" : true
-      },
-      "type" : "CLASS",
-      "lbl" : "obsolete increased cytosolic Ca2+ response"
-    }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001336",
       "meta" : {
         "definition" : {
@@ -9815,6 +9718,21 @@
       },
       "type" : "CLASS",
       "lbl" : "aberrant protein localization to nucleus"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000489",
+      "meta" : {
+        "definition" : {
+          "val" : "OBSOLETE.  Increase in extent, amount, or degree of cytosolic Ca2+ response.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Phenotypes"
+        } ],
+        "deprecated" : true
+      },
+      "type" : "CLASS",
+      "lbl" : "obsolete increased cytosolic Ca2+ response"
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000005",
       "meta" : {
@@ -11740,7 +11658,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000407",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE. Reduction in extent, amount or degree of chemoattractant-mediated F-actin polymerization.",
           "xrefs" : [ "DDB:pg" ]
         },
         "basicPropertyValues" : [ {
@@ -12001,7 +11919,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000402",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE. Increase in extent, amount, or degree of intracellular cAMP level.",
           "xrefs" : [ "DDB:pg" ]
         },
         "basicPropertyValues" : [ {
@@ -12264,7 +12182,7 @@
       "meta" : {
         "definition" : {
           "val" : "OBSOLETE. Quantitative decrease in spherical mitochondria.",
-          "xrefs" : [ "DDB:pg", "PMID:14665465" ]
+          "xrefs" : [ "DDB:pg" ]
         },
         "comments" : [ "In Dictyostelium, cells have mitochondria of three different shapes: spherical, rod-like or tubular." ],
         "basicPropertyValues" : [ {
@@ -12474,7 +12392,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001099",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE. Late onset or slower progression for DIF production.",
           "xrefs" : [ "DDB:pg" ]
         },
         "basicPropertyValues" : [ {
@@ -12679,31 +12597,6 @@
       "type" : "PROPERTY",
       "lbl" : "has_alternative_id"
     }, {
-      "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000395",
-      "meta" : {
-        "definition" : {
-          "val" : "OBSOLETE.",
-          "xrefs" : [ "DDB:pg" ]
-        },
-        "comments" : [ "Not sure this is legitimate. See SF for an item on PKB; I think it's a gee product." ],
-        "synonyms" : [ {
-          "pred" : "hasRelatedSynonym",
-          "val" : "decreased phosphorylation of PkbA (Akt/PKB)",
-          "xrefs" : [ ]
-        }, {
-          "pred" : "hasRelatedSynonym",
-          "val" : "decreased activation of PKB",
-          "xrefs" : [ ]
-        } ],
-        "basicPropertyValues" : [ {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
-          "val" : "Dicty Phenotypes"
-        } ],
-        "deprecated" : true
-      },
-      "type" : "CLASS",
-      "lbl" : "obsolete decreased activation of protein kinase B"
-    }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001484",
       "meta" : {
         "definition" : {
@@ -12724,6 +12617,22 @@
       },
       "type" : "CLASS",
       "lbl" : "obsolete aberrant spindle stabilization"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000395",
+      "meta" : {
+        "definition" : {
+          "val" : "OBSOLETE. Reduction in extent, amount or degree of activation of protein kinase B.",
+          "xrefs" : [ "DDB:pg" ]
+        },
+        "comments" : [ "Not sure this is legitimate. See SF for an item on PKB; I think it's a gee product." ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Phenotypes"
+        } ],
+        "deprecated" : true
+      },
+      "type" : "CLASS",
+      "lbl" : "obsolete decreased activation of protein kinase B"
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000153",
       "meta" : {
@@ -12837,7 +12746,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001001",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE. Deviation from the normal, usual, or expected events duringninitiation of development.",
           "xrefs" : [ "DDB:pg" ]
         },
         "basicPropertyValues" : [ {
@@ -12917,14 +12826,9 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001240",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE. Reduction in extent, amount or degree of CRAC localization to the plasma membrane.",
           "xrefs" : [ "DDB:pf" ]
         },
-        "synonyms" : [ {
-          "pred" : "hasRelatedSynonym",
-          "val" : "decreased CRAC translocation",
-          "xrefs" : [ ]
-        } ],
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dicty Phenotypes"
@@ -13135,8 +13039,8 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000391",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
-          "xrefs" : [ "DDB:kp" ]
+          "val" : "OBSOLETE. Was not defined before obsoletion.",
+          "xrefs" : [ ]
         },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
@@ -13368,12 +13272,16 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001246",
       "meta" : {
         "definition" : {
-          "val" : "Complete inability for cAMP signal relay during early development.",
+          "val" : "Complete inability for cAMP oscillatory signaling during early development.",
           "xrefs" : [ "DDB:pf" ]
         },
         "synonyms" : [ {
-          "pred" : "hasRelatedSynonym",
-          "val" : "abolished cAMP signal propagation",
+          "pred" : "hasExactSynonym",
+          "val" : "abolished cAMP relay",
+          "xrefs" : [ ]
+        }, {
+          "pred" : "hasExactSynonym",
+          "val" : "abolished cAMP-induced cAMP pulse",
           "xrefs" : [ ]
         } ],
         "basicPropertyValues" : [ {
@@ -13382,7 +13290,7 @@
         } ]
       },
       "type" : "CLASS",
-      "lbl" : "abolished cAMP signal relay"
+      "lbl" : "abolished cAMP oscillatory signaling"
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000157",
       "meta" : {
@@ -13410,7 +13318,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001004",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE. Deviation from the normal, usual, or expected events during cellular physiological process.",
           "xrefs" : [ "DDB:pg" ]
         },
         "comments" : [ "Obsoleted because GO merged with cellular process. All children moved under DDPHENO:0001008 aberrant cellular process" ],
@@ -13605,6 +13513,29 @@
       "type" : "CLASS",
       "lbl" : "abolished protein level"
     }, {
+      "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001245",
+      "meta" : {
+        "definition" : {
+          "val" : "Deviation from the normal, usual, or expected events during cAMP signal oscillations during early development.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "synonyms" : [ {
+          "pred" : "hasExactSynonym",
+          "val" : "aberrant cAMP relay",
+          "xrefs" : [ ]
+        }, {
+          "pred" : "hasExactSynonym",
+          "val" : "aberrant cAMP-induced cAMP pulse",
+          "xrefs" : [ ]
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Phenotypes"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "aberrant cAMP oscillatory signaling"
+    }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001003",
       "meta" : {
         "definition" : {
@@ -13620,24 +13551,20 @@
       "type" : "CLASS",
       "lbl" : "aberrant response to stimulus"
     }, {
-      "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001245",
+      "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000398",
       "meta" : {
         "definition" : {
-          "val" : "Deviation from the normal, usual, or expected events during cAMP signal relay during early development.",
-          "xrefs" : [ "DDB:pf" ]
-        },
-        "synonyms" : [ {
-          "pred" : "hasRelatedSynonym",
-          "val" : "aberrant cAMP signal propagation",
+          "val" : "OBSOLETE. Was not defined before obsoletion.",
           "xrefs" : [ ]
-        } ],
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dicty Phenotypes"
-        } ]
+        } ],
+        "deprecated" : true
       },
       "type" : "CLASS",
-      "lbl" : "aberrant cAMP signal relay"
+      "lbl" : "obsolete no synthetic interaction observed between rasS and gefB"
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001487",
       "meta" : {
@@ -13687,21 +13614,6 @@
       },
       "type" : "CLASS",
       "lbl" : "delayed aggregation"
-    }, {
-      "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000398",
-      "meta" : {
-        "definition" : {
-          "val" : "OBSOLETE.",
-          "xrefs" : [ "DDB:kp" ]
-        },
-        "basicPropertyValues" : [ {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
-          "val" : "Dicty Phenotypes"
-        } ],
-        "deprecated" : true
-      },
-      "type" : "CLASS",
-      "lbl" : "obsolete no synthetic interaction observed between rasS and gefB"
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000142",
       "meta" : {
@@ -13792,14 +13704,9 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001474",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE. Increase in amount or accumulation of intracellular 2,3-bisphosphoglycerate.",
           "xrefs" : [ "DDB:pf" ]
         },
-        "synonyms" : [ {
-          "pred" : "hasExactSynonym",
-          "val" : "Increase in amount or accumulation of intracellular 2,3-BPG",
-          "xrefs" : [ ]
-        } ],
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
           "val" : "2011-03-24T02:29:08Z"
@@ -13842,21 +13749,6 @@
       "type" : "CLASS",
       "lbl" : "abolished cytokinesis"
     }, {
-      "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000382",
-      "meta" : {
-        "definition" : {
-          "val" : "OBSOLETE.",
-          "xrefs" : [ "DDB:kp" ]
-        },
-        "basicPropertyValues" : [ {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
-          "val" : "Dicty Phenotypes"
-        } ],
-        "deprecated" : true
-      },
-      "type" : "CLASS",
-      "lbl" : "obsolete aberrant morphology"
-    }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001471",
       "meta" : {
         "definition" : {
@@ -13876,6 +13768,21 @@
       },
       "type" : "CLASS",
       "lbl" : "increased response to lithium"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000382",
+      "meta" : {
+        "definition" : {
+          "val" : "OBSOLETE. Deviation from the normal, usual, or expected events during morphogenesis.",
+          "xrefs" : [ "DDB:kp" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Phenotypes"
+        } ],
+        "deprecated" : true
+      },
+      "type" : "CLASS",
+      "lbl" : "obsolete aberrant morphology"
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000140",
       "meta" : {
@@ -14180,7 +14087,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000388",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE. Complete inability for vacuolation.",
           "xrefs" : [ "DDB:pg" ]
         },
         "basicPropertyValues" : [ {
@@ -14427,8 +14334,8 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000145",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
-          "xrefs" : [ "DDB:pg" ]
+          "val" : "OBSOLETE. Was not defined before obsoletion.",
+          "xrefs" : [ ]
         },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
@@ -14703,8 +14610,8 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000172",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
-          "xrefs" : [ "DDB:kp" ]
+          "val" : "OBSOLETE. Was not defined before obsoletion.",
+          "xrefs" : [ ]
         },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
@@ -14803,7 +14710,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001268",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE. Deviation from the normal, usual, or expected events during non-apoptotic programmed cell death.",
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
@@ -14850,7 +14757,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001269",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE. Complete inability for non-apoptotic programmed cell death.",
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
@@ -15021,34 +14928,10 @@
       "type" : "CLASS",
       "lbl" : "decreased phagolysosome size"
     }, {
-      "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001253",
-      "meta" : {
-        "definition" : {
-          "val" : "OBSOLETE.",
-          "xrefs" : [ "DDB:pg" ]
-        },
-        "synonyms" : [ {
-          "pred" : "hasNarrowSynonym",
-          "val" : "decreased erkB activation",
-          "xrefs" : [ ]
-        }, {
-          "pred" : "hasRelatedSynonym",
-          "val" : "decreased erk2 activation",
-          "xrefs" : [ ]
-        } ],
-        "basicPropertyValues" : [ {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
-          "val" : "Dicty Phenotypes"
-        } ],
-        "deprecated" : true
-      },
-      "type" : "CLASS",
-      "lbl" : "obsolete decreased MAP kinase activation"
-    }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001011",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE. Reduction in extent, amount or degree of intracellular cAMP level.",
           "xrefs" : [ "DDB:pg" ]
         },
         "basicPropertyValues" : [ {
@@ -15060,21 +14943,27 @@
       "type" : "CLASS",
       "lbl" : "obsolete decreased intracellular cAMP level"
     }, {
+      "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001253",
+      "meta" : {
+        "definition" : {
+          "val" : "OBSOLETE. Reduction in extent, amount or degree of MAP kinase activation.",
+          "xrefs" : [ "DDB:pg" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Phenotypes"
+        } ],
+        "deprecated" : true
+      },
+      "type" : "CLASS",
+      "lbl" : "obsolete decreased MAP kinase activation"
+    }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001254",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE. Increase in extent, amount, or degree of activation of a MAP kinase.",
           "xrefs" : [ "DDB:pg" ]
         },
-        "synonyms" : [ {
-          "pred" : "hasNarrowSynonym",
-          "val" : "increased erk2 activation",
-          "xrefs" : [ ]
-        }, {
-          "pred" : "hasNarrowSynonym",
-          "val" : "increased erkB activation",
-          "xrefs" : [ ]
-        } ],
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dicty Phenotypes"
@@ -15206,8 +15095,8 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001251",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
-          "xrefs" : [ "DDB:pg" ]
+          "val" : "OBSOLETE. Was not defined before obsoletion.",
+          "xrefs" : [ ]
         },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
@@ -15291,18 +15180,9 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001252",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE. Complete inability for MAP activation.",
           "xrefs" : [ "DDB:pg" ]
         },
-        "synonyms" : [ {
-          "pred" : "hasNarrowSynonym",
-          "val" : "abolished erkB activation",
-          "xrefs" : [ ]
-        }, {
-          "pred" : "hasNarrowSynonym",
-          "val" : "abolished erk2 activation",
-          "xrefs" : [ ]
-        } ],
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dicty Phenotypes"
@@ -15471,7 +15351,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001259",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE. Reduction in extent, amount or degree of molecule binding.",
           "xrefs" : [ "DDB:pg" ]
         },
         "basicPropertyValues" : [ {
@@ -15957,14 +15837,9 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000196",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE. Increase in extent, amount, or degree of kinase a activity.",
           "xrefs" : [ "DDB:pg" ]
         },
-        "synonyms" : [ {
-          "pred" : "hasExactSynonym",
-          "val" : "increased PKA activity",
-          "xrefs" : [ "DDB:kp" ]
-        } ],
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dicty Phenotypes"
@@ -16015,7 +15890,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001040",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE. Deviation from the normal, usual, or expected events during response to drug.",
           "xrefs" : [ "DDB:pg" ]
         },
         "basicPropertyValues" : [ {
@@ -16116,7 +15991,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001283",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE. Reduction in extent, amount ordegree of protein kinase A activity.",
           "xrefs" : [ "DDB:pg" ]
         },
         "basicPropertyValues" : [ {
@@ -16549,7 +16424,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001271",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE. Reduction in extent, amount or degree of non-apoptotic programmed cell death.",
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
@@ -16640,7 +16515,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001270",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE. Increase in extent, amount, or degree of non-apoptotic programmed cell death.",
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
@@ -16707,7 +16582,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001037",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE. Deviation from the normal, usual, or expected events during signal trnduction during aggregation.",
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
@@ -16854,7 +16729,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001278",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE. Deviation from the normal, usual, or expected events during vacuolation.",
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
@@ -16910,7 +16785,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001064",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE. Reduction in extent, amount or degree of myosin light chain kinase activation.",
           "xrefs" : [ "DDB:pg" ]
         },
         "basicPropertyValues" : [ {
@@ -16925,7 +16800,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001065",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE. Increase in extent, amount, or degree of myosin light chain kinase activation.",
           "xrefs" : [ "DDB:pg" ]
         },
         "basicPropertyValues" : [ {
@@ -16954,7 +16829,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001063",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE. Complete inability for myosin light chain activation.",
           "xrefs" : [ "DDB:pg" ]
         },
         "basicPropertyValues" : [ {
@@ -17089,14 +16964,9 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001298",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE. Complete inability for protein kinase A activity.",
           "xrefs" : [ "DDB:pg" ]
         },
-        "synonyms" : [ {
-          "pred" : "hasExactSynonym",
-          "val" : "abolished PKA activity",
-          "xrefs" : [ ]
-        } ],
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dicty Phenotypes"
@@ -17167,26 +17037,6 @@
       "type" : "CLASS",
       "lbl" : "increased bleb assembly"
     }, {
-      "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001296",
-      "meta" : {
-        "definition" : {
-          "val" : "OBSOLETE.",
-          "xrefs" : [ "DDB:pg" ]
-        },
-        "synonyms" : [ {
-          "pred" : "hasExactSynonym",
-          "val" : "abolished GTP-gamma-S-stimulated GSactivity",
-          "xrefs" : [ ]
-        } ],
-        "basicPropertyValues" : [ {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
-          "val" : "Dicty Phenotypes"
-        } ],
-        "deprecated" : true
-      },
-      "type" : "CLASS",
-      "lbl" : "obsolete abolished GTP-gamma-S-stimulated guanylyl cyclase activity"
-    }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001054",
       "meta" : {
         "definition" : {
@@ -17209,6 +17059,21 @@
       },
       "type" : "CLASS",
       "lbl" : "increased number of early culminant tips"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001296",
+      "meta" : {
+        "definition" : {
+          "val" : "OBSOLETE. Complete inability for GTP-gamma-S-stimulated guanylyl cyclase activity.",
+          "xrefs" : [ "DDB:pg" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Phenotypes"
+        } ],
+        "deprecated" : true
+      },
+      "type" : "CLASS",
+      "lbl" : "obsolete abolished GTP-gamma-S-stimulated guanylyl cyclase activity"
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001293",
       "meta" : {
@@ -17270,7 +17135,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001294",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE. Complete inability for glycogen synthase kinase 3 activity.",
           "xrefs" : [ "DDB:pg" ]
         },
         "basicPropertyValues" : [ {
@@ -17531,7 +17396,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000317",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE. Complete inability for response to SDF-1.",
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
@@ -17703,7 +17568,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000316",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE. Deviation from the normal, usual, or expected events during response to SDF-1.",
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
@@ -18106,7 +17971,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000310",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE. Reduction in extent, amount or accumulation of SDF-2 production.",
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
@@ -18127,7 +17992,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000308",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE. Complete inability for SDF-2 production.",
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
@@ -18148,7 +18013,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000309",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE.  Reduction in extent, amount or accumulation of SDF-1 production.",
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
@@ -18202,7 +18067,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000307",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE. Complete inability for SDF-1 production.",
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
@@ -18278,7 +18143,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000305",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE. Complete inability for down-regulation of growth phase genes.",
           "xrefs" : [ "DDB:pg" ]
         },
         "basicPropertyValues" : [ {
@@ -18449,14 +18314,9 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000542",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE. Was not defined before obsoletion.",
           "xrefs" : [ "DDB:pf" ]
         },
-        "synonyms" : [ {
-          "pred" : "hasRelatedSynonym",
-          "val" : "increased sensitivity to infection by Legionella pneumophila",
-          "xrefs" : [ ]
-        } ],
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dicty Phenotypes"
@@ -18465,26 +18325,6 @@
       },
       "type" : "CLASS",
       "lbl" : "obsolete increased infection rate by Legionella pneumophila"
-    }, {
-      "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000543",
-      "meta" : {
-        "definition" : {
-          "val" : "OBSOLETE.",
-          "xrefs" : [ "DDB:pf" ]
-        },
-        "synonyms" : [ {
-          "pred" : "hasRelatedSynonym",
-          "val" : "increased sensitivity to infection by Mycobacterium avium",
-          "xrefs" : [ ]
-        } ],
-        "basicPropertyValues" : [ {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
-          "val" : "Dicty Phenotypes"
-        } ],
-        "deprecated" : true
-      },
-      "type" : "CLASS",
-      "lbl" : "obsolete increased infection rate by Mycobacterium avium"
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000301",
       "meta" : {
@@ -18528,6 +18368,26 @@
       },
       "type" : "CLASS",
       "lbl" : "increased gene expression"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000543",
+      "meta" : {
+        "definition" : {
+          "val" : "OBSOLETE. Was not defined before obsoletion.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "synonyms" : [ {
+          "pred" : "hasRelatedSynonym",
+          "val" : "increased sensitivity to infection by Mycobacterium avium",
+          "xrefs" : [ ]
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Phenotypes"
+        } ],
+        "deprecated" : true
+      },
+      "type" : "CLASS",
+      "lbl" : "obsolete increased infection rate by Mycobacterium avium"
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000540",
       "meta" : {
@@ -18657,7 +18517,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000339",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE. Deviation from the normal, usual, or expected events during response to SDF-2.",
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
@@ -18782,7 +18642,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000338",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE. Complete inability of  electrotaxis in response to an electrical field.",
+          "val" : "OBSOLETE. Complete inability for electrotaxis in response to an electrical field.",
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
@@ -20906,7 +20766,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000340",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE. Complete inability for response to SDF-2.",
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
@@ -21738,7 +21598,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001462",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE. Deviation from the normal, usual, or expected events during chemotaxis to cAMP in response to DIF-2.",
           "xrefs" : [ "DDB:pg" ]
         },
         "basicPropertyValues" : [ {
@@ -21772,7 +21632,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000131",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE. Increase in extent, amount, or degree of secretion of counting factor (CF).",
           "xrefs" : [ "DDB:pg" ]
         },
         "basicPropertyValues" : [ {
@@ -21859,6 +21719,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001460",
       "meta" : {
+        "definition" : {
+          "val" : "OBSOLETE. Was not defined before obsoletion.",
+          "xrefs" : [ ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dicty Phenotypes"
@@ -21913,7 +21777,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001461",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE. Deviation from the normal, usual, or expected events during chemotaxis to cAMP in response to DIF-1.",
           "xrefs" : [ "DDB:pg" ]
         },
         "basicPropertyValues" : [ {
@@ -22146,6 +22010,21 @@
       "type" : "CLASS",
       "lbl" : "decreased cell-cell adhesion"
     }, {
+      "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000135",
+      "meta" : {
+        "definition" : {
+          "val" : "OBSOLETE. Reduction in extent, amount or accumulation of ABP120 level.",
+          "xrefs" : [ "DDB:pg" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Phenotypes"
+        } ],
+        "deprecated" : true
+      },
+      "type" : "CLASS",
+      "lbl" : "obsolete decreased ABP120 protein level"
+    }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001466",
       "meta" : {
         "definition" : {
@@ -22202,26 +22081,6 @@
       "type" : "CLASS",
       "lbl" : "increased filopodium formation"
     }, {
-      "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000135",
-      "meta" : {
-        "definition" : {
-          "val" : "OBSOLETE.",
-          "xrefs" : [ "DDB:pg" ]
-        },
-        "synonyms" : [ {
-          "pred" : "hasExactSynonym",
-          "val" : "decreased level of ABP protein",
-          "xrefs" : [ ]
-        } ],
-        "basicPropertyValues" : [ {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
-          "val" : "Dicty Phenotypes"
-        } ],
-        "deprecated" : true
-      },
-      "type" : "CLASS",
-      "lbl" : "obsolete decreased ABP120 protein level"
-    }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000136",
       "meta" : {
         "definition" : {
@@ -22235,25 +22094,6 @@
       },
       "type" : "CLASS",
       "lbl" : "decreased myosin II assembly"
-    }, {
-      "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000378",
-      "meta" : {
-        "definition" : {
-          "val" : "Reduction in extent, amount, or degree of suppression or retraction of lateral pseudopods.",
-          "xrefs" : [ "DD:pg" ]
-        },
-        "synonyms" : [ {
-          "pred" : "hasExactSynonym",
-          "val" : "decreased lateral pseudopod suppression",
-          "xrefs" : [ ]
-        } ],
-        "basicPropertyValues" : [ {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
-          "val" : "Dicty Phenotypes"
-        } ]
-      },
-      "type" : "CLASS",
-      "lbl" : "decreased lateral pseudopodium retraction"
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001467",
       "meta" : {
@@ -22274,6 +22114,20 @@
       },
       "type" : "CLASS",
       "lbl" : "decreased microtubule nucleation"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000378",
+      "meta" : {
+        "definition" : {
+          "val" : "Reduction in extent, amount, or degree of suppression or retraction of lateral pseudopods.",
+          "xrefs" : [ "DD:pg" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Phenotypes"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "decreased lateral pseudopodium retraction"
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001225",
       "meta" : {
@@ -22341,7 +22195,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000133",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE. Increase in extent, amount, or degree ABP120 protein level.",
           "xrefs" : [ "DDB:pg" ]
         },
         "synonyms" : [ {
@@ -22361,7 +22215,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001464",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE. Deviation from the normal, usual, or expected events during regulation of chemotaxis to cAMP in response to DIF-1.",
           "xrefs" : [ "DDB:pg" ]
         },
         "basicPropertyValues" : [ {
@@ -22401,7 +22255,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001465",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE. Deviation from the normal, usual, or expected events during regulation of chemotaxis to cAMP in response to DIF-2.",
           "xrefs" : [ "DDB:pg" ]
         },
         "basicPropertyValues" : [ {
@@ -22678,6 +22532,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001459",
       "meta" : {
+        "definition" : {
+          "val" : "OBSOLETE. Was not defined before obsoletion.",
+          "xrefs" : [ ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
           "val" : "2010-03-10T10:44:37Z"
@@ -22842,7 +22700,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001457",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE. Deviation from the normal, usual, or expected events during DNA repair.",
           "xrefs" : [ "DDB:pg" ]
         },
         "basicPropertyValues" : [ {
@@ -22917,8 +22775,8 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001458",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
-          "xrefs" : [ "DDB:pg" ]
+          "val" : "OBSOLETE. Was not defined before obsoletion.",
+          "xrefs" : [ ]
         },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
@@ -23766,6 +23624,26 @@
       "type" : "CLASS",
       "lbl" : "aberrant aggregation territory size"
     }, {
+      "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000720",
+      "meta" : {
+        "definition" : {
+          "val" : "Increase in extent, amount, or degree of suppression or retraction of lateral pseudopods.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2021-06-29T14:28:08Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Phenotypes"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "increased lateral pseudopodium retraction"
+    }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000519",
       "meta" : {
         "definition" : {
@@ -23962,7 +23840,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000509",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE. Late onset or slower progression for development in the oresence of TMB-8.",
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
@@ -24307,7 +24185,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000526",
       "meta" : {
         "definition" : {
-          "val" : "OBSOLETE.",
+          "val" : "OBSOLETE  Increase in extent, amount, or degree of prestalk differentiation factor.",
           "xrefs" : [ "DDB:pg" ]
         },
         "basicPropertyValues" : [ {
@@ -24593,13 +24471,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001337"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001260",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000324"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000041",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000040"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001260",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000324"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001208",
       "pred" : "is_a",
@@ -24885,13 +24763,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000149"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000036",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001431"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000123",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000694"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000036",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001431"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001445",
       "pred" : "is_a",
@@ -25041,13 +24919,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000115"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001398",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001245"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001377",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001455"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001398",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001245"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000486",
       "pred" : "is_a",
@@ -25245,13 +25123,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001005"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000552",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000684"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001275",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001006"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000552",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000684"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000322",
       "pred" : "is_a",
@@ -25589,13 +25467,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001241"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001401",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001513"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000528",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000090"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001401",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001513"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000618",
       "pred" : "is_a",
@@ -25773,10 +25651,6 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000459"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000378",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001027"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000597",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000034"
@@ -25821,13 +25695,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000652"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001111",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001110"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000167",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000154"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001111",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001110"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000643",
       "pred" : "is_a",
@@ -26001,13 +25875,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000258"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000034",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000033"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000473",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001029"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000034",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000033"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000022",
       "pred" : "is_a",
@@ -26101,13 +25975,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000558"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001354",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000009"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000577",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000245"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001354",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000009"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001190",
       "pred" : "is_a",
@@ -26217,13 +26091,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000147"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001428",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001427"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001217",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001009"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001428",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001427"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000170",
       "pred" : "is_a",
@@ -26681,13 +26555,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000662"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000678",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000676"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001351",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001348"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000678",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000676"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000654",
       "pred" : "is_a",
@@ -26849,13 +26723,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001256"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000352",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000350"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001416",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000149"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000352",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000350"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001394",
       "pred" : "is_a",
@@ -27245,13 +27119,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001318"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000389",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000384"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000477",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001027"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000389",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000384"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001215",
       "pred" : "is_a",
@@ -27529,13 +27403,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000632"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000289",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000287"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000047",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000046"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000289",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000287"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001343",
       "pred" : "is_a",
@@ -27561,17 +27435,21 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001002"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001504",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001034"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001450",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001342"
     }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001504",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001034"
+    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000190",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000164"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000720",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000477"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001408",
       "pred" : "is_a",
@@ -27680,6 +27558,10 @@
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001399",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001514"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000378",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000477"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000363",
       "pred" : "is_a",
@@ -28325,13 +28207,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001393"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000017",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000020"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000003",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000160"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000017",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000020"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000192",
       "pred" : "is_a",
@@ -28537,13 +28419,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000149"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001168",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001224"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000136",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000397"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001168",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001224"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000566",
       "pred" : "is_a",
@@ -28877,13 +28759,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000012"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000705",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001005"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000109",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000412"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000705",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001005"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000246",
       "pred" : "is_a",
@@ -28937,13 +28819,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001043"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001396",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001335"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001110",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001047"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001396",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001335"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000711",
       "pred" : "is_a",
@@ -29043,7 +28925,7 @@
         "val" : "OBO-Edit 2.2"
       }, {
         "pred" : "http://www.geneontology.org/formats/oboInOwl#date",
-        "val" : "25:06:2021 16:56"
+        "val" : "29:06:2021 18:03"
       }, {
         "pred" : "http://www.geneontology.org/formats/oboInOwl#default-namespace",
         "val" : "Dicty Phenotypes"
