@@ -1828,6 +1828,8 @@ DBS0236695	nramp1-	Dictyostelium discoideum	nramp1 (natural resistance-associate
 DBS0237636	gefM-	Dictyostelium discoideum	RasGEFM-null mutant
 DBS0237637	AX4	Dictyostelium discoideum	Adam Kuspa lab strain; axenic; clone of AX3 sent to Loomis by Kessin; reported to have higher transformation efficiency than AX3; <b>strain that was sequenced and that is annotated in dictyBase</a>
 DBS0237699	AX2	Dictyostelium discoideum	generic axenic strain, used for curation of parental strains when the specific AX2 is not available
+DBS0237700	AX3	Dictyostelium discoideum	generic axenic strain, used for curation of parental strains when the specific AX3 is not available
+DBS0237701	AX4	Dictyostelium discoideum	generic axenic strain, used for curation of parental strains when the specific AX4 is not available. A different isolate of that strain is being sequenced
 DBS0237702	[act15]:GFP:rac1A	Dictyostelium discoideum	overexpressor of GFP-rac1A under the control of the act15 promoter
 DBS0237703	[act15]:GFP:rac1B	Dictyostelium discoideum	overexpressor of GFP(S65T)-rac1B under the control of the act15 promoter
 DBS0237704	[act15]:GFP:rac1C	Dictyostelium discoideum	overexpressor of GFP(S65T)-rac1C under the control of the act15 promoter
