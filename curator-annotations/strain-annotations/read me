@@ -1,0 +1,17 @@
+In the strain annotation table many colums are optional:
+- Systematic Name
+- Strain Characteristics
+- Genetic Modification
+- Mutagenesis Method
+- Parental Strain
+- Associated Gene(s)
+- Depositor
+- Reference
+
+Minimum required field are:
+- Strain Descriptor
+- Genotype (for wild types add 'wt')
+- Species
+- Assigned By
+
+
