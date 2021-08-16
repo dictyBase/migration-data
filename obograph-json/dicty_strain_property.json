@@ -1721,6 +1721,26 @@
       "type" : "CLASS",
       "lbl" : "4-nitroquinolone-N-oxide"
     }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTRAIN_0000150",
+      "meta" : {
+        "definition" : {
+          "val" : "Placeholder for any strain, internally used by dictyBase software for organizination",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "Siddhartha Basu"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "dicty_strain_property"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2021-08-16T11:18:49Z"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "general strain"
+    }, {
       "id" : "http://purl.obolibrary.org/obo/DDSTRAIN_0000072",
       "meta" : {
         "definition" : {
@@ -1827,10 +1847,6 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDSTRAIN_0000055"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDSTRAIN_0000038",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDSTRAIN_0000001"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDSTRAIN_0000015",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDSTRAIN_0000001"
@@ -1838,6 +1854,10 @@
       "sub" : "http://purl.obolibrary.org/obo/DDSTRAIN_0000014",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDSTRAIN_0000011"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAIN_0000038",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTRAIN_0000001"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDSTRAIN_0000022",
       "pred" : "is_a",
@@ -1907,13 +1927,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDSTRAIN_0000001"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDSTRAIN_0000077",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDSTRAIN_0000074"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDSTRAIN_0000035",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDSTRAIN_0000034"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAIN_0000077",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTRAIN_0000074"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDSTRAIN_0000021",
       "pred" : "is_a",
@@ -2031,11 +2051,11 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDSTRAIN_0000052"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDSTRAIN_0000076",
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAIN_0000053",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDSTRAIN_0000001"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDSTRAIN_0000053",
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAIN_0000076",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDSTRAIN_0000001"
     }, {
@@ -2070,6 +2090,10 @@
       "sub" : "http://purl.obolibrary.org/obo/DDSTRAIN_0000018",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDSTRAIN_0000053"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAIN_0000150",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTRAIN_0000001"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDSTRAIN_0000064",
       "pred" : "is_a",
@@ -2111,11 +2135,11 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDSTRAIN_0000001"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDSTRAIN_0000060",
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAIN_0000083",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDSTRAIN_0000001"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDSTRAIN_0000083",
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAIN_0000060",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDSTRAIN_0000001"
     }, {
