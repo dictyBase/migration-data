@@ -576,7 +576,7 @@ creation_date: 2021-02-25T18:11:55Z
 
 [Term]
 id: DDSTRAIN:0000070
-name:  REMI-seq
+name: REMI-seq
 def: "Mutations by restriction enzyme-mediated integration combined with NGS sequencing." [DDB:pf]
 synonym: "restriction enzyme-mediated integration and NGS sequencing" EXACT []
 is_a: DDSTRAIN:0000069 ! REMI
@@ -627,7 +627,7 @@ creation_date: 2021-02-25T18:22:49Z
 
 [Term]
 id: DDSTRAIN:0000076
-name:  meiotic recombination
+name: meiotic recombination
 def: "Reciprocal physical exchange of chromosomal DNA between the parental chromosomes during  meiosis." [DDB:pf]
 is_a: DDSTRAIN:0000001 ! strain property
 created_by: pfey
@@ -697,4 +697,12 @@ def: "Clustered  Regularly  Interspaced Short  Palindromic Repeats and CRISPR-AS
 is_a: DDSTRAIN:0000001 ! strain property
 created_by: pfey
 creation_date: 2021-02-25T19:04:07Z
+
+[Term]
+id: DDSTRAIN:0000150
+name: general strain
+def: "Placeholder for any strain, internally used by dictyBase software for organizination" [DDB:pf]
+is_a: DDSTRAIN:0000001 ! strain property
+created_by: Siddhartha Basu
+creation_date: 2021-08-16T11:18:49Z
 
