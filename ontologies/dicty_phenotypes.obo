@@ -3049,9 +3049,11 @@ is_a: DDPHENO:0001028 ! aberrant filopodium formation
 
 [Term]
 id: DDPHENO:0000463
-name: obsolete precocious prespore cell specific gene expression
-def: "OBSOLETE. Early onset or faster progression in the expression of prespore genes." [DDB:pf]
-is_obsolete: true
+name: precocious prespore gene expression
+def: "Early onset or faster progression in the expression of prespore genes." [DDB:pf]
+synonym: "precocious prespore cell specific gene expression" EXACT []
+is_a: DDPHENO:0000370 ! aberrant prespore gene expression 
+is_a: DDPHENO:0001116 ! precocious gene expression
 created_by: pfey
 creation_date: 2017-03-23T15:57:06Z
 
