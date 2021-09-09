@@ -1,11 +1,11 @@
 format-version: 1.2
 date: 02:10:2020 18:29
-saved-by: Petra
+saved-by: pfey
 auto-generated-by: OBO-Edit 2.2
 default-namespace: dictyBase_literature_topic
 ontology: ddlit
-property_value: http://purl.org/dc/elements/1.1/description "A structured controlled vocabulary of literature of the slime-mold Dictyostelium discoideum." xsd:string
-property_value: http://purl.org/dc/elements/1.1/title "Dicty literature topic (DDPHENO)" xsd:string
+property_value: http://purl.org/dc/elements/1.1/description "A structured controlled vocabulary for literature annotations of the slime-mold Dictyostelium discoideum." xsd:string
+property_value: http://purl.org/dc/elements/1.1/title "Dicty literature topic (DDLIT)" xsd:string
 property_value: http://purl.org/dc/terms/license http://creativecommons.org/publicdomain/zero/1.0/
 
 [Term]
@@ -490,6 +490,6 @@ id: DDLIT:0000060
 name: DNA Metabolic Process
 def: "Any cellular metabolic process involving deoxyribonucleic acid. E.g. DNA  modification, replication, fidelity, repair, telomer maintenance." [DDB:pf]
 is_a: DDLIT:0000007 ! Nucleic Acid Information
-created_by: Petra
+created_by: pfey
 creation_date: 2017-11-29T17:04:32Z
 
