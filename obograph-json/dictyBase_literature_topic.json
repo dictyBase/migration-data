@@ -588,11 +588,11 @@
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "dictyBase_literature_topic"
         }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
           "val" : "2017-11-29T17:04:32Z"
-        }, {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
-          "val" : "Petra"
         } ]
       },
       "type" : "CLASS",
@@ -1274,13 +1274,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDLIT_0000000"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDLIT_0000031",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDLIT_0000005"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDLIT_0000044",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDLIT_0000008"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDLIT_0000031",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDLIT_0000005"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDLIT_0000056",
       "pred" : "is_a",
@@ -1378,13 +1378,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDLIT_0000010"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDLIT_0000016",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDLIT_0000005"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDLIT_0000029",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDLIT_0000008"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDLIT_0000016",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDLIT_0000005"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDLIT_0000036",
       "pred" : "is_a",
@@ -1394,11 +1394,11 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDLIT_0000001"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDLIT_0000049",
+      "sub" : "http://purl.obolibrary.org/obo/DDLIT_0000026",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDLIT_0000008"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDLIT_0000026",
+      "sub" : "http://purl.obolibrary.org/obo/DDLIT_0000049",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDLIT_0000008"
     }, {
@@ -1418,13 +1418,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDLIT_0000010"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDLIT_0000014",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDLIT_0000005"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDLIT_0000027",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDLIT_0000008"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDLIT_0000014",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDLIT_0000005"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDLIT_0000034",
       "pred" : "is_a",
@@ -1450,6 +1450,10 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDLIT_0000011"
     }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDLIT_0000025",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDLIT_0000008"
+    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDLIT_0000058",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDLIT_0000005"
@@ -1457,10 +1461,6 @@
       "sub" : "http://purl.obolibrary.org/obo/DDLIT_0000012",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDLIT_0000005"
-    }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDLIT_0000025",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDLIT_0000008"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDLIT_0000010",
       "pred" : "is_a",
@@ -1476,10 +1476,10 @@
       "xrefs" : [ ],
       "basicPropertyValues" : [ {
         "pred" : "http://purl.org/dc/elements/1.1/description",
-        "val" : "A structured controlled vocabulary of literature of the slime-mold Dictyostelium discoideum."
+        "val" : "A structured controlled vocabulary for literature annotations of the slime-mold Dictyostelium discoideum."
       }, {
         "pred" : "http://purl.org/dc/elements/1.1/title",
-        "val" : "Dicty literature topic (DDPHENO)"
+        "val" : "Dicty literature topic (DDLIT)"
       }, {
         "pred" : "http://purl.org/dc/terms/license",
         "val" : "http://creativecommons.org/publicdomain/zero/1.0/"
@@ -1497,7 +1497,7 @@
         "val" : "1.2"
       }, {
         "pred" : "http://www.geneontology.org/formats/oboInOwl#saved-by",
-        "val" : "Petra"
+        "val" : "pfey"
       } ]
     },
     "equivalentNodesSets" : [ ],
