@@ -1,6 +1,6 @@
 format-version: 1.2
 date: 18:12:2017 12:09
-saved-by: Petra
+saved-by: pfey
 auto-generated-by: OBO-Edit 2.2
 default-namespace: genetic modification
 ontology: ddgenmod
@@ -82,6 +82,6 @@ id: DDGENMOD:0000012
 name: genomic insertion
 def: "The addition of one or more nucleotides in the genomic sequence." [DDB:pf]
 is_a: DDGENMOD:0000001 ! genetic modification
-created_by: Petra
+created_by: pfey
 creation_date: 2017-12-18T12:03:57Z
 
