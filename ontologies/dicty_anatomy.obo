@@ -956,7 +956,7 @@ id: DDANAT:0000112
 name: spore coat
 def: "A tri-layer protective wall around each spore, consisting of  secreted proteins, a polysaccharide, and cellulose produced on the cell surface." [DDB:pf, PMID:12503851, PMID:2096020]
 synonym: "spore wall" RELATED []
-relationship: develops_from DDANAT:0000405 ! prespore cell
+is_a: DDANAT:0010085 ! subdivision
 relationship: part_of DDANAT:0000414 ! spore
 created_by: pfey
 creation_date: 2020-07-01T16:29:15Z
