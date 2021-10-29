@@ -1,10 +1,8 @@
 format-version: 1.2
-date: 08:10:2021 19:25
+date: 29:10:2021 16:33
 saved-by: pfey
 auto-generated-by: OBO-Edit 2.2
 default-namespace: Dicty Phenotypes
-cAMP oscillatory signalingformat-version: 1.2
-multiple tipsformat-version: 1.2
 property_value: http://purl.org/dc/elements/1.1/description "A structured controlled vocabulary of phenotypes of the slime-mould Dictyostelium discoideum." xsd:string
 property_value: http://purl.org/dc/elements/1.1/title "Dicty Phenotype Ontology (DDPHENO)" xsd:string
 property_value: http://purl.org/dc/terms/license http://creativecommons.org/publicdomain/zero/1.0/
@@ -2441,7 +2439,7 @@ creation_date: 2017-03-23T09:52:00Z
 [Term]
 id: DDPHENO:0000366
 name: precocious prestalk gene expression
-def: "Early onset or faster progression in the expression of prestalk genes." [DDB:pf]
+def: "Early onset or faster progression of prestalk cell specific gene expression." [DDB:pf]
 synonym: "precocious prestalk cell specific gene expression" EXACT []
 is_a: DDPHENO:0000365 ! aberrant prestalk gene expression
 is_a: DDPHENO:0001116 ! precocious gene expression
@@ -2459,7 +2457,7 @@ creation_date: 2017-03-23T13:29:35Z
 [Term]
 id: DDPHENO:0000368
 name: delayed prestalk gene expression
-def: "Late onset or slower progression in the expression of prestalk genes." [DDB:pf]
+def: "Late onset or slower progression of prestalk cell specific gene expression." [DDB:pf]
 synonym: "delayed prestalk cell specific gene expression" EXACT []
 is_a: DDPHENO:0000365 ! aberrant prestalk gene expression
 is_a: DDPHENO:0001115 ! delayed gene expression
@@ -2469,7 +2467,7 @@ creation_date: 2017-03-23T14:54:09Z
 [Term]
 id: DDPHENO:0000369
 name: decreased prestalk gene expression
-def: "Reduction in extent, amount, or degree of prestalk gene expression." [DDB:pf]
+def: "Reduction in extent, amount, or degree of prestalk cell specific gene expression." [DDB:pf]
 synonym: "decreased prestalk cell specific gene expression" EXACT []
 is_a: DDPHENO:0000300 ! decreased gene expression
 is_a: DDPHENO:0000365 ! aberrant prestalk gene expression
@@ -2479,7 +2477,7 @@ creation_date: 2017-03-23T14:54:56Z
 [Term]
 id: DDPHENO:0000370
 name: aberrant prespore gene expression
-def: "Deviation from the normal, usual, or expected expression of prespore genes." [DDB:pf]
+def: "Deviation from the normal, usual, or expected prespore cell specific gene expression." [DDB:pf]
 synonym: "aberrant prespore cell specific gene expression" EXACT []
 is_a: DDPHENO:0001113 ! aberrant gene expression
 created_by: pfey
@@ -2488,7 +2486,7 @@ creation_date: 2017-03-23T15:35:42Z
 [Term]
 id: DDPHENO:0000371
 name: decreased prespore gene expression
-def: "Reduction in extent, amount, or degree of prespore gene expression." [DDB:pf]
+def: "Reduction in extent, amount, or degree of prespore cell specific gene expression." [DDB:pf]
 synonym: "decreased prespore cell specific gene expression" EXACT []
 is_a: DDPHENO:0000300 ! decreased gene expression
 is_a: DDPHENO:0000370 ! aberrant prespore gene expression
@@ -2498,7 +2496,7 @@ creation_date: 2017-03-23T15:36:45Z
 [Term]
 id: DDPHENO:0000375
 name: delayed prespore gene expression
-def: "Late onset or slower progression in the expression of prespore genes." [DDB:pf]
+def: "Late onset or slower progression of prespore cell specific gene expression." [DDB:pf]
 synonym: "delayed prespore cell specific gene expression" EXACT []
 is_a: DDPHENO:0000370 ! aberrant prespore gene expression
 is_a: DDPHENO:0001115 ! delayed gene expression
@@ -2689,7 +2687,7 @@ is_obsolete: true
 [Term]
 id: DDPHENO:0000403
 name: increased prestalk gene expression
-def: "Increase in extent, amount, or degree of expression of prestalk genes." [DDB:pf]
+def: "Increase in extent, amount, or degree of prestalk cell specific gene expression." [DDB:pf]
 synonym: "increased prestalk cell specific gene expression" EXACT []
 is_a: DDPHENO:0000301 ! increased gene expression
 is_a: DDPHENO:0000365 ! aberrant prestalk gene expression
@@ -2699,7 +2697,7 @@ creation_date: 2017-03-23T15:39:41Z
 [Term]
 id: DDPHENO:0000404
 name: increased prespore gene expression
-def: "Increase in extent, amount, or degree of expression of prespore genes." [DDB:pf]
+def: "Increase in extent, amount, or degree for prespore cell specific gene expression." [DDB:pf]
 synonym: "increased prespore gene cell specific expression" EXACT []
 is_a: DDPHENO:0000301 ! increased gene expression
 is_a: DDPHENO:0000370 ! aberrant prespore gene expression
@@ -3052,7 +3050,7 @@ is_a: DDPHENO:0001028 ! aberrant filopodium formation
 [Term]
 id: DDPHENO:0000463
 name: precocious prespore gene expression
-def: "Early onset or faster progression in the expression of prespore genes." [DDB:pf]
+def: "Early onset or faster progression of prespore cell specific gene expression." [DDB:pf]
 synonym: "precocious prespore cell specific gene expression" EXACT []
 is_a: DDPHENO:0000370 ! aberrant prespore gene expression
 is_a: DDPHENO:0001116 ! precocious gene expression
@@ -5069,7 +5067,7 @@ creation_date: 2021-06-29T14:28:08Z
 [Term]
 id: DDPHENO:0000721
 name: abolished prestalk gene expression
-def: "Complete inability for prestalk expression of genes." [DDB:pf]
+def: "Complete inability for prestalk cell specific gene expression." [DDB:pf]
 synonym: "abolished prestalk cell specific gene expression" EXACT []
 is_a: DDPHENO:0000365 ! aberrant prestalk gene expression
 is_a: DDPHENO:0001114 ! abolished gene expression
@@ -5079,7 +5077,7 @@ creation_date: 2021-08-31T17:39:53Z
 [Term]
 id: DDPHENO:0000722
 name: abolished prespore gene expression
-def: "Complete inability for prespore expression of genes." [DDB:pf]
+def: "Complete inability for prespore cell specific gene expression." [DDB:pf]
 synonym: "abolished prespore cell specific gene expression" EXACT []
 is_a: DDPHENO:0000370 ! aberrant prespore gene expression
 is_a: DDPHENO:0001114 ! abolished gene expression
@@ -5408,6 +5406,7 @@ is_a: DDPHENO:0001008 ! aberrant cellular process
 id: DDPHENO:0001048
 name: aberrant cell projection biogenesis
 def: "Deviation from the normal, usual, or expected events during cell projection biogenesis." [DDB:pg]
+synonym: "aberrant cell projection assembly" EXACT []
 is_a: DDPHENO:0001042 ! aberrant cellular component organization
 
 [Term]
@@ -5482,7 +5481,9 @@ is_a: DDPHENO:0001445 ! aberrant actin filament polymerization
 id: DDPHENO:0001058
 name: decreased protein kinase activation
 def: "Reduction in extent, amount, or degree of activation of a protein kinase." [DDB:pg]
+synonym: "decreased activation of protein kinase activity" EXACT []
 is_a: DDPHENO:0001119 ! aberrant regulation of protein kinase activity
+is_a: DDPHENO:0001344 ! decreased protein phosphorylation
 
 [Term]
 id: DDPHENO:0001059
@@ -5494,14 +5495,17 @@ is_obsolete: true
 id: DDPHENO:0001061
 name: increased protein kinase activation
 def: "Increase in extent, amount, or degree of activation of protein kinases." [DDB:pg]
+synonym: "increased activation of protein kinase activity" EXACT []
 is_a: DDPHENO:0001119 ! aberrant regulation of protein kinase activity
+is_a: DDPHENO:0001343 ! increased protein phosphorylation
 
 [Term]
 id: DDPHENO:0001062
 name: abolished protein kinase activation
 def: "Complete inability for activation of protein kinases." [DDB:pg]
-is_a: DDPHENO:0001005 ! aberrant cellular metabolic process
+synonym: "abolished activation of protein kinase activity" EXACT []
 is_a: DDPHENO:0001119 ! aberrant regulation of protein kinase activity
+is_a: DDPHENO:0001450 ! abolished protein phosphorylation
 
 [Term]
 id: DDPHENO:0001063
@@ -5810,27 +5814,29 @@ id: DDPHENO:0001106
 name: decreased lysosomal protein degradation
 def: "Reduction in extent, amount, or degree of  lysosomal protein degradation." [DDB:pf]
 synonym: "decreased lysosomal enzyme activity" RELATED []
-synonym: "decreased lysosomal protein catabolic process" RELATED []
+synonym: "decreased lysosomal protein catabolic process" EXACT []
 is_a: DDPHENO:0001257 ! decreased catalytic activity
 
 [Term]
 id: DDPHENO:0001107
 name: increased lysosomal protein degradation
 def: "Increase in extent, amount, or degree of  lysosomal protein degradation." [DDB:pf]
-synonym: "increased lysosomal enzyme activity" RELATED []
-synonym: "increased lysosomal protein catabolic process" RELATED []
+synonym: "increased lysosomal enzyme activity" EXACT []
+synonym: "increased lysosomal protein catabolic process" EXACT []
 is_a: DDPHENO:0001256 ! increased catalytic activity
 
 [Term]
 id: DDPHENO:0001108
 name: aberrant response to lithium
 def: "Deviation from the normal, usual, or expected events during the response to lithium." [DDB:pf]
+synonym: "aberrant response to lithium ion" EXACT []
 is_a: DDPHENO:0000040 ! aberrant response to chemical
 
 [Term]
 id: DDPHENO:0001109
-name: aberrant response to valproic acid
+name: increased resistance to valproic acid
 def: "Deviation from the normal, usual, or expected events during the response to valproic acid." [DDB:pf]
+synonym: "aberrant response to valproic acid" RELATED []
 synonym: "aberrant response to VPA" RELATED []
 is_a: DDPHENO:0000040 ! aberrant response to chemical
 
@@ -5919,7 +5925,7 @@ is_a: DDPHENO:0001008 ! aberrant cellular process
 id: DDPHENO:0001119
 name: aberrant regulation of protein kinase activity
 def: "Deviation from the normal, usual, or expected events during the regulation of protein kinase activity." [DDB:pg]
-is_a: DDPHENO:0001303 ! aberrant regulation of catalytic activity
+is_a: DDPHENO:0001342 ! aberrant protein phosphorylation
 
 [Term]
 id: DDPHENO:0001120
@@ -6475,7 +6481,7 @@ is_a: DDPHENO:0000151 ! aberrant actin filament organization
 
 [Term]
 id: DDPHENO:0001203
-name: aberrant response to nutrients
+name: aberrant response to nutrient
 def: "Deviation from the normal, usual, or expected events during the response to nutrients." [DDB:pf]
 is_a: DDPHENO:0000040 ! aberrant response to chemical
 
@@ -6983,6 +6989,7 @@ id: DDPHENO:0001279
 name: decreased autophagic vacuole organization
 def: "Reduction in extent, amount, or degree of autophagic vacuole formation." [DDB:pf]
 synonym: "decreased autophagic vacuole formation" EXACT []
+synonym: "decreased autophagosome organization" EXACT []
 is_a: DDPHENO:0001041 ! aberrant vacuole organization
 
 [Term]
@@ -7016,7 +7023,7 @@ is_obsolete: true
 id: DDPHENO:0001284
 name: decreased guanyl-nucleotide exchange factor activity
 def: "Reduction in extent, amount, or degree of guanyl-nucleotide exchange factor activity." [DDB:pf]
-synonym: "decreased Ras activity" EXACT []
+synonym: "decreased GEF activity" EXACT []
 is_a: DDPHENO:0001257 ! decreased catalytic activity
 
 [Term]
@@ -7102,8 +7109,8 @@ is_obsolete: true
 id: DDPHENO:0001297
 name: abolished lysosomal protein degradation
 def: "Complete absence of lysosomal protein degradation." [DDB:pf]
-synonym: "abolished  lysosomal protein catabolic process" RELATED []
-synonym: "abolished lysosomal enzyme activity" RELATED []
+synonym: "abolished  lysosomal protein catabolic process" EXACT []
+synonym: "abolished lysosomal enzyme activity" EXACT []
 is_a: DDPHENO:0001289 ! abolished catalytic activity
 
 [Term]
@@ -7228,6 +7235,7 @@ is_obsolete: true
 id: DDPHENO:0001317
 name: aberrant protein modification
 def: "Deviation from the normal, usual, or expected during protein modification." [DDB:pg]
+synonym: "aberrant protein modification process" EXACT []
 is_a: DDPHENO:0001005 ! aberrant cellular metabolic process
 
 [Term]
@@ -7775,7 +7783,7 @@ is_a: DDPHENO:0001337 ! increased protein localization
 
 [Term]
 id: DDPHENO:0001397
-name: increased cAMP oscillatory signaling
+name: increased oscillatory cAMP signaling
 def: "Extended duration for oscillatory cAMP signaling during early development." [DDB:pf]
 synonym: "increased cAMP relay" EXACT []
 synonym: "increased cAMP-induced cAMP pulse" EXACT []
@@ -7848,41 +7856,41 @@ is_a: DDPHENO:0001513 ! aberrant protein localization to microtubule organizing 
 
 [Term]
 id: DDPHENO:0001405
-name: abolished protein localization to coated pits
+name: abolished protein localization to clathrin-coated pit
 alt_id: DDPHENO:0000063
 def: "Complete inability to localize a protein to coated pits." [DDB:pf]
 synonym: "abolished localization to coated pits" BROAD []
-synonym: "abolished protein localization of protein to clathrin-coated pits" EXACT []
+synonym: "abolished protein localization to coated pits" EXACT []
 is_a: DDPHENO:0001393 ! abolished protein localization
-is_a: DDPHENO:0001408 ! aberrant protein localization to coated pits
+is_a: DDPHENO:0001408 ! aberrant protein localization to clathrin-coated pit
 
 [Term]
 id: DDPHENO:0001406
-name: decreased protein localization to coated pits
+name: decreased protein localization to clathrin-coated pit
 alt_id: DDPHENO:0000065
 def: "Reduction in amount or accumulation of a protein to coated pits." [DDB:pf]
 synonym: "decreased localization to coated pits" BROAD []
-synonym: "decreased protein localization of protein to clathrin-coated pits" EXACT []
+synonym: "decreased protein localization to coated pits" EXACT []
 is_a: DDPHENO:0001338 ! decreased protein localization
-is_a: DDPHENO:0001408 ! aberrant protein localization to coated pits
+is_a: DDPHENO:0001408 ! aberrant protein localization to clathrin-coated pit
 
 [Term]
 id: DDPHENO:0001407
-name: increased protein localization to coated pits
+name: increased  protein localization to clathrin-coated pit
 alt_id: DDPHENO:0000064
 def: "Increase in amount or accumulation of a protein to coated pits." [DDB:pf]
 synonym: "increased localization to coated pits" BROAD []
-synonym: "increased protein localization of protein to clathrin-coated pits" EXACT []
+synonym: "increased protein localization to coated pits" EXACT []
 is_a: DDPHENO:0001337 ! increased protein localization
-is_a: DDPHENO:0001408 ! aberrant protein localization to coated pits
+is_a: DDPHENO:0001408 ! aberrant protein localization to clathrin-coated pit
 
 [Term]
 id: DDPHENO:0001408
-name: aberrant protein localization to coated pits
+name: aberrant protein localization to clathrin-coated pit
 alt_id: DDPHENO:0000062
 def: "Deviation from the normal, usual, or expected events during localization of a protein to coated pits." [DDB:pf]
 synonym: "aberrant localization to coated pits" BROAD []
-synonym: "aberrant protein localization of a protein to clathrin-coated pits" EXACT []
+synonym: "aberrant protein localization to coated pits" EXACT []
 is_a: DDPHENO:0000471 ! aberrant protein localization
 
 [Term]
@@ -8002,6 +8010,7 @@ is_a: DDPHENO:0001423 ! aberrant nuclear envelope morphology
 id: DDPHENO:0001425
 name: aberrant centrosome organization
 def: "Deviation from the normal, usual, or expected events during centrosome organization." [DDB:pf]
+synonym: "aberrant centrosome cycle" EXACT []
 is_a: DDPHENO:0001043 ! aberrant organelle organization
 
 [Term]
@@ -8347,6 +8356,7 @@ creation_date: 2010-03-19T03:00:52Z
 id: DDPHENO:0001470
 name: decreased response to lithium
 def: "Reduction in extent, amount, or degree of response to lithium." [DDB:pf]
+synonym: "decreased response to lithium ion" EXACT []
 is_a: DDPHENO:0001108 ! aberrant response to lithium
 created_by: pfey
 creation_date: 2010-09-06T12:50:53Z
@@ -8355,6 +8365,7 @@ creation_date: 2010-09-06T12:50:53Z
 id: DDPHENO:0001471
 name: increased response to lithium
 def: "Increase in extent, amount, or degree of response to lithium." [DDB:pf]
+synonym: "increased response to lithium ion" EXACT []
 is_a: DDPHENO:0001108 ! aberrant response to lithium
 created_by: pfey
 creation_date: 2010-09-06T12:54:23Z
