@@ -194,8 +194,8 @@
           "xrefs" : [ "DDB:pf" ]
         },
         "synonyms" : [ {
-          "pred" : "hasRelatedSynonym",
-          "val" : "increased number of spore cells",
+          "pred" : "hasExactSynonym",
+          "val" : "increased asexual sporulation",
           "xrefs" : [ ]
         }, {
           "pred" : "hasRelatedSynonym",
@@ -5681,7 +5681,7 @@
         },
         "synonyms" : [ {
           "pred" : "hasExactSynonym",
-          "val" : "abolished spore differentiation",
+          "val" : "abolished asexual sporulation",
           "xrefs" : [ ]
         } ],
         "basicPropertyValues" : [ {
@@ -6230,6 +6230,10 @@
         "synonyms" : [ {
           "pred" : "hasExactSynonym",
           "val" : "precocious spore differentiation",
+          "xrefs" : [ ]
+        }, {
+          "pred" : "hasExactSynonym",
+          "val" : "precocious asexual sporulation",
           "xrefs" : [ ]
         } ],
         "basicPropertyValues" : [ {
@@ -9666,7 +9670,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000007",
       "meta" : {
         "definition" : {
-          "val" : "Reduction in extent, amount, or degree of autophagy.",
+          "val" : "OBSOLETE. Reduction in extent, amount, or degree of autophagy.",
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
@@ -9678,10 +9682,11 @@
         }, {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
           "val" : "2013-09-23T14:30:03Z"
-        } ]
+        } ],
+        "deprecated" : true
       },
       "type" : "CLASS",
-      "lbl" : "decreased autophagy"
+      "lbl" : "obsolete decreased autophagy"
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000249",
       "meta" : {
@@ -9772,6 +9777,27 @@
       "type" : "CLASS",
       "lbl" : "abolished double strand break repair"
     }, {
+      "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000005",
+      "meta" : {
+        "definition" : {
+          "val" : "OBSOLETE. Deviation from the normal, usual, or expected events during autophagy.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2013-09-23T14:27:57Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Phenotypes"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        } ],
+        "deprecated" : true
+      },
+      "type" : "CLASS",
+      "lbl" : "obsolete aberrant autophagy"
+    }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001336",
       "meta" : {
         "definition" : {
@@ -9813,26 +9839,6 @@
       "type" : "CLASS",
       "lbl" : "obsolete increased cytosolic Ca2+ response"
     }, {
-      "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000005",
-      "meta" : {
-        "definition" : {
-          "val" : "Deviation from the normal, usual, or expected events during autophagy.",
-          "xrefs" : [ "DDB:pf" ]
-        },
-        "basicPropertyValues" : [ {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
-          "val" : "2013-09-23T14:27:57Z"
-        }, {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
-          "val" : "Dicty Phenotypes"
-        }, {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
-          "val" : "pfey"
-        } ]
-      },
-      "type" : "CLASS",
-      "lbl" : "aberrant autophagy"
-    }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000248",
       "meta" : {
         "definition" : {
@@ -9856,7 +9862,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000006",
       "meta" : {
         "definition" : {
-          "val" : "Increase in extent, amount, or degree of autophagy.",
+          "val" : "OBSOLETE. Increase in extent, amount, or degree of autophagy.",
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
@@ -9868,10 +9874,11 @@
         }, {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
           "val" : "pfey"
-        } ]
+        } ],
+        "deprecated" : true
       },
       "type" : "CLASS",
-      "lbl" : "increased autophagy"
+      "lbl" : "obsolete increased autophagy"
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001337",
       "meta" : {
@@ -16409,29 +16416,6 @@
       "type" : "CLASS",
       "lbl" : "aberrant cellular response to stress"
     }, {
-      "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000187",
-      "meta" : {
-        "definition" : {
-          "val" : "Deviation from the normal, usual, or expected events during cell-substrate adhesion.",
-          "xrefs" : [ "DDB:pg" ]
-        },
-        "synonyms" : [ {
-          "pred" : "hasRelatedSynonym",
-          "val" : "aberrant substrate adhesion",
-          "xrefs" : [ ]
-        }, {
-          "pred" : "hasRelatedSynonym",
-          "val" : "defective substrate adhesion",
-          "xrefs" : [ ]
-        } ],
-        "basicPropertyValues" : [ {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
-          "val" : "Dicty Phenotypes"
-        } ]
-      },
-      "type" : "CLASS",
-      "lbl" : "aberrant cell-substrate adhesion"
-    }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001276",
       "meta" : {
         "definition" : {
@@ -16454,6 +16438,29 @@
       },
       "type" : "CLASS",
       "lbl" : "abolished engulfment during phagocytosis"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000187",
+      "meta" : {
+        "definition" : {
+          "val" : "Deviation from the normal, usual, or expected events during cell-substrate adhesion.",
+          "xrefs" : [ "DDB:pg" ]
+        },
+        "synonyms" : [ {
+          "pred" : "hasRelatedSynonym",
+          "val" : "aberrant substrate adhesion",
+          "xrefs" : [ ]
+        }, {
+          "pred" : "hasRelatedSynonym",
+          "val" : "defective substrate adhesion",
+          "xrefs" : [ ]
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Phenotypes"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "aberrant cell-substrate adhesion"
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000184",
       "meta" : {
@@ -21703,6 +21710,11 @@
           "val" : "Late onset or slower progression through spore formation.",
           "xrefs" : [ "DDB:pf" ]
         },
+        "synonyms" : [ {
+          "pred" : "hasExactSynonym",
+          "val" : "delayed asexual sporulation",
+          "xrefs" : [ ]
+        } ],
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dicty Phenotypes"
@@ -23989,12 +24001,8 @@
           "xrefs" : [ "DDB:pf" ]
         },
         "synonyms" : [ {
-          "pred" : "hasRelatedSynonym",
-          "val" : "defective spore differentiation",
-          "xrefs" : [ ]
-        }, {
-          "pred" : "hasRelatedSynonym",
-          "val" : "aberrant spore differentiation",
+          "pred" : "hasExactSynonym",
+          "val" : "aberrant asexual sporulation",
           "xrefs" : [ ]
         } ],
         "basicPropertyValues" : [ {
@@ -24131,6 +24139,10 @@
         "synonyms" : [ {
           "pred" : "hasRelatedSynonym",
           "val" : "decreased number of spores",
+          "xrefs" : [ ]
+        }, {
+          "pred" : "hasExactSynonym",
+          "val" : "decreased asexual sporulation",
           "xrefs" : [ ]
         } ],
         "basicPropertyValues" : [ {
@@ -24628,13 +24640,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001425"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000684",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001041"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000708",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001032"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000684",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001041"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000722",
       "pred" : "is_a",
@@ -24936,13 +24948,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001032"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000285",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000278"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000287",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000258"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000285",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000278"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000152",
       "pred" : "is_a",
@@ -25096,13 +25108,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000269"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001038",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001118"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001049",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001008"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001038",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001118"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000540",
       "pred" : "is_a",
@@ -25184,13 +25196,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000115"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001398",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001245"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001377",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001455"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001398",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001245"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000486",
       "pred" : "is_a",
@@ -25244,13 +25256,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001393"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000198",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001118"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000284",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000258"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000198",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001118"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001533",
       "pred" : "is_a",
@@ -25272,13 +25284,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001226"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001424",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001423"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000403",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000365"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001424",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001423"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001188",
       "pred" : "is_a",
@@ -25351,10 +25363,6 @@
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000697",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000695"
-    }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000007",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000005"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000334",
       "pred" : "is_a",
@@ -25536,13 +25544,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000471"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001327",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001317"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001333",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001257"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001327",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001317"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000651",
       "pred" : "is_a",
@@ -25600,13 +25608,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000673"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001118",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001008"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001102",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001168"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001118",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001008"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001104",
       "pred" : "is_a",
@@ -25712,13 +25720,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001311"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000387",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001014"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001371",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001366"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000387",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001014"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000456",
       "pred" : "is_a",
@@ -26152,13 +26160,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000258"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000473",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001029"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000034",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000033"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000473",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001029"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000022",
       "pred" : "is_a",
@@ -26364,13 +26372,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000147"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001428",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001427"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001217",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001009"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001428",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001427"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000170",
       "pred" : "is_a",
@@ -26436,13 +26444,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001156"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000157",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001431"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000498",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000684"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000157",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001431"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000285",
       "pred" : "is_a",
@@ -26468,11 +26476,11 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001017"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000439",
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001122",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000040"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001122",
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000439",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000040"
     }, {
@@ -26520,10 +26528,6 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001318"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000005",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001005"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000665",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000664"
@@ -26536,13 +26540,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000567"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000510",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000009"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001233",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001338"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000510",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000009"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001509",
       "pred" : "is_a",
@@ -26700,13 +26704,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001088"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000181",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001077"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000129",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000040"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000181",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001077"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000258",
       "pred" : "is_a",
@@ -26736,13 +26740,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001015"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001277",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001275"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000438",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001005"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001277",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001275"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000178",
       "pred" : "is_a",
@@ -26752,13 +26756,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001505"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001080",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000483"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001179",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001056"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001080",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000483"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000286",
       "pred" : "is_a",
@@ -26848,13 +26852,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000662"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001351",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001348"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000678",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000676"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001351",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001348"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000654",
       "pred" : "is_a",
@@ -26908,6 +26912,10 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001263"
     }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000690",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000513"
+    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000629",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001393"
@@ -26936,13 +26944,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001222"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000370",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001113"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000531",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001066"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000370",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001113"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001126",
       "pred" : "is_a",
@@ -27204,13 +27212,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000632"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000142",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0010000"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000579",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000127"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000142",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0010000"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000659",
       "pred" : "is_a",
@@ -27388,13 +27396,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000191"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000038",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000034"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000026",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000154"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000038",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000034"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000260",
       "pred" : "is_a",
@@ -27640,13 +27648,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000513"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001336",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000471"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001279",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001041"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001336",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000471"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000393",
       "pred" : "is_a",
@@ -27832,13 +27840,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001396"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000570",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000567"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001487",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001486"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000570",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000567"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000538",
       "pred" : "is_a",
@@ -27895,10 +27903,6 @@
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000192",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000512"
-    }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000690",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001013"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001528",
       "pred" : "is_a",
@@ -28116,13 +28120,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001530"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001326",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001317"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000471",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001217"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001326",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001317"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000483",
       "pred" : "is_a",
@@ -28464,10 +28468,6 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000695"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000006",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000005"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000311",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001005"
@@ -28668,13 +28668,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001005"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000208",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000002"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000472",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001317"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000208",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000002"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001245",
       "pred" : "is_a",
@@ -28748,13 +28748,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000149"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000136",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000397"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001168",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001224"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000136",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000397"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000566",
       "pred" : "is_a",
@@ -29156,13 +29156,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001043"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001396",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001335"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001110",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001047"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001396",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001335"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000711",
       "pred" : "is_a",
@@ -29216,13 +29216,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000233"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000585",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001034"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000626",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000624"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000585",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001034"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001166",
       "pred" : "is_a",
@@ -29266,7 +29266,7 @@
         "val" : "OBO-Edit 2.2"
       }, {
         "pred" : "http://www.geneontology.org/formats/oboInOwl#date",
-        "val" : "29:10:2021 16:33"
+        "val" : "08:11:2021 15:32"
       }, {
         "pred" : "http://www.geneontology.org/formats/oboInOwl#default-namespace",
         "val" : "Dicty Phenotypes"
