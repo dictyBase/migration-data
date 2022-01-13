@@ -3,20 +3,24 @@
     "nodes" : [ {
       "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000058",
       "meta" : {
+        "definition" : {
+          "val" : "Mating type I is a sexual type for sexual fusion with a different mating type.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "synonyms" : [ {
           "pred" : "hasExactSynonym",
           "val" : "mat1",
           "xrefs" : [ ]
         } ],
         "basicPropertyValues" : [ {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
-          "val" : "strain_characteristics"
-        }, {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
           "val" : "2019-02-07T17:54:42Z"
         }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "strain_characteristics"
+        }, {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
-          "val" : "Petra"
+          "val" : "pfey"
         } ]
       },
       "type" : "CLASS",
@@ -24,6 +28,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000014",
       "meta" : {
+        "definition" : {
+          "val" : "A strain with two or more genes knocked out.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "strain_characteristics"
@@ -34,12 +42,16 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000057",
       "meta" : {
+        "definition" : {
+          "val" : "Sexual Dictyostelium reproduction involves fusion of two cells with different mating types and eventually forming macrocysts .",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
-          "val" : "Petra"
-        }, {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
           "val" : "2019-02-05T14:36:45Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
         }, {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "strain_characteristics"
@@ -50,6 +62,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000013",
       "meta" : {
+        "definition" : {
+          "val" : "A strain with a single gene knocked out.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "strain_characteristics"
@@ -60,12 +76,16 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000056",
       "meta" : {
+        "definition" : {
+          "val" : "Any genetic characteristic.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
-          "val" : "Petra"
-        }, {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
           "val" : "2019-02-05T14:35:14Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
         }, {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "strain_characteristics"
@@ -76,6 +96,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000012",
       "meta" : {
+        "definition" : {
+          "val" : "A Dictyostelid strain isolated from it's natural habitat.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "strain_characteristics"
@@ -86,6 +110,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000055",
       "meta" : {
+        "definition" : {
+          "val" : "D. discoideum can farm symbiotic bacteria for food by carrying them from generation to generation.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "strain_characteristics"
@@ -94,7 +122,7 @@
           "val" : "2018-03-22T15:32:19Z"
         }, {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
-          "val" : "Petra"
+          "val" : "pfey"
         } ]
       },
       "type" : "CLASS",
@@ -102,10 +130,11 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000011",
       "meta" : {
+        "definition" : {
+          "val" : "A mutant that  is typically sensitive to higher temperatures.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "comments" : [ "Merged two terms as we should not make a difference and they have been quite randomly used in the past; temperature conditional mutant is a temperature sensitive mutant." ],
-        "xrefs" : [ {
-          "val" : "DDB:pf"
-        } ],
         "synonyms" : [ {
           "pred" : "hasNarrowSynonym",
           "val" : "temperature conditional mutant",
@@ -124,6 +153,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000010",
       "meta" : {
+        "definition" : {
+          "val" : "A mutation that makes a gene product still able to interact with another protein but blocking some normal functions.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "synonyms" : [ {
           "pred" : "hasRelatedSynonym",
           "val" : "dominant-negative mutant",
@@ -143,6 +176,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000054",
       "meta" : {
+        "definition" : {
+          "val" : "A bacterial strain used to maintain Dictyostelium.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
           "val" : "2018-03-22T15:14:55Z"
@@ -151,7 +188,7 @@
           "val" : "strain_characteristics"
         }, {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
-          "val" : "Petra"
+          "val" : "pfey"
         } ]
       },
       "type" : "CLASS",
@@ -159,15 +196,19 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000053",
       "meta" : {
+        "definition" : {
+          "val" : "A Dictyostelium strain that cannot grow axenically.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "strain_characteristics"
         }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
           "val" : "2017-03-13T11:05:57Z"
-        }, {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
-          "val" : "Petra"
         } ]
       },
       "type" : "CLASS",
@@ -175,6 +216,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000052",
       "meta" : {
+        "definition" : {
+          "val" : "A mutant transformed with a selection drug.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "strain_characteristics"
@@ -191,6 +236,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000051",
       "meta" : {
+        "definition" : {
+          "val" : "Strains with an ura- mutation can be selected by adding 5-FOA.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "synonyms" : [ {
           "pred" : "hasExactSynonym",
           "val" : "5-FOA selection",
@@ -212,6 +261,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000050",
       "meta" : {
+        "definition" : {
+          "val" : "A bacterial food source for Dictyostelids.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
           "val" : "pfey"
@@ -228,6 +281,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000019",
       "meta" : {
+        "definition" : {
+          "val" : "A mutant that expresses a gene much lower than normal either by antisense mutation or changes in the promoter.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "strain_characteristics"
@@ -236,14 +293,18 @@
       "type" : "CLASS",
       "lbl" : "underexpressor"
     }, {
+      "id" : "http://purl.obolibrary.org/obo/IAO_0000115",
+      "type" : "PROPERTY",
+      "lbl" : "definition"
+    }, {
       "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000018",
       "meta" : {
         "basicPropertyValues" : [ {
-          "pred" : "http://purl.obolibrary.org/obo/IAO_0000231",
-          "val" : "http://purl.obolibrary.org/obo/IAO_0000227"
-        }, {
           "pred" : "http://purl.obolibrary.org/obo/IAO_0100001",
           "val" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000011"
+        }, {
+          "pred" : "http://purl.obolibrary.org/obo/IAO_0000231",
+          "val" : "http://purl.obolibrary.org/obo/IAO_0000227"
         } ],
         "deprecated" : true
       },
@@ -251,6 +312,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000017",
       "meta" : {
+        "definition" : {
+          "val" : "A strain mutation with any gene FLAG-tagged.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "strain_characteristics"
@@ -261,6 +326,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000016",
       "meta" : {
+        "definition" : {
+          "val" : "Suppressor are mutations in a gene that suppress the phenotype of a mutation in another gene.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "strain_characteristics"
@@ -271,6 +340,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000015",
       "meta" : {
+        "definition" : {
+          "val" : "A strain that over-expresses a transformed gene determined by it's promoter.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "strain_characteristics"
@@ -281,6 +354,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000059",
       "meta" : {
+        "definition" : {
+          "val" : "Mating type II is a sexual type for sexual fusion with a different mating type.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "synonyms" : [ {
           "pred" : "hasExactSynonym",
           "val" : "mat2",
@@ -290,11 +367,11 @@
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "strain_characteristics"
         }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
           "val" : "2019-02-07T17:55:18Z"
-        }, {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
-          "val" : "Petra"
         } ]
       },
       "type" : "CLASS",
@@ -302,6 +379,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000025",
       "meta" : {
+        "definition" : {
+          "val" : "A fluorescent gene marker (GFP) that allows live imaging.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "strain_characteristics"
@@ -312,6 +393,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000024",
       "meta" : {
+        "definition" : {
+          "val" : "A mutant cell that requires thymidine a wild type does not.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "strain_characteristics"
@@ -322,6 +407,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000023",
       "meta" : {
+        "definition" : {
+          "val" : "A strain with multiple mutations.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "strain_characteristics"
@@ -332,6 +421,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000022",
       "meta" : {
+        "definition" : {
+          "val" : "A mutant cell that requires uracil a wild type does not.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "strain_characteristics"
@@ -342,6 +435,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000021",
       "meta" : {
+        "definition" : {
+          "val" : "A strain resistant to cycloheximide.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "strain_characteristics"
@@ -352,6 +449,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000020",
       "meta" : {
+        "definition" : {
+          "val" : "A strain resistant to phleomycin.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "strain_characteristics"
@@ -362,20 +463,24 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000061",
       "meta" : {
+        "definition" : {
+          "val" : "A strain transformed with an aequorin marker to regulate intracellular calcium.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "synonyms" : [ {
           "pred" : "hasExactSynonym",
           "val" : "aequorin marked",
           "xrefs" : [ ]
         } ],
         "basicPropertyValues" : [ {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
-          "val" : "strain_characteristics"
-        }, {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
-          "val" : "Petra"
+          "val" : "pfey"
         }, {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
           "val" : "2019-03-14T15:34:02Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "strain_characteristics"
         } ]
       },
       "type" : "CLASS",
@@ -383,20 +488,24 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000060",
       "meta" : {
+        "definition" : {
+          "val" : "Mating type III is a sexual type for sexual fusion with a different mating type.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "synonyms" : [ {
           "pred" : "hasExactSynonym",
           "val" : "mat3",
           "xrefs" : [ ]
         } ],
         "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2019-02-07T17:56:02Z"
+        }, {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "strain_characteristics"
         }, {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
-          "val" : "Petra"
-        }, {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
-          "val" : "2019-02-07T17:56:02Z"
+          "val" : "pfey"
         } ]
       },
       "type" : "CLASS",
@@ -408,6 +517,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000029",
       "meta" : {
+        "definition" : {
+          "val" : "Luciferase is expressed to study gene regulation or activity.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "strain_characteristics"
@@ -422,6 +535,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000028",
       "meta" : {
+        "definition" : {
+          "val" : "A strain with a gene fused to the LacZ marker, viewed in fixed specimen.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "strain_characteristics"
@@ -432,6 +549,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000027",
       "meta" : {
+        "definition" : {
+          "val" : "A fluorescent gene marker (YFP) that allows live imaging.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "strain_characteristics"
@@ -442,6 +563,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000026",
       "meta" : {
+        "definition" : {
+          "val" : "A fluorescent gene marker (RFP) that allows live imaging.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "strain_characteristics"
@@ -452,6 +577,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000036",
       "meta" : {
+        "definition" : {
+          "val" : "A fluorescent gene marker (CFP) that allows live imaging.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "strain_characteristics"
@@ -462,6 +591,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000035",
       "meta" : {
+        "definition" : {
+          "val" : "A strain with any marker.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "strain_characteristics"
@@ -472,6 +605,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000034",
       "meta" : {
+        "definition" : {
+          "val" : "The ability in a mutant strain to regulate a gene's expression by the transformed tetracycline (Tet-On/OFF) or doxycycline inducible system.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "strain_characteristics"
@@ -482,6 +619,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000033",
       "meta" : {
+        "definition" : {
+          "val" : "Typically a null mutant where the null phenotype is rescued by transforming the functional gene back into the mutant, often fused to a marker.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "strain_characteristics"
@@ -492,6 +633,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000032",
       "meta" : {
+        "definition" : {
+          "val" : "A strain mutation with any gene HA-tagged.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "strain_characteristics"
@@ -506,6 +651,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000031",
       "meta" : {
+        "definition" : {
+          "val" : "A strain mutation with any gene Myc-tagged.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "strain_characteristics"
@@ -516,6 +665,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000030",
       "meta" : {
+        "definition" : {
+          "val" : "A strain mutation with any gene His-tagged.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "strain_characteristics"
@@ -538,6 +691,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000039",
       "meta" : {
+        "definition" : {
+          "val" : "A gene is replaced by a transformed gene.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "synonyms" : [ {
           "pred" : "hasNarrowSynonym",
           "val" : "gene replacement mutant",
@@ -553,6 +710,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000038",
       "meta" : {
+        "definition" : {
+          "val" : "Any Dictyostelium mutation.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "strain_characteristics"
@@ -563,6 +724,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000037",
       "meta" : {
+        "definition" : {
+          "val" : "A strain mutation with any gene tagged.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "strain_characteristics"
@@ -571,18 +736,12 @@
       "type" : "CLASS",
       "lbl" : "tagged"
     }, {
-      "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000003",
-      "meta" : {
-        "basicPropertyValues" : [ {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
-          "val" : "strain_characteristics"
-        } ]
-      },
-      "type" : "CLASS",
-      "lbl" : "axenic"
-    }, {
       "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000047",
       "meta" : {
+        "definition" : {
+          "val" : "A homozygous diploid, a diploid of two genetically identical fused cells.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "strain_characteristics"
@@ -591,18 +750,26 @@
       "type" : "CLASS",
       "lbl" : "homozygous diploid"
     }, {
-      "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000002",
+      "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000003",
       "meta" : {
+        "definition" : {
+          "val" : "A strain that may grow axenically.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "strain_characteristics"
         } ]
       },
       "type" : "CLASS",
-      "lbl" : "auxotroph"
+      "lbl" : "axenic"
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000046",
       "meta" : {
+        "definition" : {
+          "val" : "A diploid strain, Dictyostelium is usually haploid.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "strain_characteristics"
@@ -611,15 +778,19 @@
       "type" : "CLASS",
       "lbl" : "diploid"
     }, {
-      "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000045",
+      "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000002",
       "meta" : {
+        "definition" : {
+          "val" : "A mutant cell that requires a specific nutrient a wild type does not.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "strain_characteristics"
         } ]
       },
       "type" : "CLASS",
-      "lbl" : "T7-tagged"
+      "lbl" : "auxotroph"
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000001",
       "meta" : {
@@ -631,8 +802,26 @@
       "type" : "CLASS",
       "lbl" : "strain characteristic"
     }, {
+      "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000045",
+      "meta" : {
+        "definition" : {
+          "val" : "A strain mutation with any gene T7-tagged.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "strain_characteristics"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "T7-tagged"
+    }, {
       "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000044",
       "meta" : {
+        "definition" : {
+          "val" : "A strain mutation with any gene V5-tagged.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "strain_characteristics"
@@ -643,6 +832,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000043",
       "meta" : {
+        "definition" : {
+          "val" : "A strain mutation with any gene TAP-tagged.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "strain_characteristics"
@@ -653,6 +846,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000042",
       "meta" : {
+        "definition" : {
+          "val" : "Typically any point mutation in a protein catalytic domain that renders it inactive.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "strain_characteristics"
@@ -663,6 +860,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000041",
       "meta" : {
+        "definition" : {
+          "val" : "A marker fused to a promoter to label certain cells during development, viewed in fixed specimen.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "strain_characteristics"
@@ -673,6 +874,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000040",
       "meta" : {
+        "definition" : {
+          "val" : "Cre-lox recombination is used to flank a target sequence with loxP sites and remove that sequence with cre-recombinase, in D. discoideum typically the selective drug sequence.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "strain_characteristics"
@@ -683,6 +888,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000009",
       "meta" : {
+        "definition" : {
+          "val" : "A mutation in a catalytic domain that renders the protein to be always active and not anymore regulated.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "strain_characteristics"
@@ -693,6 +902,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000008",
       "meta" : {
+        "definition" : {
+          "val" : "A strain resistant to any drug.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "strain_characteristics"
@@ -703,6 +916,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000007",
       "meta" : {
+        "definition" : {
+          "val" : "A strain resistant to neomycin.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "synonyms" : [ {
           "pred" : "hasExactSynonym",
           "val" : "neoR",
@@ -722,6 +939,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000006",
       "meta" : {
+        "definition" : {
+          "val" : "A strain resistant to hygromycin.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "synonyms" : [ {
           "pred" : "hasExactSynonym",
           "val" : "hygR",
@@ -737,6 +958,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000005",
       "meta" : {
+        "definition" : {
+          "val" : "A strain resistant to bleomycin.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "synonyms" : [ {
           "pred" : "hasExactSynonym",
           "val" : "bleR",
@@ -752,6 +977,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000049",
       "meta" : {
+        "definition" : {
+          "val" : "A strain resistant to tetracycline.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "strain_characteristics"
@@ -762,6 +991,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000048",
       "meta" : {
+        "definition" : {
+          "val" : "A heterozygous diploid, a diploid of two genetically diverse fused cells.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "strain_characteristics"
@@ -772,6 +1005,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000004",
       "meta" : {
+        "definition" : {
+          "val" : "A strain resistant to blasticidin.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "synonyms" : [ {
           "pred" : "hasExactSynonym",
           "val" : "bsR",
@@ -806,37 +1043,21 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000038"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000029",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000035"
-    }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000019",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000038"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000032",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000037"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000017",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000037"
-    }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000033",
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000010",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000038"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000010",
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000033",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000038"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000044",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000037"
-    }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000028",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000035"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000051",
       "pred" : "is_a",
@@ -858,10 +1079,6 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000037"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000027",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000035"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000053",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000001"
@@ -874,53 +1091,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000038"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000014",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000023"
-    }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000038",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000001"
-    }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000007",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000008"
-    }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000059",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000057"
-    }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000048",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000046"
-    }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000050",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000054"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000041",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000035"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000016",
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000050",
       "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000038"
-    }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000039",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000038"
-    }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000026",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000035"
-    }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000052",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000001"
-    }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000021",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000008"
+      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000054"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000006",
       "pred" : "is_a",
@@ -938,17 +1115,17 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000035"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000058",
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000047",
       "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000057"
+      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000046"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000046",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000056"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000047",
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000058",
       "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000046"
+      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000057"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000003",
       "pred" : "is_a",
@@ -962,15 +1139,7 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000035"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000040",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000038"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000005",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000008"
-    }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000020",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000008"
     }, {
@@ -998,21 +1167,9 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000001"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000009",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000038"
-    }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000060",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000057"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000013",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000038"
-    }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000061",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000035"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000055",
       "pred" : "is_a",
@@ -1025,8 +1182,88 @@
       "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000049",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000008"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000029",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000035"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000019",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000038"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000017",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000037"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000028",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000035"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000027",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000035"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000014",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000023"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000038",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000001"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000007",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000008"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000059",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000057"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000048",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000046"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000016",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000038"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000039",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000038"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000026",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000035"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000052",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000001"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000021",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000008"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000040",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000038"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000020",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000008"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000009",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000038"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000060",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000057"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000061",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000035"
     } ],
-    "id" : "http://purl.obolibrary.org/obo/TEMP",
+    "id" : "http://purl.obolibrary.org/obo/ddstrainchar.owl",
     "meta" : {
       "subsets" : [ ],
       "xrefs" : [ ],
@@ -1044,7 +1281,7 @@
         "val" : "OBO-Edit 2.2"
       }, {
         "pred" : "http://www.geneontology.org/formats/oboInOwl#date",
-        "val" : "14:03:2019 15:35"
+        "val" : "13:01:2022 13:26"
       }, {
         "pred" : "http://www.geneontology.org/formats/oboInOwl#default-namespace",
         "val" : "strain_characteristics"
@@ -1053,7 +1290,7 @@
         "val" : "1.2"
       }, {
         "pred" : "http://www.geneontology.org/formats/oboInOwl#saved-by",
-        "val" : "Petra"
+        "val" : "pfey"
       } ]
     },
     "equivalentNodesSets" : [ ],
