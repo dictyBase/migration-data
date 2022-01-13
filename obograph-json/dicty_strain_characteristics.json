@@ -938,17 +938,17 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000035"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000058",
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000047",
       "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000057"
+      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000046"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000046",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000056"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000047",
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000058",
       "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000046"
+      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000057"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000003",
       "pred" : "is_a",
@@ -1035,7 +1035,7 @@
         "val" : "A structured controlled vocabulary of strain characteristics of the slime-mold Dictyostelium discoideum."
       }, {
         "pred" : "http://purl.org/dc/elements/1.1/title",
-        "val" : "Dicty Strain Characteristics Ontology  (DDANAT)"
+        "val" : "Dicty Strain Characteristics Ontology  (DDSTRAINCHAR)"
       }, {
         "pred" : "http://purl.org/dc/terms/license",
         "val" : "http://creativecommons.org/publicdomain/zero/1.0/"
@@ -1053,7 +1053,7 @@
         "val" : "1.2"
       }, {
         "pred" : "http://www.geneontology.org/formats/oboInOwl#saved-by",
-        "val" : "Petra"
+        "val" : "pfey"
       } ]
     },
     "equivalentNodesSets" : [ ],
