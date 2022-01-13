@@ -3,6 +3,10 @@
     "nodes" : [ {
       "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000009",
       "meta" : {
+        "definition" : {
+          "val" : "In the presence of any ion chelating substance.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dicty Environment"
@@ -13,6 +17,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000052",
       "meta" : {
+        "definition" : {
+          "val" : "During the D. discoideum life cycle.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dicty Environment"
@@ -29,6 +37,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000053",
       "meta" : {
+        "definition" : {
+          "val" : "Either in liquid medium or on a bacterial agar plate.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dicty Environment"
@@ -45,6 +57,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000054",
       "meta" : {
+        "definition" : {
+          "val" : "In the presence of any stimulus, biotic or abiotic.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dicty Environment"
@@ -61,6 +77,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000010",
       "meta" : {
+        "definition" : {
+          "val" : "IN the presence of lithium, used as drug against epilepsy.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dicty Environment"
@@ -71,6 +91,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000055",
       "meta" : {
+        "definition" : {
+          "val" : "In the absence of any stimulus, biotic or abiotic.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dicty Environment"
@@ -100,6 +124,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000050",
       "meta" : {
+        "definition" : {
+          "val" : "At the very end of sorocarp development the spores differentiate.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
           "val" : "2014-10-06T16:41:27Z"
@@ -116,6 +144,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000051",
       "meta" : {
+        "definition" : {
+          "val" : "In the presence of naringenin, a flavonoid occurring in fruits and herbs.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dicty Environment"
@@ -132,6 +164,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000016",
       "meta" : {
+        "definition" : {
+          "val" : "During cell stimulation with cAMP.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "synonyms" : [ {
           "pred" : "hasExactSynonym",
           "val" : "cyclic AMP stimulation",
@@ -147,6 +183,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000017",
       "meta" : {
+        "definition" : {
+          "val" : "In the presence of thiabendazole, an antifungal and antiparasitic agent.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dicty Environment"
@@ -157,6 +197,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000018",
       "meta" : {
+        "definition" : {
+          "val" : "IN the presence of miconazole, a broad antifungal drug.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dicty Environment"
@@ -167,6 +211,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000019",
       "meta" : {
+        "definition" : {
+          "val" : "In the presence of clotrimazole, an antifungal drug.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dicty Environment"
@@ -181,6 +229,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000056",
       "meta" : {
+        "definition" : {
+          "val" : "In liquid medium of any kind.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
           "val" : "pfey"
@@ -197,6 +249,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000012",
       "meta" : {
+        "definition" : {
+          "val" : "An increase in temperature.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dicty Environment"
@@ -207,6 +263,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000057",
       "meta" : {
+        "definition" : {
+          "val" : "On a medium or under an agar overlay.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
           "val" : "2014-11-13T15:55:40Z"
@@ -223,6 +283,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000013",
       "meta" : {
+        "definition" : {
+          "val" : "High cell density usually in liquid culture.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dicty Environment"
@@ -231,8 +295,26 @@
       "type" : "CLASS",
       "lbl" : "at high cell density"
     }, {
+      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000014",
+      "meta" : {
+        "definition" : {
+          "val" : "In the presence of gossypol, a phenolic aldehyde, permeates cells and inhibits  several dehydrogenase enzymes.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Environment"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "in the presence of gossypol"
+    }, {
       "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000058",
       "meta" : {
+        "definition" : {
+          "val" : "In the presence of latrunculin, a filamentous actin depolymerizing agent.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
           "val" : "pfey"
@@ -247,18 +329,12 @@
       "type" : "CLASS",
       "lbl" : "in the presence of latrunculin"
     }, {
-      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000014",
-      "meta" : {
-        "basicPropertyValues" : [ {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
-          "val" : "Dicty Environment"
-        } ]
-      },
-      "type" : "CLASS",
-      "lbl" : "in the presence of gossypol"
-    }, {
       "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000059",
       "meta" : {
+        "definition" : {
+          "val" : "In the presence of any inhibitor of cell proliferation.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "synonyms" : [ {
           "pred" : "hasNarrowSynonym",
           "val" : "in the presence of the autocrine factor  rCfaD",
@@ -284,6 +360,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000015",
       "meta" : {
+        "definition" : {
+          "val" : "In the presence of the drug tetracyclin used  for selection after transformation.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dicty Environment"
@@ -294,6 +374,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000063",
       "meta" : {
+        "definition" : {
+          "val" : "During chimeric Dictyostelium development.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dicty Environment"
@@ -310,6 +394,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000064",
       "meta" : {
+        "definition" : {
+          "val" : "During chimeric Dictyostelium early development.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dicty Environment"
@@ -326,6 +414,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000020",
       "meta" : {
+        "definition" : {
+          "val" : "In the presence of econazole, antifungal drug.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dicty Environment"
@@ -336,6 +428,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000065",
       "meta" : {
+        "definition" : {
+          "val" : "During chimeric Dictyostelium late development.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
           "val" : "2015-06-08T16:41:37Z"
@@ -352,6 +448,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000021",
       "meta" : {
+        "definition" : {
+          "val" : "In the presence of cycloheximide, a naturally occurring fungicide, preventing protein synthesis.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dicty Environment"
@@ -372,6 +472,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000066",
       "meta" : {
+        "definition" : {
+          "val" : "After treatment with detergent, typically spores.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
           "val" : "2015-06-16T17:32:06Z"
@@ -388,6 +492,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000060",
       "meta" : {
+        "definition" : {
+          "val" : "Under agarose overlay typically for microscopy of live cells.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
           "val" : "pfey"
@@ -404,6 +512,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000061",
       "meta" : {
+        "definition" : {
+          "val" : "In the presence of pathogenic bacterium, such as Legionella.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "synonyms" : [ {
           "pred" : "hasBroadSynonym",
           "val" : "during bacterial infection",
@@ -425,6 +537,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000062",
       "meta" : {
+        "definition" : {
+          "val" : "On an agar plate containing soil particles imitating natural habitat for the cells.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "synonyms" : [ {
           "pred" : "hasExactSynonym",
           "val" : "on soil medium",
@@ -446,6 +562,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000027",
       "meta" : {
+        "definition" : {
+          "val" : "Dictyostelium cells in buffer.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dicty Environment"
@@ -456,6 +576,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000028",
       "meta" : {
+        "definition" : {
+          "val" : "Dictyostelium cells in water.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dicty Environment"
@@ -470,6 +594,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000029",
       "meta" : {
+        "definition" : {
+          "val" : "On an agar plate containing no nutrients.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dicty Environment"
@@ -484,6 +612,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000023",
       "meta" : {
+        "definition" : {
+          "val" : "In the presence of G418, a selective drug after transformation.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dicty Environment"
@@ -494,6 +626,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000067",
       "meta" : {
+        "definition" : {
+          "val" : "IN any solution such as buffer or medium.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dicty Environment"
@@ -514,6 +650,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000068",
       "meta" : {
+        "definition" : {
+          "val" : "In the presence of the drug rapamycin.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
           "val" : "2016-02-02T14:04:45Z"
@@ -530,6 +670,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000024",
       "meta" : {
+        "definition" : {
+          "val" : "IN the presence of zearalenone, a nonsteroidal estrogenic mycotoxin.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dicty Environment"
@@ -540,6 +684,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000025",
       "meta" : {
+        "definition" : {
+          "val" : "In the presence of phosphoinositide 3-kinase inhibitor.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "synonyms" : [ {
           "pred" : "hasNarrowSynonym",
           "val" : "in the presence of  LY294002",
@@ -555,6 +703,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000069",
       "meta" : {
+        "definition" : {
+          "val" : "On an agar plate with a Micrococcus luteus lawn.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
           "val" : "2017-03-09T14:53:57Z"
@@ -571,6 +723,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000026",
       "meta" : {
+        "definition" : {
+          "val" : "When cells are deprived of food to stimulate development.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dicty Environment"
@@ -587,8 +743,26 @@
       "type" : "PROPERTY",
       "lbl" : "database_cross_reference"
     }, {
+      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000030",
+      "meta" : {
+        "definition" : {
+          "val" : "On filter, typically nitrogen black or white filters.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Environment"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "on filter"
+    }, {
       "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000074",
       "meta" : {
+        "definition" : {
+          "val" : "In atmospheric conditions that might deviate from the normal oxygen level.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dicty Environment"
@@ -603,18 +777,12 @@
       "type" : "CLASS",
       "lbl" : "under atmospheric condition"
     }, {
-      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000030",
-      "meta" : {
-        "basicPropertyValues" : [ {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
-          "val" : "Dicty Environment"
-        } ]
-      },
-      "type" : "CLASS",
-      "lbl" : "on filter"
-    }, {
       "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000075",
       "meta" : {
+        "definition" : {
+          "val" : "Hypoxia is a state when oxygen is not available in sufficient amounts.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "synonyms" : [ {
           "pred" : "hasExactSynonym",
           "val" : "decreased oxygen level",
@@ -636,6 +804,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000031",
       "meta" : {
+        "definition" : {
+          "val" : "In the presence of D. discoideum Differentiating Inducing Factor 1.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dicty Environment"
@@ -646,6 +818,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000076",
       "meta" : {
+        "definition" : {
+          "val" : "In the presence of potassium ion.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "synonyms" : [ {
           "pred" : "hasExactSynonym",
           "val" : "in the presence of K+",
@@ -667,6 +843,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000032",
       "meta" : {
+        "definition" : {
+          "val" : "In the presence of EGTA a chelating agent with a higher affinity tor calcium ions but lower activity for magnesium than EDTA.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dicty Environment"
@@ -677,6 +857,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000033",
       "meta" : {
+        "definition" : {
+          "val" : "In the presence of EDTA a chelating agent binding chemicals such as calcium, magnesium, iron and more.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dicty Environment"
@@ -687,6 +871,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000077",
       "meta" : {
+        "definition" : {
+          "val" : "During early culmination in final development.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dicty Environment"
@@ -732,6 +920,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000071",
       "meta" : {
+        "definition" : {
+          "val" : "On an agar plate with a Bacillus subtilis lawn.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "synonyms" : [ {
           "pred" : "hasRelatedSynonym",
           "val" : "on B. subtilis lawn",
@@ -753,6 +945,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000072",
       "meta" : {
+        "definition" : {
+          "val" : "On an agar plate with an Escherichia coli lawn.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "synonyms" : [ {
           "pred" : "hasExactSynonym",
           "val" : "on E. coli lawn",
@@ -778,6 +974,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000073",
       "meta" : {
+        "definition" : {
+          "val" : "During proliferation with an addition of palmitic acid.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
           "val" : "2017-10-25T16:57:19Z"
@@ -798,6 +998,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000038",
       "meta" : {
+        "definition" : {
+          "val" : "In the presence of the cAMP analog  8-Br-cAMP.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dicty Environment"
@@ -808,6 +1012,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000039",
       "meta" : {
+        "definition" : {
+          "val" : "Typically submerged in buffer under an agar sheet.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "synonyms" : [ {
           "pred" : "hasExactSynonym",
           "val" : "in non-nutrient buffer",
@@ -824,23 +1032,12 @@
       "type" : "CLASS",
       "lbl" : "submerged in buffer"
     }, {
-      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000034",
-      "meta" : {
-        "synonyms" : [ {
-          "pred" : "hasNarrowSynonym",
-          "val" : "in the absense of EDTA",
-          "xrefs" : [ ]
-        } ],
-        "basicPropertyValues" : [ {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
-          "val" : "Dicty Environment"
-        } ]
-      },
-      "type" : "CLASS",
-      "lbl" : "in the absence of EDTA"
-    }, {
       "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000078",
       "meta" : {
+        "definition" : {
+          "val" : "During late culmination in final development.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
           "val" : "2020-12-10T11:20:28Z"
@@ -855,8 +1052,26 @@
       "type" : "CLASS",
       "lbl" : "during late culmination"
     }, {
+      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000034",
+      "meta" : {
+        "definition" : {
+          "val" : "In the absence of EDTA a chelating agent binding chemicals such as calcium, magnesium, iron and more.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Environment"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "in the absence of EDTA"
+    }, {
       "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000079",
       "meta" : {
+        "definition" : {
+          "val" : "During spore germination, when the spores on top of the fruiting body hatch into amoeba.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
           "val" : "2020-12-10T11:26:38Z"
@@ -873,6 +1088,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000035",
       "meta" : {
+        "definition" : {
+          "val" : "In suspension with bacteria supplied as food source.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dicty Environment"
@@ -883,6 +1102,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000036",
       "meta" : {
+        "definition" : {
+          "val" : "In the absence of the drug tetracyclin used  for selection after transformation.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dicty Environment"
@@ -893,6 +1116,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000037",
       "meta" : {
+        "definition" : {
+          "val" : "During growth or proliferation while feeding.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dicty Environment"
@@ -903,6 +1130,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000041",
       "meta" : {
+        "definition" : {
+          "val" : "During D. discoideum aggregation.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dicty Environment"
@@ -913,6 +1144,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000042",
       "meta" : {
+        "definition" : {
+          "val" : "During the slug stage where movement occurs.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dicty Environment"
@@ -923,6 +1158,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000043",
       "meta" : {
+        "definition" : {
+          "val" : "During sorocarp culmination in final development.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dicty Environment"
@@ -933,6 +1172,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000044",
       "meta" : {
+        "definition" : {
+          "val" : "In the presence of D. discoideum Differentiating Inducing Factor 2.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dicty Environment"
@@ -943,6 +1186,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000040",
       "meta" : {
+        "definition" : {
+          "val" : "During sorocarp development.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dicty Environment"
@@ -953,6 +1200,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000005",
       "meta" : {
+        "definition" : {
+          "val" : "In a liquid medium that is acidic.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dicty Environment"
@@ -963,6 +1214,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000049",
       "meta" : {
+        "definition" : {
+          "val" : "During cell stimulation with folate.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
           "val" : "pfey"
@@ -979,6 +1234,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000006",
       "meta" : {
+        "definition" : {
+          "val" : "Low cell density usually in liquid culture.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dicty Environment"
@@ -989,6 +1248,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000007",
       "meta" : {
+        "definition" : {
+          "val" : "A decrease in temperature.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dicty Environment"
@@ -999,6 +1262,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000008",
       "meta" : {
+        "definition" : {
+          "val" : "On solid surfaces such as an agar plate.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dicty Environment"
@@ -1007,18 +1274,12 @@
       "type" : "CLASS",
       "lbl" : "on solid surfaces"
     }, {
-      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000001",
-      "meta" : {
-        "basicPropertyValues" : [ {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
-          "val" : "Dicty Environment"
-        } ]
-      },
-      "type" : "CLASS",
-      "lbl" : "environmental condition"
-    }, {
       "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000045",
       "meta" : {
+        "definition" : {
+          "val" : "In the presence of calcium, a signaling molecule for Dictyostelium.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "synonyms" : [ {
           "pred" : "hasExactSynonym",
           "val" : "in the presence of Ca2+",
@@ -1049,6 +1310,16 @@
       "type" : "CLASS",
       "lbl" : "in the presence of calcium"
     }, {
+      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000001",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Environment"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "environmental condition"
+    }, {
       "id" : "http://www.geneontology.org/formats/oboInOwl#hasAlternativeId",
       "type" : "PROPERTY",
       "lbl" : "has_alternative_id"
@@ -1056,8 +1327,8 @@
       "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000002",
       "meta" : {
         "definition" : {
-          "val" : "Cells shaking in a medium.",
-          "xrefs" : [ "DDB:PF" ]
+          "val" : "Cells shaking in a liquid medium such as HL5.",
+          "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
@@ -1082,6 +1353,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000047",
       "meta" : {
+        "definition" : {
+          "val" : "Conditioned medium is typically medium where other Dictyostelium cells have been growing before.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
           "val" : "pfey"
@@ -1098,6 +1373,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000003",
       "meta" : {
+        "definition" : {
+          "val" : "In axenic medium, typically HL5.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dicty Environment"
@@ -1108,6 +1387,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000048",
       "meta" : {
+        "definition" : {
+          "val" : "IN the presence of the chemical compound silicon.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
           "val" : "2013-08-28T10:29:36Z"
@@ -1124,6 +1407,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000004",
       "meta" : {
+        "definition" : {
+          "val" : "On a bacterial agar plate, bacteria serve as food source.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dicty Environment"
@@ -1177,19 +1464,19 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000001"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000039",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000067"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000005",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000056"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000026",
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000039",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000067"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000049",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000052"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000049",
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000026",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000052"
     }, {
@@ -1201,13 +1488,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000001"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000015",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000054"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000027",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000067"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000015",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000054"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000037",
       "pred" : "is_a",
@@ -1273,14 +1560,6 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000040"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000068",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000054"
-    }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000045",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000054"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000022",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000054"
@@ -1288,6 +1567,14 @@
       "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000034",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000055"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000045",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000054"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000068",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000054"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000029",
       "pred" : "is_a",
@@ -1297,11 +1584,11 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000053"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000010",
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000033",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000054"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000033",
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000010",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000054"
     }, {
@@ -1455,7 +1742,7 @@
         "val" : "OBO-Edit 2.2"
       }, {
         "pred" : "http://www.geneontology.org/formats/oboInOwl#date",
-        "val" : "10:12:2020 11:29"
+        "val" : "12:01:2022 20:09"
       }, {
         "pred" : "http://www.geneontology.org/formats/oboInOwl#default-namespace",
         "val" : "Dicty Environment"
