@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 10:12:2020 11:29
+date: 12:01:2022 20:09
 saved-by: pfey
 auto-generated-by: OBO-Edit 2.2
 default-namespace: Dicty Environment
@@ -15,98 +15,116 @@ name: environmental condition
 [Term]
 id: DDENVIR:0000002
 name: in suspension
-def: "Cells shaking in a medium." [DDB:PF]
+def: "Cells shaking in a liquid medium such as HL5." [DDB:pf]
 is_a: DDENVIR:0000056 ! in liquid medium
 
 [Term]
 id: DDENVIR:0000003
 name: in axenic medium
+def: "In axenic medium, typically HL5." [DDB:pf]
 is_a: DDENVIR:0000056 ! in liquid medium
 
 [Term]
 id: DDENVIR:0000004
 name: on bacterial plate
+def: "On a bacterial agar plate, bacteria serve as food source." [DDB:pf]
 is_a: DDENVIR:0000008 ! on solid surfaces
 
 [Term]
 id: DDENVIR:0000005
 name: in acidic medium
+def: "In a liquid medium that is acidic." [DDB:pf]
 is_a: DDENVIR:0000056 ! in liquid medium
 
 [Term]
 id: DDENVIR:0000006
 name: at low cell density
+def: "Low cell density usually in liquid culture." [DDB:pf]
 is_a: DDENVIR:0000037 ! during vegetative growth
 
 [Term]
 id: DDENVIR:0000007
 name: at low temperature
+def: "A decrease in temperature." [DDB:pf]
 is_a: DDENVIR:0000001 ! environmental condition
 
 [Term]
 id: DDENVIR:0000008
 name: on solid surfaces
+def: "On solid surfaces such as an agar plate." [DDB:pf]
 is_a: DDENVIR:0000057 ! on or under solid medium
 
 [Term]
 id: DDENVIR:0000009
 name: in the presence of an ion chelator
+def: "In the presence of any ion chelating substance." [DDB:pf]
 is_a: DDENVIR:0000054 ! in the presence of biotic or abiotic stimulus
 
 [Term]
 id: DDENVIR:0000010
 name: in the presence of lithium
+def: "IN the presence of lithium, used as drug against epilepsy." [DDB:pf]
 is_a: DDENVIR:0000054 ! in the presence of biotic or abiotic stimulus
 
 [Term]
 id: DDENVIR:0000012
 name: at high temperature
+def: "An increase in temperature." [DDB:pf]
 is_a: DDENVIR:0000001 ! environmental condition
 
 [Term]
 id: DDENVIR:0000013
 name: at high cell density
+def: "High cell density usually in liquid culture." [DDB:pf]
 is_a: DDENVIR:0000037 ! during vegetative growth
 
 [Term]
 id: DDENVIR:0000014
 name: in the presence of gossypol
+def: "In the presence of gossypol, a phenolic aldehyde, permeates cells and inhibits  several dehydrogenase enzymes." [DDB:pf]
 is_a: DDENVIR:0000054 ! in the presence of biotic or abiotic stimulus
 
 [Term]
 id: DDENVIR:0000015
 name: in the presence of tetracycline
+def: "In the presence of the drug tetracyclin used  for selection after transformation." [DDB:pf]
 is_a: DDENVIR:0000054 ! in the presence of biotic or abiotic stimulus
 
 [Term]
 id: DDENVIR:0000016
 name: during cAMP stimulation
+def: "During cell stimulation with cAMP." [DDB:pf]
 synonym: "cyclic AMP stimulation" EXACT []
 is_a: DDENVIR:0000052 ! during the life cycle
 
 [Term]
 id: DDENVIR:0000017
 name: in the presence of thiabendazole
+def: "In the presence of thiabendazole, an antifungal and antiparasitic agent." [DDB:pf]
 is_a: DDENVIR:0000054 ! in the presence of biotic or abiotic stimulus
 
 [Term]
 id: DDENVIR:0000018
 name: in the presence of miconazole
+def: "IN the presence of miconazole, a broad antifungal drug." [DDB:pf]
 is_a: DDENVIR:0000054 ! in the presence of biotic or abiotic stimulus
 
 [Term]
 id: DDENVIR:0000019
 name: in the presence of clotrimazole
+def: "In the presence of clotrimazole, an antifungal drug." [DDB:pf]
 is_a: DDENVIR:0000054 ! in the presence of biotic or abiotic stimulus
 
 [Term]
 id: DDENVIR:0000020
 name: in the presence of econazole
+def: "In the presence of econazole, antifungal drug." [DDB:pf]
 is_a: DDENVIR:0000054 ! in the presence of biotic or abiotic stimulus
 
 [Term]
 id: DDENVIR:0000021
 name: in the presence of cycloheximide
+def: "In the presence of cycloheximide, a naturally occurring fungicide, preventing protein synthesis." [DDB:pf]
 is_a: DDENVIR:0000054 ! in the presence of biotic or abiotic stimulus
 
 [Term]
@@ -117,121 +135,143 @@ is_a: DDENVIR:0000054 ! in the presence of biotic or abiotic stimulus
 [Term]
 id: DDENVIR:0000023
 name: in the presence of G418
+def: "In the presence of G418, a selective drug after transformation." [DDB:pf]
 is_a: DDENVIR:0000054 ! in the presence of biotic or abiotic stimulus
 
 [Term]
 id: DDENVIR:0000024
 name: in the presence of zearalenone
+def: "IN the presence of zearalenone, a nonsteroidal estrogenic mycotoxin." [DDB:pf]
 is_a: DDENVIR:0000054 ! in the presence of biotic or abiotic stimulus
 
 [Term]
 id: DDENVIR:0000025
 name: in the presence of  PI3K inhibitor
+def: "In the presence of phosphoinositide 3-kinase inhibitor." [DDB:pf]
 synonym: "in the presence of  LY294002" NARROW []
 is_a: DDENVIR:0000054 ! in the presence of biotic or abiotic stimulus
 
 [Term]
 id: DDENVIR:0000026
 name: during starvation
+def: "When cells are deprived of food to stimulate development." [DDB:pf]
 is_a: DDENVIR:0000052 ! during the life cycle
 
 [Term]
 id: DDENVIR:0000027
 name: in buffer
+def: "Dictyostelium cells in buffer." [DDB:pf]
 is_a: DDENVIR:0000067 ! in solution
 
 [Term]
 id: DDENVIR:0000028
 name: in water
+def: "Dictyostelium cells in water." [DDB:pf]
 is_a: DDENVIR:0000067 ! in solution
 
 [Term]
 id: DDENVIR:0000029
 name: on non-nutrient agar
+def: "On an agar plate containing no nutrients." [DDB:pf]
 is_a: DDENVIR:0000008 ! on solid surfaces
 
 [Term]
 id: DDENVIR:0000030
 name: on filter
+def: "On filter, typically nitrogen black or white filters." [DDB:pf]
 is_a: DDENVIR:0000008 ! on solid surfaces
 
 [Term]
 id: DDENVIR:0000031
 name: in the presence of DIF-1
+def: "In the presence of D. discoideum Differentiating Inducing Factor 1." [DDB:pf]
 is_a: DDENVIR:0000054 ! in the presence of biotic or abiotic stimulus
 
 [Term]
 id: DDENVIR:0000032
 name: in the presence of EGTA
+def: "In the presence of EGTA a chelating agent with a higher affinity tor calcium ions but lower activity for magnesium than EDTA." [DDB:pf]
 is_a: DDENVIR:0000054 ! in the presence of biotic or abiotic stimulus
 
 [Term]
 id: DDENVIR:0000033
 name: in the presence of EDTA
+def: "In the presence of EDTA a chelating agent binding chemicals such as calcium, magnesium, iron and more." [DDB:pf]
 is_a: DDENVIR:0000054 ! in the presence of biotic or abiotic stimulus
 
 [Term]
 id: DDENVIR:0000034
 name: in the absence of EDTA
-synonym: "in the absense of EDTA" NARROW []
+def: "In the absence of EDTA a chelating agent binding chemicals such as calcium, magnesium, iron and more." [DDB:pf]
 is_a: DDENVIR:0000055 ! in the absence of biotic or abiotic stimulus
 
 [Term]
 id: DDENVIR:0000035
 name: in bacterial suspension
+def: "In suspension with bacteria supplied as food source." [DDB:pf]
 is_a: DDENVIR:0000056 ! in liquid medium
 
 [Term]
 id: DDENVIR:0000036
 name: in the absence of tetracycline
+def: "In the absence of the drug tetracyclin used  for selection after transformation." [DDB:pf]
 is_a: DDENVIR:0000055 ! in the absence of biotic or abiotic stimulus
 
 [Term]
 id: DDENVIR:0000037
 name: during vegetative growth
+def: "During growth or proliferation while feeding." [DDB:pf]
 is_a: DDENVIR:0000052 ! during the life cycle
 
 [Term]
 id: DDENVIR:0000038
 name: in the presence of 8-Br-cAMP
+def: "In the presence of the cAMP analog  8-Br-cAMP." [DDB:pf]
 is_a: DDENVIR:0000054 ! in the presence of biotic or abiotic stimulus
 
 [Term]
 id: DDENVIR:0000039
 name: submerged in buffer
 alt_id: DDENVIR:0000046
+def: "Typically submerged in buffer under an agar sheet." [DDB:pf]
 synonym: "in non-nutrient buffer" EXACT []
 is_a: DDENVIR:0000067 ! in solution
 
 [Term]
 id: DDENVIR:0000040
 name: during development
+def: "During sorocarp development." [DDB:pf]
 is_a: DDENVIR:0000052 ! during the life cycle
 
 [Term]
 id: DDENVIR:0000041
 name: during aggregation
+def: "During D. discoideum aggregation." [DDB:pf]
 is_a: DDENVIR:0000040 ! during development
 
 [Term]
 id: DDENVIR:0000042
 name: during slug stage
+def: "During the slug stage where movement occurs." [DDB:pf]
 is_a: DDENVIR:0000040 ! during development
 
 [Term]
 id: DDENVIR:0000043
 name: during culmination
+def: "During sorocarp culmination in final development." [DDB:pf]
 is_a: DDENVIR:0000040 ! during development
 
 [Term]
 id: DDENVIR:0000044
 name: in the presence of DIF-2
+def: "In the presence of D. discoideum Differentiating Inducing Factor 2." [DDB:pf]
 is_a: DDENVIR:0000054 ! in the presence of biotic or abiotic stimulus
 
 [Term]
 id: DDENVIR:0000045
 name: in the presence of calcium
 alt_id: DDENVIR:0000011
+def: "In the presence of calcium, a signaling molecule for Dictyostelium." [DDB:pf]
 synonym: "in the presence of Ca2+" EXACT []
 synonym: "in the presence of high Ca2+" NARROW []
 synonym: "in the presence of high calcium" NARROW []
@@ -242,6 +282,7 @@ creation_date: 2012-10-03T16:59:59Z
 [Term]
 id: DDENVIR:0000047
 name: in conditioned medium
+def: "Conditioned medium is typically medium where other Dictyostelium cells have been growing before." [DDB:pf]
 is_a: DDENVIR:0000056 ! in liquid medium
 created_by: pfey
 creation_date: 2013-02-14T16:00:42Z
@@ -249,6 +290,7 @@ creation_date: 2013-02-14T16:00:42Z
 [Term]
 id: DDENVIR:0000048
 name: in the presence of silicon
+def: "IN the presence of the chemical compound silicon." [DDB:pf]
 is_a: DDENVIR:0000054 ! in the presence of biotic or abiotic stimulus
 created_by: pfey
 creation_date: 2013-08-28T10:29:36Z
@@ -256,6 +298,7 @@ creation_date: 2013-08-28T10:29:36Z
 [Term]
 id: DDENVIR:0000049
 name: during folate stimulation
+def: "During cell stimulation with folate." [DDB:pf]
 is_a: DDENVIR:0000052 ! during the life cycle
 created_by: pfey
 creation_date: 2013-12-16T16:49:54Z
@@ -263,6 +306,7 @@ creation_date: 2013-12-16T16:49:54Z
 [Term]
 id: DDENVIR:0000050
 name: during sporulation
+def: "At the very end of sorocarp development the spores differentiate." [DDB:pf]
 is_a: DDENVIR:0000040 ! during development
 created_by: pfey
 creation_date: 2014-10-06T16:41:27Z
@@ -270,6 +314,7 @@ creation_date: 2014-10-06T16:41:27Z
 [Term]
 id: DDENVIR:0000051
 name: in the presence of naringenin
+def: "In the presence of naringenin, a flavonoid occurring in fruits and herbs." [DDB:pf]
 is_a: DDENVIR:0000054 ! in the presence of biotic or abiotic stimulus
 created_by: pfey
 creation_date: 2014-11-06T17:25:06Z
@@ -277,6 +322,7 @@ creation_date: 2014-11-06T17:25:06Z
 [Term]
 id: DDENVIR:0000052
 name: during the life cycle
+def: "During the D. discoideum life cycle." [DDB:pf]
 is_a: DDENVIR:0000001 ! environmental condition
 created_by: pfey
 creation_date: 2014-11-13T15:47:22Z
@@ -284,6 +330,7 @@ creation_date: 2014-11-13T15:47:22Z
 [Term]
 id: DDENVIR:0000053
 name: in or on medium or solution
+def: "Either in liquid medium or on a bacterial agar plate." [DDB:pf]
 is_a: DDENVIR:0000001 ! environmental condition
 created_by: pfey
 creation_date: 2014-11-13T15:50:01Z
@@ -291,6 +338,7 @@ creation_date: 2014-11-13T15:50:01Z
 [Term]
 id: DDENVIR:0000054
 name: in the presence of biotic or abiotic stimulus
+def: "In the presence of any stimulus, biotic or abiotic." [DDB:pf]
 is_a: DDENVIR:0000001 ! environmental condition
 created_by: pfey
 creation_date: 2014-11-13T15:52:27Z
@@ -298,6 +346,7 @@ creation_date: 2014-11-13T15:52:27Z
 [Term]
 id: DDENVIR:0000055
 name: in the absence of biotic or abiotic stimulus
+def: "In the absence of any stimulus, biotic or abiotic." [DDB:pf]
 is_a: DDENVIR:0000001 ! environmental condition
 created_by: pfey
 creation_date: 2014-11-13T15:53:39Z
@@ -305,6 +354,7 @@ creation_date: 2014-11-13T15:53:39Z
 [Term]
 id: DDENVIR:0000056
 name: in liquid medium
+def: "In liquid medium of any kind." [DDB:pf]
 is_a: DDENVIR:0000053 ! in or on medium or solution
 created_by: pfey
 creation_date: 2014-11-13T15:55:01Z
@@ -312,6 +362,7 @@ creation_date: 2014-11-13T15:55:01Z
 [Term]
 id: DDENVIR:0000057
 name: on or under solid medium
+def: "On a medium or under an agar overlay." [DDB:pf]
 is_a: DDENVIR:0000053 ! in or on medium or solution
 created_by: pfey
 creation_date: 2014-11-13T15:55:40Z
@@ -319,6 +370,7 @@ creation_date: 2014-11-13T15:55:40Z
 [Term]
 id: DDENVIR:0000058
 name: in the presence of latrunculin
+def: "In the presence of latrunculin, a filamentous actin depolymerizing agent." [DDB:pf]
 is_a: DDENVIR:0000054 ! in the presence of biotic or abiotic stimulus
 created_by: pfey
 creation_date: 2014-11-13T16:00:25Z
@@ -326,6 +378,7 @@ creation_date: 2014-11-13T16:00:25Z
 [Term]
 id: DDENVIR:0000059
 name: in the presence of  proliferation inhibitor
+def: "In the presence of any inhibitor of cell proliferation." [DDB:pf]
 synonym: "in the presence of the autocrine factor  rCfaD" NARROW []
 synonym: "in the presence of the autocrine factor rAprA" NARROW []
 is_a: DDENVIR:0000054 ! in the presence of biotic or abiotic stimulus
@@ -335,6 +388,7 @@ creation_date: 2015-01-09T14:10:05Z
 [Term]
 id: DDENVIR:0000060
 name: under agarose overlay
+def: "Under agarose overlay typically for microscopy of live cells." [DDB:pf]
 is_a: DDENVIR:0000057 ! on or under solid medium
 created_by: pfey
 creation_date: 2015-01-09T14:20:12Z
@@ -342,6 +396,7 @@ creation_date: 2015-01-09T14:20:12Z
 [Term]
 id: DDENVIR:0000061
 name: in the presence of pathogenic bacterium
+def: "In the presence of pathogenic bacterium, such as Legionella." [DDB:pf]
 synonym: "during bacterial infection" BROAD []
 is_a: DDENVIR:0000054 ! in the presence of biotic or abiotic stimulus
 created_by: pfey
@@ -350,6 +405,7 @@ creation_date: 2015-05-06T16:00:37Z
 [Term]
 id: DDENVIR:0000062
 name: on soil plate
+def: "On an agar plate containing soil particles imitating natural habitat for the cells." [DDB:pf]
 synonym: "on soil medium" EXACT []
 is_a: DDENVIR:0000008 ! on solid surfaces
 created_by: pfey
@@ -358,6 +414,7 @@ creation_date: 2015-05-07T15:48:39Z
 [Term]
 id: DDENVIR:0000063
 name: during chimeric development
+def: "During chimeric Dictyostelium development." [DDB:pf]
 is_a: DDENVIR:0000040 ! during development
 created_by: pfey
 creation_date: 2015-06-08T16:37:07Z
@@ -365,6 +422,7 @@ creation_date: 2015-06-08T16:37:07Z
 [Term]
 id: DDENVIR:0000064
 name: during chimeric early development
+def: "During chimeric Dictyostelium early development." [DDB:pf]
 is_a: DDENVIR:0000063 ! during chimeric development
 created_by: pfey
 creation_date: 2015-06-08T16:41:12Z
@@ -372,6 +430,7 @@ creation_date: 2015-06-08T16:41:12Z
 [Term]
 id: DDENVIR:0000065
 name: during chimeric late development
+def: "During chimeric Dictyostelium late development." [DDB:pf]
 is_a: DDENVIR:0000063 ! during chimeric development
 created_by: pfey
 creation_date: 2015-06-08T16:41:37Z
@@ -379,6 +438,7 @@ creation_date: 2015-06-08T16:41:37Z
 [Term]
 id: DDENVIR:0000066
 name: after detergent treatment
+def: "After treatment with detergent, typically spores." [DDB:pf]
 is_a: DDENVIR:0000067 ! in solution
 created_by: pfey
 creation_date: 2015-06-16T17:32:06Z
@@ -386,6 +446,7 @@ creation_date: 2015-06-16T17:32:06Z
 [Term]
 id: DDENVIR:0000067
 name: in solution
+def: "IN any solution such as buffer or medium." [DDB:pf]
 is_a: DDENVIR:0000053 ! in or on medium or solution
 created_by: pfey
 creation_date: 2015-06-18T17:04:13Z
@@ -393,6 +454,7 @@ creation_date: 2015-06-18T17:04:13Z
 [Term]
 id: DDENVIR:0000068
 name: in the presence of rapamycin
+def: "In the presence of the drug rapamycin." [DDB:pf]
 is_a: DDENVIR:0000054 ! in the presence of biotic or abiotic stimulus
 created_by: pfey
 creation_date: 2016-02-02T14:04:45Z
@@ -400,6 +462,7 @@ creation_date: 2016-02-02T14:04:45Z
 [Term]
 id: DDENVIR:0000069
 name: on Micrococcus luteus lawn
+def: "On an agar plate with a Micrococcus luteus lawn." [DDB:pf]
 is_a: DDENVIR:0000004 ! on bacterial plate
 created_by: pfey
 creation_date: 2017-03-09T14:53:57Z
@@ -417,6 +480,7 @@ creation_date: 2017-03-09T15:02:09Z
 [Term]
 id: DDENVIR:0000071
 name: on Bacillus subtilis lawn
+def: "On an agar plate with a Bacillus subtilis lawn." [DDB:pf]
 synonym: "on B. subtilis lawn" RELATED []
 is_a: DDENVIR:0000004 ! on bacterial plate
 created_by: pfey
@@ -425,6 +489,7 @@ creation_date: 2017-03-09T15:05:20Z
 [Term]
 id: DDENVIR:0000072
 name: on Escherichia coli lawn
+def: "On an agar plate with an Escherichia coli lawn." [DDB:pf]
 synonym: "on E. coli lawn" EXACT []
 is_a: DDENVIR:0000004 ! on bacterial plate
 created_by: pfey
@@ -433,6 +498,7 @@ creation_date: 2017-03-09T15:05:58Z
 [Term]
 id: DDENVIR:0000073
 name: during growth with palmitic acid treatment
+def: "During proliferation with an addition of palmitic acid." [DDB:pf]
 is_a: DDENVIR:0000037 ! during vegetative growth
 created_by: pfey
 creation_date: 2017-10-25T16:57:19Z
@@ -440,6 +506,7 @@ creation_date: 2017-10-25T16:57:19Z
 [Term]
 id: DDENVIR:0000074
 name: under atmospheric condition
+def: "In atmospheric conditions that might deviate from the normal oxygen level." [DDB:pf]
 is_a: DDENVIR:0000001 ! environmental condition
 created_by: pfey
 creation_date: 2019-03-29T14:16:13Z
@@ -447,6 +514,7 @@ creation_date: 2019-03-29T14:16:13Z
 [Term]
 id: DDENVIR:0000075
 name: in hypoxia
+def: "Hypoxia is a state when oxygen is not available in sufficient amounts." [DDB:pf]
 synonym: "decreased oxygen level" EXACT []
 is_a: DDENVIR:0000074 ! under atmospheric condition
 created_by: pfey
@@ -455,6 +523,7 @@ creation_date: 2019-03-29T14:16:54Z
 [Term]
 id: DDENVIR:0000076
 name: in the presence of potassium
+def: "In the presence of potassium ion." [DDB:pf]
 synonym: "in the presence of K+" EXACT []
 is_a: DDENVIR:0000054 ! in the presence of biotic or abiotic stimulus
 created_by: pfey
@@ -463,6 +532,7 @@ creation_date: 2020-12-08T17:35:50Z
 [Term]
 id: DDENVIR:0000077
 name: during early culmination
+def: "During early culmination in final development." [DDB:pf]
 is_a: DDENVIR:0000043 ! during culmination
 created_by: pfey
 creation_date: 2020-12-10T11:20:00Z
@@ -470,6 +540,7 @@ creation_date: 2020-12-10T11:20:00Z
 [Term]
 id: DDENVIR:0000078
 name: during late culmination
+def: "During late culmination in final development." [DDB:pf]
 is_a: DDENVIR:0000043 ! during culmination
 created_by: pfey
 creation_date: 2020-12-10T11:20:28Z
@@ -477,6 +548,7 @@ creation_date: 2020-12-10T11:20:28Z
 [Term]
 id: DDENVIR:0000079
 name: during spore germination
+def: "During spore germination, when the spores on top of the fruiting body hatch into amoeba." [DDB:pf]
 is_a: DDENVIR:0000040 ! during development
 created_by: pfey
 creation_date: 2020-12-10T11:26:38Z
