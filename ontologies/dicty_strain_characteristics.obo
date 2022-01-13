@@ -1,11 +1,11 @@
 format-version: 1.2
 date: 14:03:2019 15:35
-saved-by: Petra
+saved-by: pfey
 auto-generated-by: OBO-Edit 2.2
 default-namespace: strain_characteristics
 ontology: ddstrainchar
 property_value: http://purl.org/dc/elements/1.1/description "A structured controlled vocabulary of strain characteristics of the slime-mold Dictyostelium discoideum." xsd:string
-property_value: http://purl.org/dc/elements/1.1/title "Dicty Strain Characteristics Ontology  (DDANAT)" xsd:string
+property_value: http://purl.org/dc/elements/1.1/title "Dicty Strain Characteristics Ontology  (DDSTRAINCHAR)" xsd:string
 property_value: http://purl.org/dc/terms/license http://creativecommons.org/publicdomain/zero/1.0/
 
 [Term]
