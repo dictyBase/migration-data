@@ -81,13 +81,13 @@ is_a: DDENVIR:0000037 ! during vegetative growth
 [Term]
 id: DDENVIR:0000014
 name: in the presence of gossypol
-def: "In the presence of gossypol, a phenolic aldehyde, permeates cells and inhibits  several dehydrogenase enzymes." [DDB:pf]
+def: "In the presence of gossypol, a phenolic aldehyde, permeates cells and inhibits several dehydrogenase enzymes." [DDB:pf]
 is_a: DDENVIR:0000054 ! in the presence of biotic or abiotic stimulus
 
 [Term]
 id: DDENVIR:0000015
 name: in the presence of tetracycline
-def: "In the presence of the drug tetracyclin used  for selection after transformation." [DDB:pf]
+def: "In the presence of the drug tetracyclin used for selection after transformation." [DDB:pf]
 is_a: DDENVIR:0000054 ! in the presence of biotic or abiotic stimulus
 
 [Term]
@@ -214,7 +214,7 @@ is_a: DDENVIR:0000056 ! in liquid medium
 [Term]
 id: DDENVIR:0000036
 name: in the absence of tetracycline
-def: "In the absence of the drug tetracyclin used  for selection after transformation." [DDB:pf]
+def: "In the absence of the drug tetracyclin used for selection after transformation." [DDB:pf]
 is_a: DDENVIR:0000055 ! in the absence of biotic or abiotic stimulus
 
 [Term]
@@ -226,7 +226,7 @@ is_a: DDENVIR:0000052 ! during the life cycle
 [Term]
 id: DDENVIR:0000038
 name: in the presence of 8-Br-cAMP
-def: "In the presence of the cAMP analog  8-Br-cAMP." [DDB:pf]
+def: "In the presence of the cAMP analog 8-Br-cAMP." [DDB:pf]
 is_a: DDENVIR:0000054 ! in the presence of biotic or abiotic stimulus
 
 [Term]
@@ -470,7 +470,8 @@ creation_date: 2017-03-09T14:53:57Z
 [Term]
 id: DDENVIR:0000070
 name: on Klebsiella aerogenes lawn
-synonym: " on Klebsiella pneumoniae lawn" EXACT []
+def: "On an agar plate with a Klebsiella aerogenes lawn." [DDB:pf]
+synonym: "on Klebsiella pneumoniae lawn" EXACT []
 synonym: "on Aerobacter aerogenes lawn" EXACT []
 synonym: "on K. aerogenes lawn" EXACT []
 is_a: DDENVIR:0000004 ! on bacterial plate
