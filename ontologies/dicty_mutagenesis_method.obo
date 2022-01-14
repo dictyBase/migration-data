@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 23:01:2019 15:08
+date: 13:01:2022 18:13
 saved-by: pfey
 auto-generated-by: OBO-Edit 2.2
 default-namespace: Dd Mutagenesis Method
@@ -16,6 +16,7 @@ creation_date: 2016-03-16T12:15:29Z
 [Term]
 id: DDMUMET:0000002
 name: extrachromosomal
+def: "Strain mutation using an extrachromosomal vector that contains a Dicty origin of replication." [DDB:pf]
 synonym: "EX" EXACT []
 is_a: DDMUMET:0000001 ! mutagenesis method
 created_by: pfey
@@ -24,6 +25,7 @@ creation_date: 2016-03-16T12:16:10Z
 [Term]
 id: DDMUMET:0000003
 name: spontaneous
+def: "Any spontaneous mutation." [DDB:pf]
 synonym: "spont" EXACT []
 is_a: DDMUMET:0000001 ! mutagenesis method
 created_by: pfey
@@ -39,6 +41,7 @@ creation_date: 2016-03-16T12:45:39Z
 [Term]
 id: DDMUMET:0000005
 name: knockdown
+def: "A knockdown for gene expression often accomplished by regulation of promoter or RNAi." [DDB:pf]
 synonym: "KD" EXACT []
 is_a: DDMUMET:0000004 ! regulated expression
 created_by: pfey
@@ -47,8 +50,9 @@ creation_date: 2016-03-16T12:45:58Z
 [Term]
 id: DDMUMET:0000006
 name: RNAi
+def: "RNA interference is a process in which RNA molecules are involved in sequence-specific suppression of gene expression by double-stranded RNA." [DDB:pf]
 synonym: "RNA interference" EXACT []
-is_a: DDMUMET:0000004 ! regulated expression
+is_a: DDMUMET:0000005 ! knockdown
 is_a: DDMUMET:0000007 ! RNA mutagenesis
 created_by: pfey
 creation_date: 2016-03-16T12:47:09Z
@@ -56,6 +60,7 @@ creation_date: 2016-03-16T12:47:09Z
 [Term]
 id: DDMUMET:0000007
 name: RNA mutagenesis
+def: "Targeting the mRNA for mutagenesis." [DDB:pf]
 is_a: DDMUMET:0000024 ! genomic mutagenesis
 created_by: pfey
 creation_date: 2016-03-16T12:48:24Z
@@ -63,6 +68,7 @@ creation_date: 2016-03-16T12:48:24Z
 [Term]
 id: DDMUMET:0000008
 name: antisense
+def: "Antisense refers to the orientation of complementary strands during transcription and in the lab modulates mRNA expression." [DDB:pf]
 synonym: "AS" EXACT []
 is_a: DDMUMET:0000007 ! RNA mutagenesis
 created_by: pfey
@@ -71,6 +77,7 @@ creation_date: 2016-03-16T12:48:40Z
 [Term]
 id: DDMUMET:0000009
 name: genomic DNA insertion
+def: "Any insertion into the genomic DNA." [DDB:pf]
 is_a: DDMUMET:0000024 ! genomic mutagenesis
 created_by: pfey
 creation_date: 2016-03-16T12:49:54Z
@@ -78,6 +85,7 @@ creation_date: 2016-03-16T12:49:54Z
 [Term]
 id: DDMUMET:0000010
 name: homologous recombination
+def: "Homologous recombination is a type of genetic recombination in which genetic information is exchanged between two aligning sequences; used to delete a gene by swapping in a selection marker." [DDB:pf]
 synonym: "HR" EXACT []
 is_a: DDMUMET:0000009 ! genomic DNA insertion
 created_by: pfey
@@ -86,6 +94,7 @@ creation_date: 2016-03-16T12:50:17Z
 [Term]
 id: DDMUMET:0000011
 name: random insertion
+def: "In a mutation by random insertion a plasmid inserts randomly into the genome with the genetic material it contains." [DDB:pf]
 synonym: "RI" EXACT []
 is_a: DDMUMET:0000009 ! genomic DNA insertion
 created_by: pfey
@@ -94,6 +103,7 @@ creation_date: 2016-03-16T12:50:53Z
 [Term]
 id: DDMUMET:0000012
 name: REMI
+def: "REMI is used to mutate as many genes as possible with help of a restriction enzyme included in the transformation to facilitate insertion." [DDB:pf]
 synonym: "restriction enzyme-mediated integration" EXACT []
 is_a: DDMUMET:0000009 ! genomic DNA insertion
 created_by: pfey
@@ -102,6 +112,7 @@ creation_date: 2016-03-16T12:51:29Z
 [Term]
 id: DDMUMET:0000013
 name: REMI-seq
+def: "REMI-seq combines efficient REMI mutagenesis with easy identification by engineering adaptors for efficient sequencing of a genomic DNA tag in each mutant." [DDB:pf]
 synonym: "restriction enzyme-mediated integration and NGS sequencing" EXACT []
 is_a: DDMUMET:0000009 ! genomic DNA insertion
 created_by: pfey
@@ -110,6 +121,7 @@ creation_date: 2016-03-16T12:52:56Z
 [Term]
 id: DDMUMET:0000014
 name: chemical mutagenesis
+def: "D. discoideum mutation using a mutagenic chemical." [DDB:pf]
 is_a: DDMUMET:0000001 ! mutagenesis method
 created_by: pfey
 creation_date: 2016-03-16T13:49:43Z
@@ -117,6 +129,7 @@ creation_date: 2016-03-16T13:49:43Z
 [Term]
 id: DDMUMET:0000015
 name: N-methyl-N-nitro-N-nitrosoguanidine
+def: "D. discoideum mutation using N-methyl-N-nitro-N-nitrosoguanidine." [DDB:pf]
 synonym: "NG" EXACT []
 is_a: DDMUMET:0000014 ! chemical mutagenesis
 created_by: pfey
@@ -125,6 +138,7 @@ creation_date: 2016-03-16T13:50:01Z
 [Term]
 id: DDMUMET:0000016
 name: 4-nitroquinolone-N-oxide
+def: "D. discoideum mutation using 4-nitroquinolone-N-oxide." [DDB:pf]
 synonym: "NQNO" EXACT []
 is_a: DDMUMET:0000014 ! chemical mutagenesis
 created_by: pfey
@@ -133,6 +147,7 @@ creation_date: 2016-03-16T13:53:38Z
 [Term]
 id: DDMUMET:0000017
 name: irradiation
+def: "Mutation by irradiation." [DDB:pf]
 is_a: DDMUMET:0000001 ! mutagenesis method
 created_by: pfey
 creation_date: 2016-03-16T13:54:18Z
@@ -140,6 +155,7 @@ creation_date: 2016-03-16T13:54:18Z
 [Term]
 id: DDMUMET:0000018
 name: gamma-ray irradiation
+def: "Mutation by gamma-ray irradiation." [DDB:pf]
 synonym: "gamma-ray" EXACT []
 is_a: DDMUMET:0000017 ! irradiation
 created_by: pfey
@@ -148,6 +164,7 @@ creation_date: 2016-03-16T13:54:34Z
 [Term]
 id: DDMUMET:0000019
 name: ultraviolet light
+def: "Mutation by ultraviolet light irradiation." [DDB:pf]
 synonym: "UV" EXACT []
 is_a: DDMUMET:0000017 ! irradiation
 created_by: pfey
@@ -156,6 +173,7 @@ creation_date: 2016-03-16T13:57:36Z
 [Term]
 id: DDMUMET:0000020
 name: genetics
+def: "A genetic mutation." [DDB:pf]
 is_a: DDMUMET:0000001 ! mutagenesis method
 created_by: pfey
 creation_date: 2016-03-16T13:58:19Z
@@ -163,6 +181,7 @@ creation_date: 2016-03-16T13:58:19Z
 [Term]
 id: DDMUMET:0000021
 name: haploid segregant
+def: "A haploid segregant comes from a diploid cell." [DDB:pf]
 synonym: "HS" EXACT []
 is_a: DDMUMET:0000020 ! genetics
 created_by: pfey
@@ -171,6 +190,7 @@ creation_date: 2016-03-16T13:58:32Z
 [Term]
 id: DDMUMET:0000022
 name: meiotic recombination
+def: "Sexual reproduction includes meiotic recombination." [DDB:pf]
 synonym: "MR" EXACT []
 is_a: DDMUMET:0000020 ! genetics
 created_by: pfey
@@ -179,6 +199,7 @@ creation_date: 2016-03-16T14:00:31Z
 [Term]
 id: DDMUMET:0000023
 name: transposon mutagenesis
+def: "Mutagenesis by using transposons, D. discoideum encodes several transposable and retrotransposable elements." [DDB:pf]
 is_a: DDMUMET:0000009 ! genomic DNA insertion
 created_by: pfey
 creation_date: 2016-04-26T16:39:07Z
@@ -186,6 +207,7 @@ creation_date: 2016-04-26T16:39:07Z
 [Term]
 id: DDMUMET:0000024
 name: genomic mutagenesis
+def: "Strain mutation altering parts of the genome." [DDB:pf]
 is_a: DDMUMET:0000001 ! mutagenesis method
 created_by: pfey
 creation_date: 2019-01-23T14:24:01Z
@@ -193,7 +215,7 @@ creation_date: 2019-01-23T14:24:01Z
 [Term]
 id: DDMUMET:0000025
 name: CRISPR/Cas9
-def: "Clustered  Regularly  Interspaced Short  Palindromic Repeats and CRISPR-ASsociated protein (Cas)." [DDB:pf]
+def: "CRISPR/Cas9 edits genes by precisely cutting DNA and letting natural DNA repair processes take over." [DDB:pf]
 synonym: "CRISPR-Cas" RELATED []
 synonym: "CRSIPR-Cas9" EXACT []
 is_a: DDMUMET:0000024 ! genomic mutagenesis
