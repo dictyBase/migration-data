@@ -295,20 +295,6 @@
       "type" : "CLASS",
       "lbl" : "at high cell density"
     }, {
-      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000014",
-      "meta" : {
-        "definition" : {
-          "val" : "In the presence of gossypol, a phenolic aldehyde, permeates cells and inhibits  several dehydrogenase enzymes.",
-          "xrefs" : [ "DDB:pf" ]
-        },
-        "basicPropertyValues" : [ {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
-          "val" : "Dicty Environment"
-        } ]
-      },
-      "type" : "CLASS",
-      "lbl" : "in the presence of gossypol"
-    }, {
       "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000058",
       "meta" : {
         "definition" : {
@@ -328,6 +314,20 @@
       },
       "type" : "CLASS",
       "lbl" : "in the presence of latrunculin"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000014",
+      "meta" : {
+        "definition" : {
+          "val" : "In the presence of gossypol, a phenolic aldehyde, permeates cells and inhibits several dehydrogenase enzymes.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Environment"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "in the presence of gossypol"
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000059",
       "meta" : {
@@ -361,7 +361,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000015",
       "meta" : {
         "definition" : {
-          "val" : "In the presence of the drug tetracyclin used  for selection after transformation.",
+          "val" : "In the presence of the drug tetracyclin used for selection after transformation.",
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
@@ -891,9 +891,13 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000070",
       "meta" : {
+        "definition" : {
+          "val" : "On an agar plate with a Klebsiella aerogenes lawn.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "synonyms" : [ {
           "pred" : "hasExactSynonym",
-          "val" : " on Klebsiella pneumoniae lawn",
+          "val" : "on Klebsiella pneumoniae lawn",
           "xrefs" : [ ]
         }, {
           "pred" : "hasExactSynonym",
@@ -999,7 +1003,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000038",
       "meta" : {
         "definition" : {
-          "val" : "In the presence of the cAMP analog  8-Br-cAMP.",
+          "val" : "In the presence of the cAMP analog 8-Br-cAMP.",
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
@@ -1103,7 +1107,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000036",
       "meta" : {
         "definition" : {
-          "val" : "In the absence of the drug tetracyclin used  for selection after transformation.",
+          "val" : "In the absence of the drug tetracyclin used for selection after transformation.",
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
@@ -1464,19 +1468,19 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000001"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000005",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000056"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000039",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000067"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000049",
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000005",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000056"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000026",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000052"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000026",
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000049",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000052"
     }, {
@@ -1568,11 +1572,11 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000055"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000045",
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000068",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000054"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000068",
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000045",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000054"
     }, {
@@ -1584,6 +1588,10 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000053"
     }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000067",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000053"
+    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000033",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000054"
@@ -1591,10 +1599,6 @@
       "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000010",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000054"
-    }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000067",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000053"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000003",
       "pred" : "is_a",
@@ -1688,13 +1692,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000063"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000012",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000001"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000042",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000040"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000012",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000001"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000020",
       "pred" : "is_a",
