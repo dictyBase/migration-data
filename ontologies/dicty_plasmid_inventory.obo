@@ -1,6 +1,6 @@
 format-version: 1.2
-date: 02:10:2020 18:27
-saved-by: Petra
+date: 25:01:2022 11:29
+saved-by: pfey
 auto-generated-by: OBO-Edit 2.2
 default-namespace: plasmid_inventory
 ontology: plasmidinvent
@@ -50,6 +50,7 @@ creation_date: 2013-03-29T17:11:08Z
 [Term]
 id: PLASMIDINVENT:0000006
 name: public comment
+def: "Any plasmid comment that the public can see." [DDB:pf]
 is_a: PLASMIDINVENT:0000001 ! plasmid inventory
 created_by: pfey
 creation_date: 2013-03-29T17:13:11Z
@@ -57,7 +58,7 @@ creation_date: 2013-03-29T17:13:11Z
 [Term]
 id: PLASMIDINVENT:0000007
 name: obsolete obtained as
-def: "Conditions that the plasmid is obtained in at the stock center." [DDB:pf]
+def: "OBSOLETE. Conditions that the plasmid is obtained in at the stock center." [DDB:pf]
 is_obsolete: true
 created_by: pfey
 creation_date: 2013-03-29T17:40:45Z
@@ -81,6 +82,7 @@ creation_date: 2016-04-26T16:27:16Z
 [Term]
 id: PLASMIDINVENT:0000010
 name: red
+def: "The color of the tube is red." [DDB:pf]
 is_a: PLASMIDINVENT:0000003 ! color
 created_by: Petra
 creation_date: 2017-01-26T16:47:29Z
@@ -88,6 +90,7 @@ creation_date: 2017-01-26T16:47:29Z
 [Term]
 id: PLASMIDINVENT:0000011
 name: green
+def: "The color of the tube is green." [DDB:pf]
 is_a: PLASMIDINVENT:0000003 ! color
 created_by: Petra
 creation_date: 2017-01-26T16:47:40Z
@@ -95,6 +98,7 @@ creation_date: 2017-01-26T16:47:40Z
 [Term]
 id: PLASMIDINVENT:0000012
 name: blue
+def: "The color of the tube is blue." [DDB:pf]
 is_a: PLASMIDINVENT:0000003 ! color
 created_by: Petra
 creation_date: 2017-01-26T16:47:50Z
@@ -102,6 +106,7 @@ creation_date: 2017-01-26T16:47:50Z
 [Term]
 id: PLASMIDINVENT:0000013
 name: yellow
+def: "The color of the tube is yellow." [DDB:pf]
 is_a: PLASMIDINVENT:0000003 ! color
 created_by: Petra
 creation_date: 2017-01-26T16:48:00Z
@@ -109,6 +114,7 @@ creation_date: 2017-01-26T16:48:00Z
 [Term]
 id: PLASMIDINVENT:0000014
 name: white
+def: "The color of the tube is white." [DDB:pf]
 is_a: PLASMIDINVENT:0000003 ! color
 created_by: Petra
 creation_date: 2017-01-26T16:48:10Z
@@ -116,6 +122,7 @@ creation_date: 2017-01-26T16:48:10Z
 [Term]
 id: PLASMIDINVENT:0000015
 name: pink
+def: "The color of the tube is pink." [DDB:pf]
 is_a: PLASMIDINVENT:0000003 ! color
 created_by: Petra
 creation_date: 2017-01-26T16:48:19Z
@@ -123,6 +130,7 @@ creation_date: 2017-01-26T16:48:19Z
 [Term]
 id: PLASMIDINVENT:0000016
 name: clear
+def: "The tube top is clear and has no color." [DDB:pf]
 comment: A clear Microcentrifuge tube to store DNA solutions.
 synonym: "MC vial color" RELATED []
 is_a: PLASMIDINVENT:0000003 ! color
