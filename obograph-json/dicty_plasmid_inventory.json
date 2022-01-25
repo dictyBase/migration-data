@@ -3,6 +3,10 @@
     "nodes" : [ {
       "id" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000011",
       "meta" : {
+        "definition" : {
+          "val" : "The color of the tube is green.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
           "val" : "2017-01-26T16:47:40Z"
@@ -19,6 +23,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000010",
       "meta" : {
+        "definition" : {
+          "val" : "The color of the tube is red.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
           "val" : "2017-01-26T16:47:29Z"
@@ -55,6 +63,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000013",
       "meta" : {
+        "definition" : {
+          "val" : "The color of the tube is yellow.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
           "val" : "Petra"
@@ -91,6 +103,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000012",
       "meta" : {
+        "definition" : {
+          "val" : "The color of the tube is blue.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "plasmid_inventory"
@@ -132,7 +148,7 @@
       "id" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000007",
       "meta" : {
         "definition" : {
-          "val" : "Conditions that the plasmid is obtained in at the stock center.",
+          "val" : "OBSOLETE. Conditions that the plasmid is obtained in at the stock center.",
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
@@ -172,6 +188,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000015",
       "meta" : {
+        "definition" : {
+          "val" : "The color of the tube is pink.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
           "val" : "2017-01-26T16:48:19Z"
@@ -208,6 +228,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000014",
       "meta" : {
+        "definition" : {
+          "val" : "The color of the tube is white.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "plasmid_inventory"
@@ -244,6 +268,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000006",
       "meta" : {
+        "definition" : {
+          "val" : "Any plasmid comment that the public can see.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "plasmid_inventory"
@@ -260,6 +288,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000016",
       "meta" : {
+        "definition" : {
+          "val" : "The tube top is clear and has no color.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "comments" : [ "A clear Microcentrifuge tube to store DNA solutions." ],
         "synonyms" : [ {
           "pred" : "hasRelatedSynonym",
@@ -391,7 +423,7 @@
         "val" : "OBO-Edit 2.2"
       }, {
         "pred" : "http://www.geneontology.org/formats/oboInOwl#date",
-        "val" : "02:10:2020 18:27"
+        "val" : "25:01:2022 11:29"
       }, {
         "pred" : "http://www.geneontology.org/formats/oboInOwl#default-namespace",
         "val" : "plasmid_inventory"
@@ -400,7 +432,7 @@
         "val" : "1.2"
       }, {
         "pred" : "http://www.geneontology.org/formats/oboInOwl#saved-by",
-        "val" : "Petra"
+        "val" : "pfey"
       } ]
     },
     "equivalentNodesSets" : [ ],

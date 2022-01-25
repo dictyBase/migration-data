@@ -4,7 +4,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDSTORCON_0000028",
       "meta" : {
         "definition" : {
-          "val" : "An SM agar plate containing the selective drug neomycin or G418.",
+          "val" : "OBSOLETE. An SM agar plate containing the selective drug neomycin or G418.",
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
@@ -25,7 +25,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDSTORCON_0000027",
       "meta" : {
         "definition" : {
-          "val" : "An SM/5 agar plate with charcoal added to promote development.",
+          "val" : "OBSOLETE. An SM/5 agar plate with charcoal added to promote development.",
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
@@ -46,7 +46,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDSTORCON_0000029",
       "meta" : {
         "definition" : {
-          "val" : "An SM/5 agar plate containing the selective drug neomycin or G418.",
+          "val" : "OBSOLETE. An SM/5 agar plate containing the selective drug neomycin or G418.",
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
@@ -67,7 +67,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDSTORCON_0000024",
       "meta" : {
         "definition" : {
-          "val" : "A plate to culture cells.",
+          "val" : "OBSOLETE. A plate to culture cells.",
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
@@ -88,7 +88,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDSTORCON_0000023",
       "meta" : {
         "definition" : {
-          "val" : "An SM agar plate with only a fifth of the glucose and bacto peptone of the original recipe  to grow Dictyostelid strains.",
+          "val" : "OBSOLETE. An SM agar plate with only a fifth of the glucose and bacto peptone of the original recipe  to grow Dictyostelid strains.",
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
@@ -109,7 +109,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDSTORCON_0000026",
       "meta" : {
         "definition" : {
-          "val" : "An SM agar plate with charcoal added to promote development.",
+          "val" : "OBSOLETE. An SM agar plate with charcoal added to promote development.",
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
@@ -130,7 +130,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDSTORCON_0000025",
       "meta" : {
         "definition" : {
-          "val" : "An agar plate that has no nutrients for growth.",
+          "val" : "OBSOLETE. An agar plate that has no nutrients for growth.",
           "xrefs" : [ "DDB:pf" ]
         },
         "synonyms" : [ {
@@ -156,7 +156,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDSTORCON_0000031",
       "meta" : {
         "definition" : {
-          "val" : "A buffered lactose peptone agar less nutritious than most other media.",
+          "val" : "OBSOLETE. A buffered lactose peptone agar less nutritious than most other media.",
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
@@ -177,7 +177,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDSTORCON_0000030",
       "meta" : {
         "definition" : {
-          "val" : "An SM/5 agar plate containing the selective drug neomycin or G418  with charcoal added to promote development.",
+          "val" : "OBSOLETE. An SM/5 agar plate containing the selective drug neomycin or G418  with charcoal added to promote development.",
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
@@ -198,7 +198,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDSTORCON_0000033",
       "meta" : {
         "definition" : {
-          "val" : "An LP agar plate containing lactose and peptone to grow Dictyostelid strains.",
+          "val" : "OBSOLETE. An LP agar plate containing lactose and peptone to grow Dictyostelid strains.",
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
@@ -219,7 +219,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDSTORCON_0000032",
       "meta" : {
         "definition" : {
-          "val" : "A non nutritious agar plate used for development of Dictyostelids.",
+          "val" : "OBSOLETE. A non nutritious agar plate used for development of Dictyostelids.",
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
@@ -244,7 +244,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDSTORCON_0000017",
       "meta" : {
         "definition" : {
-          "val" : "HL5 medium containing the selective drugs blasticidin and neomycin (G418), and supplemented with 20 ug/ml  uracil.",
+          "val" : "OBSOLETE. HL5 medium containing the selective drugs blasticidin and neomycin (G418), and supplemented with 20 ug/ml  uracil.",
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
@@ -265,7 +265,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDSTORCON_0000016",
       "meta" : {
         "definition" : {
-          "val" : "HL5 medium containing the selective drug blasticidin and supplemented with 20 ug/ml  uracil.",
+          "val" : "OBSOLETE. HL5 medium containing the selective drug blasticidin and supplemented with 20 ug/ml  uracil.",
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
@@ -286,7 +286,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDSTORCON_0000019",
       "meta" : {
         "definition" : {
-          "val" : "HL5 medium containing the selective drug neomycin or G418 and supplemented with 100 ug/ml  thymidine.",
+          "val" : "OBSOLETE. HL5 medium containing the selective drug neomycin or G418 and supplemented with 100 ug/ml  thymidine.",
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
@@ -307,7 +307,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDSTORCON_0000018",
       "meta" : {
         "definition" : {
-          "val" : "HL5 medium supplemented with 100 ug/ml  thymidine.",
+          "val" : "OBSOLETE. HL5 medium supplemented with 100 ug/ml  thymidine.",
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
@@ -328,7 +328,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDSTORCON_0000013",
       "meta" : {
         "definition" : {
-          "val" : "HL5 medium containing the selective drugs blasticidin and hygromycin.",
+          "val" : "OBSOLETE. HL5 medium containing the selective drugs blasticidin and hygromycin.",
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
@@ -349,7 +349,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDSTORCON_0000012",
       "meta" : {
         "definition" : {
-          "val" : "HL5 medium containing the selective drug hygromycin.",
+          "val" : "OBSOLETE. HL5 medium containing the selective drug hygromycin.",
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
@@ -370,7 +370,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDSTORCON_0000015",
       "meta" : {
         "definition" : {
-          "val" : "HL5 medium containing the selective drug neomycin or G418 and supplemented with 20 ug/ml  uracil.",
+          "val" : "OBSOLETE. HL5 medium containing the selective drug neomycin or G418 and supplemented with 20 ug/ml  uracil.",
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
@@ -391,7 +391,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDSTORCON_0000014",
       "meta" : {
         "definition" : {
-          "val" : "HL5 medium supplemented with 20 ug/ml  uracil.",
+          "val" : "OBSOLETE. HL5 medium supplemented with 20 ug/ml  uracil.",
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
@@ -412,7 +412,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDSTORCON_0000020",
       "meta" : {
         "definition" : {
-          "val" : "HL5 medium containing the selective drug hygromycin and supplemented with 100 ug/ml  thymidine.",
+          "val" : "OBSOLETE. HL5 medium containing the selective drug hygromycin and supplemented with 100 ug/ml  thymidine.",
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
@@ -437,7 +437,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDSTORCON_0000022",
       "meta" : {
         "definition" : {
-          "val" : "An SM agar plate containing glucose and bacto peptone, named after it's creator Maurice Sussman and to grow Dictyostelid strains.",
+          "val" : "OBSOLETE. An SM agar plate containing glucose and bacto peptone, named after it's creator Maurice Sussman and to grow Dictyostelid strains.",
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
@@ -458,7 +458,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDSTORCON_0000021",
       "meta" : {
         "definition" : {
-          "val" : "HL5 medium containing the selective drug blasticidin and supplemented with 100 ug/ml  thymidine.",
+          "val" : "OBSOLETE. HL5 medium containing the selective drug blasticidin and supplemented with 100 ug/ml  thymidine.",
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
@@ -543,7 +543,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDSTORCON_0000008",
       "meta" : {
         "definition" : {
-          "val" : "A rich broth used to grow axenic Dictyostelium strains.",
+          "val" : "OBSOLETE. A rich broth used to grow axenic Dictyostelium strains.",
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
@@ -564,7 +564,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDSTORCON_0000007",
       "meta" : {
         "definition" : {
-          "val" : "Dictyostelid received or stored as spores.",
+          "val" : "OBSOLETE. Dictyostelid received or stored as spores.",
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
@@ -585,7 +585,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDSTORCON_0000002",
       "meta" : {
         "definition" : {
-          "val" : "A bacterial plate grown with bacteria serving as a food source for a Dictyostelid strain.",
+          "val" : "OBSOLETE. A bacterial plate grown with bacteria serving as a food source for a Dictyostelid strain.",
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
@@ -704,7 +704,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDSTORCON_0000003",
       "meta" : {
         "definition" : {
-          "val" : "A liquid medium used to grow axenic Dictyostelium strains.",
+          "val" : "OBSOLETE. A liquid medium used to grow axenic Dictyostelium strains.",
           "xrefs" : [ "DDB:pf" ]
         },
         "synonyms" : [ {
@@ -754,7 +754,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDSTORCON_0000009",
       "meta" : {
         "definition" : {
-          "val" : "HL5 medium containing the selective drug blasticidin.",
+          "val" : "OBSOLETE. HL5 medium containing the selective drug blasticidin.",
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
@@ -783,7 +783,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDSTORCON_0000011",
       "meta" : {
         "definition" : {
-          "val" : "HL5 medium containing the selective drugs blasticidin and neomycin (G418).",
+          "val" : "OBSOLETE. HL5 medium containing the selective drugs blasticidin and neomycin (G418).",
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
@@ -804,7 +804,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDSTORCON_0000010",
       "meta" : {
         "definition" : {
-          "val" : "HL5 medium containing the selective drug neomycin or G418.",
+          "val" : "OBSOLETE. HL5 medium containing the selective drug neomycin or G418.",
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
@@ -910,7 +910,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDSTORCON_0000035",
       "meta" : {
         "definition" : {
-          "val" : "An LP agar plate with only half of the lactose and  peptone of the original recipe to grow Dictyostelid strains.",
+          "val" : "OBSOLETE. An LP agar plate with only half of the lactose and  peptone of the original recipe to grow Dictyostelid strains.",
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
@@ -931,7 +931,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDSTORCON_0000034",
       "meta" : {
         "definition" : {
-          "val" : "An LP agar plate with charcoal added to promote development.",
+          "val" : "OBSOLETE. An LP agar plate with charcoal added to promote development.",
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
@@ -952,7 +952,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDSTORCON_0000037",
       "meta" : {
         "definition" : {
-          "val" : "An SM agar plate containing the selective drug neomycin or G418  with charcoal added to promote development.",
+          "val" : "OBSOLETE. An SM agar plate containing the selective drug neomycin or G418  with charcoal added to promote development.",
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
@@ -973,7 +973,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDSTORCON_0000036",
       "meta" : {
         "definition" : {
-          "val" : "An LP/2 agar plate with charcoal added to promote development.",
+          "val" : "OBSOLETE. An LP/2 agar plate with charcoal added to promote development.",
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
@@ -1074,7 +1074,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDSTORCON_0000040",
       "meta" : {
         "definition" : {
-          "val" : "Dictyostelid spores received or stored on silica gel.",
+          "val" : "OBSOLETE. Dictyostelid spores received or stored on silica gel.",
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
@@ -1175,7 +1175,7 @@
         "val" : "OBO-Edit 2.2"
       }, {
         "pred" : "http://www.geneontology.org/formats/oboInOwl#date",
-        "val" : "02:10:2020 18:15"
+        "val" : "01:01:2024 11:19"
       }, {
         "pred" : "http://www.geneontology.org/formats/oboInOwl#default-namespace",
         "val" : "storage_conditions"
