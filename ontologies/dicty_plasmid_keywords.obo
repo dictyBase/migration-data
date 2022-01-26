@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 07:10:2019 09:33
+date: 26:01:2022 09:57
 saved-by: pfey
 auto-generated-by: OBO-Edit 2.2
 default-namespace: plasmid_keywords
@@ -11,82 +11,98 @@ property_value: http://purl.org/dc/elements/1.1/title "Dicty plasmid keywords (D
 [Term]
 id: DDPLASMIDKEY:0000001
 name: plasmid keyword
+def: "Keywords to describe properties of plasmids." [DDB:pf]
 
 [Term]
 id: DDPLASMIDKEY:0000002
 name: auxotrophy selection
+def: "Using a plasmid that encodes thymidine or uracil to select for this property after transformation." [DDB:pf]
 is_a: DDPLASMIDKEY:0000001 ! plasmid keyword
 
 [Term]
 id: DDPLASMIDKEY:0000003
 name: random chimeragenesis
+def: "Plasmid generating chimeras of two related genes." [DDB:pf]
 is_a: DDPLASMIDKEY:0000001 ! plasmid keyword
 
 [Term]
 id: DDPLASMIDKEY:0000004
 name: blasticidin resistance
+def: "The plasmid confers blasticidin resistance." [DDB:pf]
 synonym: "bsR" EXACT []
 is_a: DDPLASMIDKEY:0000008 ! drug selection
 
 [Term]
 id: DDPLASMIDKEY:0000005
 name: bleomycin resistance
+def: "The plasmid confers bleomycin resistance." [DDB:pf]
 synonym: "bleR" EXACT []
 is_a: DDPLASMIDKEY:0000008 ! drug selection
 
 [Term]
 id: DDPLASMIDKEY:0000006
 name: hygromycin resistance
+def: "The plasmid confers hygromycin resistance." [DDB:pf]
 synonym: "hygR" EXACT []
 is_a: DDPLASMIDKEY:0000008 ! drug selection
 
 [Term]
 id: DDPLASMIDKEY:0000007
 name: neomycin resistance
+def: "The plasmid confers neomycin resistance." [DDB:pf]
 synonym: "neoR" EXACT []
 is_a: DDPLASMIDKEY:0000008 ! drug selection
 
 [Term]
 id: DDPLASMIDKEY:0000008
 name: drug selection
+def: "The plasmid encodes a drug selection." [DDB:pf]
 is_a: DDPLASMIDKEY:0000001 ! plasmid keyword
 
 [Term]
 id: DDPLASMIDKEY:0000009
 name: discoidin promoter
+def: "A plasmid encoding the discoidin promoter." [DDB:pf]
 is_a: DDPLASMIDKEY:0000038 ! promoter
 
 [Term]
 id: DDPLASMIDKEY:0000010
 name: dominant negative mutation
-synonym: "dominant-negative mutant" RELATED []
-synonym: "dominant/negative mutant" RELATED []
+def: "A mutation whose gene product adversely affects the wild-type gene product within the same cells." [DDB:pf]
+synonym: "dominant-negative mutant" EXACT []
+synonym: "dominant/negative mutant" EXACT []
 is_a: DDPLASMIDKEY:0000001 ! plasmid keyword
 
 [Term]
 id: DDPLASMIDKEY:0000011
 name: act15 promoter
+def: "A plasmid encoding the act 15 promoter." [DDB:pf]
 synonym: "actin 15 promoter" EXACT []
 is_a: DDPLASMIDKEY:0000038 ! promoter
 
 [Term]
 id: DDPLASMIDKEY:0000012
 name: vector
+def: "A plasmid is called a vector for broad specifications." [DDB:pf]
 is_a: DDPLASMIDKEY:0000001 ! plasmid keyword
 
 [Term]
 id: DDPLASMIDKEY:0000013
 name: ecmA0 promoter
+def: "A plasmid encoding the ecmA0 promoter." [DDB:pf]
 is_a: DDPLASMIDKEY:0000038 ! promoter
 
 [Term]
 id: DDPLASMIDKEY:0000014
 name: GST tag
+def: "The plasmid contains a GST tag." [DDB:pf]
+synonym: "glutathione S-transferase tag" EXACT []
 is_a: DDPLASMIDKEY:0000037 ! biological tag
 
 [Term]
 id: DDPLASMIDKEY:0000015
 name: REMI vector
+def: "Restriction-mediated integration uses a specific restriction enzyme that matches the linearized vector to facilitate random integration into the genome." [DDB:pf]
 synonym: "Restriction Enzyme Mediated Integration vector" EXACT []
 is_a: DDPLASMIDKEY:0000012 ! vector
 created_by: pfey
@@ -95,96 +111,118 @@ creation_date: 2013-03-12T12:09:47Z
 [Term]
 id: DDPLASMIDKEY:0000016
 name: cotB promoter
+def: "A plasmid encoding the cotB promoter." [DDB:pf]
+synonym: "spore coat gene promoter" EXACT []
 is_a: DDPLASMIDKEY:0000038 ! promoter
 
 [Term]
 id: DDPLASMIDKEY:0000017
 name: FLAG tag
+def: "The plasmid contains a FLAG tag, an octapeptide." [DDB:pf]
 is_a: DDPLASMIDKEY:0000037 ! biological tag
 
 [Term]
 id: DDPLASMIDKEY:0000018
 name: expression vector
+def: "Expression vector describes any plasmid that may express the target gene of choice." [DDB:pf]
 is_a: DDPLASMIDKEY:0000012 ! vector
 
 [Term]
 id: DDPLASMIDKEY:0000019
 name: knockout vector
+def: "A vector to knockout a gene or part of a gene." [DDB:pf]
 synonym: "knock-out vector" EXACT []
+synonym: "KO vector" EXACT []
 is_a: DDPLASMIDKEY:0000012 ! vector
 
 [Term]
 id: DDPLASMIDKEY:0000020
 name: phleomycin resistance
+def: "The plasmid confers phleomycin resistance." [DDB:pf]
 is_a: DDPLASMIDKEY:0000008 ! drug selection
 
 [Term]
 id: DDPLASMIDKEY:0000021
 name: tetON vector
+def: "The tetON / tetOFF mechanism, provides an inducible expression system, tetON containing the inducible promoter TRE-Pmin." [DDB:pf]
 synonym: "tetracyclin ON vector" EXACT []
 is_a: DDPLASMIDKEY:0000018 ! expression vector
 
 [Term]
 id: DDPLASMIDKEY:0000022
 name: uracil selection
+def: "The plasmid encodes the uracil gene to confer the ability for the strain to grow without supplements." [DDB:pf]
 is_a: DDPLASMIDKEY:0000002 ! auxotrophy selection
 
 [Term]
 id: DDPLASMIDKEY:0000023
 name: ecm0 promoter
+def: "A plasmid encoding the ecm0 promoter." [DDB:pf]
 is_a: DDPLASMIDKEY:0000038 ! promoter
 
 [Term]
 id: DDPLASMIDKEY:0000024
 name: thymidine selection
+def: "The plasmid encodes the thymidine gene to confer the ability for the strain to grow without supplements." [DDB:pf]
 is_a: DDPLASMIDKEY:0000002 ! auxotrophy selection
 
 [Term]
 id: DDPLASMIDKEY:0000025
 name: GFP marker
+def: "The plasmid encodes a GFP marker gene." [DDB:pf]
 synonym: "green fluorescent protein marker" EXACT []
 is_a: DDPLASMIDKEY:0000035 ! marker gene
 
 [Term]
 id: DDPLASMIDKEY:0000026
 name: RFP marker
+def: "The plasmid encodes a RFP marker gene." [DDB:pf]
 synonym: "red fluorescent protein marker" EXACT []
 is_a: DDPLASMIDKEY:0000035 ! marker gene
 
 [Term]
 id: DDPLASMIDKEY:0000027
 name: YFP marker
+def: "The plasmid encodes a YFP marker gene." [DDB:pf]
 synonym: "yellow fluorescent protein marker" EXACT []
 is_a: DDPLASMIDKEY:0000035 ! marker gene
 
 [Term]
 id: DDPLASMIDKEY:0000028
 name: galactosidase marker
+def: "The plasmid encodes a galactosidase marker gene." [DDB:pf]
+synonym: "beta-gal marker" EXACT []
 is_a: DDPLASMIDKEY:0000035 ! marker gene
 
 [Term]
 id: DDPLASMIDKEY:0000029
 name: luciferase marker
+def: "The plasmid encodes a luciferase marker gene." [DDB:pf]
 is_a: DDPLASMIDKEY:0000035 ! marker gene
 
 [Term]
 id: DDPLASMIDKEY:0000030
 name: His tag
+def: "The plasmid contains a His tag, a polyhistidine." [DDB:pf]
 is_a: DDPLASMIDKEY:0000037 ! biological tag
 
 [Term]
 id: DDPLASMIDKEY:0000031
 name: Myc tag
+def: "The plasmid contains a Myc tag,  a polypeptide protein tag derived from the c-myc gene." [DDB:pf]
 is_a: DDPLASMIDKEY:0000037 ! biological tag
 
 [Term]
 id: DDPLASMIDKEY:0000032
 name: HA tag
+def: "The plasmid contains a HA tag." [DDB:pf]
+synonym: "hemagglutinin tag." EXACT []
 is_a: DDPLASMIDKEY:0000037 ! biological tag
 
 [Term]
 id: DDPLASMIDKEY:0000033
 name: psA promoter
+def: "A plasmid encoding the psA promoter." [DDB:pf]
 synonym: "prespore A promoter" EXACT []
 synonym: "pspA promoter" EXACT []
 is_a: DDPLASMIDKEY:0000038 ! promoter
@@ -192,6 +230,7 @@ is_a: DDPLASMIDKEY:0000038 ! promoter
 [Term]
 id: DDPLASMIDKEY:0000034
 name: extrachromosomal vector
+def: "A vector that contains a Dictyostelium origin of replication and thus does not integrate into the genome." [DDB:pf]
 synonym: "extrachromosomal expression vector" BROAD []
 is_a: DDPLASMIDKEY:0000018 ! expression vector
 created_by: pfey
@@ -200,63 +239,76 @@ creation_date: 2013-03-12T12:10:05Z
 [Term]
 id: DDPLASMIDKEY:0000035
 name: marker gene
+def: "A plasmid containing a marker gene." [DDB:pf]
 is_a: DDPLASMIDKEY:0000001 ! plasmid keyword
 
 [Term]
 id: DDPLASMIDKEY:0000036
 name: CFP marker
+def: "The plasmid encodes a CFP marker gene." [DDB:pf]
 synonym: "cyan fluorescent protein marker" EXACT []
 is_a: DDPLASMIDKEY:0000035 ! marker gene
 
 [Term]
 id: DDPLASMIDKEY:0000037
 name: biological tag
+def: "The plasmid contains a tag." [DDB:pf]
 is_a: DDPLASMIDKEY:0000001 ! plasmid keyword
 
 [Term]
 id: DDPLASMIDKEY:0000038
 name: promoter
+def: "Any promoter encoded by the plasmid, typically to drive the major expressed gene." [DDB:pf]
 is_a: DDPLASMIDKEY:0000001 ! plasmid keyword
 
 [Term]
 id: DDPLASMIDKEY:0000039
 name: ecmB promoter
+def: "A plasmid encoding the ecmB promoter." [DDB:pf]
 is_a: DDPLASMIDKEY:0000038 ! promoter
 
 [Term]
 id: DDPLASMIDKEY:0000040
 name: ecmA promoter
+def: "A plasmid encoding the ecmA promoter." [DDB:pf]
 is_a: DDPLASMIDKEY:0000038 ! promoter
 
 [Term]
 id: DDPLASMIDKEY:0000041
 name: glucoronidase marker
+def: "The plasmid encodes a glucoronidase marker gene." [DDB:pf]
 is_a: DDPLASMIDKEY:0000035 ! marker gene
 
 [Term]
 id: DDPLASMIDKEY:0000042
 name: act6 promoter
+def: "A plasmid encoding the act 6 promoter." [DDB:pf]
 synonym: "actin 6 promoter" EXACT []
 is_a: DDPLASMIDKEY:0000038 ! promoter
 
 [Term]
 id: DDPLASMIDKEY:0000043
 name: TAP tag
+def: "A plasmid with a TAP tag, allows affinity purification of native protein complexes." [DDB:pf]
+synonym: "tandem affinity purification tag." EXACT []
 is_a: DDPLASMIDKEY:0000037 ! biological tag
 
 [Term]
 id: DDPLASMIDKEY:0000044
 name: V5 tag
+def: "THe plasmid contains a V5 tag, a short peptide tag for detection and purification of proteins." [DDB:pf]
 is_a: DDPLASMIDKEY:0000037 ! biological tag
 
 [Term]
 id: DDPLASMIDKEY:0000045
 name: T7 tag
+def: "A plasmid with a T7 tag, derived from the leader sequence of a T7  bacteriophage gene." [DDB:pf]
 is_a: DDPLASMIDKEY:0000037 ! biological tag
 
 [Term]
 id: DDPLASMIDKEY:0000046
-name: gateway vector
+name: Gateway vector
+def: "The Gateway system allows genes to be cloned using specific recombinase enzymes and allows transfer of DNA fragments between different cloning vectors while maintaining the reading frame." [DDB:pf]
 is_a: DDPLASMIDKEY:0000018 ! expression vector
 created_by: pfey
 creation_date: 2013-03-12T12:18:31Z
@@ -264,6 +316,8 @@ creation_date: 2013-03-12T12:18:31Z
 [Term]
 id: DDPLASMIDKEY:0000047
 name: cre-loxP vector
+def: "A cre-loxP vector is two components: loxP sites are typically inserted to flank a resistance marker and the cre recombinase cuts the loxP sites and removes the selection marker so it may be reused." [DDB:pf]
+comment: The Cre-lox system is used as a genetic tool to control site specific recombination events in genomic DNA.
 synonym: "cre-lox vector" EXACT []
 is_a: DDPLASMIDKEY:0000012 ! vector
 created_by: pfey
@@ -280,6 +334,7 @@ creation_date: 2016-11-29T15:58:02Z
 [Term]
 id: DDPLASMIDKEY:0000049
 name: tetracycline resistance
+def: "The plasmid confers tetracycline resistance." [DDB:pf]
 is_a: DDPLASMIDKEY:0000008 ! drug selection
 created_by: pfey
 creation_date: 2017-01-31T12:19:29Z
@@ -287,6 +342,7 @@ creation_date: 2017-01-31T12:19:29Z
 [Term]
 id: DDPLASMIDKEY:0000050
 name: tetOFF vector
+def: "The tetON / tetOFF mechanism, provides an inducible expression system, this is the tetOFF transactivator vector." [DDB:pf]
 synonym: "tetracycline OFF vector" EXACT []
 is_a: DDPLASMIDKEY:0000018 ! expression vector
 created_by: pfey
@@ -295,6 +351,7 @@ creation_date: 2017-01-31T12:28:40Z
 [Term]
 id: DDPLASMIDKEY:0000051
 name: doxON vector
+def: "The doxON / doxOFF mechanism, provides an inducible expression system, this is the doxON vector, this is the doxON vector." [DDB:pf]
 synonym: "doxycycline ON vector" RELATED []
 is_a: DDPLASMIDKEY:0000018 ! expression vector
 created_by: pfey
@@ -303,6 +360,7 @@ creation_date: 2017-01-31T12:30:42Z
 [Term]
 id: DDPLASMIDKEY:0000052
 name: doxOFF vector
+def: "The doxON / doxOFF mechanism, provides an inducible expression system, this is the doxOFF transactivator vector." [DDB:pf]
 synonym: "doxycycline OFF vector" EXACT []
 is_a: DDPLASMIDKEY:0000018 ! expression vector
 created_by: pfey
@@ -311,6 +369,7 @@ creation_date: 2017-01-31T12:32:03Z
 [Term]
 id: DDPLASMIDKEY:0000053
 name: YL1/2 epitope tag
+def: "Plasmid with a YL1/2 epitope tag, an  affinity tag for the purification of proteins under native conditions." [DDB:pf]
 is_a: DDPLASMIDKEY:0000037 ! biological tag
 created_by: pfey
 creation_date: 2017-10-23T17:00:10Z
@@ -318,6 +377,7 @@ creation_date: 2017-10-23T17:00:10Z
 [Term]
 id: DDPLASMIDKEY:0000054
 name: knock-in vector
+def: "A knock-in vector replaces the intrinsic genomic gene with an altered gene in the same location." [DDB:pf]
 synonym: "knockin vector" EXACT []
 is_a: DDPLASMIDKEY:0000012 ! vector
 created_by: pfey
@@ -326,6 +386,7 @@ creation_date: 2018-10-01T15:17:19Z
 [Term]
 id: DDPLASMIDKEY:0000055
 name: coaA promoter
+def: "A plasmid encoding the coaA promoter." [DDB:pf]
 synonym: "coactosin promoter" EXACT []
 is_a: DDPLASMIDKEY:0000038 ! promoter
 created_by: pfey
@@ -334,6 +395,7 @@ creation_date: 2019-10-07T08:52:57Z
 [Term]
 id: DDPLASMIDKEY:0000056
 name: BFP marker
+def: "The plasmid encodes a BFP marker gene." [DDB:pf]
 synonym: "blue fluorescent protein marker" EXACT []
 is_a: DDPLASMIDKEY:0000035 ! marker gene
 created_by: pfey
@@ -342,6 +404,7 @@ creation_date: 2019-10-07T09:02:28Z
 [Term]
 id: DDPLASMIDKEY:0000057
 name: IFP marker
+def: "The plasmid encodes a IFP marker gene." [DDB:pf]
 synonym: "infrared fluorescent protein marker" EXACT []
 is_a: DDPLASMIDKEY:0000035 ! marker gene
 created_by: pfey
@@ -350,6 +413,7 @@ creation_date: 2019-10-07T09:05:46Z
 [Term]
 id: DDPLASMIDKEY:0000058
 name: GB vector
+def: "GoldenBraid is a modular, robust cloning system and a synthetic framework for Dictyostelium." [DDB:pf]
 synonym: "GoldenBraid vector" EXACT []
 is_a: DDPLASMIDKEY:0000018 ! expression vector
 created_by: pfey
@@ -358,6 +422,7 @@ creation_date: 2019-10-07T09:09:36Z
 [Term]
 id: DDPLASMIDKEY:0000059
 name: GB backbone
+def: "GoldenBraid backbone vector allowing rapid combination of genetic elements." [DDB:pf]
 synonym: "GoldenBraid backbone" EXACT []
 is_a: DDPLASMIDKEY:0000058 ! GB vector
 created_by: pfey
@@ -366,6 +431,7 @@ creation_date: 2019-10-07T09:20:10Z
 [Term]
 id: DDPLASMIDKEY:0000060
 name: GB assembly
+def: "GoldenBraid assembly vector, may assemble several protein fusions." [DDB:pf]
 synonym: "GoldenBraid assembly" EXACT []
 is_a: DDPLASMIDKEY:0000058 ! GB vector
 created_by: pfey
@@ -374,7 +440,9 @@ creation_date: 2019-10-07T09:26:42Z
 [Term]
 id: DDPLASMIDKEY:0000061
 name: GB part
+def: "GoldenBraid vectors and GoldenBraid parts in a single reaction may assemble a transcriptional unit." [DDB:pf]
 synonym: "GoldenBraid part" EXACT []
 is_a: DDPLASMIDKEY:0000058 ! GB vector
 created_by: pfey
 creation_date: 2019-10-07T09:27:48Z
+
