@@ -3,6 +3,10 @@
     "nodes" : [ {
       "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000054",
       "meta" : {
+        "definition" : {
+          "val" : "A knock-in vector replaces the intrinsic genomic gene with an altered gene in the same location.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "synonyms" : [ {
           "pred" : "hasExactSynonym",
           "val" : "knockin vector",
@@ -24,13 +28,17 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000010",
       "meta" : {
+        "definition" : {
+          "val" : "A mutation whose gene product adversely affects the wild-type gene product within the same cells.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "synonyms" : [ {
-          "pred" : "hasRelatedSynonym",
-          "val" : "dominant-negative mutant",
+          "pred" : "hasExactSynonym",
+          "val" : "dominant/negative mutant",
           "xrefs" : [ ]
         }, {
-          "pred" : "hasRelatedSynonym",
-          "val" : "dominant/negative mutant",
+          "pred" : "hasExactSynonym",
+          "val" : "dominant-negative mutant",
           "xrefs" : [ ]
         } ],
         "basicPropertyValues" : [ {
@@ -43,6 +51,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000053",
       "meta" : {
+        "definition" : {
+          "val" : "Plasmid with a YL1/2 epitope tag, an  affinity tag for the purification of proteins under native conditions.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
           "val" : "pfey"
@@ -59,6 +71,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000056",
       "meta" : {
+        "definition" : {
+          "val" : "The plasmid encodes a BFP marker gene.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "synonyms" : [ {
           "pred" : "hasExactSynonym",
           "val" : "blue fluorescent protein marker",
@@ -80,6 +96,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000012",
       "meta" : {
+        "definition" : {
+          "val" : "A plasmid is called a vector for broad specifications.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "plasmid_keywords"
@@ -90,6 +110,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000055",
       "meta" : {
+        "definition" : {
+          "val" : "A plasmid encoding the coaA promoter.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "synonyms" : [ {
           "pred" : "hasExactSynonym",
           "val" : "coactosin promoter",
@@ -111,6 +135,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000011",
       "meta" : {
+        "definition" : {
+          "val" : "A plasmid encoding the act 15 promoter.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "synonyms" : [ {
           "pred" : "hasExactSynonym",
           "val" : "actin 15 promoter",
@@ -126,6 +154,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000050",
       "meta" : {
+        "definition" : {
+          "val" : "The tetON / tetOFF mechanism, provides an inducible expression system, this is the tetOFF transactivator vector.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "synonyms" : [ {
           "pred" : "hasExactSynonym",
           "val" : "tetracycline OFF vector",
@@ -147,6 +179,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000052",
       "meta" : {
+        "definition" : {
+          "val" : "The doxON / doxOFF mechanism, provides an inducible expression system, this is the doxOFF transactivator vector.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "synonyms" : [ {
           "pred" : "hasExactSynonym",
           "val" : "doxycycline OFF vector",
@@ -168,6 +204,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000051",
       "meta" : {
+        "definition" : {
+          "val" : "The doxON / doxOFF mechanism, provides an inducible expression system, this is the doxON vector, this is the doxON vector.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "synonyms" : [ {
           "pred" : "hasRelatedSynonym",
           "val" : "doxycycline ON vector",
@@ -189,6 +229,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000018",
       "meta" : {
+        "definition" : {
+          "val" : "Expression vector describes any plasmid that may express the target gene of choice.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "plasmid_keywords"
@@ -199,6 +243,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000017",
       "meta" : {
+        "definition" : {
+          "val" : "The plasmid contains a FLAG tag, an octapeptide.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "plasmid_keywords"
@@ -209,7 +257,15 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000019",
       "meta" : {
+        "definition" : {
+          "val" : "A vector to knockout a gene or part of a gene.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "synonyms" : [ {
+          "pred" : "hasExactSynonym",
+          "val" : "KO vector",
+          "xrefs" : [ ]
+        }, {
           "pred" : "hasExactSynonym",
           "val" : "knock-out vector",
           "xrefs" : [ ]
@@ -228,6 +284,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000058",
       "meta" : {
+        "definition" : {
+          "val" : "GoldenBraid is a modular, robust cloning system and a synthetic framework for Dictyostelium.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "synonyms" : [ {
           "pred" : "hasExactSynonym",
           "val" : "GoldenBraid vector",
@@ -249,6 +309,15 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000014",
       "meta" : {
+        "definition" : {
+          "val" : "The plasmid contains a GST tag.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "synonyms" : [ {
+          "pred" : "hasExactSynonym",
+          "val" : "glutathione S-transferase tag",
+          "xrefs" : [ ]
+        } ],
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "plasmid_keywords"
@@ -259,6 +328,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000057",
       "meta" : {
+        "definition" : {
+          "val" : "The plasmid encodes a IFP marker gene.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "synonyms" : [ {
           "pred" : "hasExactSynonym",
           "val" : "infrared fluorescent protein marker",
@@ -280,6 +353,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000013",
       "meta" : {
+        "definition" : {
+          "val" : "A plasmid encoding the ecmA0 promoter.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "plasmid_keywords"
@@ -290,6 +367,15 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000016",
       "meta" : {
+        "definition" : {
+          "val" : "A plasmid encoding the cotB promoter.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "synonyms" : [ {
+          "pred" : "hasExactSynonym",
+          "val" : "spore coat gene promoter",
+          "xrefs" : [ ]
+        } ],
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "plasmid_keywords"
@@ -300,6 +386,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000059",
       "meta" : {
+        "definition" : {
+          "val" : "GoldenBraid backbone vector allowing rapid combination of genetic elements.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "synonyms" : [ {
           "pred" : "hasExactSynonym",
           "val" : "GoldenBraid backbone",
@@ -321,6 +411,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000015",
       "meta" : {
+        "definition" : {
+          "val" : "Restriction-mediated integration uses a specific restriction enzyme that matches the linearized vector to facilitate random integration into the genome.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "synonyms" : [ {
           "pred" : "hasExactSynonym",
           "val" : "Restriction Enzyme Mediated Integration vector",
@@ -342,6 +436,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000021",
       "meta" : {
+        "definition" : {
+          "val" : "The tetON / tetOFF mechanism, provides an inducible expression system, tetON containing the inducible promoter TRE-Pmin.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "synonyms" : [ {
           "pred" : "hasExactSynonym",
           "val" : "tetracyclin ON vector",
@@ -357,6 +455,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000020",
       "meta" : {
+        "definition" : {
+          "val" : "The plasmid confers phleomycin resistance.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "plasmid_keywords"
@@ -367,6 +469,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000023",
       "meta" : {
+        "definition" : {
+          "val" : "A plasmid encoding the ecm0 promoter.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "plasmid_keywords"
@@ -377,6 +483,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000022",
       "meta" : {
+        "definition" : {
+          "val" : "The plasmid encodes the uracil gene to confer the ability for the strain to grow without supplements.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "plasmid_keywords"
@@ -387,6 +497,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000061",
       "meta" : {
+        "definition" : {
+          "val" : "GoldenBraid vectors and GoldenBraid parts in a single reaction may assemble a transcriptional unit.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "synonyms" : [ {
           "pred" : "hasExactSynonym",
           "val" : "GoldenBraid part",
@@ -408,6 +522,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000060",
       "meta" : {
+        "definition" : {
+          "val" : "GoldenBraid assembly vector, may assemble several protein fusions.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "synonyms" : [ {
           "pred" : "hasExactSynonym",
           "val" : "GoldenBraid assembly",
@@ -429,6 +547,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000029",
       "meta" : {
+        "definition" : {
+          "val" : "The plasmid encodes a luciferase marker gene.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "plasmid_keywords"
@@ -443,6 +565,15 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000028",
       "meta" : {
+        "definition" : {
+          "val" : "The plasmid encodes a galactosidase marker gene.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "synonyms" : [ {
+          "pred" : "hasExactSynonym",
+          "val" : "beta-gal marker",
+          "xrefs" : [ ]
+        } ],
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "plasmid_keywords"
@@ -457,6 +588,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000025",
       "meta" : {
+        "definition" : {
+          "val" : "The plasmid encodes a GFP marker gene.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "synonyms" : [ {
           "pred" : "hasExactSynonym",
           "val" : "green fluorescent protein marker",
@@ -472,6 +607,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000024",
       "meta" : {
+        "definition" : {
+          "val" : "The plasmid encodes the thymidine gene to confer the ability for the strain to grow without supplements.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "plasmid_keywords"
@@ -482,6 +621,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000027",
       "meta" : {
+        "definition" : {
+          "val" : "The plasmid encodes a YFP marker gene.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "synonyms" : [ {
           "pred" : "hasExactSynonym",
           "val" : "yellow fluorescent protein marker",
@@ -497,6 +640,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000026",
       "meta" : {
+        "definition" : {
+          "val" : "The plasmid encodes a RFP marker gene.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "synonyms" : [ {
           "pred" : "hasExactSynonym",
           "val" : "red fluorescent protein marker",
@@ -520,6 +667,15 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000032",
       "meta" : {
+        "definition" : {
+          "val" : "The plasmid contains a HA tag.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "synonyms" : [ {
+          "pred" : "hasExactSynonym",
+          "val" : "hemagglutinin tag.",
+          "xrefs" : [ ]
+        } ],
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "plasmid_keywords"
@@ -530,6 +686,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000031",
       "meta" : {
+        "definition" : {
+          "val" : "The plasmid contains a Myc tag,  a polypeptide protein tag derived from the c-myc gene.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "plasmid_keywords"
@@ -540,6 +700,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000034",
       "meta" : {
+        "definition" : {
+          "val" : "A vector that contains a Dictyostelium origin of replication and thus does not integrate into the genome.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "synonyms" : [ {
           "pred" : "hasBroadSynonym",
           "val" : "extrachromosomal expression vector",
@@ -561,6 +725,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000033",
       "meta" : {
+        "definition" : {
+          "val" : "A plasmid encoding the psA promoter.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "synonyms" : [ {
           "pred" : "hasExactSynonym",
           "val" : "prespore A promoter",
@@ -580,6 +748,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000030",
       "meta" : {
+        "definition" : {
+          "val" : "The plasmid contains a His tag, a polyhistidine.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "plasmid_keywords"
@@ -598,6 +770,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000039",
       "meta" : {
+        "definition" : {
+          "val" : "A plasmid encoding the ecmB promoter.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "plasmid_keywords"
@@ -608,6 +784,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000036",
       "meta" : {
+        "definition" : {
+          "val" : "The plasmid encodes a CFP marker gene.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "synonyms" : [ {
           "pred" : "hasExactSynonym",
           "val" : "cyan fluorescent protein marker",
@@ -623,6 +803,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000035",
       "meta" : {
+        "definition" : {
+          "val" : "A plasmid containing a marker gene.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "plasmid_keywords"
@@ -633,6 +817,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000038",
       "meta" : {
+        "definition" : {
+          "val" : "Any promoter encoded by the plasmid, typically to drive the major expressed gene.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "plasmid_keywords"
@@ -643,6 +831,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000037",
       "meta" : {
+        "definition" : {
+          "val" : "The plasmid contains a tag.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "plasmid_keywords"
@@ -653,6 +845,15 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000043",
       "meta" : {
+        "definition" : {
+          "val" : "A plasmid with a TAP tag, allows affinity purification of native protein complexes.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "synonyms" : [ {
+          "pred" : "hasExactSynonym",
+          "val" : "tandem affinity purification tag.",
+          "xrefs" : [ ]
+        } ],
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "plasmid_keywords"
@@ -663,6 +864,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000042",
       "meta" : {
+        "definition" : {
+          "val" : "A plasmid encoding the act 6 promoter.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "synonyms" : [ {
           "pred" : "hasExactSynonym",
           "val" : "actin 6 promoter",
@@ -678,6 +883,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000045",
       "meta" : {
+        "definition" : {
+          "val" : "A plasmid with a T7 tag, derived from the leader sequence of a T7  bacteriophage gene.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "plasmid_keywords"
@@ -688,6 +897,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000001",
       "meta" : {
+        "definition" : {
+          "val" : "Keywords to describe properties of plasmids.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "plasmid_keywords"
@@ -698,6 +911,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000044",
       "meta" : {
+        "definition" : {
+          "val" : "THe plasmid contains a V5 tag, a short peptide tag for detection and purification of proteins.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "plasmid_keywords"
@@ -708,6 +925,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000041",
       "meta" : {
+        "definition" : {
+          "val" : "The plasmid encodes a glucoronidase marker gene.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "plasmid_keywords"
@@ -718,6 +939,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000040",
       "meta" : {
+        "definition" : {
+          "val" : "A plasmid encoding the ecmA promoter.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "plasmid_keywords"
@@ -728,6 +953,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000007",
       "meta" : {
+        "definition" : {
+          "val" : "The plasmid confers neomycin resistance.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "synonyms" : [ {
           "pred" : "hasExactSynonym",
           "val" : "neoR",
@@ -743,6 +972,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000006",
       "meta" : {
+        "definition" : {
+          "val" : "The plasmid confers hygromycin resistance.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "synonyms" : [ {
           "pred" : "hasExactSynonym",
           "val" : "hygR",
@@ -758,6 +991,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000009",
       "meta" : {
+        "definition" : {
+          "val" : "A plasmid encoding the discoidin promoter.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "plasmid_keywords"
@@ -768,6 +1005,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000008",
       "meta" : {
+        "definition" : {
+          "val" : "The plasmid encodes a drug selection.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "plasmid_keywords"
@@ -778,6 +1019,11 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000047",
       "meta" : {
+        "definition" : {
+          "val" : "A cre-loxP vector is two components: loxP sites are typically inserted to flank a resistance marker and the cre recombinase cuts the loxP sites and removes the selection marker so it may be reused.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "comments" : [ "The Cre-lox system is used as a genetic tool to control site specific recombination events in genomic DNA." ],
         "synonyms" : [ {
           "pred" : "hasExactSynonym",
           "val" : "cre-lox vector",
@@ -799,6 +1045,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000003",
       "meta" : {
+        "definition" : {
+          "val" : "Plasmid generating chimeras of two related genes.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "plasmid_keywords"
@@ -809,6 +1059,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000046",
       "meta" : {
+        "definition" : {
+          "val" : "The Gateway system allows genes to be cloned using specific recombinase enzymes and allows transfer of DNA fragments between different cloning vectors while maintaining the reading frame.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "plasmid_keywords"
@@ -821,10 +1075,14 @@
         } ]
       },
       "type" : "CLASS",
-      "lbl" : "gateway vector"
+      "lbl" : "Gateway vector"
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000002",
       "meta" : {
+        "definition" : {
+          "val" : "Using a plasmid that encodes thymidine or uracil to select for this property after transformation.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "plasmid_keywords"
@@ -835,6 +1093,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000005",
       "meta" : {
+        "definition" : {
+          "val" : "The plasmid confers bleomycin resistance.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "synonyms" : [ {
           "pred" : "hasExactSynonym",
           "val" : "bleR",
@@ -850,6 +1112,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000049",
       "meta" : {
+        "definition" : {
+          "val" : "The plasmid confers tetracycline resistance.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "plasmid_keywords"
@@ -866,6 +1132,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000004",
       "meta" : {
+        "definition" : {
+          "val" : "The plasmid confers blasticidin resistance.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "synonyms" : [ {
           "pred" : "hasExactSynonym",
           "val" : "bsR",
@@ -920,37 +1190,37 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000058"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000029",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000035"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000018",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000012"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000029",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000035"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000051",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000018"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000008",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000001"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000019",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000012"
     }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000008",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000001"
+    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000052",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000018"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000034",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000018"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000055",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000038"
-    }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000034",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000018"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000054",
       "pred" : "is_a",
@@ -976,13 +1246,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000038"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000046",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000018"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000032",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000037"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000046",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000018"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000041",
       "pred" : "is_a",
@@ -1012,13 +1282,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000001"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000024",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000002"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000012",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000001"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000024",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000002"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000057",
       "pred" : "is_a",
@@ -1104,13 +1374,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000037"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000048",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000012"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000037",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000001"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000048",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000012"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPLASMIDKEY_0000006",
       "pred" : "is_a",
@@ -1158,7 +1428,7 @@
         "val" : "OBO-Edit 2.2"
       }, {
         "pred" : "http://www.geneontology.org/formats/oboInOwl#date",
-        "val" : "07:10:2019 09:33"
+        "val" : "26:01:2022 09:57"
       }, {
         "pred" : "http://www.geneontology.org/formats/oboInOwl#default-namespace",
         "val" : "plasmid_keywords"
