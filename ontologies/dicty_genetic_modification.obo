@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 18:12:2017 12:09
+date: 27:01:2022 17:41
 saved-by: pfey
 auto-generated-by: OBO-Edit 2.2
 default-namespace: genetic modification
@@ -11,6 +11,7 @@ property_value: http://purl.org/dc/terms/license http://creativecommons.org/publ
 [Term]
 id: DDGENMOD:0000001
 name: genetic modification
+def: "The genetic modification during genetic mutation of the strain." [DDB:pf]
 
 [Term]
 id: DDGENMOD:0000002
@@ -34,13 +35,14 @@ is_a: DDGENMOD:0000012 ! genomic insertion
 [Term]
 id: DDGENMOD:0000005
 name: exogenous deletion with insertion
+def: "The removal of one or more nucleotides in the genomic sequence with the simultaneous addition of one or more nucleotides of different origin in this sequence." [DDB:pf]
 is_a: DDGENMOD:0000008 ! exogenous insertion
 is_a: DDGENMOD:0000010 ! exogenous deletion
 
 [Term]
 id: DDGENMOD:0000006
 name: endogenous substitution
-def: "One or more mutations in the gene sequence resulting in the replacement of an equivalent number of residues in the gene product sequence. Substitution mutations can result in missense mutations, nonsense mutations or silent mutations." [DDB:PF]
+def: "One or more mutations in the gene sequence resulting in the replacement of an equivalent number of residues in the gene product sequence; substitution mutations can result in missense mutations, nonsense mutations or silent mutations." [DDB:PF]
 is_a: DDGENMOD:0000002 ! endogenous mutation
 
 [Term]
@@ -53,8 +55,7 @@ is_a: DDGENMOD:0000001 ! genetic modification
 [Term]
 id: DDGENMOD:0000008
 name: exogenous insertion
-def: "Any fusion of two or more genes, or parts of genes, expressed from a plasmid or under the control of a promoter other than any of the participating genes' promoters." [DDB:PF]
-synonym: "chimera" NARROW []
+def: "The addition of one or more nucleotides in the genomic sequence, not in a specific gene." [DDB:PF]
 is_a: DDGENMOD:0000007 ! exogenous mutation
 is_a: DDGENMOD:0000012 ! genomic insertion
 
@@ -67,7 +68,7 @@ is_a: DDGENMOD:0000007 ! exogenous mutation
 [Term]
 id: DDGENMOD:0000010
 name: exogenous deletion
-def: "Any gene expressed from a plasmid or under the control of a promoter other than its own promoter with the removal of one or more nucleotides in its gene sequence." [DDB:PF]
+def: "The deletion of one or more nucleotides in the genomic sequence, not in a specific gene." [DDB:PF]
 is_a: DDGENMOD:0000007 ! exogenous mutation
 
 [Term]
