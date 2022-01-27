@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 02:10:2020 18:24
+date: 26:01:2022 10:51
 saved-by: pfey
 auto-generated-by: OBO-Edit 2.2
 default-namespace: strain_inventory
@@ -66,7 +66,7 @@ creation_date: 2013-03-29T16:47:17Z
 [Term]
 id: STRAININVENT:0000010
 name: tank A
-def: "Physical location of strain stock in liquid nitrogen tank A." [DDB:pf]
+def: "The number of strains in stock in the liquid nitrogen tank A." [DDB:pf]
 is_a: STRAININVENT:0000002 ! location
 relationship: has_vial STRAININVENT:0000005 ! number of vials
 created_by: pfey
@@ -75,7 +75,7 @@ creation_date: 2014-09-26T16:38:41Z
 [Term]
 id: STRAININVENT:0000011
 name: tank B
-def: "Physical location of strain stock in liquid nitrogen tank B." [DDB:pf]
+def: "The number of strains in stock in the liquid nitrogen tank B." [DDB:pf]
 is_a: STRAININVENT:0000002 ! location
 relationship: has_vial STRAININVENT:0000005 ! number of vials
 created_by: pfey
@@ -84,7 +84,7 @@ creation_date: 2014-09-26T16:43:42Z
 [Term]
 id: STRAININVENT:0000012
 name: tank C
-def: "Physical location of strain stock in liquid nitrogen tank C." [DDB:pf]
+def: "The number of strains in stock in the liquid nitrogen tank C." [DDB:pf]
 is_a: STRAININVENT:0000002 ! location
 relationship: has_vial STRAININVENT:0000005 ! number of vials
 created_by: pfey
@@ -93,7 +93,7 @@ creation_date: 2014-09-26T16:44:02Z
 [Term]
 id: STRAININVENT:0000013
 name: - 80 freezer
-def: "Physical location of strain stock in the - 80 C freezer." [DDB:pf]
+def: "The number of strains in stock in the - 80 C freezer." [DDB:pf]
 is_a: STRAININVENT:0000002 ! location
 relationship: has_vial STRAININVENT:0000005 ! number of vials
 created_by: pfey
@@ -110,6 +110,7 @@ creation_date: 2016-04-26T15:09:38Z
 [Term]
 id: STRAININVENT:0000015
 name: red
+def: "The tube color is red." [DDB:pf]
 is_a: STRAININVENT:0000003 ! color
 created_by: pfey
 creation_date: 2017-01-26T16:10:07Z
@@ -117,6 +118,7 @@ creation_date: 2017-01-26T16:10:07Z
 [Term]
 id: STRAININVENT:0000016
 name: green
+def: "The tube color is green." [DDB:pf]
 is_a: STRAININVENT:0000003 ! color
 created_by: pfey
 creation_date: 2017-01-26T16:11:05Z
@@ -124,6 +126,7 @@ creation_date: 2017-01-26T16:11:05Z
 [Term]
 id: STRAININVENT:0000017
 name: blue
+def: "The tube color is blue." [DDB:pf]
 is_a: STRAININVENT:0000003 ! color
 created_by: pfey
 creation_date: 2017-01-26T16:11:16Z
@@ -131,6 +134,7 @@ creation_date: 2017-01-26T16:11:16Z
 [Term]
 id: STRAININVENT:0000018
 name: yellow
+def: "The tube color is yellow." [DDB:pf]
 is_a: STRAININVENT:0000003 ! color
 created_by: pfey
 creation_date: 2017-01-26T16:11:27Z
@@ -138,6 +142,7 @@ creation_date: 2017-01-26T16:11:27Z
 [Term]
 id: STRAININVENT:0000019
 name: pink
+def: "The tube color is pink." [DDB:pf]
 is_a: STRAININVENT:0000003 ! color
 created_by: pfey
 creation_date: 2017-01-26T16:11:40Z
@@ -145,6 +150,7 @@ creation_date: 2017-01-26T16:11:40Z
 [Term]
 id: STRAININVENT:0000020
 name: white
+def: "The tube color is white." [DDB:pf]
 is_a: STRAININVENT:0000003 ! color
 created_by: pfey
 creation_date: 2017-01-26T16:13:27Z
@@ -152,6 +158,7 @@ creation_date: 2017-01-26T16:13:27Z
 [Term]
 id: STRAININVENT:0000021
 name: orange
+def: "The tube color is orange." [DDB:pf]
 is_a: STRAININVENT:0000003 ! color
 created_by: pfey
 creation_date: 2017-01-26T16:13:40Z
