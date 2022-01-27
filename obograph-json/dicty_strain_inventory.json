@@ -20,7 +20,7 @@
       "id" : "http://purl.obolibrary.org/obo/STRAININVENT_0000010",
       "meta" : {
         "definition" : {
-          "val" : "Physical location of strain stock in liquid nitrogen tank A.",
+          "val" : "The number of strains in stock in the liquid nitrogen tank A.",
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
@@ -43,6 +43,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/STRAININVENT_0000019",
       "meta" : {
+        "definition" : {
+          "val" : "The tube color is pink.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
           "val" : "2017-01-26T16:11:40Z"
@@ -67,6 +71,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/STRAININVENT_0000015",
       "meta" : {
+        "definition" : {
+          "val" : "The tube color is red.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "strain_inventory"
@@ -83,6 +91,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/STRAININVENT_0000016",
       "meta" : {
+        "definition" : {
+          "val" : "The tube color is green.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "strain_inventory"
@@ -99,6 +111,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/STRAININVENT_0000017",
       "meta" : {
+        "definition" : {
+          "val" : "The tube color is blue.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
           "val" : "2017-01-26T16:11:16Z"
@@ -115,6 +131,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/STRAININVENT_0000018",
       "meta" : {
+        "definition" : {
+          "val" : "The tube color is yellow.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "strain_inventory"
@@ -136,7 +156,7 @@
       "id" : "http://purl.obolibrary.org/obo/STRAININVENT_0000011",
       "meta" : {
         "definition" : {
-          "val" : "Physical location of strain stock in liquid nitrogen tank B.",
+          "val" : "The number of strains in stock in the liquid nitrogen tank B.",
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
@@ -156,15 +176,15 @@
       "id" : "http://purl.obolibrary.org/obo/STRAININVENT_0000012",
       "meta" : {
         "definition" : {
-          "val" : "Physical location of strain stock in liquid nitrogen tank C.",
+          "val" : "The number of strains in stock in the liquid nitrogen tank C.",
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
-          "val" : "pfey"
-        }, {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
           "val" : "2014-09-26T16:44:02Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
         }, {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "strain_inventory"
@@ -176,7 +196,7 @@
       "id" : "http://purl.obolibrary.org/obo/STRAININVENT_0000013",
       "meta" : {
         "definition" : {
-          "val" : "Physical location of strain stock in the - 80 C freezer.",
+          "val" : "The number of strains in stock in the - 80 C freezer.",
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
@@ -215,6 +235,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/STRAININVENT_0000020",
       "meta" : {
+        "definition" : {
+          "val" : "The tube color is white.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
           "val" : "pfey"
@@ -231,6 +255,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/STRAININVENT_0000021",
       "meta" : {
+        "definition" : {
+          "val" : "The tube color is orange.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
           "val" : "pfey"
@@ -513,7 +541,7 @@
         "val" : "OBO-Edit 2.2"
       }, {
         "pred" : "http://www.geneontology.org/formats/oboInOwl#date",
-        "val" : "02:10:2020 18:24"
+        "val" : "26:01:2022 10:51"
       }, {
         "pred" : "http://www.geneontology.org/formats/oboInOwl#default-namespace",
         "val" : "strain_inventory"
