@@ -42,7 +42,7 @@ creation_date: 2018-11-16T13:44:29Z
 [Term]
 id: DDANNO:0000005
 name: product
-def: "An annotation that describes the product of an biological entity." [DDB:pf]
+def: "An annotation that describes the product of a biological entity." [DDB:pf]
 is_a: DDANNO:0000001 ! dictybase annotation
 created_by: cybersiddhu
 creation_date: 2018-11-16T14:33:56Z
@@ -126,7 +126,7 @@ id: DDANNO:0000015
 name: literature
 def: "Literature imported to dictybase." [DDB:pf]
 is_a: DDANNO:0000001 ! dictybase annotation
-created_by: Petra
+created_by: pfey
 creation_date: 2019-06-07T09:29:41Z
 
 [Term]
@@ -135,7 +135,7 @@ name: pubmed id
 def: "Identifier from PubMed citation." [DDB:pf]
 synonym: "PMID" EXACT []
 is_a: DDANNO:0000015 ! literature
-created_by: Petra
+created_by: pfey
 creation_date: 2019-06-07T09:30:42Z
 
 [Term]
@@ -143,7 +143,7 @@ id: DDANNO:0000017
 name: DOI
 def: "Citation  by digital object identifier." [DDB:pf]
 is_a: DDANNO:0000015 ! literature
-created_by: Petra
+created_by: pfey
 creation_date: 2019-06-07T09:32:55Z
 
 [Term]
@@ -159,7 +159,7 @@ id: DDANNO:0000019
 name: synonym
 def: "Synonym contains alternative names." [DDB:pf]
 is_a: DDANNO:0000004 ! name
-created_by: Petra
+created_by: pfey
 creation_date: 2019-06-12T16:03:48Z
 
 [Term]
@@ -167,7 +167,7 @@ id: DDANNO:0000020
 name: systematic name
 def: "Systematic name for a strain is either annotated from publication, or automatically added as DBS id." [DDB:pf]
 is_a: DDANNO:0000004 ! name
-created_by: Petra
+created_by: pfey
 creation_date: 2019-06-12T16:12:35Z
 
 [Term]
@@ -175,7 +175,7 @@ id: DDANNO:0000021
 name: strain descriptor
 def: "A curator defined name describing the strain." [DDB:pf]
 is_a: DDANNO:0000002 ! description
-created_by: Petra
+created_by: pfey
 creation_date: 2019-06-12T16:24:07Z
 
 [Term]
