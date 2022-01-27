@@ -3,6 +3,10 @@
     "nodes" : [ {
       "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000026",
       "meta" : {
+        "definition" : {
+          "val" : "Measuring the diameter of any object.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dictyostelium Assay"
@@ -14,15 +18,22 @@
       "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000027",
       "meta" : {
         "basicPropertyValues" : [ {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
-          "val" : "Dictyostelium Assay"
-        } ]
+          "pred" : "http://purl.obolibrary.org/obo/IAO_0100001",
+          "val" : "http://purl.obolibrary.org/obo/DDASSAY_0000080"
+        }, {
+          "pred" : "http://purl.obolibrary.org/obo/IAO_0000231",
+          "val" : "http://purl.obolibrary.org/obo/IAO_0000227"
+        } ],
+        "deprecated" : true
       },
-      "type" : "CLASS",
-      "lbl" : "real time PCR"
+      "type" : "CLASS"
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000024",
       "meta" : {
+        "definition" : {
+          "val" : "Measurement of any size.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dictyostelium Assay"
@@ -33,6 +44,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000025",
       "meta" : {
+        "definition" : {
+          "val" : "Observing a sample by electron microscopy.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dictyostelium Assay"
@@ -43,6 +58,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000022",
       "meta" : {
+        "definition" : {
+          "val" : "Assessing the timing of fruiting body development.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dictyostelium Assay"
@@ -53,6 +72,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000023",
       "meta" : {
+        "definition" : {
+          "val" : "In a micropipette chemotaxis assay, typically cAMP is in the micropipette and moving the tip around cells keep turning towards the source.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dictyostelium Assay"
@@ -63,6 +86,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000020",
       "meta" : {
+        "definition" : {
+          "val" : "Agglutination is the clumping of cells, in Dictyostelium e.g. the ampA gene plays a role in cell agglutination during growth.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dictyostelium Assay"
@@ -73,6 +100,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000021",
       "meta" : {
+        "definition" : {
+          "val" : "Phalloidin is often conjugated with a dye to label for example actin.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dictyostelium Assay"
@@ -83,6 +114,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000019",
       "meta" : {
+        "definition" : {
+          "val" : "Testing the attachment of cells to plastic.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dictyostelium Assay"
@@ -93,6 +128,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000017",
       "meta" : {
+        "definition" : {
+          "val" : "A gene is marked by any stain or label and observed by microscopy.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dictyostelium Assay"
@@ -103,6 +142,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000018",
       "meta" : {
+        "definition" : {
+          "val" : "THe measurement of any surface such as an agar plate or a glass slide.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dictyostelium Assay"
@@ -111,8 +154,16 @@
       "type" : "CLASS",
       "lbl" : "measurement of surface area"
     }, {
+      "id" : "http://purl.obolibrary.org/obo/IAO_0000115",
+      "type" : "PROPERTY",
+      "lbl" : "definition"
+    }, {
       "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000030",
       "meta" : {
+        "definition" : {
+          "val" : "After protein electrophoresis and generating a blot, visualizing target protein using a primary and secondary antibody.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dictyostelium Assay"
@@ -123,16 +174,29 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000037",
       "meta" : {
+        "definition" : {
+          "val" : "The objective of FACS is to physically sort a heterogeneous cell sample, one labeled fluorescent the other  not labeled, into separate populations.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "synonyms" : [ {
+          "pred" : "hasExactSynonym",
+          "val" : "FACS",
+          "xrefs" : [ ]
+        } ],
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dictyostelium Assay"
         } ]
       },
       "type" : "CLASS",
-      "lbl" : "fluorescence activated cell sorting (FACS)"
+      "lbl" : "fluorescence activated cell sorting"
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000038",
       "meta" : {
+        "definition" : {
+          "val" : "After separation of proteins by electrophoresis a blot is generated and stained with antibodies.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dictyostelium Assay"
@@ -143,6 +207,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000035",
       "meta" : {
+        "definition" : {
+          "val" : "High throughput microscopy is a powerful tool to analyze cellular dynamics requiring automated processing; this is dark field microscopy.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dictyostelium Assay"
@@ -153,6 +221,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000036",
       "meta" : {
+        "definition" : {
+          "val" : "In situ hybridization is a  technique in which a single-stranded DNA or RNA sequence (a probe) is allowed to form complementary base pairs with DNA or RNA present in a tissue.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dictyostelium Assay"
@@ -176,6 +248,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000034",
       "meta" : {
+        "definition" : {
+          "val" : "High throughput microscopy is a powerful tool to analyze cellular dynamics requiring automated processing; this is bright field microscopy.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "synonyms" : [ {
           "pred" : "hasExactSynonym",
           "val" : "high throughput light microscopy",
@@ -194,6 +270,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000031",
       "meta" : {
+        "definition" : {
+          "val" : "Observing a sample by dark field microscopy.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dictyostelium Assay"
@@ -204,6 +284,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000032",
       "meta" : {
+        "definition" : {
+          "val" : "Observing a sample by bright field microscopy.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "synonyms" : [ {
           "pred" : "hasExactSynonym",
           "val" : "light microscopy",
@@ -222,6 +306,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000028",
       "meta" : {
+        "definition" : {
+          "val" : "Observing a sample by fluorescence microscopy.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dictyostelium Assay"
@@ -232,6 +320,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000029",
       "meta" : {
+        "definition" : {
+          "val" : "Using any stain to mark a sample.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dictyostelium Assay"
@@ -244,18 +336,35 @@
       "type" : "PROPERTY",
       "lbl" : "has_related_synonym"
     }, {
+      "id" : "http://www.geneontology.org/formats/oboInOwl#hasNarrowSynonym",
+      "type" : "PROPERTY",
+      "lbl" : "has_narrow_synonym"
+    }, {
       "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000040",
       "meta" : {
+        "definition" : {
+          "val" : "Observing a sample by reflection interference contrast microscopy.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "synonyms" : [ {
+          "pred" : "hasExactSynonym",
+          "val" : "RICM",
+          "xrefs" : [ ]
+        } ],
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dictyostelium Assay"
         } ]
       },
       "type" : "CLASS",
-      "lbl" : "reflection interference contrast microscopy (RICM)"
+      "lbl" : "reflection interference contrast microscopy"
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000041",
       "meta" : {
+        "definition" : {
+          "val" : "Observing a sample by confocal microscopy.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dictyostelium Assay"
@@ -266,6 +375,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000048",
       "meta" : {
+        "definition" : {
+          "val" : "Creating an attractant gradient to test cell motility towards this source.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dictyostelium Assay"
@@ -276,6 +389,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000049",
       "meta" : {
+        "definition" : {
+          "val" : "Testing competent cells in a chemotaxis chamber.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dictyostelium Assay"
@@ -286,6 +403,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000046",
       "meta" : {
+        "definition" : {
+          "val" : "The Dictyostelium slug can be transplanted and grafted and positioned cell types de-differentiate.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dictyostelium Assay"
@@ -296,6 +417,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000047",
       "meta" : {
+        "definition" : {
+          "val" : "Chimeric cell mixtures often result in abnormal kin recognition and cell population might segregate during development.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "synonyms" : [ {
           "pred" : "hasBroadSynonym",
           "val" : "co-aggregation",
@@ -317,6 +442,15 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000044",
       "meta" : {
+        "definition" : {
+          "val" : "In 2D electrophoresis, first proteins are separated by the pI (soelectric point) value and second  by their relative molecular weight.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "synonyms" : [ {
+          "pred" : "hasExactSynonym",
+          "val" : "Two-dimensional gel electrophoresis",
+          "xrefs" : [ ]
+        } ],
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dictyostelium Assay"
@@ -327,6 +461,15 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000045",
       "meta" : {
+        "definition" : {
+          "val" : "In immunoprecipitation  (IP) a protein is bound by a specific antibody that is often immobilized on beads and thus purified from a solution of different proteins.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "synonyms" : [ {
+          "pred" : "hasExactSynonym",
+          "val" : "immunoprecipitation",
+          "xrefs" : [ ]
+        } ],
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dictyostelium Assay"
@@ -337,6 +480,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000042",
       "meta" : {
+        "definition" : {
+          "val" : "In biochemical fractionation cells or enriched parts of cells are separated into proteins or complexes by centrifugation using a dense gradient.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dictyostelium Assay"
@@ -347,6 +494,15 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000043",
       "meta" : {
+        "definition" : {
+          "val" : "The combination of sodium dodecyl sulfate (SDS) and polyacrylamide gel eliminates the influence of structure and charge, and proteins are separated solely by their molecular weight.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "synonyms" : [ {
+          "pred" : "hasExactSynonym",
+          "val" : "sodium dodecyl sulphate polyacrylamide gel electrophoresis",
+          "xrefs" : [ ]
+        } ],
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dictyostelium Assay"
@@ -355,12 +511,12 @@
       "type" : "CLASS",
       "lbl" : "SDS protein gel electrophoresis"
     }, {
-      "id" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
-      "type" : "PROPERTY",
-      "lbl" : "has_obo_namespace"
-    }, {
       "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000039",
       "meta" : {
+        "definition" : {
+          "val" : "Agarose overlay of cells under a thin agarose sheet to slightly flatten the cells and keeping them moist during microscopy.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dictyostelium Assay"
@@ -369,12 +525,20 @@
       "type" : "CLASS",
       "lbl" : "agarose overlay"
     }, {
+      "id" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+      "type" : "PROPERTY",
+      "lbl" : "has_obo_namespace"
+    }, {
       "id" : "http://www.geneontology.org/formats/oboInOwl#hasOBOFormatVersion",
       "type" : "PROPERTY",
       "lbl" : "has_obo_format_version"
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000051",
       "meta" : {
+        "definition" : {
+          "val" : "Observing a sample by phase contrast microscopy.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dictyostelium Assay"
@@ -385,6 +549,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000052",
       "meta" : {
+        "definition" : {
+          "val" : "Testing cells for the phagocytosis of FITC-dextran.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "synonyms" : [ {
           "pred" : "hasRelatedSynonym",
           "val" : "fluid-phase marker incubation",
@@ -400,6 +568,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000050",
       "meta" : {
+        "definition" : {
+          "val" : "Testing cells for the phagocytosis of polystyrene particles.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dictyostelium Assay"
@@ -410,6 +582,15 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000059",
       "meta" : {
+        "definition" : {
+          "val" : "Observing a sample by differential interference contrast microscopy.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "synonyms" : [ {
+          "pred" : "hasExactSynonym",
+          "val" : "DIC",
+          "xrefs" : [ ]
+        } ],
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dictyostelium Assay"
@@ -422,10 +603,14 @@
         } ]
       },
       "type" : "CLASS",
-      "lbl" : "differential interference contrast microscopy (DIC)"
+      "lbl" : "differential interference contrast microscopy"
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000057",
       "meta" : {
+        "definition" : {
+          "val" : "Testing cells for the phagocytosis of TRITC-dextran.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dictyostelium Assay"
@@ -442,6 +627,15 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000058",
       "meta" : {
+        "definition" : {
+          "val" : "PCR allows the amplification of trace DNA samples into massive copies using specific primers.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "synonyms" : [ {
+          "pred" : "hasExactSynonym",
+          "val" : "PCR",
+          "xrefs" : [ ]
+        } ],
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dictyostelium Assay"
@@ -454,10 +648,19 @@
         } ]
       },
       "type" : "CLASS",
-      "lbl" : "polymerase chain reaction (PCR)"
+      "lbl" : "polymerase chain reaction"
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000055",
       "meta" : {
+        "definition" : {
+          "val" : "Used to amplify RNA targets; the RNA template is converted into cDNA by the enzyme reverse transcriptase and the cDNA serves as a template for amplification using PCR.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "synonyms" : [ {
+          "pred" : "hasExactSynonym",
+          "val" : "RT-PCR",
+          "xrefs" : [ ]
+        } ],
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
           "val" : "pfey"
@@ -474,6 +677,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000056",
       "meta" : {
+        "definition" : {
+          "val" : "Beta-galactosidase staining is used on fixed specimen.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
           "val" : "2012-10-02T12:41:37Z"
@@ -490,6 +697,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000053",
       "meta" : {
+        "definition" : {
+          "val" : "In a monolayer culture cells do not overlap and are not too dense but form an even lawn.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
           "val" : "2012-10-02T12:23:38Z"
@@ -506,6 +717,15 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000054",
       "meta" : {
+        "definition" : {
+          "val" : "Observing a sample by total internal reflection fluorescence microscopy.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "synonyms" : [ {
+          "pred" : "hasExactSynonym",
+          "val" : "TIRF",
+          "xrefs" : [ ]
+        } ],
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
           "val" : "pfey"
@@ -518,7 +738,7 @@
         } ]
       },
       "type" : "CLASS",
-      "lbl" : "total internal reflection fluorescence microscopy (TIRF)"
+      "lbl" : "total internal reflection fluorescence microscopy"
     }, {
       "id" : "http://www.geneontology.org/formats/oboInOwl#hasAlternativeId",
       "type" : "PROPERTY",
@@ -526,6 +746,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000062",
       "meta" : {
+        "definition" : {
+          "val" : "Testing the phagocytosis rate of cells.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
           "val" : "pfey"
@@ -542,6 +766,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000063",
       "meta" : {
+        "definition" : {
+          "val" : "The prestalk region of the Dictyostelium slug stains strongly with neutral red.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
           "val" : "2014-11-13T15:24:06Z"
@@ -558,6 +786,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000060",
       "meta" : {
+        "definition" : {
+          "val" : "Counting spores in disrupted spore heads.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dictyostelium Assay"
@@ -574,6 +806,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000061",
       "meta" : {
+        "definition" : {
+          "val" : "Investigating samples by any kind of microscopy.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
           "val" : "2014-11-13T14:41:17Z"
@@ -590,6 +826,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000068",
       "meta" : {
+        "definition" : {
+          "val" : "Measuring growth rate and investigating development time and quality.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dictyostelium Assay"
@@ -606,6 +846,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000069",
       "meta" : {
+        "definition" : {
+          "val" : "Spore viability is often tested with detergent treatment, or germination experiments.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dictyostelium Assay"
@@ -622,6 +866,15 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000066",
       "meta" : {
+        "definition" : {
+          "val" : "Observing quality and timing of fruiting body development.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "synonyms" : [ {
+          "pred" : "hasExactSynonym",
+          "val" : "sorocarp development",
+          "xrefs" : [ ]
+        } ],
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
           "val" : "pfey"
@@ -638,6 +891,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000067",
       "meta" : {
+        "definition" : {
+          "val" : "Early development submerged in buffer.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
           "val" : "pfey"
@@ -654,6 +911,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000064",
       "meta" : {
+        "definition" : {
+          "val" : "Calcofluor white stains cellulose; the Dictyostelium stalk contains cellulose.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dictyostelium Assay"
@@ -670,6 +931,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000065",
       "meta" : {
+        "definition" : {
+          "val" : "Beta-glucoronidase staining is used on fixed specimen.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dictyostelium Assay"
@@ -686,6 +951,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000073",
       "meta" : {
+        "definition" : {
+          "val" : "Electrophoresis separates molecules and a blot on a membrane may be generated.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
           "val" : "2014-11-21T15:42:07Z"
@@ -702,6 +971,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000074",
       "meta" : {
+        "definition" : {
+          "val" : "Any analysis of a large scale experiment.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
           "val" : "2014-11-21T15:46:21Z"
@@ -718,6 +991,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000071",
       "meta" : {
+        "definition" : {
+          "val" : "Investigating or testing any step in microRNA processing.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dictyostelium Assay"
@@ -730,10 +1007,14 @@
         } ]
       },
       "type" : "CLASS",
-      "lbl" : "microRNA"
+      "lbl" : "microRNA analysis"
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000072",
       "meta" : {
+        "definition" : {
+          "val" : "RNA-Seq uses next-generation sequencing to reveal the presence and quantity of RNA in a biological sample at a given moment.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dictyostelium Assay"
@@ -750,6 +1031,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000070",
       "meta" : {
+        "definition" : {
+          "val" : "Any study to determine gene expression.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dictyostelium Assay"
@@ -766,6 +1051,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000079",
       "meta" : {
+        "definition" : {
+          "val" : "Determining the efficiency of homologous recombination.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "synonyms" : [ {
           "pred" : "hasExactSynonym",
           "val" : "homologous recombination efficiency test",
@@ -787,6 +1076,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000077",
       "meta" : {
+        "definition" : {
+          "val" : "Determining the efficiency of a transformation assay.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
           "val" : "2015-02-13T11:20:56Z"
@@ -803,6 +1096,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000078",
       "meta" : {
+        "definition" : {
+          "val" : "Determining the efficiency of restriction enzyme mediated transformation.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "synonyms" : [ {
           "pred" : "hasExactSynonym",
           "val" : "restriction enzyme mediated transformation efficiency test",
@@ -824,6 +1121,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000075",
       "meta" : {
+        "definition" : {
+          "val" : "Mass spectrometry is an analytical tool useful for measuring the mass-to-charge ratio (m/z) of one or more molecules present in a sample.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
           "val" : "2014-11-21T15:50:03Z"
@@ -840,6 +1141,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000076",
       "meta" : {
+        "definition" : {
+          "val" : "Testing the adhesion of cells to a substrate.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dictyostelium Assay"
@@ -860,6 +1165,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000084",
       "meta" : {
+        "definition" : {
+          "val" : "Propidium iodide staining is often used to determine cell death in Dictyostelium.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dictyostelium Assay"
@@ -876,6 +1185,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000085",
       "meta" : {
+        "definition" : {
+          "val" : "Development submerged in buffer.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dictyostelium Assay"
@@ -892,6 +1205,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000082",
       "meta" : {
+        "definition" : {
+          "val" : "During time-lapse microscopy a picture is automatically taken in specific time intervals.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
           "val" : "pfey"
@@ -908,6 +1225,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000083",
       "meta" : {
+        "definition" : {
+          "val" : "Measurement of any ion concentration intra- or extracellular.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
           "val" : "2020-05-11T18:35:44Z"
@@ -924,6 +1245,23 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000080",
       "meta" : {
+        "definition" : {
+          "val" : "Real-time PCR combines PCR amplification and detection into a single step; for quantification of the PCR product an intercalating dye or a hydrolysis-based probe is commonly used.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "synonyms" : [ {
+          "pred" : "hasExactSynonym",
+          "val" : "qPCR",
+          "xrefs" : [ ]
+        }, {
+          "pred" : "hasNarrowSynonym",
+          "val" : "real time PCR",
+          "xrefs" : [ ]
+        }, {
+          "pred" : "hasExactSynonym",
+          "val" : "qRT-PCR",
+          "xrefs" : [ ]
+        } ],
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
           "val" : "pfey"
@@ -931,12 +1269,15 @@
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dictyostelium Assay"
         }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasAlternativeId",
+          "val" : "DDASSAY:0000027"
+        }, {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
           "val" : "2015-12-11T14:56:31Z"
         } ]
       },
       "type" : "CLASS",
-      "lbl" : "quantitative real time PCR (qRT-PCR)"
+      "lbl" : "quantitative real time PCR"
     }, {
       "id" : "http://www.geneontology.org/formats/oboInOwl#hasExactSynonym",
       "type" : "PROPERTY",
@@ -944,6 +1285,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000081",
       "meta" : {
+        "definition" : {
+          "val" : "Centrifugation separates components in a tube by size and / or weight.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
           "val" : "2015-12-18T18:24:11Z"
@@ -958,8 +1303,16 @@
       "type" : "CLASS",
       "lbl" : "centrifugation"
     }, {
+      "id" : "http://www.geneontology.org/formats/oboInOwl#hasDbXref",
+      "type" : "PROPERTY",
+      "lbl" : "database_cross_reference"
+    }, {
       "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000004",
       "meta" : {
+        "definition" : {
+          "val" : "Spores may be induced to germinate by heat shock or DMSO treatment, axenic strain spores germinate also in HL5 medium; in nature and lab spores germinate when sensing folate from bacteria that serve as food,.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dictyostelium Assay"
@@ -970,6 +1323,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000005",
       "meta" : {
+        "definition" : {
+          "val" : "Counting the cells typically using a hemocytometer.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dictyostelium Assay"
@@ -980,6 +1337,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000002",
       "meta" : {
+        "definition" : {
+          "val" : "Testing the attachment of cells to glass.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dictyostelium Assay"
@@ -990,6 +1351,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000003",
       "meta" : {
+        "definition" : {
+          "val" : "Any biochemical assay.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dictyostelium Assay"
@@ -1000,6 +1365,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000088",
       "meta" : {
+        "definition" : {
+          "val" : "Observing quality and timing of early development.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
           "val" : "2021-04-27T13:17:25Z"
@@ -1016,6 +1385,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000001",
       "meta" : {
+        "definition" : {
+          "val" : "Represents any assay performed in the Dictyostelium field.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dictyostelium Assay"
@@ -1026,6 +1399,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000089",
       "meta" : {
+        "definition" : {
+          "val" : "The amount of SDF-1 is determined during development.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
           "val" : "pfey"
@@ -1042,6 +1419,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000086",
       "meta" : {
+        "definition" : {
+          "val" : "A protein is purified from any cell mass or separated cell part.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dictyostelium Assay"
@@ -1058,6 +1439,15 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000087",
       "meta" : {
+        "definition" : {
+          "val" : "Dictyostelium produces SDF-1 and SDF-2 and the SDF assay determines how much SDF is needed for sporulation.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "synonyms" : [ {
+          "pred" : "hasExactSynonym",
+          "val" : "spore differentiating factor",
+          "xrefs" : [ ]
+        } ],
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
           "val" : "2021-04-27T13:13:53Z"
@@ -1072,8 +1462,32 @@
       "type" : "CLASS",
       "lbl" : "SDF assay"
     }, {
+      "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000093",
+      "meta" : {
+        "definition" : {
+          "val" : "Observing and measuring slug motility.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2022-01-27T10:09:11Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dictyostelium Assay"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "slug motility assay"
+    }, {
       "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000091",
       "meta" : {
+        "definition" : {
+          "val" : "The amount of any secreted signaling or other molecule may be measured.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
           "val" : "pfey"
@@ -1090,6 +1504,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000092",
       "meta" : {
+        "definition" : {
+          "val" : "Intracellular determination of any molecule concentration or amount of interest.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
           "val" : "pfey"
@@ -1106,6 +1524,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000090",
       "meta" : {
+        "definition" : {
+          "val" : "The amount of SDF-2 is determined during development.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
           "val" : "pfey"
@@ -1122,6 +1544,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000015",
       "meta" : {
+        "definition" : {
+          "val" : "Testing if cells are viable and propagate.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dictyostelium Assay"
@@ -1145,6 +1571,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000013",
       "meta" : {
+        "definition" : {
+          "val" : "Testing cells for the phagocytosis of yeast particles.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dictyostelium Assay"
@@ -1155,6 +1585,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000014",
       "meta" : {
+        "definition" : {
+          "val" : "After separating RNA molecules by electrophoresis a blot is generated followed by hybridization with complimentary DNA.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dictyostelium Assay"
@@ -1165,6 +1599,19 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000011",
       "meta" : {
+        "definition" : {
+          "val" : "Radio immune assay measures the presence of an antigen with very high sensitivity using an antibody to the antigen labeled with a radioisotope.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "synonyms" : [ {
+          "pred" : "hasExactSynonym",
+          "val" : "RIA",
+          "xrefs" : [ ]
+        }, {
+          "pred" : "hasExactSynonym",
+          "val" : "radioimmunoassay",
+          "xrefs" : [ ]
+        } ],
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dictyostelium Assay"
@@ -1175,6 +1622,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000012",
       "meta" : {
+        "definition" : {
+          "val" : "Testing cells for the phagocytosis of latex beads.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dictyostelium Assay"
@@ -1185,6 +1636,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000010",
       "meta" : {
+        "definition" : {
+          "val" : "Taken samples during growth to count cells leads to the growth curve.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dictyostelium Assay"
@@ -1195,16 +1650,24 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000008",
       "meta" : {
+        "definition" : {
+          "val" : "The component of interest in the sample is labeled with an antibody tagged with a fluorescent marker and observed with a fluorescence microscope.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dictyostelium Assay"
         } ]
       },
       "type" : "CLASS",
-      "lbl" : "immunofluorescence"
+      "lbl" : "immunofluorescence microscopy"
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000009",
       "meta" : {
+        "definition" : {
+          "val" : "Observing and measuring the motility of cells or the slug.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dictyostelium Assay"
@@ -1215,6 +1678,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000006",
       "meta" : {
+        "definition" : {
+          "val" : "Dictyostelium plaques are count on a bacterial lawn, each plaque when diluted enough represents decendants from a single cell.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dictyostelium Assay"
@@ -1225,6 +1692,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDASSAY_0000007",
       "meta" : {
+        "definition" : {
+          "val" : "Counting the nuclei in a cell typically by DAPI staining.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dictyostelium Assay"
@@ -1258,13 +1729,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000003"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000060",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000069"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000064",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000029"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000060",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000069"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000009",
       "pred" : "is_a",
@@ -1330,13 +1801,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000003"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000004",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000069"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000015",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000068"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000004",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000069"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000029",
       "pred" : "is_a",
@@ -1353,14 +1824,6 @@
       "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000070",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000001"
-    }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000027",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000058"
-    }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000034",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000061"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000081",
       "pred" : "is_a",
@@ -1402,13 +1865,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000062"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000007",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000001"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000018",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000024"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000007",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000001"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000008",
       "pred" : "is_a",
@@ -1418,13 +1881,17 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000076"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000035",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000061"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000089",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000087"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000034",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000032"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000093",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000009"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000078",
       "pred" : "is_a",
@@ -1474,6 +1941,10 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000024"
     }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000035",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000031"
+    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000032",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000061"
@@ -1498,17 +1969,17 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000003"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000037",
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000054",
       "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000001"
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000061"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000031",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000061"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000054",
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000037",
       "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000061"
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000001"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000022",
       "pred" : "is_a",
@@ -1518,13 +1989,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000077"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000053",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000068"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000048",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000009"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000053",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000068"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000050",
       "pred" : "is_a",
@@ -1554,13 +2025,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000061"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000052",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000062"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000075",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000074"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000052",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000062"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000066",
       "pred" : "is_a",
@@ -1590,13 +2061,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000058"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000069",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000015"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000045",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000001"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000069",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDASSAY_0000015"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDASSAY_0000072",
       "pred" : "is_a",
@@ -1624,7 +2095,7 @@
         "val" : "OBO-Edit 2.2"
       }, {
         "pred" : "http://www.geneontology.org/formats/oboInOwl#date",
-        "val" : "29:04:2021 18:37"
+        "val" : "27:01:2022 15:12"
       }, {
         "pred" : "http://www.geneontology.org/formats/oboInOwl#default-namespace",
         "val" : "Dictyostelium Assay"
