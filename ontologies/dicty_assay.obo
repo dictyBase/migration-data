@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 29:04:2021 18:37
+date: 27:01:2022 15:12
 saved-by: pfey
 auto-generated-by: OBO-Edit 2.2
 default-namespace: Dictyostelium Assay
@@ -11,157 +11,184 @@ property_value: http://purl.org/dc/terms/license http://creativecommons.org/publ
 [Term]
 id: DDASSAY:0000001
 name: Dictyostelium Assay
+def: "Represents any assay performed in the Dictyostelium field." [DDB:pf]
 
 [Term]
 id: DDASSAY:0000002
 name: attachment to glass
+def: "Testing the attachment of cells to glass." [DDB:pf]
 is_a: DDASSAY:0000076 ! adhesion assay
 
 [Term]
 id: DDASSAY:0000003
 name: biochemical assay
+def: "Any biochemical assay." [DDB:pf]
 is_a: DDASSAY:0000001 ! Dictyostelium Assay
 
 [Term]
 id: DDASSAY:0000004
 name: spore germination assay
+def: "Spores may be induced to germinate by heat shock or DMSO treatment, axenic strain spores germinate also in HL5 medium; in nature and lab spores germinate when sensing folate from bacteria that serve as food,." [DDB:pf]
 is_a: DDASSAY:0000069 ! spore viability test
 
 [Term]
 id: DDASSAY:0000005
 name: cell count
+def: "Counting the cells typically using a hemocytometer." [DDB:pf]
 is_a: DDASSAY:0000068 ! growth and development assay
 
 [Term]
 id: DDASSAY:0000006
 name: plaque count
+def: "Dictyostelium plaques are count on a bacterial lawn, each plaque when diluted enough represents decendants from a single cell." [DDB:pf]
 is_a: DDASSAY:0000068 ! growth and development assay
 
 [Term]
 id: DDASSAY:0000007
 name: nuclei count
+def: "Counting the nuclei in a cell typically by DAPI staining." [DDB:pf]
 is_a: DDASSAY:0000001 ! Dictyostelium Assay
 
 [Term]
 id: DDASSAY:0000008
-name: immunofluorescence
+name: immunofluorescence microscopy
+def: "The component of interest in the sample is labeled with an antibody tagged with a fluorescent marker and observed with a fluorescence microscope." [DDB:pf]
 is_a: DDASSAY:0000028 ! fluorescence microscopy
 
 [Term]
 id: DDASSAY:0000009
 name: motility assay
+def: "Observing and measuring the motility of cells or the slug." [DDB:pf]
 is_a: DDASSAY:0000001 ! Dictyostelium Assay
 
 [Term]
 id: DDASSAY:0000010
 name: growth curve
+def: "Taken samples during growth to count cells leads to the growth curve." [DDB:pf]
 is_a: DDASSAY:0000068 ! growth and development assay
 
 [Term]
 id: DDASSAY:0000011
 name: radio immune assay
+def: "Radio immune assay measures the presence of an antigen with very high sensitivity using an antibody to the antigen labeled with a radioisotope." [DDB:pf]
+synonym: "radioimmunoassay" EXACT []
+synonym: "RIA" EXACT []
 is_a: DDASSAY:0000001 ! Dictyostelium Assay
 
 [Term]
 id: DDASSAY:0000012
 name: uptake of latex beads
+def: "Testing cells for the phagocytosis of latex beads." [DDB:pf]
 is_a: DDASSAY:0000062 ! phagocytosis assay
 
 [Term]
 id: DDASSAY:0000013
 name: uptake of yeast particles
+def: "Testing cells for the phagocytosis of yeast particles." [DDB:pf]
 is_a: DDASSAY:0000062 ! phagocytosis assay
 
 [Term]
 id: DDASSAY:0000014
 name: Northern blot
+def: "After separating RNA molecules by electrophoresis a blot is generated followed by hybridization with complimentary DNA." [DDB:pf]
 is_a: DDASSAY:0000070 ! expression study
 is_a: DDASSAY:0000073 ! electrophoresis and blotting
 
 [Term]
 id: DDASSAY:0000015
 name: viability assay
+def: "Testing if cells are viable and propagate." [DDB:pf]
 is_a: DDASSAY:0000068 ! growth and development assay
 
 [Term]
 id: DDASSAY:0000017
 name: observation of a marker gene
+def: "A gene is marked by any stain or label and observed by microscopy." [DDB:pf]
 is_a: DDASSAY:0000061 ! microscopy
 
 [Term]
 id: DDASSAY:0000018
 name: measurement of surface area
+def: "THe measurement of any surface such as an agar plate or a glass slide." [DDB:pf]
 is_a: DDASSAY:0000024 ! size measurement
 
 [Term]
 id: DDASSAY:0000019
 name: attachment to plastic
+def: "Testing the attachment of cells to plastic." [DDB:pf]
 is_a: DDASSAY:0000076 ! adhesion assay
 
 [Term]
 id: DDASSAY:0000020
 name: agglutination assay
+def: "Agglutination is the clumping of cells, in Dictyostelium e.g. the ampA gene plays a role in cell agglutination during growth." [DDB:pf]
 is_a: DDASSAY:0000068 ! growth and development assay
 
 [Term]
 id: DDASSAY:0000021
 name: phalloidin staining
+def: "Phalloidin is often conjugated with a dye to label for example actin." [DDB:pf]
 is_a: DDASSAY:0000029 ! staining
 
 [Term]
 id: DDASSAY:0000022
 name: developmental time course
+def: "Assessing the timing of fruiting body development." [DDB:pf]
 is_a: DDASSAY:0000066 ! fruiting body development
 
 [Term]
 id: DDASSAY:0000023
 name: micropipette chemotaxis assay
+def: "In a micropipette chemotaxis assay, typically cAMP is in the micropipette and moving the tip around cells keep turning towards the source." [DDB:pf]
 is_a: DDASSAY:0000009 ! motility assay
 
 [Term]
 id: DDASSAY:0000024
 name: size measurement
+def: "Measurement of any size." [DDB:pf]
 is_a: DDASSAY:0000001 ! Dictyostelium Assay
 
 [Term]
 id: DDASSAY:0000025
 name: electron microscopy
+def: "Observing a sample by electron microscopy." [DDB:pf]
 is_a: DDASSAY:0000061 ! microscopy
 
 [Term]
 id: DDASSAY:0000026
 name: relative diameter measurement
+def: "Measuring the diameter of any object." [DDB:pf]
 is_a: DDASSAY:0000024 ! size measurement
-
-[Term]
-id: DDASSAY:0000027
-name: real time PCR
-is_a: DDASSAY:0000058 ! polymerase chain reaction (PCR)
 
 [Term]
 id: DDASSAY:0000028
 name: fluorescence microscopy
+def: "Observing a sample by fluorescence microscopy." [DDB:pf]
 is_a: DDASSAY:0000061 ! microscopy
 
 [Term]
 id: DDASSAY:0000029
 name: staining
+def: "Using any stain to mark a sample." [DDB:pf]
 is_a: DDASSAY:0000001 ! Dictyostelium Assay
 
 [Term]
 id: DDASSAY:0000030
 name: Western blot
+def: "After protein electrophoresis and generating a blot, visualizing target protein using a primary and secondary antibody." [DDB:pf]
 is_a: DDASSAY:0000073 ! electrophoresis and blotting
 
 [Term]
 id: DDASSAY:0000031
 name: dark field microscopy
+def: "Observing a sample by dark field microscopy." [DDB:pf]
 is_a: DDASSAY:0000061 ! microscopy
 
 [Term]
 id: DDASSAY:0000032
 name: bright field microscopy
 alt_id: DDASSAY:0000016
+def: "Observing a sample by bright field microscopy." [DDB:pf]
 synonym: "light microscopy" EXACT []
 is_a: DDASSAY:0000061 ! microscopy
 
@@ -169,73 +196,92 @@ is_a: DDASSAY:0000061 ! microscopy
 id: DDASSAY:0000034
 name: high throughput bright field microscopy
 alt_id: DDASSAY:0000033
+def: "High throughput microscopy is a powerful tool to analyze cellular dynamics requiring automated processing; this is bright field microscopy." [DDB:pf]
 synonym: "high throughput light microscopy" EXACT []
-is_a: DDASSAY:0000061 ! microscopy
+is_a: DDASSAY:0000032 ! bright field microscopy
 
 [Term]
 id: DDASSAY:0000035
 name: high throughput dark field microscopy
-is_a: DDASSAY:0000061 ! microscopy
+def: "High throughput microscopy is a powerful tool to analyze cellular dynamics requiring automated processing; this is dark field microscopy." [DDB:pf]
+is_a: DDASSAY:0000031 ! dark field microscopy
 
 [Term]
 id: DDASSAY:0000036
 name: in situ hybridization
+def: "In situ hybridization is a  technique in which a single-stranded DNA or RNA sequence (a probe) is allowed to form complementary base pairs with DNA or RNA present in a tissue." [DDB:pf]
 is_a: DDASSAY:0000070 ! expression study
 
 [Term]
 id: DDASSAY:0000037
-name: fluorescence activated cell sorting (FACS)
+name: fluorescence activated cell sorting
+def: "The objective of FACS is to physically sort a heterogeneous cell sample, one labeled fluorescent the other  not labeled, into separate populations." [DDB:pf]
+synonym: "FACS" EXACT []
 is_a: DDASSAY:0000001 ! Dictyostelium Assay
 
 [Term]
 id: DDASSAY:0000038
 name: immunoblotting
+def: "After separation of proteins by electrophoresis a blot is generated and stained with antibodies." [DDB:pf]
 is_a: DDASSAY:0000073 ! electrophoresis and blotting
 
 [Term]
 id: DDASSAY:0000039
 name: agarose overlay
+def: "Agarose overlay of cells under a thin agarose sheet to slightly flatten the cells and keeping them moist during microscopy." [DDB:pf]
 is_a: DDASSAY:0000001 ! Dictyostelium Assay
 
 [Term]
 id: DDASSAY:0000040
-name: reflection interference contrast microscopy (RICM)
+name: reflection interference contrast microscopy
+def: "Observing a sample by reflection interference contrast microscopy." [DDB:pf]
+synonym: "RICM" EXACT []
 is_a: DDASSAY:0000061 ! microscopy
 
 [Term]
 id: DDASSAY:0000041
 name: confocal microscopy
+def: "Observing a sample by confocal microscopy." [DDB:pf]
 is_a: DDASSAY:0000061 ! microscopy
 
 [Term]
 id: DDASSAY:0000042
 name: biochemical fractionation
+def: "In biochemical fractionation cells or enriched parts of cells are separated into proteins or complexes by centrifugation using a dense gradient." [DDB:pf]
 is_a: DDASSAY:0000003 ! biochemical assay
 is_a: DDASSAY:0000081 ! centrifugation
 
 [Term]
 id: DDASSAY:0000043
 name: SDS protein gel electrophoresis
+def: "The combination of sodium dodecyl sulfate (SDS) and polyacrylamide gel eliminates the influence of structure and charge, and proteins are separated solely by their molecular weight." [DDB:pf]
+synonym: "sodium dodecyl sulphate polyacrylamide gel electrophoresis" EXACT []
 is_a: DDASSAY:0000073 ! electrophoresis and blotting
 
 [Term]
 id: DDASSAY:0000044
 name: 2D gel electrophoresis
+def: "In 2D electrophoresis, first proteins are separated by the pI (soelectric point) value and second  by their relative molecular weight." [DDB:pf]
+synonym: "Two-dimensional gel electrophoresis" EXACT []
 is_a: DDASSAY:0000073 ! electrophoresis and blotting
 
 [Term]
 id: DDASSAY:0000045
 name: immune precipitation
+def: "In immunoprecipitation  (IP) a protein is bound by a specific antibody that is often immobilized on beads and thus purified from a solution of different proteins." [DDB:pf]
+synonym: "immunoprecipitation" EXACT []
 is_a: DDASSAY:0000001 ! Dictyostelium Assay
 
 [Term]
 id: DDASSAY:0000046
 name: slug grafting
+def: "The Dictyostelium slug can be transplanted and grafted and positioned cell types de-differentiate." [DDB:pf]
 is_a: DDASSAY:0000066 ! fruiting body development
 
 [Term]
 id: DDASSAY:0000047
 name: segregation  assay
+def: "Chimeric cell mixtures often result in abnormal kin recognition and cell population might segregate during development." [DDB:pf]
 synonym: "co-aggregation" BROAD []
 is_a: DDASSAY:0000068 ! growth and development assay
 created_by: pfey
@@ -244,39 +290,47 @@ creation_date: 2015-06-08T16:31:06Z
 [Term]
 id: DDASSAY:0000048
 name: gradient chemotaxis assay
+def: "Creating an attractant gradient to test cell motility towards this source." [DDB:pf]
 is_a: DDASSAY:0000009 ! motility assay
 
 [Term]
 id: DDASSAY:0000049
 name: chemotaxis chamber assay
+def: "Testing competent cells in a chemotaxis chamber." [DDB:pf]
 is_a: DDASSAY:0000009 ! motility assay
 
 [Term]
 id: DDASSAY:0000050
 name: uptake of polystyrene particles
+def: "Testing cells for the phagocytosis of polystyrene particles." [DDB:pf]
 is_a: DDASSAY:0000062 ! phagocytosis assay
 
 [Term]
 id: DDASSAY:0000051
 name: phase contrast microscopy
+def: "Observing a sample by phase contrast microscopy." [DDB:pf]
 is_a: DDASSAY:0000061 ! microscopy
 
 [Term]
 id: DDASSAY:0000052
 name: uptake of FITC-dextran
+def: "Testing cells for the phagocytosis of FITC-dextran." [DDB:pf]
 synonym: "fluid-phase marker incubation" RELATED []
 is_a: DDASSAY:0000062 ! phagocytosis assay
 
 [Term]
 id: DDASSAY:0000053
 name: monolayer culture
+def: "In a monolayer culture cells do not overlap and are not too dense but form an even lawn." [DDB:pf]
 is_a: DDASSAY:0000068 ! growth and development assay
 created_by: pfey
 creation_date: 2012-10-02T12:23:38Z
 
 [Term]
 id: DDASSAY:0000054
-name: total internal reflection fluorescence microscopy (TIRF)
+name: total internal reflection fluorescence microscopy
+def: "Observing a sample by total internal reflection fluorescence microscopy." [DDB:pf]
+synonym: "TIRF" EXACT []
 is_a: DDASSAY:0000061 ! microscopy
 created_by: pfey
 creation_date: 2012-10-02T12:24:20Z
@@ -284,13 +338,16 @@ creation_date: 2012-10-02T12:24:20Z
 [Term]
 id: DDASSAY:0000055
 name: reverse transcriptase PCR
-is_a: DDASSAY:0000058 ! polymerase chain reaction (PCR)
+def: "Used to amplify RNA targets; the RNA template is converted into cDNA by the enzyme reverse transcriptase and the cDNA serves as a template for amplification using PCR." [DDB:pf]
+synonym: "RT-PCR" EXACT []
+is_a: DDASSAY:0000058 ! polymerase chain reaction
 created_by: pfey
 creation_date: 2012-10-02T12:31:35Z
 
 [Term]
 id: DDASSAY:0000056
 name: beta-galactosidase staining
+def: "Beta-galactosidase staining is used on fixed specimen." [DDB:pf]
 is_a: DDASSAY:0000029 ! staining
 created_by: pfey
 creation_date: 2012-10-02T12:41:37Z
@@ -298,20 +355,25 @@ creation_date: 2012-10-02T12:41:37Z
 [Term]
 id: DDASSAY:0000057
 name: uptake of TRITC-dextran
+def: "Testing cells for the phagocytosis of TRITC-dextran." [DDB:pf]
 is_a: DDASSAY:0000062 ! phagocytosis assay
 created_by: pfey
 creation_date: 2013-01-28T17:53:39Z
 
 [Term]
 id: DDASSAY:0000058
-name: polymerase chain reaction (PCR)
+name: polymerase chain reaction
+def: "PCR allows the amplification of trace DNA samples into massive copies using specific primers." [DDB:pf]
+synonym: "PCR" EXACT []
 is_a: DDASSAY:0000001 ! Dictyostelium Assay
 created_by: pfey
 creation_date: 2015-12-11T14:55:47Z
 
 [Term]
 id: DDASSAY:0000059
-name: differential interference contrast microscopy (DIC)
+name: differential interference contrast microscopy
+def: "Observing a sample by differential interference contrast microscopy." [DDB:pf]
+synonym: "DIC" EXACT []
 is_a: DDASSAY:0000061 ! microscopy
 created_by: pfey
 creation_date: 2014-01-28T16:04:02Z
@@ -319,6 +381,7 @@ creation_date: 2014-01-28T16:04:02Z
 [Term]
 id: DDASSAY:0000060
 name: spore count
+def: "Counting spores in disrupted spore heads." [DDB:pf]
 is_a: DDASSAY:0000069 ! spore viability test
 created_by: pfey
 creation_date: 2014-10-06T16:29:34Z
@@ -326,6 +389,7 @@ creation_date: 2014-10-06T16:29:34Z
 [Term]
 id: DDASSAY:0000061
 name: microscopy
+def: "Investigating samples by any kind of microscopy." [DDB:pf]
 is_a: DDASSAY:0000001 ! Dictyostelium Assay
 created_by: pfey
 creation_date: 2014-11-13T14:41:17Z
@@ -333,6 +397,7 @@ creation_date: 2014-11-13T14:41:17Z
 [Term]
 id: DDASSAY:0000062
 name: phagocytosis assay
+def: "Testing the phagocytosis rate of cells." [DDB:pf]
 is_a: DDASSAY:0000001 ! Dictyostelium Assay
 created_by: pfey
 creation_date: 2014-11-13T14:48:06Z
@@ -340,6 +405,7 @@ creation_date: 2014-11-13T14:48:06Z
 [Term]
 id: DDASSAY:0000063
 name: neutral red staining
+def: "The prestalk region of the Dictyostelium slug stains strongly with neutral red." [DDB:pf]
 is_a: DDASSAY:0000029 ! staining
 created_by: pfey
 creation_date: 2014-11-13T15:24:06Z
@@ -347,6 +413,7 @@ creation_date: 2014-11-13T15:24:06Z
 [Term]
 id: DDASSAY:0000064
 name: calcofluor white staining
+def: "Calcofluor white stains cellulose; the Dictyostelium stalk contains cellulose." [DDB:pf]
 is_a: DDASSAY:0000029 ! staining
 created_by: pfey
 creation_date: 2014-11-13T15:24:22Z
@@ -354,6 +421,7 @@ creation_date: 2014-11-13T15:24:22Z
 [Term]
 id: DDASSAY:0000065
 name: beta-glucoronidase staining
+def: "Beta-glucoronidase staining is used on fixed specimen." [DDB:pf]
 is_a: DDASSAY:0000029 ! staining
 created_by: pfey
 creation_date: 2014-11-13T15:31:12Z
@@ -361,6 +429,8 @@ creation_date: 2014-11-13T15:31:12Z
 [Term]
 id: DDASSAY:0000066
 name: fruiting body development
+def: "Observing quality and timing of fruiting body development." [DDB:pf]
+synonym: "sorocarp development" EXACT []
 is_a: DDASSAY:0000068 ! growth and development assay
 created_by: pfey
 creation_date: 2014-11-13T15:35:03Z
@@ -368,6 +438,7 @@ creation_date: 2014-11-13T15:35:03Z
 [Term]
 id: DDASSAY:0000067
 name: early development  submerged
+def: "Early development submerged in buffer." [DDB:pf]
 is_a: DDASSAY:0000085 ! development submerged
 created_by: pfey
 creation_date: 2014-11-13T15:38:36Z
@@ -375,6 +446,7 @@ creation_date: 2014-11-13T15:38:36Z
 [Term]
 id: DDASSAY:0000068
 name: growth and development assay
+def: "Measuring growth rate and investigating development time and quality." [DDB:pf]
 is_a: DDASSAY:0000001 ! Dictyostelium Assay
 created_by: pfey
 creation_date: 2014-11-21T15:28:07Z
@@ -382,6 +454,7 @@ creation_date: 2014-11-21T15:28:07Z
 [Term]
 id: DDASSAY:0000069
 name: spore viability test
+def: "Spore viability is often tested with detergent treatment, or germination experiments." [DDB:pf]
 is_a: DDASSAY:0000015 ! viability assay
 created_by: pfey
 creation_date: 2014-11-21T15:33:21Z
@@ -389,13 +462,15 @@ creation_date: 2014-11-21T15:33:21Z
 [Term]
 id: DDASSAY:0000070
 name: expression study
+def: "Any study to determine gene expression." [DDB:pf]
 is_a: DDASSAY:0000001 ! Dictyostelium Assay
 created_by: pfey
 creation_date: 2014-11-21T15:36:13Z
 
 [Term]
 id: DDASSAY:0000071
-name: microRNA
+name: microRNA analysis
+def: "Investigating or testing any step in microRNA processing." [DDB:pf]
 is_a: DDASSAY:0000070 ! expression study
 is_a: DDASSAY:0000074 ! large scale analysis
 created_by: pfey
@@ -404,6 +479,7 @@ creation_date: 2014-11-21T15:39:14Z
 [Term]
 id: DDASSAY:0000072
 name: RNAseq
+def: "RNA-Seq uses next-generation sequencing to reveal the presence and quantity of RNA in a biological sample at a given moment." [DDB:pf]
 is_a: DDASSAY:0000070 ! expression study
 is_a: DDASSAY:0000074 ! large scale analysis
 created_by: pfey
@@ -412,6 +488,7 @@ creation_date: 2014-11-21T15:39:36Z
 [Term]
 id: DDASSAY:0000073
 name: electrophoresis and blotting
+def: "Electrophoresis separates molecules and a blot on a membrane may be generated." [DDB:pf]
 is_a: DDASSAY:0000001 ! Dictyostelium Assay
 created_by: pfey
 creation_date: 2014-11-21T15:42:07Z
@@ -419,6 +496,7 @@ creation_date: 2014-11-21T15:42:07Z
 [Term]
 id: DDASSAY:0000074
 name: large scale analysis
+def: "Any analysis of a large scale experiment." [DDB:pf]
 is_a: DDASSAY:0000001 ! Dictyostelium Assay
 created_by: pfey
 creation_date: 2014-11-21T15:46:21Z
@@ -426,6 +504,7 @@ creation_date: 2014-11-21T15:46:21Z
 [Term]
 id: DDASSAY:0000075
 name: mass spectrometry
+def: "Mass spectrometry is an analytical tool useful for measuring the mass-to-charge ratio (m/z) of one or more molecules present in a sample." [DDB:pf]
 is_a: DDASSAY:0000074 ! large scale analysis
 created_by: pfey
 creation_date: 2014-11-21T15:50:03Z
@@ -433,6 +512,7 @@ creation_date: 2014-11-21T15:50:03Z
 [Term]
 id: DDASSAY:0000076
 name: adhesion assay
+def: "Testing the adhesion of cells to a substrate." [DDB:pf]
 is_a: DDASSAY:0000001 ! Dictyostelium Assay
 created_by: pfey
 creation_date: 2014-11-21T15:51:32Z
@@ -440,6 +520,7 @@ creation_date: 2014-11-21T15:51:32Z
 [Term]
 id: DDASSAY:0000077
 name: transformation efficiency test
+def: "Determining the efficiency of a transformation assay." [DDB:pf]
 is_a: DDASSAY:0000001 ! Dictyostelium Assay
 created_by: pfey
 creation_date: 2015-02-13T11:20:56Z
@@ -447,6 +528,7 @@ creation_date: 2015-02-13T11:20:56Z
 [Term]
 id: DDASSAY:0000078
 name: REMI efficiency test
+def: "Determining the efficiency of restriction enzyme mediated transformation." [DDB:pf]
 synonym: "restriction enzyme mediated transformation efficiency test" EXACT []
 is_a: DDASSAY:0000077 ! transformation efficiency test
 created_by: pfey
@@ -455,6 +537,7 @@ creation_date: 2015-02-13T11:21:44Z
 [Term]
 id: DDASSAY:0000079
 name: HR efficiency test
+def: "Determining the efficiency of homologous recombination." [DDB:pf]
 synonym: "homologous recombination efficiency test" EXACT []
 is_a: DDASSAY:0000077 ! transformation efficiency test
 created_by: pfey
@@ -462,14 +545,20 @@ creation_date: 2015-02-13T11:25:25Z
 
 [Term]
 id: DDASSAY:0000080
-name: quantitative real time PCR (qRT-PCR)
-is_a: DDASSAY:0000058 ! polymerase chain reaction (PCR)
+name: quantitative real time PCR
+alt_id: DDASSAY:0000027
+def: "Real-time PCR combines PCR amplification and detection into a single step; for quantification of the PCR product an intercalating dye or a hydrolysis-based probe is commonly used." [DDB:pf]
+synonym: "qPCR" EXACT []
+synonym: "qRT-PCR" EXACT []
+synonym: "real time PCR" NARROW []
+is_a: DDASSAY:0000058 ! polymerase chain reaction
 created_by: pfey
 creation_date: 2015-12-11T14:56:31Z
 
 [Term]
 id: DDASSAY:0000081
 name: centrifugation
+def: "Centrifugation separates components in a tube by size and / or weight." [DDB:pf]
 is_a: DDASSAY:0000001 ! Dictyostelium Assay
 created_by: pfey
 creation_date: 2015-12-18T18:24:11Z
@@ -477,6 +566,7 @@ creation_date: 2015-12-18T18:24:11Z
 [Term]
 id: DDASSAY:0000082
 name: time-lapse microscopy
+def: "During time-lapse microscopy a picture is automatically taken in specific time intervals." [DDB:pf]
 is_a: DDASSAY:0000061 ! microscopy
 created_by: pfey
 creation_date: 2017-02-08T17:59:31Z
@@ -484,6 +574,7 @@ creation_date: 2017-02-08T17:59:31Z
 [Term]
 id: DDASSAY:0000083
 name: ion measurement
+def: "Measurement of any ion concentration intra- or extracellular." [DDB:pf]
 is_a: DDASSAY:0000003 ! biochemical assay
 created_by: pfey
 creation_date: 2020-05-11T18:35:44Z
@@ -491,6 +582,7 @@ creation_date: 2020-05-11T18:35:44Z
 [Term]
 id: DDASSAY:0000084
 name: propidium iodide staining
+def: "Propidium iodide staining is often used to determine cell death in Dictyostelium." [DDB:pf]
 is_a: DDASSAY:0000029 ! staining
 created_by: pfey
 creation_date: 2020-05-11T18:36:16Z
@@ -498,6 +590,7 @@ creation_date: 2020-05-11T18:36:16Z
 [Term]
 id: DDASSAY:0000085
 name: development submerged
+def: "Development submerged in buffer." [DDB:pf]
 is_a: DDASSAY:0000066 ! fruiting body development
 created_by: pfey
 creation_date: 2020-05-11T18:40:14Z
@@ -505,6 +598,7 @@ creation_date: 2020-05-11T18:40:14Z
 [Term]
 id: DDASSAY:0000086
 name: protein purification
+def: "A protein is purified from any cell mass or separated cell part." [DDB:pf]
 is_a: DDASSAY:0000003 ! biochemical assay
 created_by: pfey
 creation_date: 2021-04-27T13:13:24Z
@@ -512,6 +606,8 @@ creation_date: 2021-04-27T13:13:24Z
 [Term]
 id: DDASSAY:0000087
 name: SDF assay
+def: "Dictyostelium produces SDF-1 and SDF-2 and the SDF assay determines how much SDF is needed for sporulation." [DDB:pf]
+synonym: "spore differentiating factor" EXACT []
 is_a: DDASSAY:0000086 ! protein purification
 created_by: pfey
 creation_date: 2021-04-27T13:13:53Z
@@ -519,6 +615,7 @@ creation_date: 2021-04-27T13:13:53Z
 [Term]
 id: DDASSAY:0000088
 name: early development
+def: "Observing quality and timing of early development." [DDB:pf]
 is_a: DDASSAY:0000066 ! fruiting body development
 created_by: pfey
 creation_date: 2021-04-27T13:17:25Z
@@ -526,6 +623,7 @@ creation_date: 2021-04-27T13:17:25Z
 [Term]
 id: DDASSAY:0000089
 name: SDF-1 measurement
+def: "The amount of SDF-1 is determined during development." [DDB:pf]
 is_a: DDASSAY:0000087 ! SDF assay
 created_by: pfey
 creation_date: 2021-04-27T13:18:11Z
@@ -533,6 +631,7 @@ creation_date: 2021-04-27T13:18:11Z
 [Term]
 id: DDASSAY:0000090
 name: SDF-2 measurement
+def: "The amount of SDF-2 is determined during development." [DDB:pf]
 is_a: DDASSAY:0000087 ! SDF assay
 created_by: pfey
 creation_date: 2021-04-27T13:18:43Z
@@ -540,6 +639,7 @@ creation_date: 2021-04-27T13:18:43Z
 [Term]
 id: DDASSAY:0000091
 name: extracellular measurement
+def: "The amount of any secreted signaling or other molecule may be measured." [DDB:pf]
 is_a: DDASSAY:0000003 ! biochemical assay
 created_by: pfey
 creation_date: 2021-04-29T18:33:17Z
@@ -547,7 +647,16 @@ creation_date: 2021-04-29T18:33:17Z
 [Term]
 id: DDASSAY:0000092
 name: intracellular measurement
+def: "Intracellular determination of any molecule concentration or amount of interest." [DDB:pf]
 is_a: DDASSAY:0000003 ! biochemical assay
 created_by: pfey
 creation_date: 2021-04-29T18:34:57Z
+
+[Term]
+id: DDASSAY:0000093
+name: slug motility assay
+def: "Observing and measuring slug motility." [DDB:pf]
+is_a: DDASSAY:0000009 ! motility assay
+created_by: pfey
+creation_date: 2022-01-27T10:09:11Z
 
