@@ -4,14 +4,9 @@
       "id" : "http://purl.obolibrary.org/obo/DDGENMOD_0000008",
       "meta" : {
         "definition" : {
-          "val" : "Any fusion of two or more genes, or parts of genes, expressed from a plasmid or under the control of a promoter other than any of the participating genes' promoters.",
+          "val" : "The addition of one or more nucleotides in the genomic sequence, not in a specific gene.",
           "xrefs" : [ "DDB:PF" ]
         },
-        "synonyms" : [ {
-          "pred" : "hasNarrowSynonym",
-          "val" : "chimera",
-          "xrefs" : [ ]
-        } ],
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "genetic modification"
@@ -42,7 +37,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDGENMOD_0000006",
       "meta" : {
         "definition" : {
-          "val" : "One or more mutations in the gene sequence resulting in the replacement of an equivalent number of residues in the gene product sequence. Substitution mutations can result in missense mutations, nonsense mutations or silent mutations.",
+          "val" : "One or more mutations in the gene sequence resulting in the replacement of an equivalent number of residues in the gene product sequence; substitution mutations can result in missense mutations, nonsense mutations or silent mutations.",
           "xrefs" : [ "DDB:PF" ]
         },
         "basicPropertyValues" : [ {
@@ -55,6 +50,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDGENMOD_0000005",
       "meta" : {
+        "definition" : {
+          "val" : "The removal of one or more nucleotides in the genomic sequence with the simultaneous addition of one or more nucleotides of different origin in this sequence.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "genetic modification"
@@ -98,7 +97,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDGENMOD_0000010",
       "meta" : {
         "definition" : {
-          "val" : "Any gene expressed from a plasmid or under the control of a promoter other than its own promoter with the removal of one or more nucleotides in its gene sequence.",
+          "val" : "The deletion of one or more nucleotides in the genomic sequence, not in a specific gene.",
           "xrefs" : [ "DDB:PF" ]
         },
         "basicPropertyValues" : [ {
@@ -151,16 +150,6 @@
       "type" : "CLASS",
       "lbl" : "endogenous mutation"
     }, {
-      "id" : "http://purl.obolibrary.org/obo/DDGENMOD_0000001",
-      "meta" : {
-        "basicPropertyValues" : [ {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
-          "val" : "genetic modification"
-        } ]
-      },
-      "type" : "CLASS",
-      "lbl" : "genetic modification"
-    }, {
       "id" : "http://purl.obolibrary.org/obo/DDGENMOD_0000012",
       "meta" : {
         "definition" : {
@@ -168,11 +157,11 @@
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
-          "val" : "pfey"
-        }, {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "genetic modification"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
         }, {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
           "val" : "2017-12-18T12:03:57Z"
@@ -180,6 +169,20 @@
       },
       "type" : "CLASS",
       "lbl" : "genomic insertion"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDGENMOD_0000001",
+      "meta" : {
+        "definition" : {
+          "val" : "The genetic modification during genetic mutation of the strain.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "genetic modification"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "genetic modification"
     }, {
       "id" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
       "type" : "PROPERTY",
@@ -196,43 +199,27 @@
       "id" : "http://purl.obolibrary.org/obo/IAO_0000115",
       "type" : "PROPERTY",
       "lbl" : "definition"
-    }, {
-      "id" : "http://www.geneontology.org/formats/oboInOwl#hasNarrowSynonym",
-      "type" : "PROPERTY",
-      "lbl" : "has_narrow_synonym"
     } ],
     "edges" : [ {
       "sub" : "http://purl.obolibrary.org/obo/DDGENMOD_0000008",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDGENMOD_0000012"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDGENMOD_0000004",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDGENMOD_0000012"
-    }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDGENMOD_0000012",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDGENMOD_0000001"
-    }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDGENMOD_0000006",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDGENMOD_0000002"
-    }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDGENMOD_0000005",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDGENMOD_0000008"
-    }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDGENMOD_0000008",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDGENMOD_0000007"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDGENMOD_0000005",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDGENMOD_0000010"
     }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDGENMOD_0000004",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDGENMOD_0000012"
+    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDGENMOD_0000003",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDGENMOD_0000002"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDGENMOD_0000012",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDGENMOD_0000001"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDGENMOD_0000011",
       "pred" : "is_a",
@@ -250,9 +237,17 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDGENMOD_0000004"
     }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDGENMOD_0000006",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDGENMOD_0000002"
+    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDGENMOD_0000004",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDGENMOD_0000002"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDGENMOD_0000005",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDGENMOD_0000008"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDGENMOD_0000010",
       "pred" : "is_a",
@@ -261,6 +256,10 @@
       "sub" : "http://purl.obolibrary.org/obo/DDGENMOD_0000007",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDGENMOD_0000001"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDGENMOD_0000008",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDGENMOD_0000007"
     } ],
     "id" : "http://purl.obolibrary.org/obo/ddgenmod.owl",
     "meta" : {
@@ -280,7 +279,7 @@
         "val" : "OBO-Edit 2.2"
       }, {
         "pred" : "http://www.geneontology.org/formats/oboInOwl#date",
-        "val" : "18:12:2017 12:09"
+        "val" : "27:01:2022 17:41"
       }, {
         "pred" : "http://www.geneontology.org/formats/oboInOwl#default-namespace",
         "val" : "genetic modification"
