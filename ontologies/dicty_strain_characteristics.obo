@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 13:01:2022 14:27
+date: 27:01:2022 18:18
 saved-by: pfey
 auto-generated-by: OBO-Edit 2.2
 default-namespace: dicty_strain_characteristics
@@ -11,6 +11,7 @@ property_value: http://purl.org/dc/terms/license http://creativecommons.org/publ
 [Term]
 id: DDSTRAINCHAR:0000001
 name: strain characteristic
+def: "Describes any characteristics of mutated or native strains." [DDB:pf]
 
 [Term]
 id: DDSTRAINCHAR:0000002
@@ -405,3 +406,4 @@ synonym: "aequorin marked" EXACT []
 is_a: DDSTRAINCHAR:0000035 ! marked
 created_by: pfey
 creation_date: 2019-03-14T15:34:02Z
+
