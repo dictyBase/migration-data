@@ -125,7 +125,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDANNO_0000005",
       "meta" : {
         "definition" : {
-          "val" : "An annotation that describes the product of an biological entity.",
+          "val" : "An annotation that describes the product of a biological entity.",
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
@@ -206,7 +206,7 @@
         },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
-          "val" : "Petra"
+          "val" : "pfey"
         }, {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
           "val" : "2019-06-12T16:24:07Z"
@@ -245,11 +245,11 @@
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
-          "val" : "Petra"
-        }, {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
           "val" : "2019-06-12T16:12:35Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
         }, {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "dicty_annotation"
@@ -286,7 +286,7 @@
         },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
-          "val" : "Petra"
+          "val" : "pfey"
         }, {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
           "val" : "2019-06-07T09:29:41Z"
@@ -366,7 +366,7 @@
         },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
-          "val" : "Petra"
+          "val" : "pfey"
         }, {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "dicty_annotation"
@@ -393,11 +393,11 @@
           "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
           "val" : "2019-06-07T09:30:42Z"
         }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "dicty_annotation"
-        }, {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
-          "val" : "Petra"
         } ]
       },
       "type" : "CLASS",
@@ -413,11 +413,11 @@
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "dicty_annotation"
         }, {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
-          "val" : "Petra"
-        }, {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
           "val" : "2019-06-07T09:32:55Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
         } ]
       },
       "type" : "CLASS",
@@ -480,6 +480,10 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDANNO_0000001"
     }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDANNO_0000020",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDANNO_0000004"
+    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDANNO_0000014",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDANNO_0000011"
@@ -487,10 +491,6 @@
       "sub" : "http://purl.obolibrary.org/obo/DDANNO_0000015",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDANNO_0000001"
-    }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDANNO_0000020",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDANNO_0000004"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDANNO_0000016",
       "pred" : "is_a",
