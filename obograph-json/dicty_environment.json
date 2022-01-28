@@ -462,6 +462,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000022",
       "meta" : {
+        "definition" : {
+          "val" : "In the presence of the antibiotic actinomycin D.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dicty Environment"
@@ -1472,13 +1476,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000001"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000005",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000056"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000039",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000067"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000005",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000056"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000049",
       "pred" : "is_a",
@@ -1496,13 +1500,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000001"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000015",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000054"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000027",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000067"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000015",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000054"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000037",
       "pred" : "is_a",
@@ -1568,10 +1572,6 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000040"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000034",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000055"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000022",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000054"
@@ -1584,6 +1584,10 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000054"
     }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000034",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000055"
+    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000029",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000008"
@@ -1592,7 +1596,7 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000053"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000010",
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000033",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000054"
     }, {
@@ -1600,7 +1604,7 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000053"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000033",
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000010",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000054"
     }, {
@@ -1724,13 +1728,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000067"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000064",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000063"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000075",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000074"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000064",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000063"
     } ],
     "id" : "http://purl.obolibrary.org/obo/ddenvir.owl",
     "meta" : {
@@ -1750,7 +1754,7 @@
         "val" : "OBO-Edit 2.2"
       }, {
         "pred" : "http://www.geneontology.org/formats/oboInOwl#date",
-        "val" : "27:01:2022 18:21"
+        "val" : "27:01:2022 18:35"
       }, {
         "pred" : "http://www.geneontology.org/formats/oboInOwl#default-namespace",
         "val" : "Dicty Environment"
