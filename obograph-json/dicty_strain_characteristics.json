@@ -794,6 +794,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000001",
       "meta" : {
+        "definition" : {
+          "val" : "Describes any characteristics of mutated or native strains.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "dicty_strain_characteristics"
@@ -1119,13 +1123,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000057"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000046",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000056"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000047",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000046"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000046",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000056"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDSTRAINCHAR_0000003",
       "pred" : "is_a",
@@ -1281,7 +1285,7 @@
         "val" : "OBO-Edit 2.2"
       }, {
         "pred" : "http://www.geneontology.org/formats/oboInOwl#date",
-        "val" : "13:01:2022 14:27"
+        "val" : "27:01:2022 18:18"
       }, {
         "pred" : "http://www.geneontology.org/formats/oboInOwl#default-namespace",
         "val" : "dicty_strain_characteristics"
