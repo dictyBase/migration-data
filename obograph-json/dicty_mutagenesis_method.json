@@ -163,6 +163,10 @@
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDMUMET_0000004",
       "meta" : {
+        "definition" : {
+          "val" : "Expression may be regulated by changing or swapping the promoter, or by a method such as the Tet on/off system.",
+          "xrefs" : [ "DDB:pf" ]
+        },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dd Mutagenesis Method"
@@ -721,7 +725,7 @@
         "val" : "OBO-Edit 2.2"
       }, {
         "pred" : "http://www.geneontology.org/formats/oboInOwl#date",
-        "val" : "27:01:2022 17:27"
+        "val" : "07:06:2022 11:02"
       }, {
         "pred" : "http://www.geneontology.org/formats/oboInOwl#default-namespace",
         "val" : "Dd Mutagenesis Method"
