@@ -74,7 +74,7 @@ nedanik@rice.edu,Neda,Nikravan,,,"grad student","Rice University",,"  ",,TX,,USA
 M.Zaki@beatson.gla.ac.uk,Mehreen,Zaki,,,Post-Doc,"CR-UK Beatson Institute for Cancer Research",,"  ",,,,"United Kingdom",,Y,,
 c.l.scott@dundee.ac.uk,Claire,Scott,,"Molecular Biologist",Post-Doc,"University of Dundee",,"  ",,,,UK,,N,,
 spencer-kuhl@uiowa.edu,Spencer,Kuhl,,,,"The University of Iowa","014 Biology Building East","University of Iowa Campus  ","Iowa City",,,"United States",52242,N,"319 335-2883","computer assisted motion and shape dynamics analysis"
-david-soll@uiowa.edu,David,Soll,,,,"University of Iowa",,"  ",,,,USA,,N,,
+david-soll@uiowa.edu,David,Soll,,,,"University of Iowa",,"  ",,,,USA,,N,,"Emeritus Professor"
 macro.laura@gmail.com,Laura,Macro,,,,"Rockefeller University","1230 York Ave","Box #346 New York ",10021,,,USA,,Y,,
 mrodr126@fiu.edu,Marbelys,Rodriguez,,student,"graduate student","Florida International University","620 SE 1st Pl","  ",Hialeah,,,"United States",33010,Y,3052984641,
 keshet@math.ubc.ca,Leah,Keshet,,"Faculty member (Applied Math)",Professor,"U British Columbia","1984 Mathematics Road","UBC  ",Vancouver,,,Canada,"V6T 1Z2",N,"604 8225889","I am interested in modeling the cytoskeleton in motility and chemotaxis. I am particularly intersted in the signaling pathways that regulate polarization, gradient sensing, and motility."
@@ -106,7 +106,7 @@ k.e.rosenbusch@rug.nl,Katharina,Rosenbusch,,,,"Rijksuniversity Groningen",,"  ",
 peter.lehmann@bcm.edu,Peter,Lehmann,,,"Graduate Student","Baylor College of Medicine",,"  ",,,,USA,,Y,,
 Pool@bioch.ox.ac.uk,Alison,Pool,,,,"Oxford Univ.",,"  ",,,,UNSPECIFIED,,Y,-277080,
 primpke@zi.biologie.uni-muenchen.de,Gerd,Primpke,,,,"Univ. Munich",,"  ",,,,UNSPECIFIED,,Y,49-89-5902-502,
-spukatzki@ualberta.ca,Stefan,Pukatzki,,,"Assistant Professor","University of Alberta","Department of Microbiology & Immunology","421 Medical Sciences Building  ",Edmonton,,Alberta,Canada,T6G2H7,Y,"(240) 536-7259",
+spukatzki@ccny.cuny.edu,Stefan,Pukatzki,,,"Sharon D. Cosloy Professor of Biology","The City College of New York","85 St Nicholas Terrace","CDI South 2.304  ","New York",,,"United States",10031,Y,6088861848,
 jasonpun@yorku.ca,Jason,Pun,,,,"York Univ.",,"  ",,,,UNSPECIFIED,,N,,
 DICTY@mbox.cesnet.cz,Frantisek,Puta,,,,"Charles Uni,Czech R.",,"  ",,,,UNSPECIFIED,,Y,+422-299713,
 Kaushik@bioch.ox.ac.uk,Kaushik,Rajan,,,,"Oxford Univ.",,"  ",,,,UNSPECIFIED,,Y,-277080,
@@ -248,7 +248,7 @@ tte@po.cwru.edu,Tom,Egelhoff,,,,"Cleveland Clinic","Department of Cell Biology, 
 ludwig.eichinger@uni-koeln.de,Ludwig,Eichinger,,,,"Universitat zu Koln","Joeseph-Stelzmann-Str. 52","  ",Koln,,,FRG,,Y,49-221-478-6979,
 he28@columbia.edu,Herb,Ennis,,Biochemist/Microbiologist,"Senior Research Scientist","Columbia Univ. Medical School","630 W 168th St","  ","New York",NY,,USA,10032,Y,212-305-1478,"Molecular biology of Dictyostelium development. Evolution."
 se15@le.ac.uk,Steve,Ennion,,,,"University of Leicester","Medical Sciences Building","University Road  ",Leicester,,,England,LE19HN,Y,"+44 (0)116 2522522"," "
-c.hammann@jacobs-university.de,Christian,Hammann,,"RNA Biochemist",PI,"Jacobs University Bremen","Ribogenetics Biochemistry Lab","Campus Ring 1  ",Bremen,,,Germany,28759,Y,"+49-421-200 3247",
+christian.hammann@health-and-medical-university.de,Christian,Hammann,,"RNA Biochemist",PI,"HMU Health and Medical University","Villa Carlshagen","Olympischer Weg 1  ",Potsdam,,,Germany,14473,Y,,
 garciag@mail.nih.gov,"Gene L.",Garcia,,,"Graduate Student",NCI,"37 Convent Dr. MSC 4256","Bldg. 37 Room 2056  ",Bethesda,MD,,USA,20892,Y,,
 chowdhury1s@yahoo.com,Subrata,Chowdhury,,,,"Hunter College, CUNY","695 Park Avenue, HN 932, Hunter College, Cuny, NY 10021","  ","New York",NY,,USA,11355,N,718-878-2237,
 vassil_mihaylov2000-dicty@yahoo.com,Vassil,Mihaylov,,,,"NCI, NIH",,"  ",Bethesda,MD,,USA,,Y,,
@@ -259,7 +259,6 @@ wuseok@hotmail.com,Hyung-Soon,Yim,,,"research professor","Seoul National Univers
 gafoster@ucdavis.edu,Greg,Foster,,,"Undergraduate Researcher","University of California Davis Biomedical Engineering","451E Health Sciences Drive","  ",Davis,,,"United States",95616,N,"(530) 754-6642","Phagocytosis of Dictyostelium discoideum. Cell adhesion, cell signaling, and cell regulation."
 krueger.anne@yahoo.de,Anne,Krueger,,,,"Universitaet Potsdam",,"  ",,,,Germany,,Y,,
 kootar_scherazad@hotmail.com,Scherazad,Kootar,,,"Masters student","Sophia college , Mumbai University",,"  ",,,,INDIA,,Y,,"In this masters programme which specializes in neurobiology we are interested to establish Dictyostelium as a neuropharmacological model system. We have treated cells with lithium chloride, sodium valproate and carbamazepine. we check the morphology and time difference after treatment with drugs. We have also tried different assays like phototaxis assay with the presence of the drug. We have got a hand over the staining methods and do apply them in our exp. Lastly we have isolated a species from our garden soil which has a generation time faster than lab strains, NC4 &AX2."
-hori@phys1.med.osaka-u.ac.jp,Michihiro,Hori,,,,"Osaka University",,"  ",,,,Japan,,Y,,
 dawit.jowhar@gmail.com,Dawit,Jowhar,,,,"Vanderbilt University",,"  ",,,,USA,,Y,,"chemotaxis, microfluidics"
 silvia.jimenez@isb-sib.ch,Silvia,Jimenez,,Biocurator,"Head annotator","Swiss Institute of Bioinformatics","1 rue Michel Servet","  ","Geneve 4",,,Switzerland,1211,N,+41223794941,
 szeman.tung@gmx.de,"Sze Man",Tung,,"Dictyostelium Molecular Biologist","Research Fellow","University Cologne","Joseph Stelzmann Str. 152","50931 Cologne, Germany  ",Cologne,,,Germany,,Y,,
@@ -401,7 +400,7 @@ rrost@wifomail.med.uni-muenchen.de,Rene,Rost,,,,"Institut fur Zellbiologie",,"  
 cpetty1@umbc.edu,Chere,Petty,,,,"University of Maryland Baltimore County","1000 Hilltop Circle (BS 480)","  ",Baltimore,MD,,USA,,Y,410-455-3875,
 liux@nhlbi.nih.gov,Xiong,Liu,,,,"NHLBI, NIH",,"  ",,,,USA,,Y,,
 I.T.tigges@warwick.ac.uk,Ingrid,Tigges,,"Dictyostelium systems biologist","PhD student","University of Warwick",,"  ",,,,"United Kingdom",,Y,,
-hcai6@jhmi.edu,Huaqing,Cai,,,,"Johns Hopkins Uni. Department of Cell","725 N. Wolfe St.","116 WBSB  ",Baltimore,MD,,USA,21205,Y,,
+huaqingcai@ibp.ac.cn,Huaqing,Cai,,,"Principal Investigator","Institute of Biophysics, Chinese Academy of Sciences","15 Datun Rd, Chaoyang District","  ",Beijing,,,China,100101,Y,,
 darja.dubravcic@ujf-grenoble.fr,Darja,Dubravcic,,,"PhD student","Laboratoire de Spectrometrie Physique","BP 87, 140, avenue de la Physique, Domaine Universitaire","  ","Saint Martin d'Heres Cedex",,,France,38402,Y,"+33 (0)4 76 51 47 53",
 licatel@ccf.org,Lucila,Licate,,,,"Cleveland Clinic Foundation",,"  ",,,,USA,,Y,,
 Cristiana.Brochetta@unige.ch,Cristiana,Brochetta,,,,"CMU PHYM Lab Cosson","1, Rue Michel Servet","  ","Geneva 4",,,Switzerland,1211,Y,"0041 22 379 52 92",
@@ -598,7 +597,7 @@ chem@hrz.uni-kassel.de,Ying,Chen,,,,"Kassel University.,Germany","Heinrich plett
 msb@mrc-lmb.cam.ac.uk,Mark,Bretscher,,,,"MRC Laboratory of Molecular Biology","MRC Laboratory of Molecular Biology","Hills Road  ",Cambridge,,,England,,Y,"(01223) 412142","Membrane circulation, especially its possible relevance to how amoebae move. Isolation of ts mutants to study this: I have isolated such mutants in nsfA (11 mutants) and sec1A (over 20 mutants) and am trying to isolate some in DymA."
 camilasg@geocities.com,"Camila dos Santos",Goncalves,,,,"Instituto de Quimica - Universidade de Sao Paulo","Al. Azul?o, 231 - Aldeia da Serra","  ",Barueri,,"S?o Paulo",Brazil,,N,55-11-72922434,
 p.schaap@dundee.ac.uk,Pauline,Schaap,,,,"University of Dundee","MSI/WTB complex","Dow Street  ",Dundee,,Scotland,"United Kingdom",,Y,"44 1382 345386",
-Daniel-Lusche@uiowa.edu,Daniel,Lusche,,,"Assistant Research Scientist","Keck Research Facility","201 East Iowa Avenue","BBE014  ","Iowa City",IA,,USA,52242,Y,13193352883,
+Daniel-Lusche@uiowa.edu,Daniel,Lusche,,,"Associate Research Scientist",DSHB,"201 East Iowa Avenue","BBE306  ","Iowa City",IA,,USA,52242,Y,13193352883,
 lowell@rice.edu,Lowell,Meyer,,,,"Rice University","6350 Main St.","  ",Houston,TX,,USA,,N,(713)348-2394,
 tt420@Columbia.edu,Turgay,Tekinay,,,,"Columbia University","630 West 168th St.","  ","New York",NY,,USA,,Y,"212 305 3970",
 arkljames99@un.edu,Arkl,James,,,,"University of North ",,"  ",,NC,,USA,,N,,
@@ -764,7 +763,7 @@ vedrana.filic@irb.hr,Vedrana,Filic,,,,"Rudjer Boskovic Institute",,"  ",Zagreb,,
 a.g.blake@dundee.ac.uk,Angie,Blake,,,,"University of Dundee","Dow Street","  ",Dundee,,Scotland,Scotland,,Y,"01382 345386",
 gswitz@rice.edu,Ghislaine,Switz,,,,"Rice University",,"  ",Houston,TX,,USA,,Y,,
 shalinijain@rediffmail.com,shalini,jain,,,,IISc,"FC-1 HAL old towmship, Vimanpura post, bangalore","  ",bangalore,,karnataka,india,,N,5220161,
-t.muramoto@riken.jp,Tetsuya,Muramoto,,,,RIKEN,,"  ",,,,JAPAN,,Y,,
+tetsuya.muramoto@sci.toho-u.ac.jp,Tetsuya,Muramoto,,,,"Toho Univeristy",,"  ",,,,JAPAN,,Y,,
 ereichl1@jhmi.edu,Elizabeth,Reichl,,,,"Johns Hopkins School of Medicine","100 Physiology","725 N. Wolfe St.  ",Baltimore,MD,,USA,,N,410-502-4905,
 C.Barth@latrobe.edu.au,Christian,Barth,,,,"La Trobe University","Kingsbury Drive","  ",Bundoora,,Victoria,Australia,,Y,"+61 3 9479 1222","Mitochondrial genetics"
 sergiocarilla@yahoo.es,Sergio,Carilla-Latorre,,"PhD. in Biochemistry, Molecular Biology and Biomedicine",Post-Doc,"Torino University","Dep. of Clinical and Biological Sciences","Regione Gonzole, 10 10043, Orbassano, Torino. Italy ",Torino,,,Italy,10043,Y,+390116705445,
@@ -781,6 +780,7 @@ mhotz@stanford.edu,Manuel,Hotz,,,,"Stanford University","318 Campus Dr","Clark C
 myriam.ouellet.5@ulaval.ca,Myriam,Ouellet,,,,"Universite Laval",,"  ",,,,Canada,,Y,,
 abhiup01@gmail.com,Abhishek,Upadhyay,,"Research Student","Project Assistant","Indian Institute of Science (IISc), Bangalore, India","Pandey Colony Bus Stand, Karwi, Chitrakoot (U.P.)","  ",Chitrakoot,,UP,India,210205,Y,9179801801,"I am interested in evolutionary studies and as well as origin of life."
 song@ciml.univ-mrs.fr,yu,song,,,,"Center of Immunology Marseille-Luminy",,"  ",,,,France,13009,Y,,
+Sarah.a.a.alamer@gmail.com,Sarah,Alamer,,,"Assistant professor","King Faisal University",,"  ",Hofuf,,,KSA,31982,Y,,
 dmcbliv@live.ucl.ac.uk,Tom,Livermore,,,"PhD student","MRC Laboratory of Molecular Cell Biology","University College London","Gower Street WC1E 6BT ",,,,USA,,Y,,
 ajc.cat@gmail.com,Andrew,Catalano,,,,"University of Toronto",,"  ",,,Mississauga,Canada,,Y,,
 yuchao1@umbc.edu,"Yu Chao",Zhang,,,"Grad Student",UMBC,,"  ",,,,USA,,Y,,
@@ -889,7 +889,7 @@ kahelinj@yahoo.com,James,Kahelin,,,student,aihs,"1720 avenida del mundo #204"," 
 rhian.kiely@bioch.ox.ac.uk,Rhian,Kiely,,"Molecular Biologist/Geneticist","Research Associate","Oxford University","Department of Biochemistry","South Parks Road  ",Oxford,,,"United Kingdom",,Y,,
 s.claussner@uni-kassel.de,Susan,Claussner,,,,"University of Kassel",,"  ",,,,Germany,,Y,,
 neil.buttery@yahoo.co.uk,Neil,Buttery,,"Evolutionary Biologist","PhD Student","University of Manchester","Faculty of Life Sciences","University of Manchester Micheal Smith Building Oxford Road",Manchester,,"Greater Manchester",UK,"M13 9PT",Y,"+44 (0) 161 275 5098","Evolution of cooperation and the prevention of cheating. Main aim is to the study the quantitative genetics of social interaction in Dicty and to identify the social strategies in natural clones."
-jason@evolutionarygenetics.org,Jason,Wolf,,,,"University of Bath",,"  ",,,,UK,,Y,01225385012,
+j.b.wolf@bath.ac.uk,Jason,Wolf,,,,"University of Bath",,"  ",,,,UK,,Y,01225385012,
 sarahazl@yahoo.com.br,Sarah,Lima,,"Molecular Biologist","Undergraduate Student","Universidade de Sao Paulo","Av Prof. Lineu Prestes 748","  ",,,,Brazil,,N,"5511 30912182","Chemotaxis mechanism"
 smiyata@ualberta.ca,Sarah,Miyata,,,"Graduate Student","University of Alberta","Department of Medical Microbiology & Immunology","1-63 Medical Sciences Building  ",Edmonton,,,Canada,"T6G 2H7",Y,,
 ecke@nmr.mpibpc.mpg.de,Christian,Eckert,,,,"MPI for Biophysical Chemistry",,"  ",,,,Germany,,Y,,
@@ -901,7 +901,7 @@ bach@bni-hamburg.de,Frauke,Bach,,,,BNI,,"  ",,,,Germany,,Y,,
 brzeskah@nhlbi.nih.gov,Hanna,Brzeska,,,,NIH,,"  ",,,,USA,,Y,,
 sparrish@mcdaniel.edu,Susan,Parrish,,,,"McDaniel College","2 College Hill, Eaton Hall 212","  ",Westminster,MD,,USA,21157,Y,,
 jyang38@jhmi.edu,Jr-Ming,Yang,,,Post-Doc,"Johns Hopkins University",,"  ",,,,USA,,Y,,
-netra.meena@smithsdetection.com,Netra,Meena,,,,"Smiths detection","701 E Pratt St, Baltimore, MD 21202","  ",Baltimore,MD,,USA,21202,N,,
+netra.meena@smiths-detection.com,Netra,Meena,,,,"Smiths detection","701 E Pratt St, Baltimore, MD 21202","  ",Baltimore,MD,,USA,21202,Y,,
 brenz@bni-hamburg.de,Yannick,Brenz,,,,"Bernhard Nocht Institute for Tropical Medicine",,"  ",Hamburg,,,Germany,20359,Y,00494042818473,
 a.miermont@ucl.ac.uk,Agnes,Miermont,,,,UCL,,"  ",,,,UK,,Y,,
 hiroyasu.koteishi@riken.jp,Hiroyasu,Koteishi,,,,RIKEN,,"  ",,,,Japan,,Y,,
@@ -986,7 +986,7 @@ nilis@niaid.nih.gov,Nilgun,Isik,,,,"National Institutes of Health","National Ins
 sopatel@iupui.edu,Sonal,Patel,,Researcher,"research fellow","Indiana University-Purdue University Indianapolis",,"  ",,,,USA,,Y,,
 koki.nagayama@manchester.ac.uk,Koki,Nagayama,,,Post-Doc,"University of Manchester",,"  ",Manchester,,,UK,,Y,,
 ipwui@msn.com,Wui,Ip,,,,"Cornell University",,"  ",,,,USA,,N,,
-cpf1@cornell.edu,Carl,Franck,,"Biological Physicist","Associate Professor","Cornell University","Physics Dept.","Clark Hall  ",Ithaca,NY,,USA,14853,Y,607-255-6428,"growth, development, chemotaxis"
+cpf1@cornell.edu,Carl,Franck,,"Biological Physicist","Associate Professor","Cornell University","Physics Dept.","Clark Hall  ",Ithaca,NY,,USA,14853,Y,607-255-6428,"I am seeking to understand collective behavior in living matter through the observation of Dictyostelium discoideum colonies."
 lotulip2@optusnet.com.au,Phuong,Le,,,,"La Trobe University",,"  ",,,,USA,,N,,
 anne.vollmers@uni-koeln.de,Anne,Vollmers,,,,"Universitat zu Koln",,"  ",,,,Germany,,Y,,
 pcharest@email.arizona.edu,Pascale,Charest,,,"Associate Professor","University of Arizona","Department of Molecular and Cellular Biology","1007 E. Lowell Street Life Sciences South Blg, room 431 ",Tucson,AZ,,USA,85721-0106,Y,520-626-2916,
@@ -1185,7 +1185,7 @@ sv67@georgetown.edu,Sona,Vasudevan,,,,"Georgetown University",,"  ",,,,USA,,Y,,"
 roop@tifr.res.in,Roop,Mallik,,"Dictyostelium Biophysicist",Reader,"Tata Institute of Fundamental Research",,"  ",Mumbai,,,India,,Y,91-22-22782702,"We are interested in understanding how microtubule based intracellular transport is regulated to achieve spatiotemporal localization of organelles in the cell. For this, we do real-time biophysical measurement of Microtubule Motor activity on cellular cargos. For example, see Soppina et al, PNAS (Oct 2009)"
 sarah42power@hotmail.com,Sarah,Power,,,,"H?pital Maisonneuve-Rosemont",,"  ",Montreal,,,Canada,,Y,,
 bcast003@fiu.edu,Boris,Castillo,,,,"Florida International University",,"  ",Miami,FL,,USA,33199,Y,,"Cell biology, Ras, Reactive Oxygen Species"
-weiye.wang@nih.gov,Weiye,Wang,,,,NCI/NIH,,"  ",,MD,,USA,,Y,,
+weiye.wang@nih.gov,Weiye,Wang,,,,NCI/NIH,,"  ",,MD,,USA,,N,,
 mkatoh@bcm.tmc.edu,Mariko,Katoh,,,Post-Doc,"Baylor college of Medicine","One Balyor Plaza, S430","  ",Houston,TX,,USA,77030,Y,713-798-4347,
 susan.c.follstaedt@vanderbilt.edu,susan,follstaedt,,,,"vanderbilt university","VU Station B Box 355488","  ","Nashville ",TN,,USA,,Y,,
 tatiparthi@yahoo.com,T.B.K.,Reddy,,,,"UC, San Diego","NPACI/SDSC mail code:0505","9500 Gilman Drive, La Jolla  ","San Diego",CA,,USA,,Y,,
@@ -1385,7 +1385,7 @@ Hitt@Oakland.edu,Anne,Hitt,,,,"Oakland Univ.",,"  ",Rochester,MI,,USA,,Y,248-370
 hostos@socrates.ucsf.edu,"Geno de",Hostos,,,,"University of California, San Francisco","VAMC 113B","4150 Clement St.  ","San Francisco",CA,,USA,,N,415-750-6947,
 n.a.hotchin@bham.ac.uk,Neil,Hotchin,,,,"Univ. Birmingham",,"  ",,,,UNSPECIFIED,,Y,44-121-414-3982,
 phoward@ucsd.edu,Peter,Howard,,,,UCSD,,"  ",,,,UNSPECIFIED,,Y,619-534-4825,
-R.Insall@beatson.gla.ac.uk,Robert,Insall,,"Cancer Researcher",,"Beatson Institute for Cancer Research","Switchback Rd","Bearsden Glasgow G61 1BD ",Glasgow,,Scotland,UK,,Y,"44-141 330 6521","Motility, actin and chemotaxis. Genetics - diploids, mutagenesis and rescue, inducible systems. Lipid signalling."
+Robert.Insall@glasgow.ac.uk,Robert,Insall,,"Cancer Researcher",,"Beatson Institute for Cancer Research","Switchback Rd","Bearsden Glasgow G61 1BD ",Glasgow,,Scotland,UK,,Y,"44-141 330 6521","Motility, actin and chemotaxis. Genetics - diploids, mutagenesis and rescue, inducible systems. Lipid signalling."
 klaus-peter.janssen@curie.fr,Klaus-Peter,Janssen,,,,"Institut Curie",,"  ",,,,UNSPECIFIED,,Y,"+ 33 1 42346362",
 k.a.jermyn@dundee.ac.uk,Keith,Jermyn,,,,"University of Dundee/Wellcome Trust Building","University of Dundee, WTB/MSI Complex, Dow St.","  ",Dundee,,,Scotland,,N,44-1382-345386,
 tjin@niaid.nih.gov,Tian,Jin,,,,"Johns Hopkins",,"  ",,,,UNSPECIFIED,,Y,410-955-5759,
@@ -1407,7 +1407,7 @@ mbeshay@mail.usciences.edu,Mariam,Beshay,,"Dictyostelium researcher","PhD studen
 broaders@mtholyoke.edu,Kyle,Broaders,,,,"Mount Holyoke Colelge","50 College St.","Department of Chemistry  ","South Hadley",MA,,USA,01075,N,4135383658,
 rbrady@ithaca.edu,Rebecca,Brady,,,"Assistant Professor","Ithaca College",,"  ",Ithaca,NY,,USA,14850,Y,,"Exploring a non-canonical role for autophagy proteins in the endocytic pathway"
 hfrdr@arcormail.de,Michael,Friedrich,,,"PhD student","Kassel University",,"  ",,,,USA,,Y,,
-k.kin@dundee.ac.uk,Koryu,Kin,,,Postdoc,"University of Dundee",,"  ",,,,"United Kingdom",,Y,,
+koryu.kin@upf.edu,Koryu,Kin,,,Postdoc,"Universitat Pompeu Fabra",,"  ",Barcelona,,,Spain,,Y,,"I am interested in the evolution of multicellular compleixty, especially the evolution of new cell types, in Dictyostelid social amoebas."
 daniel.raszkowski@uni-jena.de,Daniel,Raszkowski,,,,Friedrich-Schiller-Universitaet,,"  ",,,,Germany,,Y,,
 mramirez@ualberta.ca,Inmaculada,Ramirez-Macias,,,Post-Doc,"University of Alberta","Department of Cell Biology","University of Alberta 5-31 Medical Science Building ",Edmonton,,,Canada,"T6G 2H7",Y,,
 hgd@uni-bremen.de,Hans-Guenther,Doebereiner,,"Biological Physicist","Professor of Physics","Universitaet Bremen","NW1 Raum O4040","Postfach 330440  ",Bremen,,,Germany,28334,Y,"+49 421 218 62305","I am interested in similarities and differences of Physarum polycephalum and Dicty."
@@ -1667,8 +1667,9 @@ koerber.sarah@mh-hannover.de,Sarah,Koerber,,,,"Medical School Hanover","Carl-Neu
 vgarglab@gmail.com,Vivek,Garg,,Electrophysiologist,"Assistant Professor","University of Maryland Baltimore","660 West Redwood Street","Rm 581 Baltimore ",Baltimore,MD,,USA,21201,Y,410-706-7407,
 jamesxmedina@gmail.com,James,Medina,,"Evolutionary biologist","Graduate student","Washington University in St. Louis",,"  ","St. Louis",MO,,USA,,Y,,"I am generally interested in the behavioral ecology of microbes: how and why they behave the way they do."
 sobkosasha@gmail.com,Alex,Sobko,,,,"Private address - In search of faculty position","60/2 Pri Megadim","  ",Ofakim,,,Israel,8762728,Y,+972528424850,"SUMOylation, Ubiquitination, SUMO-targeted Ubiquitin Ligases, protein-protein interactions, protein kinase signaling and localization, chemotaxis/cell migration, MAP kinase signaling"
+anna.freitas@nih.gov,"Anna V.",Freitas,,,,NIH/NHLBI,,"  ",,,,USA,,Y,,
 smathavarajah@trentu.ca,Sabateeshan,Mathavarajah,,,,"Trent University",,"  ",,,,Canada,,Y,,
-j.diesend@jacobs-university.de,Jan,Diesend,,"Dictyostelium Biochemist","Research Associate","Jacobs University Bremen gGmbH","Department of Life Science & Chemistry","Research II, Room 105 Campus Ring 1 ",,,Bremen,Germany,D-28759,Y,,"My PhD work focuses to elucidate the potential functions and mechanisms of ribosome heterogeneity in the development of Dictyostelium discoideum."
+j.diesend@jacobs-university.de,Jan,Diesend,,"Dictyostelium Biochemist","PhD student","Jacobs University Bremen gGmbH","Department of Life Science & Chemistry","Research II, Room 105 Campus Ring 1 ",,,Bremen,Germany,D-28759,Y,,"My PhD work focuses to elucidate the potential functions and mechanisms of ribosome heterogeneity in the development of Dictyostelium discoideum."
 jbrubacher@cmu.ca,John,Brubacher,,"I teach cell bio & genetics, and study planarians","Assistant Professor","Canadian Mennonite University","600 Shaftesbury Blvd","  ",Winnipeg,MB,,Canada,"R3P 2N2",Y,204-226-8394,"My main research interests have to do with the specification and development of the germ line in the model planarian, Schmidtea mediterranea. With respect to Dictyostelium, I've always thought they'd be a superb experimental subject for undergrad teaching labs in cell biology. In particular, examining the chemotaxis of social amoebas gives students a chance to think integratively about a number of cell-biological phenomena, in the context of ""real world"" organismal behaviour. Then, in the summer of 2018, Jonathan Moore, Melissa Petreaca, and David Knecht published a marvelous guide to running an extended inquiry into Dicty chemotaxis for introductory cell biology students. (ABLE Conference Proceedings, 39:13, 2018) That was just the thing a neophyte like me needed, so I'm going to give it a go."
 moldenha@uni-potsdam.de,Ted,Moldenhawer,,Biophysics,PhD,"Universit?t Potsdam",,"  ",Potsdam,,,Germany,,Y,,
 msteele@wustl.edu,"Margaret I.",Steele,,Microbiologist,Postdoc,"Washington University in St. Louis",,"  ",,,,USA,,Y,,
@@ -1676,6 +1677,8 @@ kconsalvo@bio.tamu.edu,Kristen,Consalvo,,,"Microbiology Graduate Student","Texas
 xinwenz@bu.edu,Xinwen,Zhu,,,,"Boston University",,"  ",Boston,MA,,USA,02215,Y,,
 ylin123@jhmi.edu,Yiyan,Lin,,,,"The Johns Hopkins University",,"  ",Baltimore,,,"United States",21201,N,,
 ehager@bu.edu,Emily,Hager,,,"Postdoctoral Associate","Boston University","610 Commonwealth Ave","  ",Boston,MA,,USA,02215,Y,,
+tnguyen@wi.mit.edu,"Tu Anh",Nguyen,,,,"Whitehead Institute","455 Main St","  ",Cambridge,,,"United States",02142,Y,,
+lauren.skrobarczyk@bcm.edu,Lauren,Skrobarczyk,,,,"Baylor College of Medicine",,"  ",,,,USA,,Y,,
 alvand_g@yahoo.com,Alvand,Gharib,,,,"University of Potsdam","Thomas Dehler Str 5 10787 Berlin","  ",Berlin,,Berlin,Germany,10787,Y,01736511273,"Structure of Centrosome"
 contact@creative-biogene.com,Wilson,Wendy,,,,"Creative Biogene","45-1 Ramsey Road","  ",Shirley,NY,,USA,11967,Y,6316197922,"gene synthesis, custom viral service"
 jueqi@uchicago.edu,Jueqi,Chen,,,,"University of Chicago",,"  ",Chicago,,,"United States",,Y,,"We are interested in using Dictyostelium discoideum to study Legionella pneumophila infection."
@@ -1698,6 +1701,7 @@ angelique.perret84@gmail.com,Angelique,Perret,,,"Master student","Universite de 
 nicho4ra@cmich.edu,RODNEY,NICHOLS,,,,"Central Michigan University",,"  ","Mount Pleasant",,MI,"United States",48858,Y,,"Our research centers on the copine family of proteins. By generating copine knock out mutants we are working to identify the function of these proteins in Dictyostelium."
 estelle.ifrid@unige.ch,Estelle,Ifrid,,,"PhD student","University of Geneva",,"  ",,,,Switzerland,,Y,,
 zwburnett@ualr.edu,Zachary,Burnett,,,,"University of Arkansas at Little Rock",,"  ",,AR,,USA,,Y,,
+dmcbhfo@ucl.ac.uk,Hugh,Ford,,,"Postdoctoral research associate","University College London",,"  ",,,,"United Kingdom",,Y,,"Study of the structure and dynamic of signalling waves"
 pitzen@uni-potsdam.de,Valentin,Pitzen,,,,"University of Potsdam",,"  ",,,,Germany,,Y,,
 setasharifi@uni-potsdam.de,Setareh,"Sharifi Panah",,,,"University Potsdam",,"  ",Potsdam,,Berlin-Brandenburg,Germany,,Y,,"cell motility and chemotaxis"
 beta@uni-potsdam.de,Carsten,Beta,,,Professor,"University of Potsdam",,"  ",Potsdam,,,Germany,,Y,,
@@ -1710,6 +1714,8 @@ shane.collett.30@gmail.com,Shane,Collett,,,"Postgraduate Research","Aberystwyth 
 mitic@uni-potsdam.de,Kristina,Mitic,,,,"University of Potsdam",,"  ",,DE,,USA,,Y,,
 emily.addington@strath.ac.uk,Emily,Addington,,,,"University of Strathclyde",,"  ",,,,UK,,Y,,
 shuettel@uni-osnabrueck.de,Sylvana,H?ttel,,,"PhD student","Osnabrueck University",,"  ",,,,Germany,,Y,,
+lanton@iib.uam.es,Laura,Anton,,,,IIBm,,"  ",,,,Spain,,Y,,
+zh328@cornell.edu,Zijin,Huang,,,,"Cornell University",,"  ",,,,USA,,Y,,
 mona.saad@u-bordeaux.fr,MONA,SAAD,,,"PhD student","Universite de Bordeaux",,"  ",BORDEAUX,,,France,33000,Y,,
 saadmona013@outlook.com,MONA,SAAD,,,"PhD student","Universite de Bordeaux",,"  ",BORDEAUX,,,France,33000,Y,,
 melanie.blokesch@epfl.ch,Melanie,Blokesch,,researcher,"Associate Professor","Swiss Federal Institute of Technology Lausanne (EPFL)","Station 19 / EPFL-SV-UPBLO","School of Life Sciences  ",Lausanne,,,Switzerland,CH-1015,Y,,"The pathoecology of the human pathogen Vibrio cholerae including its interaction with non-human hosts."
@@ -1721,11 +1727,13 @@ skuwana@g.ecc.u-tokyo.ac.jp,Satoshi,Kuwana,,"Cell biology of Dictyostelium",Post
 aby.anand@uni-osnabrueck.de,Aby,Anand,,"Dictyostelium/Mycobacterium infection model","Doctoral student","Osnabrueck University",,"  ",,,,Germany,,Y,,"Role of membrane contact sites in mycobacterial infection"
 kbhaskar@iisc.ac.in,Bhaskar,Kumawat,,,Undergraduate,"Indian Institute of Science",,"  ",Bangalore,,,India,560012,Y,,"Using Dictyostelium as a model to study evolution of developmental programs."
 s1223244ZG@s.chibakoudai.jp,Daiki,Yamasaki,,,,"Takaaki B Narita Lab, Chiba Institute of Technology","2-17-1 Tsudanuma","  ",Narashino,,Chiba,Japan,,Y,,
+ihube@uni-osnabrueck.de,Iris,Hube,,,,"University of Osnabrueck",,"  ",,,,Germany,,Y,,
 6217008k@st.toho-u.ac.jp,Kohei,Kitsutaka,,,"graduate student","Toho University","2-2-1 Miyama","  ",Funabashi,,Chiba,Japan,274-8510,Y,,
 eleanor.warren.2016@live.rhul.ac.uk,Eleanor,Warren,,,,"Royal Holloway",,"  ",Egham,,,"United Kingdom","TW20 0EX",Y,,
 pcombs@stanford.edu,Peter,Combs,,,,"Stanford University","Herrin Labs Rm 309","385 Serra Mall  ",Stanford,CA,,USA,94305,N,,
 skirolos@me.com,Sara,Kirolos,,,"Graduate Student","Texas A&M","2301 Eastmark Dr.","  ","College Station",,,"United States",77840,Y,9097022172,"Dictyostelium Chemotaxis"
 msmith@bio.tamu.edu,Morgan,Smith,,,"Graduate Student","Texas A&M University",,"  ",,TX,,USA,,N,,
+felicia.williams@duke.edu,Williams,Felicia,,,,"Duke University",,"  ",,,,USA,,Y,,
 raiprajna013@gmail.com,"Prajna A.",Rai,,,,"Indian Institute of Technology - Madras",,"  ",,,,India,,Y,,
 pavani.hathi@gmail.com,Pavani,Hathi,,,,"IIT Madras",,"  ",,,,USA,,Y,,
 mathieu.forget@ens.fr,Mathieu,FORGET,,,PhD,"Institut de Biologie de l'Ecole Normale Sup?rieure","46 rue d'Ulm","  ",Paris,,,France,,Y,,
@@ -1746,6 +1754,8 @@ lucas.cesetti@gmail.com,Lucas,Cesetti,,,"PhD Student","State University of Campi
 lwalker@wustl.edu,Laura,Walker,,"Dicty Post-Doc",Post-Doc,"Washington University",,"  ",,,,USA,,Y,,"Evolution of multicellularity"
 isratjahan@wustl.edu,Israt,Jahan,,,"PhD Student","Washington University in St. Louis",,"  ",,MO,,USA,,Y,,
 asanger@sepax-tech.com,Annie,Sanger,,,,Sepax,,"  ",,,,USA,,Y,,
+anja.privara@irb.hr,Anja,Privara,,"Molecular Biologist","PhD Student","Ruder Boskovic Institute","Bijenicka cesta 54","  ",Zagreb,,,Croatia,10000,Y,,
+athanabalasingam@trentu.ca,Aruban,Thanabalasingam,,,,"Trent University",,"  ",,,,USA,L3S,Y,,
 sonia.shinhmar.2016@live.rhul.ac.uk,Sonia,Shinhmar,,,"PhD student","Royal Holloway University London",,"  ",,,,UK,,Y,,
 poulomi.biotech@gmail.com,Poulomi,Biswas,,"Dictostellium molecular biologist","Post- Doc",IIT,Kharagpur,"pin : 721302  ",Kharagpur,,,India,721302,Y,"0809 589 9407","I would like to see some variation of Dicto life cycle through mol bio and bio physics."
 rr4hman17@tamu.edu,Ryan,Rahman,,"Undergraduate Researcher","Research Assistant / Beckman Scholar","Texas A&M University","801 Marion Pugh Dr","Apt 10101  ","College Station",TX,,USA,77840,Y,8069284179,
@@ -1759,6 +1769,9 @@ eric.greer@childrens.harvard.edu,Eric,Greer,,,"Assistant Professor","Boston Chil
 tomas.grousl@gmail.com,Tomas,Grousl,,"molecular biologist",Post-Doc,"Institute of Microbiology of the CAS","Videnska 1083","  ",Prague,,,"Czech Republic","CZ 142 20",Y,"+420 723 521 611",
 armoody@uga.edu,Aline,"de Oliveira",,,,"University of Georgia","953 College Station Road","Ashley Moody/Logue Lab  ",Athens,GA,,USA,30602,N,,
 Raphael.Munoz@unige.ch,Raphael,"Munoz Ruiz",,,Post-Doc,"University of Geneva",,"  ",,,,Switzerland,,Y,,
+criccita@bu.edu,Chiara,Ricci-Tam,,,Postdoc,"Boston University",,"  ",,,,USA,,Y,,
+edculbertson@pitt.edu,Edward,Culbertson,,"Dictyostelium/Legionella microbiologist",Post-doc,"University of Pittsburgh",,"  ",,PA,,USA,,Y,,"I study Dictyostelium - Legionella coevolution."
+victoria.fisher@uconn.edu,Victoria,Fisher,,,"Masters Student","University of Connecticut","19 Cheney Drive","  ","Storrs Mansfield",,,"United States",06268,Y,5189447217,"I am interested in knocking out genes in dictyostelium that may be responsible for chemotaxis."
 katja.zieske@ucsf.edu,Katja,Zieske,,,,"University of California, San Francisco","Genentech Hall, Room N314, Box 2200","600 16th Street  ","San Francisco",CA,,USA,94143,Y,,
 meaganmclaren@trentu.ca,Meagan,McLaren,,,"Master's of Science Student","Trent University",,"  ",,,,Canada,,Y,,
 anger1al@cmich.edu,Amber,Anger,,"Molecular Biologist/Student","Research Assistant","Central Michigan University","906 East Bellows St","Apt. D  ","Mount Pleasant",,,USA,48858,Y,,"epigenetics, molecular cloning, and copines!"
@@ -1770,8 +1783,11 @@ g.forbes@dundee.ac.uk,Gillian,Forbes,,,"PhD Student","University of Dundee","Sch
 shirokawa.yuka@gmail.com,Yuka,Shirokawa,,"Dictyostelium Evolutionary Ecology","Research Fellow","the University of Tokyo",,"  ",,,,Japan,,Y,,
 li-yao.huang@univ.ox.ac.uk,Li-Yao,Huang,,,,Mr,"University College","High Street.  ",Oxford,,,&#33521;&#22283;,"OX1 4",N,,
 g003wf@yamaguchi-u.ac.jp,Masahito,Tanaka,,,,"Yamaguchi University",,"  ",,,,Japan,,Y,,
+andre.wollenhaupt@uni-kassel.de,Andre,Wollenhaupt,,,,"Universitaet Kassel",,"  ",Kassel,,Hessen,Germany,,Y,,"Sterol homeostatis in Dictystelium discoideum"
+williamkim@trentu.ca,William,Kim,,"Graduate Student","Ph.D. Candidate","Trent University","2140 East Bank Drive","  ",Peterborough,,,Canada,"K9J 7B8",Y,,
 nasmano@gmail.com,Emmanuel,Asante-Asamani,,"Dictyostelium Mathematical Biologist","Research Associate","Hunter College","695 Park Ave","  ","New York",NY,,USA,10065,Y,4148379260,"Mathematical modeling of bleb-based chemotaxis in Dicty"
 araceli.visentin@gmail.com,Araceli,Visentin,,,Student,UBA,,"  ","Buenos Aires",,,Argentina,,Y,,"Development and Morphogenesis, Cell Differentiation"
+chiara.dart@nih.gov,Chiara,Dart,,,,NIH/NHLBI,,"  ",,,,USA,,Y,,"Mitochondrial genetics"
 manon.mottet@unige.ch,Manon,Mottet,,,"PhD Student",Unige,"30 quai Ernest Ansermet, Sciences II","  ",Geneva,,,Switzerland,CH-1211,Y,,
 nabil.hanna@unige.ch,Nabil,Hanna,,,,UNIGE,"30 Quai Ernest Ansermet","  ",Geneva,,Geneva,Switzerland,1205,N,"+41 22 379 6490",
 rkarmakar@physics.ucsd.edu,Richa,Karmakar,,,,"University of California San Diego","6130 Urey Hall, 9500 Gilman Drive,","  ","San Diego",CA,,USA,92093,Y,,

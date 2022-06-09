@@ -278,10 +278,10 @@ DBS0236962	neomycin resistant
 DBS0236962	overexpressor
 DBS0236962	axenic
 DBS0236962	mutant
+DBS0237060	non-axenic
 DBS0237060	drug resistant
 DBS0237060	mutant
 DBS0237060	temperature sensitive mutant
-DBS0237060	non-axenic
 DBS0235972	null mutant
 DBS0235562	axenic
 DBS0235562	null mutant
@@ -538,8 +538,8 @@ DBS0236390	temperature sensitive mutant
 DBS0305825	axenic
 DBS0305825	null mutant
 DBS0305825	blasticidin resistant
-DBS0236531	axenic
 DBS0236531	null mutant
+DBS0236531	axenic
 DBS0236527	overexpressor
 DBS0236527	neomycin resistant
 DBS0236527	axenic
@@ -1197,9 +1197,9 @@ DBS0235418	mutant
 DBS0235661	axenic
 DBS0235661	null mutant
 DBS0235661	blasticidin resistant
+DBS0236779	blasticidin resistant
 DBS0236779	axenic
 DBS0236779	null mutant
-DBS0236779	blasticidin resistant
 DBS0236086	neomycin resistant
 DBS0236086	overexpressor
 DBS0236086	axenic
@@ -1425,14 +1425,14 @@ DBS0235657	blasticidin resistant
 DBS0235657	drug resistant
 DBS0235657	axenic
 DBS0235657	null mutant
-DBS0236304	blasticidin resistant
 DBS0236304	axenic
 DBS0236304	null mutant
 DBS0236304	temperature sensitive mutant
-DBS0236305	blasticidin resistant
+DBS0236304	blasticidin resistant
 DBS0236305	axenic
 DBS0236305	null mutant
 DBS0236305	temperature sensitive mutant
+DBS0236305	blasticidin resistant
 DBS0236307	blasticidin resistant
 DBS0236307	axenic
 DBS0236307	null mutant
@@ -2099,10 +2099,10 @@ DBS0235510	null mutant
 DBS0236921	blasticidin resistant
 DBS0236921	axenic
 DBS0236921	null mutant
-DBS0236922	blasticidin resistant
 DBS0236922	neomycin resistant
 DBS0236922	GFP marked
 DBS0236922	axenic
+DBS0236922	blasticidin resistant
 DBS0236922	rescued
 DBS0236922	null mutant
 DBS0235775	natural isolate
@@ -4069,6 +4069,8 @@ DBS0237242	drug resistant
 DBS0236952	axenic
 DBS0236952	null mutant
 DBS0235563	axenic
+DBS0235563	mutant
+DBS0235563	neomycin resistant
 DBS0235633	axenic
 DBS0235633	null mutant
 DBS0235633	blasticidin resistant
@@ -4404,6 +4406,7 @@ DBS0237190	constitutively active mutant
 DBS0237189	overexpressor
 DBS0237189	drug resistant
 DBS0237189	axenic
+DBS0237189	dominant negative mutant
 DBS0237189	constitutively active mutant
 DBS0235949	blasticidin resistant
 DBS0235949	suppressor
@@ -4997,8 +5000,8 @@ DBS0236978	axenic
 DBS0236978	null mutant
 DBS0237024	axenic
 DBS0237024	null mutant
-DBS0237025	null mutant
 DBS0237025	axenic
+DBS0237025	null mutant
 DBS0237089	axenic
 DBS0237089	null mutant
 DBS0237090	axenic
@@ -6196,9 +6199,9 @@ DBS0238236	GFP marked
 DBS0238236	blasticidin resistant
 DBS0238236	suppressor
 DBS0238236	null mutant
-DBS0238297	blasticidin resistant
 DBS0238297	axenic
 DBS0238297	null mutant
+DBS0238297	blasticidin resistant
 DBS0238529	multiple mutant
 DBS0238529	neomycin resistant
 DBS0238529	cycloheximide resistant
@@ -11742,8 +11745,8 @@ DBS0266051	mutant
 DBS0266325	uracil auxotroph
 DBS0266325	axenic
 DBS0266326	axenic
-DBS0266326	null mutant
 DBS0266326	uracil auxotroph
+DBS0266326	null mutant
 DBS0266599	natural isolate
 DBS0266607	mutant
 DBS0266612	overexpressor
@@ -15602,6 +15605,7 @@ DBS0348921	blasticidin resistant
 DBS0348921	overexpressor
 DBS0348921	FLAG-tagged
 DBS0349838	bacterial food source
+DBS0349838	bacterial strain
 DBS0350025	blasticidin resistant
 DBS0350025	null mutant
 DBS0350025	axenic
@@ -15913,11 +15917,11 @@ DBS0350253	neomycin resistant
 DBS0350253	null mutant
 DBS0350253	rescued
 DBS0350253	FLAG-tagged
-DBS0350449	axenic
 DBS0350449	neomycin resistant
+DBS0350449	overexpressor
+DBS0350449	axenic
 DBS0350449	dominant negative mutant
 DBS0350449	null mutant
-DBS0350449	overexpressor
 DBS0350517	axenic
 DBS0350517	null mutant
 DBS0350517	blasticidin resistant
@@ -16452,12 +16456,12 @@ DBS0350051	axenic
 DBS0350051	blasticidin resistant
 DBS0350051	null mutant
 DBS0350056	neomycin resistant
-DBS0350056	underexpressor
-DBS0350056	axenic
-DBS0350056	mutant
 DBS0350056	GFP marked
 DBS0350056	multiple mutant
 DBS0350056	blasticidin resistant
+DBS0350056	underexpressor
+DBS0350056	axenic
+DBS0350056	mutant
 DBS0350084	natural isolate
 DBS0350087	natural isolate
 DBS0350098	blasticidin resistant
@@ -16586,6 +16590,7 @@ DBS0350266	axenic
 DBS0350266	neomycin resistant
 DBS0350266	mutant
 DBS0305938	bacterial food source
+DBS0305938	bacterial strain
 DBS0306157	blasticidin resistant
 DBS0306157	axenic
 DBS0306157	multiple null mutant
@@ -16611,9 +16616,10 @@ DBS0307936	null mutant
 DBS0347874	blasticidin resistant
 DBS0347874	axenic
 DBS0347874	null mutant
+DBS0349820	drug resistant
 DBS0349820	mutant
 DBS0349820	bacterial food source
-DBS0349820	drug resistant
+DBS0349820	bacterial strain
 DBS0349912	neomycin resistant
 DBS0349912	axenic
 DBS0349912	YFP marked
@@ -17110,9 +17116,9 @@ DBS0350535	neomycin resistant
 DBS0350535	axenic
 DBS0350535	RFP marked
 DBS0350535	null mutant
-DBS0349871	neomycin resistant
 DBS0349871	underexpressor
 DBS0349871	axenic
+DBS0349871	neomycin resistant
 DBS0349886	blasticidin resistant
 DBS0349886	axenic
 DBS0349886	multiple null mutant
@@ -17292,6 +17298,7 @@ DBS0350629	RFP marked
 DBS0350629	null mutant
 DBS0350629	blasticidin resistant
 DBS0350629	neomycin resistant
+DBS0350636	bacterial strain
 DBS0350636	bacterial food source
 DBS0306226	blasticidin resistant
 DBS0306226	null mutant
@@ -17760,6 +17767,7 @@ DBS0309039	axenic
 DBS0309039	null mutant
 DBS0309039	mutant
 DBS0348878	bacterial food source
+DBS0348878	bacterial strain
 DBS0349885	blasticidin resistant
 DBS0349885	axenic
 DBS0349885	null mutant
@@ -17846,9 +17854,9 @@ DBS0350630	null mutant
 DBS0350630	blasticidin resistant
 DBS0350630	neomycin resistant
 DBS0350630	axenic
+DBS0350655	blasticidin resistant
 DBS0350655	axenic
 DBS0350655	null mutant
-DBS0350655	blasticidin resistant
 DBS0350662	axenic
 DBS0350662	multiple null mutant
 DBS0350662	blasticidin resistant
@@ -18056,8 +18064,11 @@ DBS0350596	GFP marked
 DBS0350596	overexpressor
 DBS0350596	blasticidin resistant
 DBS0305922	bacterial food source
+DBS0305922	bacterial strain
 DBS0305924	bacterial food source
+DBS0305924	bacterial strain
 DBS0305927	bacterial food source
+DBS0305927	bacterial strain
 DBS0306152	axenic
 DBS0306152	null mutant
 DBS0306152	blasticidin resistant
@@ -18130,7 +18141,9 @@ DBS0350393	multiple null mutant
 DBS0305926	neomycin resistant
 DBS0305926	mutant
 DBS0305926	bacterial food source
+DBS0305926	bacterial strain
 DBS0305932	bacterial food source
+DBS0305932	bacterial strain
 DBS0306380	neomycin resistant
 DBS0306380	non-axenic
 DBS0306380	null mutant
@@ -18749,9 +18762,11 @@ DBS0350714	mutant
 DBS0305930	hygromycin resistant
 DBS0305930	mutant
 DBS0305930	bacterial food source
+DBS0305930	bacterial strain
 DBS0305931	neomycin resistant
 DBS0305931	mutant
 DBS0305931	bacterial food source
+DBS0305931	bacterial strain
 DBS0306243	neomycin resistant
 DBS0306243	GFP marked
 DBS0306243	overexpressor
@@ -19075,6 +19090,7 @@ DBS0350726	mutant
 DBS0350726	overexpressor
 DBS0350726	neomycin resistant
 DBS0305929	bacterial food source
+DBS0305929	bacterial strain
 DBS0306125	axenic
 DBS0306125	null mutant
 DBS0306125	cre-lox mutant
@@ -19184,9 +19200,11 @@ DBS0350696	overexpressor
 DBS0350696	blasticidin resistant
 DBS0350696	neomycin resistant
 DBS0305923	bacterial food source
+DBS0305923	bacterial strain
 DBS0305925	neomycin resistant
 DBS0305925	mutant
 DBS0305925	bacterial food source
+DBS0305925	bacterial strain
 DBS0306159	blasticidin resistant
 DBS0306159	axenic
 DBS0306159	null mutant
@@ -19661,6 +19679,7 @@ DBS0305826	overexpressor
 DBS0305826	drug resistant
 DBS0305826	axenic
 DBS0305928	bacterial food source
+DBS0305928	bacterial strain
 DBS0349776	blasticidin resistant
 DBS0349776	axenic
 DBS0349776	null mutant
@@ -20065,8 +20084,9 @@ DBS0350775	null mutant
 DBS0350775	blasticidin resistant
 DBS0350776	natural isolate
 DBS0350777	natural isolate
-DBS0349837	bacterial food source
 DBS0349837	GFP marked
+DBS0349837	bacterial food source
+DBS0349837	bacterial strain
 DBS0349899	neomycin resistant
 DBS0349899	GFP marked
 DBS0349899	multiple mutant
@@ -20357,9 +20377,63 @@ DBS0351463	null mutant
 DBS0351463	overexpressor
 DBS0351463	regulatable expressor
 DBS0351463	blasticidin resistant
+DBS0351723	axenic
+DBS0351723	null mutant
+DBS0351723	blasticidin resistant
+DBS0351747	axenic
+DBS0351747	multiple mutant
+DBS0351747	blasticidin resistant
 DBS0351359	axenic
 DBS0351359	overexpressor
 DBS0351359	neomycin resistant
+DBS0351728	axenic
+DBS0351728	null mutant
+DBS0351728	overexpressor
+DBS0351728	bleomycin resistant
+DBS0351728	neomycin resistant
+DBS0351731	GFP marked
+DBS0351731	overexpressor
+DBS0351731	neomycin resistant
+DBS0351731	axenic
+DBS0351731	constitutively active mutant
+DBS0351735	axenic
+DBS0351735	GFP marked
+DBS0351735	multiple mutant
+DBS0351735	null mutant
+DBS0351735	overexpressor
+DBS0351735	blasticidin resistant
+DBS0351735	neomycin resistant
+DBS0351739	axenic
+DBS0351739	multiple mutant
+DBS0351739	null mutant
+DBS0351739	overexpressor
+DBS0351739	neomycin resistant
+DBS0351740	axenic
+DBS0351740	multiple mutant
+DBS0351740	null mutant
+DBS0351740	overexpressor
+DBS0351740	neomycin resistant
+DBS0351752	axenic
+DBS0351752	null mutant
+DBS0351752	blasticidin resistant
+DBS0351754	axenic
+DBS0351754	null mutant
+DBS0351754	blasticidin resistant
+DBS0351758	axenic
+DBS0351758	multiple mutant
+DBS0351758	null mutant
+DBS0351758	overexpressor
+DBS0351758	blasticidin resistant
+DBS0351758	neomycin resistant
+DBS0351759	axenic
+DBS0351759	multiple mutant
+DBS0351759	null mutant
+DBS0351759	overexpressor
+DBS0351759	blasticidin resistant
+DBS0351759	neomycin resistant
+DBS0351766	blasticidin resistant
+DBS0351766	axenic
+DBS0351766	null mutant
 DBS0350977	blasticidin resistant
 DBS0350977	axenic
 DBS0350977	null mutant
@@ -20375,9 +20449,9 @@ DBS0351148	knock-in
 DBS0351148	multiple mutant
 DBS0351148	blasticidin resistant
 DBS0351148	HA-tagged
+DBS0351503	blasticidin resistant
 DBS0351503	axenic
 DBS0351503	null mutant
-DBS0351503	blasticidin resistant
 DBS0351516	null mutant
 DBS0351516	blasticidin resistant
 DBS0351516	axenic
@@ -20390,6 +20464,19 @@ DBS0351618	blasticidin resistant
 DBS0351620	mutant
 DBS0351620	blasticidin resistant
 DBS0351620	axenic
+DBS0351630	axenic
+DBS0351630	GFP marked
+DBS0351630	overexpressor
+DBS0351630	neomycin resistant
+DBS0351650	axenic
+DBS0351650	null mutant
+DBS0351650	blasticidin resistant
+DBS0351652	blasticidin resistant
+DBS0351652	axenic
+DBS0351652	null mutant
+DBS0351665	blasticidin resistant
+DBS0351665	axenic
+DBS0351665	multiple null mutant
 DBS0350915	axenic
 DBS0350915	null mutant
 DBS0350915	blasticidin resistant
@@ -20419,6 +20506,12 @@ DBS0351555	axenic
 DBS0351555	mutant
 DBS0351555	constitutively active mutant
 DBS0351555	overexpressor
+DBS0351676	axenic
+DBS0351676	null mutant
+DBS0351697	uracil auxotroph
+DBS0351697	axenic
+DBS0351697	multiple null mutant
+DBS0351697	blasticidin resistant
 DBS0350903	axenic
 DBS0350903	constitutively active mutant
 DBS0350903	regulatable expressor
@@ -20460,6 +20553,20 @@ DBS0351597	blasticidin resistant
 DBS0351598	axenic
 DBS0351598	null mutant
 DBS0351598	blasticidin resistant
+DBS0351645	GFP marked
+DBS0351645	overexpressor
+DBS0351645	blasticidin resistant
+DBS0351645	neomycin resistant
+DBS0351645	axenic
+DBS0351645	multiple null mutant
+DBS0351645	hygromycin resistant
+DBS0351651	axenic
+DBS0351651	null mutant
+DBS0351651	blasticidin resistant
+DBS0351725	axenic
+DBS0351725	cre-lox mutant
+DBS0351725	multiple null mutant
+DBS0351725	blasticidin resistant
 DBS0351096	axenic
 DBS0351096	null mutant
 DBS0351096	blasticidin resistant
@@ -20530,6 +20637,23 @@ DBS0351512	overexpressor
 DBS0351512	regulatable expressor
 DBS0351512	neomycin resistant
 DBS0351512	Myc-tagged
+DBS0351644	overexpressor
+DBS0351644	blasticidin resistant
+DBS0351644	neomycin resistant
+DBS0351644	multiple null mutant
+DBS0351644	axenic
+DBS0351644	hygromycin resistant
+DBS0351644	GFP marked
+DBS0351687	blasticidin resistant
+DBS0351687	axenic
+DBS0351687	null mutant
+DBS0351688	axenic
+DBS0351688	null mutant
+DBS0351688	neomycin resistant
+DBS0351700	axenic
+DBS0351700	uracil auxotroph
+DBS0351700	null mutant
+DBS0351700	blasticidin resistant
 DBS0350864	blasticidin resistant
 DBS0350864	axenic
 DBS0350864	null mutant
@@ -20581,6 +20705,7 @@ DBS0351112	neomycin resistant
 DBS0351112	uracil auxotroph
 DBS0351112	axenic
 DBS0351112	knock-in
+DBS0351126	bacterial strain
 DBS0351126	symbiotic farmer bacterium
 DBS0351153	axenic
 DBS0351154	axenic
@@ -20601,6 +20726,7 @@ DBS0351120	axenic
 DBS0351120	uracil auxotroph
 DBS0351120	knock-in
 DBS0351125	symbiotic farmer bacterium
+DBS0351125	bacterial strain
 DBS0351131	blasticidin resistant
 DBS0351131	axenic
 DBS0351131	knock-in
@@ -20641,6 +20767,21 @@ DBS0351312	null mutant
 DBS0351312	overexpressor
 DBS0351312	blasticidin resistant
 DBS0351312	neomycin resistant
+DBS0351707	axenic
+DBS0351707	knock-in
+DBS0351707	neomycin resistant
+DBS0351718	axenic
+DBS0351718	GFP marked
+DBS0351720	GFP marked
+DBS0351720	knock-in
+DBS0351720	axenic
+DBS0351722	axenic
+DBS0351722	GFP marked
+DBS0351722	blasticidin resistant
+DBS0351722	neomycin resistant
+DBS0351761	blasticidin resistant
+DBS0351761	axenic
+DBS0351761	null mutant
 DBS0350877	blasticidin resistant
 DBS0350877	multiple mutant
 DBS0350877	suppressor
@@ -20692,6 +20833,13 @@ DBS0351580	axenic
 DBS0351580	LacZ marked
 DBS0351580	overexpressor
 DBS0351580	neomycin resistant
+DBS0351678	axenic
+DBS0351678	GFP marked
+DBS0351678	multiple mutant
+DBS0351678	null mutant
+DBS0351678	overexpressor
+DBS0351678	blasticidin resistant
+DBS0351678	neomycin resistant
 DBS0350842	multiple mutant
 DBS0350842	blasticidin resistant
 DBS0350842	neomycin resistant
@@ -20922,6 +21070,7 @@ DBS0351042	null mutant
 DBS0351042	axenic
 DBS0351042	neomycin resistant
 DBS0351098	bacterial food source
+DBS0351098	bacterial strain
 DBS0351113	blasticidin resistant
 DBS0351113	uracil auxotroph
 DBS0351113	axenic
@@ -20951,6 +21100,13 @@ DBS0351413	neomycin resistant
 DBS0351498	null mutant
 DBS0351498	axenic
 DBS0351498	blasticidin resistant
+DBS0351675	axenic
+DBS0351675	null mutant
+DBS0351744	overexpressor
+DBS0351744	neomycin resistant
+DBS0351744	multiple mutant
+DBS0351744	axenic
+DBS0351744	null mutant
 DBS0351357	axenic
 DBS0351357	cre-lox mutant
 DBS0351357	null mutant
@@ -21069,6 +21225,28 @@ DBS0351541	axenic
 DBS0351543	null mutant
 DBS0351543	blasticidin resistant
 DBS0351543	axenic
+DBS0351622	axenic
+DBS0351622	GFP marked
+DBS0351622	overexpressor
+DBS0351622	neomycin resistant
+DBS0351623	axenic
+DBS0351623	GFP marked
+DBS0351623	overexpressor
+DBS0351623	neomycin resistant
+DBS0351625	GFP marked
+DBS0351625	overexpressor
+DBS0351625	neomycin resistant
+DBS0351625	axenic
+DBS0351736	GFP marked
+DBS0351736	multiple mutant
+DBS0351736	null mutant
+DBS0351736	axenic
+DBS0351736	overexpressor
+DBS0351736	blasticidin resistant
+DBS0351736	neomycin resistant
+DBS0351757	blasticidin resistant
+DBS0351757	axenic
+DBS0351757	null mutant
 DBS0350860	axenic
 DBS0350860	LacZ marked
 DBS0350860	multiple mutant
@@ -21224,6 +21402,22 @@ DBS0351593	mating type II
 DBS0351593	cre-lox mutant
 DBS0351593	null mutant
 DBS0351593	blasticidin resistant
+DBS0351690	blasticidin resistant
+DBS0351690	axenic
+DBS0351690	multiple null mutant
+DBS0351690	cre-lox mutant
+DBS0351713	axenic
+DBS0351713	overexpressor
+DBS0351713	neomycin resistant
+DBS0351713	FLAG-tagged
+DBS0351745	multiple mutant
+DBS0351745	overexpressor
+DBS0351745	neomycin resistant
+DBS0351745	axenic
+DBS0351745	null mutant
+DBS0351746	axenic
+DBS0351746	overexpressor
+DBS0351746	neomycin resistant
 DBS0350866	null mutant
 DBS0350866	neomycin resistant
 DBS0350866	axenic
@@ -21337,6 +21531,11 @@ DBS0351611	multiple mutant
 DBS0351611	null mutant
 DBS0351611	overexpressor
 DBS0351611	neomycin resistant
+DBS0351632	axenic
+DBS0351632	cre-lox mutant
+DBS0351632	null mutant
+DBS0351632	blasticidin resistant
+DBS0351666	axenic
 DBS0350851	axenic
 DBS0350851	multiple null mutant
 DBS0350851	blasticidin resistant
@@ -21407,6 +21606,25 @@ DBS0351614	axenic
 DBS0351614	null mutant
 DBS0351619	axenic
 DBS0351619	null mutant
+DBS0351626	axenic
+DBS0351626	GFP marked
+DBS0351626	overexpressor
+DBS0351626	neomycin resistant
+DBS0351627	axenic
+DBS0351627	overexpressor
+DBS0351627	neomycin resistant
+DBS0351627	FLAG-tagged
+DBS0351638	axenic
+DBS0351638	overexpressor
+DBS0351638	neomycin resistant
+DBS0351640	axenic
+DBS0351640	cre-lox mutant
+DBS0351640	blasticidin resistant
+DBS0351640	multiple null mutant
+DBS0351641	blasticidin resistant
+DBS0351641	axenic
+DBS0351641	multiple null mutant
+DBS0351641	cre-lox mutant
 DBS0350966	blasticidin resistant
 DBS0350966	axenic
 DBS0350966	null mutant
@@ -21422,6 +21640,27 @@ DBS0351513	neomycin resistant
 DBS0351513	suppressor
 DBS0351513	hygromycin resistant
 DBS0351513	regulatable expressor
+DBS0351649	axenic
+DBS0351649	null mutant
+DBS0351649	blasticidin resistant
+DBS0351654	axenic
+DBS0351654	cre-lox mutant
+DBS0351654	null mutant
+DBS0351655	axenic
+DBS0351655	null mutant
+DBS0351655	blasticidin resistant
+DBS0351656	axenic
+DBS0351656	GFP marked
+DBS0351656	overexpressor
+DBS0351656	rescued
+DBS0351656	blasticidin resistant
+DBS0351656	neomycin resistant
+DBS0351743	axenic
+DBS0351743	multiple mutant
+DBS0351743	null mutant
+DBS0351743	overexpressor
+DBS0351743	rescued
+DBS0351743	neomycin resistant
 DBS0351044	axenic
 DBS0351044	null mutant
 DBS0351044	neomycin resistant
@@ -21455,6 +21694,67 @@ DBS0351544	blasticidin resistant
 DBS0351559	axenic
 DBS0351559	null mutant
 DBS0351559	blasticidin resistant
+DBS0351643	overexpressor
+DBS0351643	blasticidin resistant
+DBS0351643	neomycin resistant
+DBS0351643	axenic
+DBS0351643	multiple null mutant
+DBS0351643	RFP marked
+DBS0351664	axenic
+DBS0351664	null mutant
+DBS0351664	blasticidin resistant
+DBS0351677	multiple mutant
+DBS0351677	overexpressor
+DBS0351677	blasticidin resistant
+DBS0351677	neomycin resistant
+DBS0351677	GFP marked
+DBS0351677	axenic
+DBS0351677	null mutant
+DBS0351679	axenic
+DBS0351679	GFP marked
+DBS0351679	multiple mutant
+DBS0351679	null mutant
+DBS0351679	overexpressor
+DBS0351679	blasticidin resistant
+DBS0351679	neomycin resistant
+DBS0351680	GFP marked
+DBS0351680	constitutively active mutant
+DBS0351680	overexpressor
+DBS0351680	axenic
+DBS0351683	axenic
+DBS0351683	overexpressor
+DBS0351689	blasticidin resistant
+DBS0351689	axenic
+DBS0351689	null mutant
+DBS0351692	axenic
+DBS0351692	overexpressor
+DBS0351692	blasticidin resistant
+DBS0351694	axenic
+DBS0351694	overexpressor
+DBS0351694	blasticidin resistant
+DBS0351698	uracil auxotroph
+DBS0351698	axenic
+DBS0351698	null mutant
+DBS0351698	blasticidin resistant
+DBS0351702	axenic
+DBS0351702	null mutant
+DBS0351702	blasticidin resistant
+DBS0351702	uracil auxotroph
+DBS0351710	axenic
+DBS0351710	null mutant
+DBS0351710	blasticidin resistant
+DBS0351717	blasticidin resistant
+DBS0351717	axenic
+DBS0351717	multiple null mutant
+DBS0351724	axenic
+DBS0351724	null mutant
+DBS0351724	blasticidin resistant
+DBS0351726	null mutant
+DBS0351726	blasticidin resistant
+DBS0351726	axenic
+DBS0351769	null mutant
+DBS0351769	blasticidin resistant
+DBS0351769	axenic
 DBS0350956	axenic
 DBS0350956	constitutively active mutant
 DBS0350956	multiple mutant
@@ -21496,6 +21796,14 @@ DBS0351514	blasticidin resistant
 DBS0351537	axenic
 DBS0351537	multiple null mutant
 DBS0351537	blasticidin resistant
+DBS0351682	axenic
+DBS0351682	underexpressor
+DBS0351685	blasticidin resistant
+DBS0351685	axenic
+DBS0351685	null mutant
+DBS0351708	axenic
+DBS0351708	multiple null mutant
+DBS0351708	blasticidin resistant
 DBS0350948	axenic
 DBS0350948	knock-in
 DBS0350948	null mutant
@@ -21544,6 +21852,21 @@ DBS0351511	Myc-tagged
 DBS0351606	axenic
 DBS0351606	null mutant
 DBS0351606	blasticidin resistant
+DBS0351646	overexpressor
+DBS0351646	neomycin resistant
+DBS0351646	HA-tagged
+DBS0351646	axenic
+DBS0351647	overexpressor
+DBS0351647	blasticidin resistant
+DBS0351647	neomycin resistant
+DBS0351647	HA-tagged
+DBS0351647	axenic
+DBS0351647	multiple null mutant
+DBS0351737	overexpressor
+DBS0351737	neomycin resistant
+DBS0351737	axenic
+DBS0351737	null mutant
+DBS0351737	multiple mutant
 DBS0350839	axenic
 DBS0350839	cre-lox mutant
 DBS0350839	null mutant
@@ -21575,6 +21898,10 @@ DBS0351545	blasticidin resistant
 DBS0351612	axenic
 DBS0351612	null mutant
 DBS0351612	blasticidin resistant
+DBS0351699	uracil auxotroph
+DBS0351699	axenic
+DBS0351699	null mutant
+DBS0351699	blasticidin resistant
 DBS0350962	axenic
 DBS0350962	YFP marked
 DBS0350962	overexpressor
@@ -21598,6 +21925,10 @@ DBS0351260	neomycin resistant
 DBS0351602	axenic
 DBS0351602	null mutant
 DBS0351602	blasticidin resistant
+DBS0351749	axenic
+DBS0351749	cre-lox mutant
+DBS0351749	multiple null mutant
+DBS0351749	blasticidin resistant
 DBS0351270	axenic
 DBS0351270	overexpressor
 DBS0351270	neomycin resistant
@@ -21613,6 +21944,9 @@ DBS0350884	blasticidin resistant
 DBS0350884	axenic
 DBS0351276	axenic
 DBS0351276	null mutant
+DBS0351763	axenic
+DBS0351763	neomycin resistant
+DBS0351763	FLAG-tagged
 DBS0351180	axenic
 DBS0351180	catalytic dead
 DBS0351180	multiple mutant
@@ -21643,6 +21977,9 @@ DBS0351521	overexpressor
 DBS0351521	blasticidin resistant
 DBS0351521	neomycin resistant
 DBS0351521	FLAG-tagged
+DBS0351686	blasticidin resistant
+DBS0351686	axenic
+DBS0351686	null mutant
 DBS0351107	blasticidin resistant
 DBS0351107	axenic
 DBS0351107	null mutant
@@ -21871,6 +22208,9 @@ DBS0350992	multiple null mutant
 DBS0350992	overexpressor
 DBS0350992	blasticidin resistant
 DBS0350992	neomycin resistant
+DBS0351629	axenic
+DBS0351629	null mutant
+DBS0351629	blasticidin resistant
 DBS0351015	HA-tagged
 DBS0351015	neomycin resistant
 DBS0351015	GFP marked
@@ -21888,6 +22228,17 @@ DBS0351035	axenic
 DBS0351066	blasticidin resistant
 DBS0351066	axenic
 DBS0351066	null mutant
+DBS0351637	axenic
+DBS0351637	cre-lox mutant
+DBS0351637	null mutant
+DBS0351637	blasticidin resistant
+DBS0351669	axenic
+DBS0351669	null mutant
+DBS0351669	blasticidin resistant
+DBS0351670	axenic
+DBS0351693	axenic
+DBS0351693	overexpressor
+DBS0351693	blasticidin resistant
 DBS0350871	axenic
 DBS0350871	null mutant
 DBS0350871	blasticidin resistant
@@ -21929,6 +22280,35 @@ DBS0351557	axenic
 DBS0351565	axenic
 DBS0351565	overexpressor
 DBS0351565	neomycin resistant
+DBS0351639	axenic
+DBS0351639	null mutant
+DBS0351639	blasticidin resistant
+DBS0351657	axenic
+DBS0351657	null mutant
+DBS0351657	blasticidin resistant
+DBS0351658	axenic
+DBS0351658	null mutant
+DBS0351658	blasticidin resistant
+DBS0351661	axenic
+DBS0351661	null mutant
+DBS0351661	blasticidin resistant
+DBS0351671	null mutant
+DBS0351671	axenic
+DBS0351730	axenic
+DBS0351730	GFP marked
+DBS0351730	multiple null mutant
+DBS0351730	overexpressor
+DBS0351730	blasticidin resistant
+DBS0351730	neomycin resistant
+DBS0351741	axenic
+DBS0351741	multiple mutant
+DBS0351741	null mutant
+DBS0351741	overexpressor
+DBS0351741	neomycin resistant
+DBS0351748	cre-lox mutant
+DBS0351748	multiple null mutant
+DBS0351748	blasticidin resistant
+DBS0351748	axenic
 DBS0350936	axenic
 DBS0350936	null mutant
 DBS0350936	neomycin resistant
@@ -22004,6 +22384,26 @@ DBS0351615	axenic
 DBS0351615	null mutant
 DBS0351615	thymidine auxotroph
 DBS0351615	rescued
+DBS0351715	axenic
+DBS0351715	overexpressor
+DBS0351715	blasticidin resistant
+DBS0351719	GFP marked
+DBS0351719	blasticidin resistant
+DBS0351719	axenic
+DBS0351719	multiple null mutant
+DBS0351721	axenic
+DBS0351721	GFP marked
+DBS0351721	blasticidin resistant
+DBS0351721	neomycin resistant
+DBS0351734	multiple mutant
+DBS0351734	overexpressor
+DBS0351734	blasticidin resistant
+DBS0351734	axenic
+DBS0351734	null mutant
+DBS0351734	neomycin resistant
+DBS0351765	axenic
+DBS0351765	null mutant
+DBS0351765	blasticidin resistant
 DBS0350881	axenic
 DBS0350881	null mutant
 DBS0350881	blasticidin resistant
@@ -22045,6 +22445,35 @@ DBS0351599	neomycin resistant
 DBS0351604	axenic
 DBS0351604	null mutant
 DBS0351604	blasticidin resistant
+DBS0351628	axenic
+DBS0351628	overexpressor
+DBS0351628	neomycin resistant
+DBS0351628	FLAG-tagged
+DBS0351631	axenic
+DBS0351631	regulatable expressor
+DBS0351631	underexpressor
+DBS0351631	neomycin resistant
+DBS0351636	axenic
+DBS0351636	neomycin resistant
+DBS0351636	FLAG-tagged
+DBS0351636	overexpressor
+DBS0351660	null mutant
+DBS0351660	blasticidin resistant
+DBS0351660	axenic
+DBS0351681	axenic
+DBS0351681	GFP marked
+DBS0351681	dominant negative mutant
+DBS0351681	overexpressor
+DBS0351755	GFP marked
+DBS0351755	overexpressor
+DBS0351755	blasticidin resistant
+DBS0351755	neomycin resistant
+DBS0351755	axenic
+DBS0351755	null mutant
+DBS0351755	multiple mutant
+DBS0351762	axenic
+DBS0351762	cre-lox mutant
+DBS0351762	blasticidin resistant
 DBS0350883	axenic
 DBS0350883	null mutant
 DBS0350883	blasticidin resistant
@@ -22210,6 +22639,10 @@ DBS0351588	overexpressor
 DBS0351588	neomycin resistant
 DBS0351616	axenic
 DBS0351616	null mutant
+DBS0351621	axenic
+DBS0351621	GFP marked
+DBS0351621	overexpressor
+DBS0351621	neomycin resistant
 DBS0350887	null mutant
 DBS0350887	blasticidin resistant
 DBS0350887	axenic
@@ -22281,6 +22714,9 @@ DBS0351610	null mutant
 DBS0351610	regulatable expressor
 DBS0351610	neomycin resistant
 DBS0351610	multiple null mutant
+DBS0351668	blasticidin resistant
+DBS0351668	axenic
+DBS0351668	null mutant
 DBS0350859	axenic
 DBS0350859	null mutant
 DBS0350859	blasticidin resistant
@@ -22317,6 +22753,7 @@ DBS0351037	neomycin resistant
 DBS0351064	axenic
 DBS0351064	null mutant
 DBS0351127	symbiotic farmer bacterium
+DBS0351127	bacterial strain
 DBS0351183	overexpressor
 DBS0351183	blasticidin resistant
 DBS0351183	axenic
@@ -22343,6 +22780,37 @@ DBS0351576	overexpressor
 DBS0351576	regulatable expressor
 DBS0351576	blasticidin resistant
 DBS0351576	neomycin resistant
+DBS0351701	uracil auxotroph
+DBS0351701	axenic
+DBS0351701	null mutant
+DBS0351701	blasticidin resistant
+DBS0351691	axenic
+DBS0351691	overexpressor
+DBS0351691	blasticidin resistant
+DBS0351727	LacZ marked
+DBS0351727	blasticidin resistant
+DBS0351727	axenic
+DBS0351727	null mutant
+DBS0351733	overexpressor
+DBS0351733	axenic
+DBS0351733	neomycin resistant
+DBS0351756	axenic
+DBS0351756	GFP marked
+DBS0351756	multiple mutant
+DBS0351756	null mutant
+DBS0351756	overexpressor
+DBS0351756	blasticidin resistant
+DBS0351756	neomycin resistant
+DBS0351760	axenic
+DBS0351760	null mutant
+DBS0351760	blasticidin resistant
+DBS0351764	blasticidin resistant
+DBS0351764	axenic
+DBS0351764	null mutant
+DBS0351770	axenic
+DBS0351770	cre-lox mutant
+DBS0351770	multiple null mutant
+DBS0351770	blasticidin resistant
 DBS0350865	null mutant
 DBS0350865	blasticidin resistant
 DBS0350865	axenic
@@ -22457,6 +22925,18 @@ DBS0351500	null mutant
 DBS0351520	blasticidin resistant
 DBS0351520	axenic
 DBS0351520	mutant
+DBS0351642	overexpressor
+DBS0351642	blasticidin resistant
+DBS0351642	neomycin resistant
+DBS0351642	axenic
+DBS0351642	multiple null mutant
+DBS0351642	RFP marked
+DBS0351663	axenic
+DBS0351703	axenic
+DBS0351703	null mutant
+DBS0351703	blasticidin resistant
+DBS0351706	axenic
+DBS0351706	mutant
 DBS0350878	axenic
 DBS0350878	null mutant
 DBS0350878	blasticidin resistant
@@ -22578,6 +23058,14 @@ DBS0351478	blasticidin resistant
 DBS0351519	axenic
 DBS0351519	null mutant
 DBS0351519	blasticidin resistant
+DBS0351704	axenic
+DBS0351704	mutant
+DBS0351705	axenic
+DBS0351705	mutant
+DBS0351751	axenic
+DBS0351751	multiple mutant
+DBS0351751	underexpressor
+DBS0351751	neomycin resistant
 DBS0350918	axenic
 DBS0350918	null mutant
 DBS0350918	blasticidin resistant
@@ -22634,6 +23122,14 @@ DBS0351539	null mutant
 DBS0351539	blasticidin resistant
 DBS0351617	axenic
 DBS0351617	null mutant
+DBS0351624	GFP marked
+DBS0351624	overexpressor
+DBS0351624	neomycin resistant
+DBS0351624	axenic
+DBS0351653	axenic
+DBS0351653	constitutively active mutant
+DBS0351653	overexpressor
+DBS0351653	neomycin resistant
 DBS0350904	axenic
 DBS0350904	null mutant
 DBS0350904	blasticidin resistant
@@ -22697,6 +23193,21 @@ DBS0351603	axenic
 DBS0351603	cre-lox mutant
 DBS0351603	multiple null mutant
 DBS0351603	blasticidin resistant
+DBS0351633	axenic
+DBS0351633	cre-lox mutant
+DBS0351633	multiple null mutant
+DBS0351633	blasticidin resistant
+DBS0351696	axenic
+DBS0351696	null mutant
+DBS0351696	blasticidin resistant
+DBS0351732	neomycin resistant
+DBS0351732	multiple mutant
+DBS0351732	GFP marked
+DBS0351732	overexpressor
+DBS0351732	blasticidin resistant
+DBS0351732	axenic
+DBS0351732	null mutant
+DBS0351732	constitutively active mutant
 DBS0350934	axenic
 DBS0350934	null mutant
 DBS0350934	blasticidin resistant
@@ -22723,3 +23234,64 @@ DBS0351556	axenic
 DBS0351556	mutant
 DBS0351556	dominant negative mutant
 DBS0351556	overexpressor
+DBS0351634	axenic
+DBS0351634	overexpressor
+DBS0351634	neomycin resistant
+DBS0351634	FLAG-tagged
+DBS0351635	overexpressor
+DBS0351635	neomycin resistant
+DBS0351635	axenic
+DBS0351635	FLAG-tagged
+DBS0351659	axenic
+DBS0351659	null mutant
+DBS0351659	blasticidin resistant
+DBS0351672	axenic
+DBS0351672	null mutant
+DBS0351673	axenic
+DBS0351673	null mutant
+DBS0351674	axenic
+DBS0351674	null mutant
+DBS0351684	blasticidin resistant
+DBS0351684	axenic
+DBS0351684	null mutant
+DBS0351695	axenic
+DBS0351695	null mutant
+DBS0351695	blasticidin resistant
+DBS0351714	overexpressor
+DBS0351714	neomycin resistant
+DBS0351714	axenic
+DBS0351716	axenic
+DBS0351716	multiple mutant
+DBS0351716	null mutant
+DBS0351716	overexpressor
+DBS0351716	blasticidin resistant
+DBS0351729	null mutant
+DBS0351729	overexpressor
+DBS0351729	blasticidin resistant
+DBS0351729	neomycin resistant
+DBS0351729	axenic
+DBS0351738	neomycin resistant
+DBS0351738	axenic
+DBS0351738	null mutant
+DBS0351738	overexpressor
+DBS0351738	multiple mutant
+DBS0351742	axenic
+DBS0351742	mutant
+DBS0351742	overexpressor
+DBS0351742	hygromycin resistant
+DBS0351750	axenic
+DBS0351750	cre-lox mutant
+DBS0351750	multiple null mutant
+DBS0351750	overexpressor
+DBS0351750	blasticidin resistant
+DBS0351750	neomycin resistant
+DBS0351750	Myc-tagged
+DBS0351753	axenic
+DBS0351753	overexpressor
+DBS0351753	neomycin resistant
+DBS0351767	axenic
+DBS0351767	null mutant
+DBS0351767	blasticidin resistant
+DBS0351768	axenic
+DBS0351768	null mutant
+DBS0351768	blasticidin resistant

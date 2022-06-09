@@ -4055,8 +4055,12 @@ DBP0001036	keyword	neomycin resistance
 DBP0001037	depositor	Hajara Lawal (Pauline Schaap)
 DBP0001037	keyword	promoter
 DBP0001037	keyword	neomycin resistance
+DBP0001078	depositor	Gillian Forbes (Schaap Lab)
+DBP0001078	keyword	blasticidin resistance;knockout vector
 DBP0001063	depositor	Gillian Forbes (Schaap Lab)
 DBP0001063	keyword	neomycin resistance
+DBP0001079	depositor	Gillian Forbes (Schaap Lab)
+DBP0001079	keyword	blasticidin resistance;knockout vector
 DBP0001044	depositor	Amy Baldwin (Hardwood and Thompson labs)
 DBP0001044	keyword	blasticidin resistance
 DBP0001044	keyword	pLPBLP
@@ -4068,6 +4072,25 @@ DBP0001049	keyword	blasticidin resistance
 DBP0001049	keyword	pLPBLP
 DBP0001059	depositor	Gillian Forbes (Schaap Lab)
 DBP0001059	keyword	neomycin resistance
+DBP0001072	depositor	Felicia Williams (Scaglione Lab)
+DBP0001072	keyword	neomycin resistant
+DBP0001072	keyword	knockout vector
+DBP0001076	depositor	Gillian Forbes (Schaap Lab)
+DBP0001076	keyword	blasticidin resistance;knockout vector
+DBP0001077	depositor	Gillian Forbes (Schaap Lab)
+DBP0001077	keyword	blasticidin resistance;knockout vector
+DBP0001085	synonym	Gillian Forbes (Schaap Lab)
+DBP0001085	keyword	neomycin resistance
+DBP0001086	depositor	Amber Ide (Cynthia Damer)
+DBP0001086	keyword	blasticidin resistance
+DBP0001088	depositor	Amber Ide (Cynthia Damer)
+DBP0001088	keyword	blasticidin resistance
+DBP0001089	depositor	Amber Ide (Cynthia Damer)
+DBP0001089	keyword	neomycin resistance
+DBP0001089	keyword	GFP marker
+DBP0001090	depositor	Amber Ide (Cynthia Damer)
+DBP0001090	keyword	neomycin resistance
+DBP0001090	keyword	GFP marker
 DBP0001046	depositor	Amy Baldwin (Hardwood and Thompson labs)
 DBP0001046	keyword	blasticidin resistance
 DBP0001046	keyword	pLPBLP
@@ -4076,6 +4099,13 @@ DBP0001050	keyword	blasticidin resistance
 DBP0001050	keyword	pLPBLP
 DBP0001068	depositor	Gillian Forbes (Schaap Lab)
 DBP0001068	keyword	neomycin resistance
+DBP0001073	depositor	Felicia Williams (Scaglione Lab)
+DBP0001073	keyword	neomycin resistance
+DBP0001073	keyword	expression vector
+DBP0001074	depositor	Gillian Forbes (Schaap Lab)
+DBP0001074	keyword	blasticidin resistance;knockout vector
+DBP0001075	depositor	Gillian Forbes (Schaap Lab)
+DBP0001075	keyword	blasticidin resistance;knockout vector
 DBP0001051	depositor	Amy Baldwin (Hardwood and Thompson labs)
 DBP0001051	keyword	blasticidin resistance
 DBP0001051	keyword	pLPBLP
@@ -4084,6 +4114,22 @@ DBP0001061	keyword	neomycin resistance
 DBP0001071	depositor	Yan You (Jin Lab)
 DBP0001071	keyword	Extrachromosomal expression vector
 DBP0001071	keyword	neomycin resistance
+DBP0001080	depositor	Gillian Forbes (Schaap Lab)
+DBP0001080	synonym	PviCdl1KO
+DBP0001080	keyword	neomycin resistance;knockout vector
+DBP0001081	depositor	Gillian Forbes (Schaap Lab)
+DBP0001081	keyword	blasticidin resistance;knockout vector
+DBP0001091	depositor	Amber Ide (Cynthia Damer)
+DBP0001091	keyword	neomycin resistance
+DBP0001091	keyword	GFP marker
+DBP0001082	depositor	Gillian Forbes (Schaap Lab)
+DBP0001082	keyword	neomycin resistance;expression vector;YFP marker
+DBP0001083	depositor	Gillian Forbes (Schaap Lab)
+DBP0001083	keyword	neomycin resistance
+DBP0001084	depositor	Gillian Forbes (CJ Weijer Lab)
+DBP0001084	keyword	neomycin resistance;expression vector;YFP marker
+DBP0001087	depositor	Amber Ide (Cynthia Damer)
+DBP0001087	keyword	blasticidin resistance
 DBP0001042	depositor	Hajara Lawal (Pauline Schaap)
 DBP0001042	keyword	promoter
 DBP0001042	keyword	neomycin resistance
@@ -4107,6 +4153,9 @@ DBP0001065	depositor	Gillian Forbes (Schaap Lab)
 DBP0001065	keyword	neomycin resistance
 DBP0001066	depositor	Gillian Forbes (Schaap Lab)
 DBP0001066	keyword	neomycin resistance
+DBP0001092	depositor	Amber Ide (Cynthia Damer)
+DBP0001092	keyword	neomycin resistance
+DBP0001092	keyword	GFP marker
 DBP0001043	depositor	Alexandra Surcel (Robinson Lab)
 DBP0001043	keyword	neomycin resistance
 DBP0001043	keyword	act15 promoter

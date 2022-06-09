@@ -39,11 +39,7 @@ DBS0236602	6-27(19)	Red	3		spores	13-MAY-05
 DBS0236602	6-28(10-12)	Pink	6		axenic	20-MAY-05		
 DBS0235551	3-12(5)	Pink	3		spores	10-FEB-04	AX4 WL  Consolidated from 8 vials to 4 vials on 3/19/2008.  spores plus cells stored as AX4(WL) in 5% DMSO	
 DBS0235551	4-19(19-21)	Pink	3		axenic	20-NOV-07	AX4 (BL or WL);   2 yellow vials labeled AX4(WL) stored on 9/27/04 poor viability in HL5.	no growth in HL5, wait for the 2nd VT
-DBS0236299					na			
-DBS0236291					na			
-DBS0236297					na			
 DBS0236533	2-39(13)	Blue	3		spores	30-AUG-07		brown A.a plate
-DBS0237053					na			
 DBS0237086	5-21(37)	Green	3		spores	29-NOV-04	Consolidated on 11/7/05 from 10 vials at 21(37-39) to 4 vials.	
 DBS0236624	2-10(28)	Pink	3		cells	25-FEB-04	Consolidated from 10 to 4 vials on 3/18/08.  first 10-yellow (12/18/03), then 10-green (1/23/04). Both had low viability	pink straw
 DBS0236651	2-10(18)	Blue	3		spores	05-DEC-03	Consolidated from 10 to 4 vials on 3/18/08.	grey straw
@@ -121,7 +117,7 @@ DBS0236962	4-20(43-45)	Pink	8		axenic	03-NOV-04	Labeled as TADI
 DBS0236962	5-23(74)	Yellow	3		spores	20-JAN-05	Labeled TADI-2. Recovered from silicagel (#109-mix 3-31-91) on 12/22/04.	
 DBS0237060	4-18(33)	Yellow	3		spores	28-JUN-04	first batch of spores stored 4/19/2004 was contaminated and replaced	Consolidated from 10 to 4 vials on 3/21/2008.
 DBS0235972	1-1(81)	Yellow	3		spores	21-OCT-03	Consolidate on 12/29/05 from 10 to 4 vials.	
-DBS0235562	3-12(1)	Blue	3		cells	20-JUN-17		
+DBS0235562	3-12(1)	Blue	1		cells	20-JUN-17		
 DBS0236138	1-5(23)	Red	3		cells	26-JUN-03	HC347  consolidated from 10 vials to 4 on 5/1/08.	axenic version of synag7 (originally N7),which is derived from NC-4 by mutagenesis with NTG.
 DBS0236638	1-4(6)	Yellow	3		spores	27-MAY-03	Stored as B. yellow (spores plus cells).Consolidated on 9/12/06 from 10 to 4 vials (1 vial to orange tank).	
 DBS0236670	1-5(12)	Pink	3		spores	30-JUN-03	Spores plus cells. Consolidated from 10 to 4 vials on 7/21/06.	
@@ -156,7 +152,9 @@ DBS0235548	5-21(76-78)	Red	7		axenic	06-DEC-04	AX3-VatM-gfp restored from green 
 DBS0236486	2-10(49)	Green	3		spores	19-APR-04	KAX-3 JH	
 DBS0236486	3-14(31-33)	Red	6		axenic	05-APR-04	KAX-3 JH	
 DBS0235564	3-13(34-36)	Green	4		axenic	01-JUN-07	3 yellow vials stored 3/29/04 from C tank put into OT(rack2 boxc 78-80)  Relocated 3/19/08.	neoR
+DBS0235564	5-55(26)	Blue	3		cells	22-JUL-21		
 DBS0235565	5-24(76-78)	Red	9		axenic	29-MAY-07	replenish the pink vials.3from C tank moved to OT((rack2-boxC 75-77))	neoR
+DBS0235565	5-55(75)	Pink	3		cells	04-OCT-21		
 DBS0235627	3-13(22-24)	Red	5		axenic	29-MAR-04	Relocated 3/19/08.	
 DBS0235629	3-13(25-27)	Blue	7		axenic	29-MAR-04	Relocated 3/19/08.	
 DBS0235630	3-13(19-21)	Pink	6		axenic	29-MAR-04	Relocated 3/19/08.	
@@ -194,10 +192,8 @@ DBS0237078	2-10(47)	Red	3		cells	29-DEC-03	Consolidated from 10 to 4 vials on 3/
 DBS0237080	2-10(43)	Green	3		cells	29-DEC-03	Consolidated from 10 to 4 vials on 3/18/08.	green straw
 DBS0237081	2-10(31)	Blue	3		cells	04-MAR-04	Consolidated from 10 to 4 vials on 3/18/08.  batch of red vials from 12/19/03 replaced because of contamination	green straw
 DBS0236321	5-22(2)	Pink	3		spores	08-DEC-04	green vials (stored 7/4/2004 by jf) were contaminated with yellow contaminant and replaced	Consolidated 7/5/06 (from 10 vials to 4 vials).
-DBS0237064					na			
 DBS0236301	3-12(4)	Blue	3		spores	02-FEB-04	very slow grower.  Consolidated from 10 vials to 4 vials on 3/19/2008.	
 DBS0236661	3-15(65)	Pink	3		cells	08-APR-04	Consolidated from 10 to 4 vials on 3/25/2008.	
-DBS0236657		Yellow			na			strain not available
 DBS0237072	3-15(74)	Red	3		cells	16-APR-04	Consolidated from 10 to 4 vials on 3/25/2008.	purple straw
 DBS0236400	2-6(73)	Red	3		spores	08-JUL-05		
 DBS0236636	3-15(7)	Blue	3		cells	21-APR-04	Consolidated on 11/29/07 from 10 to 4 vials.	yellow straw
@@ -215,7 +211,8 @@ DBS0236283	2-8(11)	Red	3		spores	10-NOV-03	Original stock (pink) from 10/21/03 w
 DBS0236292	2-8(4)	Blue	2		cells	24-OCT-03	Consolidated from 10 to 4 vials on 12/24/07.	Tank A vial thawed
 DBS0236293	2-8(19)	Red	2		cells	23-OCT-03	Consolidated from 10 to 4 vials on 12/24/07.	
 DBS0236295	2-8(17)	Pink	3		cells	23-OCT-03	Consolidated from 10 to 4 vials on 12/24/07.	
-DBS0236289	2-8(2)	Green	3		cells	16-OCT-03	HM338  Consolidated from 10 to 4 vials on 12/24/07.	
+DBS0236289	2-8(2)	Green	1		cells	16-OCT-03	HM338  Consolidated from 10 to 4 vials on 12/24/07.	
+DBS0236289	6-56(15)	Red	3		cells	04-FEB-22		
 DBS0236268	6-28(19-21)	Green	6		axenic	09-JUN-05	HM1435  This strain was harvested and the vials placed in the -80 freezer.  Got in strain request for this strain before the transfer to LN so removed one vial from -80.	
 DBS0236268	5-25(32)	Yellow	3		cells	08-JUN-18		
 DBS0236296	2-9(3)	Red	3		cells	31-OCT-03	HM444  Consolidated from 10 to 4 vials on 12/24/07.	
@@ -274,9 +271,7 @@ DBS0235635	2-10(36)	Green	3		spores	15-MAR-04	CT15  Consolidated from 10 to 4 vi
 DBS0235635	3-42(50-53)	Yellow	11		axenic	13-APR-09	Tank B: 4  Tank A: 3  Tank C: 4	
 DBS0235554	3-12(10)	Yellow	3		spores	19-MAR-04	AX4 CT  Consolidated from 8 vials to 4 vials on 3/19/2008.	
 DBS0235554	1-3(22-24)	Green	9		axenic	13-DEC-05	AX4(CT)	
-DBS0236323					na			
 DBS0237079	2-10(38)	Yellow	3		cells	29-JAN-04	Consolidated from 10 to 4 vials on 3/18/08.  replaced 10 vials stored 12/24/03 (low viability)	grey straw
-DBS0237076					na			
 DBS0236370	3-12(73-75)	Red	3		axenic	26-FEB-04	HR6  Relocate the position on 3/19/08.	
 DBS0236370	4-49(13)	Yellow	3		cells	13-NOV-19		
 DBS0236349	3-12(76-78)	Green	7		axenic	26-FEB-04	Relocate the position on 3/19/08.	
@@ -442,9 +437,6 @@ DBS0236920	1-5(15)	Pink	3		spores	05-MAR-04	SA550  Consolidated from 10 to 4 via
 DBS0236920	3-15(34)	Blue	2		spores	23-NOV-08		
 DBS0235549	3-12(18)	Green	2		spores	05-MAR-04	labeled AX4-(S.A.)  Consolidated from 8 vials to 4 vials on 3/19/2008.  relocated from box 13 to 12 3/19/2008.	
 DBS0235466	3-12(21)	Blue	2		cells	03-MAR-04	AK299  Consolidated from 10 vials to 4 vials on 3/19/2008.	
-DBS0236143					na			
-DBS0236725					na			
-DBS0237225					na			
 DBS0237042	3-13(16-18)	Red	6		axenic	24-MAR-04	Relocated 3/19/08.	
 DBS0237042	3-12(9)	Yellow	3		spores	19-MAR-04		
 DBS0235545	3-15(26)	Red	2		spores	20-APR-04	AX3(1)  from 1990 silica stock (replaced 1989-silica derived stocks that didn't grow well axenically!). Consolidated on 11/7/05 from 10 vials at 15(25-27) to 4 vials.	2 colonies of strain AX3 that had been used to develop FM were stored in silicagel: AX3(1) and AX3(2); AX3(1) has been renamed AX3-K
@@ -634,7 +626,7 @@ DBS0235504	6-28(42)	Blue	4		spores	20-JUN-05	Anu84
 DBS0235746	6-28(39)	Blue	3		spores	20-JUN-05	Plated out 2/14/8 and checked 2/21/8: lot of aggs, no sorocarps.	look like streaks of big aggs, add charcoal wait to see whether or not generate spores.
 DBS0235798	6-28(40)	Green	3		spores	20-JUN-05	WS380B	
 DBS0235753	4-17(30)	Green	3		spores	02-NOV-16		
-DBS0235542	3-14(36)	Red	1		spores	20-JUN-05	AX3 Dev  Consolidated on 11/7/05 from 10 vials at 28(46-48) to 4 vials.	
+DBS0235542	3-14(36)	Red	3		spores	30-JUN-21		
 DBS0235794	6-27(54)	Pink	3		spores	01-JUN-05		
 DBS0237088	6-28(43-45)	Red	7		axenic	17-JUN-05	vials labeled "YakA- in JH8"	
 DBS0235594	6-26(33)	Green	3		spores	16-JUN-05	Consolidated from 10 to 4 vials on 4/9/08. change position from box 6-28 to 6-26.	
@@ -677,6 +669,7 @@ DBS0236372	5-25(31)	Green	3		cells	04-JUN-18
 DBS0236372	5-25(37-39)	Yellow	9		axenic	06-JUN-18		
 DBS0236905	4-16(52-54)	Yellow	9		axenic	10-JUN-04	AX2 rps4OE	intial shipment on %/13.2004 was dead; axenic culture from 6/2/2004contained yellow contaminant
 DBS0236544	4-16(49-51)	Red	7		axenic	08-JUN-04		
+DBS0236544	5-55(10)	Green	3		cells	02-SEP-22		
 DBS0235518	4-16(46-48)	Blue	6		axenic	08-JUN-04	AX2-8A	
 DBS0235518	3-15(21)	White	3		spores	10-FEB-17		
 DBS0236244	4-18(20)	Yellow	3		spores	24-AUG-04	only one colony recovered from straw.  Consolidated from 10 to 4 vials on 3/21/2008.	
@@ -837,8 +830,9 @@ DBS0235647	6-30(46-48)	Yellow	4		axenic	17-OCT-05	CW0401
 DBS0235647	6-30(28)	Green	3		spores	14-OCT-05		
 DBS0235650	6-30(40-42)	Pink	8		axenic	13-OCT-05	CW0435	placed as an order 5/3/07 and check 5/7 no growth, check 5/17, confluent. slow growth
 DBS0235650	6-30(29)	Blue	3		spores	14-OCT-05		
-DBS0235413	1-33(58-60)	Pink	5		axenic	08-MAR-06	24E6	
-DBS0235413	4-47(21-23)	Red	5		axenic	23-MAR-11	replenishing of stocks	
+DBS0235413	1-33(58-60)	Pink	2		axenic	08-MAR-06	24E6, 2 tubes in C	
+DBS0235413	4-47(21-23)	Red	2		axenic	23-MAR-11	replenishing of stocks	
+DBS0235413	1-33(58-60)	Pink	5		axenic	08-MAR-22	original 2 tubes in tank c	
 DBS0236487	6-29(79-81)	Blue	3		axenic	28-SEP-05	vials labeled KAX3-RF	
 DBS0236487	6-30(24)	Pink	2		spores	04-OCT-05	KAX3-RF	
 DBS0236450	6-30(1-3)	Yellow	5		axenic	28-SEP-05	vials labeled JH10-RF	
@@ -1020,7 +1014,8 @@ DBS0236154	4-17(35)	Blue	3		spores	03-APR-06	hcpA-LP  Previously stored on 2/8/0
 DBS0236154	4-17(37-39)	Red	6		axenic	28-MAR-06	Replaced hcpA-FL from 2/13/06 [1-33(13-15), red] which was bsR	
 DBS0236163	1-33(24)	Green	3		spores	08-FEB-06		
 DBS0236163	1-32(79-81)	Pink	9		axenic	13-FEB-06		
-DBS0236955	1-33(40-42)	Blue	2		axenic	17-FEB-06	Syn-B, remaining 2 tubes in Restore Tank C box in Freezer A	
+DBS0236955	1-33(40-42)	Blue	1		axenic	17-FEB-06	Syn-B, remaining tube in Restore Tank C box in Freezer A	
+DBS0236955	5-54(74)	White			cells	22-JUL-21		
 DBS0236765	6-27(12)	Yellow	3		cells	17-NOV-16		
 DBS0236794	1-33(46-48)	Red	6		axenic	22-FEB-06	HD10  Stored PLC- (blue) inventory on 2/13/06 in position 1-33(4-6) but accidental restorage on 2/22/06 red inventory had better viability so keep red.	
 DBS0236794	1-2(81)	Blue	3		spores	15-MAR-06	vials labeled HD10-2	
@@ -1277,6 +1272,8 @@ DBS0236923	1-1(73-75)	Blue	9		axenic	13-DEC-07	SB16(R.I.)	Pink vials stored 10/2
 DBS0236923	1-1(37)	Pink	3		spores	12-DEC-07	SB16(s)  stored twice by accident	
 DBS0236004	4-17(28)	Red	2		spores	27-MAR-06	L8	
 DBS0236004	4-17(52-54)	Pink	5		axenic	29-MAR-06	L8	
+DBS0235664	5-54(54)	White	3		cells	06-MAY-21	clear	
+DBS0235673	5-54(55)	White	3		cells	06-MAY-21	clear	
 DBS0236704	2-7(65)	Blue	3		spores	24-APR-07	osbpA-  transfer to OT 4.25.07	
 DBS0236704	2-36(70-72)	Blue	7		axenic	04-JUN-07		6.8.07:plate+HL5(8days to 80%confluent)  7/5/07: grow well in HL5(5days confluent), grow very well in A.a plate
 DBS0236600	2-40(66)	Yellow	3		spores	12-OCT-07	SB18(s)	
@@ -1368,8 +1365,8 @@ DBS0236803	1-4(31)	Yellow	3		spores	24-OCT-06	s481
 DBS0236802	1-4(33)	Red	3		spores	24-OCT-06	s482	
 DBS0235505	2-6(55)	Green	3		spores	21-JUL-08		
 DBS0235505	2-6(49-51)	Blue	8		axe	17-JUL-08		
-DBS0235456	4-47(53)	Yellow	2		cells	25-JUN-11		
-DBS0235456	5-51(60)	Pink	1		cells	13-OCT-11	new; tube labeled Anoegel	
+DBS0235456	5-55(25)	Red	3		cells	22-JUL-21		
+DBS0235456	5-55(32-33)	Red	5		axenic	27-JUL-22		
 DBS0235601	3-41(16)	Blue	3		cells	24-OCT-07	2A1(c)  does not grow well in suspension and develops abnormally. It only forms a few FBs	a little slow
 DBS0235601	2-39(22-24)	Yellow	5		axenic	03-JAN-08	2A1(a)	1stVT 1/16/8,no growth in B5, 2nd VT 1/30/08, confluent and floating aggs in B5
 DBS0236935	5-51(62)	Green	1		cells	28-NOV-11	in Tank A and in Tank C	
@@ -1381,6 +1378,7 @@ DBS0237194	5-21(48)	Pink	3		cells	14-DEC-18
 DBS0236856	1-2(70-72)	Yellow	9		axe	12-OCT-08		
 DBS0236856	1-3(54)	Red	3		spores	17-OCT-08		
 DBS0236072	2-39(73-75)	Yellow	7		axenic	10-SEP-07	10B6(A)  neoR and Bsr	does not make good spores so only store axe
+DBS0236072	5-55(3)	White	3		cells	28-JUL-21	Color: clear	
 DBS0236421	2-39(43-45)	Red	9		axenic	19-SEP-07	labeled INCENP-10H10  Bsr	
 DBS0236421	2-39(46-48)	Blue	9		axenic	19-SEP-07	INCENP-10B6  Bsr	
 DBS0236421	2-39(54)	Green	2		spores	19-SEP-07	INCENP-10H10(s)	
@@ -1476,6 +1474,8 @@ DBS0235680	5-53(78)	White	3		cells	22-APR-21	clear tube
 DBS0235681	5-54(65)	White	3		cells	31-MAR-21		
 DBS0236604	3-41(65)	Green	3		spores	26-NOV-07	nhe1-(s)	
 DBS0236604	3-41(52-54)	Red	5		axenic	16-NOV-07	nhe1-	slow in B5 (2nd VT 3/4/08).
+DBS0235684	5-54(70)	Pink	3		cells	28-APR-21		
+DBS0235685	5-55(24)	Pink	3		cells	28-APR-21		
 DBS0235688	5-53(79)	White	3		cells	22-APR-21	clear tube	
 DBS0236605	3-41(73-75)	Yellow	6		axenic	19-NOV-07	nhe1-/act15	slow in B5 and G5, take 10 days to reach to 70% con fluency.
 DBS0236605	3-41(66)	Red	3		spores	26-NOV-07	nhe1-/[act15]:nhe1:HA(s)	
@@ -1508,6 +1508,7 @@ DBS0236931	3-14(60)	Green	3		spores	14-NOV-08	labeled SA512
 DBS0236728	1-2(22-24)	Blue	3		axenic	09-JUN-06	KO-1, grow axenically wit bsr	
 DBS0236728	1-2(40-42)	Blue	6		axenic	09-APR-07	KO-2.   Cells stored on 6/9/06 were replaced 4/13/07 because of contamination.	order from Derrick shows clean and viable
 DBS0236728	1-2(16-18)	Red	5		axenic	09-JUN-06	KO-3,blast	
+DBS0236728	6-56(3)	White	3		cells	24-MAR-22	tube is clear	
 DBS0236729	2-37(49-51)	Green	9		axenic	02-JUL-07	Restored because position 5-22(46-48) [pink, axe, stored by JF on 6/14/06,vT by zl on 5/30/07 shows no growth in hygro+B5,but growth on Ka(hygro)plate, discarded on 3/26/2008	
 DBS0237234	1-2(1)	Yellow	3		cells	04-OCT-08	smla-AS	
 DBS0236169	5-21(34-36)	Pink	4		axenic	15-MAY-06	HG1397; grows on G418 plate	Order from R.M. on June17/07 shows no growth in HL5+G5 but grow on k.a plate. Retest 7/5/7: clean and viable on K.a. and HL5+G5
@@ -1535,7 +1536,9 @@ DBS0235625	5-55(23)	Yellow	3		cells	08-APR-21
 DBS0236820	1-1(18)	Red	3		spores	20-FEB-07	neoR	
 DBS0235638	5-53(54)	White	3		cells	15-APR-21	clear tube	
 DBS0236821	1-1(17)	Yellow	3		spores	20-FEB-07	a little slow, neoR	
+DBS0235672	5-54(66)	Red	3		cells	06-MAY-21		
 DBS0235671	5-54(98)	Blue	3		cells	26-MAR-21	In freezer box, not in LiqN2	
+DBS0237094	5-55(1)	White	3		cells	24-MAY-21	clear	
 DBS0237054	5-54(60)	Blue	3		cells	31-MAR-21		
 DBS0237055	5-53(73)	White	3		cells	22-APR-21	clear tube	
 DBS0235674	5-55(14)	White	3		cells	07-APR-21		
@@ -1568,6 +1571,7 @@ DBS0237637	1-4(64-66)	Blue	7		axenic	23-AUG-17	only 1 vial left in A
 DBS0237637	4-49(15)	Red	3		cells	13-NOV-19		
 DBS0237637	5-53(39)	Yellow	3		cells	07-OCT-20		
 DBS0237637	1-1(2)	Blue	2		spores	10-FEB-17	in restore Tank C box in Freezer A; labeled AX4 RK or RS?	
+DBS0237699	5-55(49)	Red	3		cells	06-OCT-21	1 red - 10/6/21,  2 green - 10/28/21	
 DBS0236328	2-7(26)	Red	3		spores	06-OCT-03	HPX266  Spores plus cells. Consolidate on 11/20/06 from 10 vials to 4 vials (1 vial in orange tank).	Stored since 1/19/85 at -80oC
 DBS0235988	5-55(16)	Red	3		cells	07-APR-21		
 DBS0235999	5-54(59)	Green	3		cells	26-MAR-21	In freezer box, not in LiqN2	
@@ -1674,6 +1678,7 @@ DBS0238068	1-32(54)	White	3		spores	22-FEB-17
 DBS0238119	2-7(72)	Yellow	3		cells	27-APR-07		
 DBS0238233	2-37(29)	Green	3		spores	25-JUN-07	SA313	
 DBS0238233	4-16(74)	Pink	3		spores	19-NOV-08		
+DBS0238297	6-56(13)	Red	3		cells	03-DEC-21		
 DBS0238529	2-36(79-81)	Yellow	9		axenic	17-AUG-07	SHD  neoR	
 DBS0238529	2-40(72)	Pink	3		spores	12-OCT-07	SHD(s)	bad and few spores, slugs and aggs
 DBS0238531	2-40(73)	Yellow	3		spores	15-OCT-07	Restored because contamination in 8/20/07 stock.	
@@ -1949,8 +1954,9 @@ DBS0304719	2-10(80)	Red	2		spores	30-NOV-08
 DBS0304820	4-46(11-13)	Pink	6		axenic	21-OCT-10		1 tube to test in Styrofoam box
 DBS0304820	4-47(6)	Pink	3		cells	01-NOV-10	new viable stock - do NOT use previous stocks	
 DBS0304821	4-46(17-18,27)	Red	2		axenic	21-AUG-09		
-DBS0304821	4-47(5)	Yellow	2		cells	01-NOV-10	new viable stocks - do NOT use previous stocks	
+DBS0304821	4-47(5)	Yellow	1		cells	01-NOV-10	new stock in A&B in same spot	
 DBS0304821	3-42(74-76)	Red	3			22-OCT-09	Tank C: 3	
+DBS0304821	4-47(5)	White	2		cells		one old yellow tube in tank C, in same spot	
 DBS0266691	2-9(21)	Blue	3		spores	03-NOV-08		
 DBS0266692	5-25(44-45)	Pink	2		axenic	01-NOV-18	1 tube in Tank B and 1 tube in Tank A	
 DBS0266692	6-28(76)	Blue	3		cells	18-OCT-18		
@@ -1973,6 +1979,7 @@ DBS0266757	2-6(36)	Yellow	3		spores	07-JUL-08
 DBS0266758	3-11(35)	Blue	3		spores	10-JUN-08	AX3K(CR)	
 DBS0266759	3-11(19)	Pink	3		spores	27-MAY-08	APKO#2(CR)	
 DBS0266763	1-5(49-51)	Blue	9		axe	20-OCT-08		
+DBS0266763	6-56(11)	Yellow	2		cells	03-DEC-22		
 DBS0266764	1-2(76-78)	Yellow	9		axe	14-OCT-08	HMX/ugpB-	
 DBS0266765	1-5(52-54)	Red	9		axe	17-OCT-08		
 DBS0266765	4-49(37)	Pink	3		cells	28-FEB-20		
@@ -2186,10 +2193,7 @@ DBS0308472	4-46(59)	White	2		spores	13-NOV-17	not in tank A
 DBS0349660	4-49(10)	Orange	1			01-JUL-11	Orange tube; tank B only (one tube sent)	
 DBS0349661	4-49(11)	Orange	1			01-JUL-11	Orange tube; tank B only (one tube sent)	
 DBS0349662	4-49(12)	Orange	1			01-JUL-11	Orange tube; tank B only (one tube sent)	
-DBS0349663	4-49(13)	Orange	1			01-JUL-11	Orange tube; tank B only (one tube sent)	
-DBS0349664	4-49(14)	Orange	1			01-JUL-11	Orange tube; tank B only (one tube sent)	
 DBS0349665	4-49(15)	Orange	1			01-JUL-11	Orange tube; tank B only (one tube sent)	
-DBS0349666	4-49(16)	Orange	1			01-JUL-11	Orange tube; tank B only (one tube sent)	
 DBS0349668	4-49(18)	Orange	1			01-JUL-11	Orange tube; tank B only (one tube sent)	
 DBS0349669	4-49(19)	Orange	1			01-JUL-11	Orange tube; tank B only (one tube sent)	
 DBS0349670	4-49(20)	Orange	1			01-JUL-11	Orange tube; tank B only (one tube sent)	
@@ -2217,7 +2221,6 @@ DBS0349679	4-49(29)	Orange	1			01-JUL-11	Orange tube; tank B only (one tube sent
 DBS0349680	4-49(30)	Orange	1			01-JUL-11	Orange tube; tank B only (one tube sent)	
 DBS0349681	4-49(31)	Orange	1			01-JUL-11	Orange tube; tank B only (one tube sent)	
 DBS0349682	4-49(32)	Orange	1			01-JUL-11	Orange tube; tank B only (one tube sent)	
-DBS0349683	4-49(33)	Orange	1			01-JUL-11	Orange tube; tank B only (one tube sent)	
 DBS0349684	4-49(34)	Orange	1			01-JUL-11	Orange tube; tank B only (one tube sent)	
 DBS0349685	4-49(35)	Orange	1			01-JUL-11	Orange tube; tank B only (one tube sent)	
 DBS0349686	4-49(36)	Orange	1			01-JUL-11	Orange tube; tank B only (one tube sent)	
@@ -2225,11 +2228,11 @@ DBS0349687	4-49(37)	Orange	1			01-JUL-11	Orange tube; tank B only (one tube sent
 DBS0349688	4-49(38)	Orange	1			01-JUL-11	Orange tube; tank B only (one tube sent)	
 DBS0349689	4-49(39)	Orange	1			01-JUL-11	Orange tube; tank B only (one tube sent)	
 DBS0349690	4-49(40)	Orange	1			01-JUL-11	Orange tube; tank B only (one tube sent)	
-DBS0349691	4-49(41)	Orange	1			01-JUL-11	Orange tube; tank B only (one tube sent)	
+DBS0349691	6-56(20)	Red	3		cells	23-MAR-22	original tube was thawed to make new inventory	
 DBS0349692	4-49(42)	Orange	1			01-JUL-11	Orange tube; tank B only (one tube sent)	
 DBS0349693	4-49(43)	Orange	1			01-JUL-11	Orange tube; tank B only (one tube sent)	
 DBS0349694	4-49(44)	Orange	1			01-JUL-11	Orange tube; tank B only (one tube sent)	
-DBS0349695	4-49(45)	Orange	1			01-JUL-11	Orange tube; tank B only (one tube sent)	
+DBS0349695	6-56(21)	Blue	3		cells	23-MAR-22		
 DBS0349574	4-48(66)	Orange	1			13-JAN-11	Orange tube; tank B only (one tube sent)	
 DBS0306505	4-46(5-7)	Green	9		cells	10-JUL-09	not axenic; does not sporulate	1 extra vial in test box
 DBS0350625	5-54(9)	Pink	3		cells			
@@ -2299,6 +2302,7 @@ DBS0349651	4-47(60)	Red	3			01-JAN-11	welker
 DBS0349827	5-52(63)	Pink	3		cells			
 DBS0349830	5-52(62)	Red	3		cells			
 DBS0349831	5-52(57)	Blue	3		cells			
+DBS0350654	5-54(63)	White	2		cells	01-APR-19	clear; only in Tank A and Tank C	
 DBS0350654	6-32(80)	Pink	3		axenic	01-APR-19		
 DBS0350654	5-55(20)	Yellow	3		cells	08-APR-21		
 DBS0350040	5-54(43-45)	Green	10		axenic			
@@ -2314,6 +2318,7 @@ DBS0350201	2-37(54)	Yellow	3		cells	05-JUN-17
 DBS0350205	6-31(61-63)	Blue	9		cells	15-JUN-16	HM1325	
 DBS0350205	6-32(16-18)	Blue	9		spores	01-JUL-16	sec1-/sec	
 DBS0350227	5-52(14)	Blue	3		cells	28-FEB-19		
+DBS0350227	6-56(16)	Blue	2		cells	07-JAN-22	in Tank A and in Tank C	
 DBS0305938	1(19-20)	White	1		bacterial cells	09-OCT-02	ATCC 13048	
 DBS0306162	3-13(65)	Red	3		spores	30-JAN-17		
 DBS0306506	4-46(8)	Yellow	3		spores			1 extra vial in test box
@@ -2366,6 +2371,7 @@ DBS0350626	5-54(8)	Pink	3		cells
 DBS0309039	5-51(49)	Yellow	3		cells	24-OCT-11	grow on plates with concentrated k a waaq-	
 DBS0348878	13(1-2)	Green	3		bacterial stock	11-AUG-08		
 DBS0350655	6-26(55)	Yellow	2		cells	02-AUG-19		
+DBS0350655	5-55(2)	White	2		cells	02-AUG-19	clear tube; only in Tank A and Tank C	
 DBS0349950	5-52(32)	Red	3		cells			
 DBS0349954	5-52(46-48)	White	9		axenic			
 DBS0349960	5-52(37)	Yellow	3		cells			
@@ -2441,11 +2447,9 @@ DBS0350792	6-32(77)	White	3		spores	08-AUG-16
 DBS0350798	4-19(34-36)	White	9		axenic	21-NOV-17		
 DBS0350798	4-19(75)	Blue	3		spores	01-DEC-17		
 DBS0305977	5-22(77)	Blue	3		cells	23-AUG-18	in eLabInv	
-DBS0305977	5-23(61)	Yellow	3		spores	15-AUG-18		
-DBS0305977	523(61)	Yellow	3		spores	16-AUG-18	in eLabInv	
+DBS0305977	5-23(61)	Yellow	2		spores	15-AUG-18		
 DBS0305978	4-47(25)	Yellow	3		cells	23-MAR-11	AGA on cap	
 DBS0309063	5-51(51)	Yellow	3		cells	22-OCT-11		
-DBS0349873	6-28(34)	Red	3		spores	12-OCT-18		
 DBS0349959	5-52(42)	Red	3		cells			
 DBS0305930	2(7-8)	Blue	2		bacterial cells	19-NOV-03	colony 1	
 DBS0305930	2(9,18)	Green	2		bacterial cells	19-NOV-03	colony 4	
@@ -2505,7 +2509,7 @@ DBS0349859	5-51(66-68)	Green	9		axenic	13-JUN-16
 DBS0349859	6-31(55-57)	Green	9		spores	05-JUL-16		
 DBS0350762	6-32(52-54)	Blue	7		axenic	20-JUN-16	AX2 (YA)	
 DBS0350762	6-32(28-30)	White	9		spores		AX2 (YA)	
-DBS0350762	6-26(46-47)	Yellow	4			26-AUG-19	Only 4 tubes stored  1 tube in Tanks B and A; two tubes in Tank C	
+DBS0350762	6-26(46-47)	Yellow	4		axenic	26-AUG-19	Only 4 tubes stored  1 tube in Tanks B and A; two tubes in Tank C	
 DBS0350764	6-32(4-6)	White	9		spores	01-JUL-16	MAD 52	
 DBS0350765	6-32(10-12)	Red	9		spores	18-JUL-16	M26B	
 DBS0350783	6-32(68)	Yellow	3		spores	23-AUG-16		
@@ -2522,7 +2526,7 @@ DBS0349702	4-49(63)	Blue	4			01-JUL-11	syst id on cap
 DBS0349703	4-49(57)	Pink	2			01-JUL-11	labeled on cap - AK1511	
 DBS0349704	4-49(56)	Green	2			01-JUL-11	labeled on cap - AK1512	
 DBS0349705	4-49(61)	Pink	2			01-JUL-11	labeled on cap - AK1513	
-DBS0349706	4-49(58)	Green	2			01-JUL-11	labeled on cap - AK1515  Tank A grows better than Tank B stock 11/15/17	
+DBS0349706	6-56(14)	Green	3		cells	10-FEB-22		
 DBS0349707	4-49(54)	Green	2			01-JUL-11	labeled on cap - AK1517	
 DBS0349708	4-49(51)	Red	2			01-JUL-11	labeled on cap - AK1518	
 DBS0349709	4-49(60)	Pink	2			01-JUL-11	labeled on cap - AK1519	
@@ -2544,6 +2548,7 @@ DBS0350086	5-52(68)	Green	2		cells
 DBS0350088	5-52(66)	Yellow	4		cells			
 DBS0350732	6-31(73-75)	Yellow	9		cells	10-JUN-16	psrA-/[act15]:rasD(Q61K):FLAG	
 DBS0350767	6-32(7-9)	Red	9		spores	01-JUL-16	MAD 5-1a	
+DBS0350776	6-31(46)	Red	3		cells	03-APR-19		
 DBS0350776	6-28(73)	White	1		cells	19-DEC-19	tube color: clear	
 DBS0350777	6-32(62)	Green	3		spores	23-AUG-16		
 DBS0349837	21(17)	Yellow	2		bacterial stock	23-NOV-11	Plate on LB/AMP	
@@ -2560,10 +2565,21 @@ DBS0351134	1-32(32)	White	3		cells	07-NOV-17
 DBS0351415	4-49(14)	White	3		cells	25-SEP-19		
 DBS0351142	5-24(32)	White	3		spores	30-MAR-18		
 DBS0351431	3-42(41)	Yellow	2		cells	16-OCT-19	in tank A and in Tank C	
+DBS0351503	5-55(62)	Blue	1		cells	06-OCT-21		
+DBS0351650	5-54(4)	White	3		cells	04-AUG-21	tube color: clear	
+DBS0351652	5-55(51)	Yellow	3		cells	06-AUG-21		
+DBS0351665	5-53(81)	White	3		cells		color: clear	
+DBS0351676	5-55(6)	White	3		cells	27-AUG-21	clear	
+DBS0351502	5-55(66)	Green	2		cells	06-OCT-21		
+DBS0351645	5-55(61)	White	3		cells	11-AUG-21	Tube color: clear	
+DBS0351651	5-54(76)	White	3		cells	06-AUG-21	color: clear	
 DBS0351014	4-19(23)	Yellow	3		cells	07-DEC-17		
 DBS0351355	3-42(56)	Yellow	3		spores	30-JUL-19		
 DBS0351432	3-42(68)	Green	2		cells	16-OCT-19	in tank A and in Tank C	
 DBS0351192	5-23(22)	White	3		spores	15-JUN-18	Tube color: clear	
+DBS0351644	5-55(60)	Red	3		cells	11-AUG-21		
+DBS0351687	5-55(80)	Yellow	3		cells	29-OCT-21		
+DBS0351688	5-55(74)	White	3		cells	04-OCT-21	clear	
 DBS0351004	4-17(51)	Green	3		cells	08-NOV-17		
 DBS0351004	4-17(51)	Green	3			08-NOV-17		
 DBS0351407	4-49(28)	Yellow	2		cells	11-SEP-19	in Tank A and in Tank C only	
@@ -2582,10 +2598,14 @@ DBS0351131	4-19(33)	Blue	3		cells	01-NOV-17
 DBS0351256	5-24(15)	Yellow	3		cells	17-DEC-18	very slow plaque growth; plate big chunk	
 DBS0351256	6-27(64-66)	Red	8		axenic	03-DEC-18		
 DBS0351340	3-42(19)	Pink	3		cells	03-JUL-19		
+DBS0351718	5-55(18)	Red	3		cells	29-OCT-21		
+DBS0351720	5-55(70)	Green	3		cells	08-OCT-21		
+DBS0351722	5-55(71)	Red	3		cells	08-OCT-21		
 DBS0350877	1-2(64)	White	3		spores	27-FEB-17		
 DBS0351068	3-12(39)	Yellow	3		cells	10-APR-17		
 DBS0351068	3-12(37-38)	Red	6		axenic	03-APR-17		
 DBS0351068	3-12(39)	Yellow			cells			
+DBS0351205	5-55(65)	White	3		cells	07-OCT-21		
 DBS0351274	4-19(57)	White	3		spores			
 DBS0350842	4-16(18)	Yellow	3		spores	14-OCT-16	triA-:: pSA 23	
 DBS0350850	4-16(58)	Yellow	3		spores	14-OCT-16	triA-:: triAprom 123	
@@ -2609,6 +2629,7 @@ DBS0351113	4-46(43)	Green	3		cells	21-NOV-17
 DBS0351114	1-31(54)	Yellow	3		spores	27-OCT-17		
 DBS0351132	4-18(81)	Green	3		cells	13-NOV-17		
 DBS0351452	3-42(71)	Yellow	2		spores	23-OCT-19	only in Tank a and in Tank C	
+DBS0351675	5-55(7)	White	3		cells	01-SEP-21	clear	
 DBS0351023	4-19(30)	White	3		cells	29-JAN-18		
 DBS0351135	4-16(29)	Red	3		cells	21-NOV-17		
 DBS0351089	1-5(25)	Blue	3		spores	27-OCT-17		
@@ -2626,6 +2647,7 @@ DBS0351090	1-4(68)	Green	3		spores	27-OCT-17
 DBS0351358	3-42(20)	Blue	2		cells	19-JUL-19	In Tank A and C	
 DBS0351279	6-30(64)	White	3		spores	15-FEB-19		
 DBS0351422	4-50(37)	Red	2		cells	18-SEP-19	in Tank A and in Tank c	
+DBS0351690	5-55(79)	Yellow	2		cells	28-NOV-21		
 DBS0350870	4-50(24)	Yellow	3		spores	15-FEB-17		
 DBS0350870	4-16(7-9)	White	9		axenic	15-FEB-17		
 DBS0350998	4-19(28)	Yellow			cells	29-JAN-18		
@@ -2639,18 +2661,33 @@ DBS0351330	6-26(40)	Red	3		cells	27-JUN-19
 DBS0351339	3-42(64)	Yellow	2		cells	12-JUL-19		
 DBS0351383	5-51(67)	Blue	2		cells	02-AUG-19		
 DBS0350965	4-19(2)	Yellow	3		spores	06-SEP-17		
+DBS0351666	5-55(27)	White	3		cells	03-SEP-21	clear	
 DBS0350854	1-1(71)	White	3		cells	13-MAR-17		
 DBS0351129	1-4(67)	Yellow	3		spores	31-OCT-17		
+DBS0351640	5-55(56)	Blue	3		cells	05-AUG-21		
+DBS0351641	5-55(56)	Blue	3		cells	05-AUG-21		
 DBS0350966	6-29(5)	Pink	3		cells	12-SEP-18	in eLabInv	
 DBS0350966	4-19(81)	Green	3		spores	29-SEP-17		
+DBS0351649	5-55(50)	White	3		cells	06-AUG-21		
+DBS0351654	5-55(48)	Blue	3		cells	05-AUG-21		
+DBS0351655	5-54(78)	White	3		cells	11-AUG-21	Color: clear	
+DBS0351656	5-55(52)	Green	3		cells	06-AUG-21		
 DBS0351139	4-19(26)	White	3		spores	26-MAR-18	clear tubes	
+DBS0351643	5-55(43)	Yellow	3		cells	04-AUG-21		
+DBS0351662	5-55(77))	White	3		cells	25-AUG-21	tube color: clear	
+DBS0351664	5-54(72)	White	3		cells	15-SEP-21	clear	
+DBS0351689	5-53(81)	Red	3		cells	24-NOV-21		
+DBS0351717	5-55(13)	White	3		cells	29-OCT-21	color clear	
 DBS0351158	4-17(50)	Red	3		spores	23-APR-18		
 DBS0351388	4-18(57)	Yellow	3		cells	09-AUG-19		
 DBS0351404	4-49(77)	Yellow	2		cells	26-JUL-19	in Tank A - 77, Tank C - 63	
 DBS0351405	4-49(10)	Pink	3		cells	16-SEP-19		
 DBS0351421	4-50(26)	White	3		spores	23-SEP-19		
+DBS0351685	5-55(68)	Blue	3		cells	08-OCT-21	also cdl1b-	
 DBS0351272	4-16(33)	Yellow	3		spores	26-MAR-19		
 DBS0351433	3-42(58)	Pink	1		3-42(58)	10-OCT-19	just in Tank A	
+DBS0351646	5-54(79)	Green	3		cells	05-AUG-21		
+DBS0351647	5-55(47)	Red	3		cells	05-AUG-21		
 DBS0351110	5-21(71)	Yellow	3		cells	02-MAR-18		
 DBS0350964	4-19(1)	Red	3		spores	11-SEP-17		
 DBS0350964	5-24(13)	White	3		cells	12-SEP-18	in eLabInv	
@@ -2658,7 +2695,9 @@ DBS0350964	5-24(13)	White	3		cells	26-SEP-18
 DBS0351276	5-25(79)	Blue	2		cells	14-DEC-18		
 DBS0351276	6-27(31-33)	White	9		axenic	01-DEC-18	tube: clear	
 DBS0351385	5-25(78)	Pink	2		cells	07-AUG-19	in Tank A and in Tank C	
+DBS0351763	6-56(17)	Yellow	3		spores	21-MAR-22		
 DBS0351345	4-19(60)	Red	3		spores	26-MAR-19		
+DBS0351686	5-55(69)	Yellow	2		cells	08-OCT-21	also DDB_G0281427-	
 DBS0351107	Box 1 (1-2)	Yellow	3		spores	20-NOV-17		
 DBS0351109	5-21(45)	White	3		spores	05-MAR-18		
 DBS0351119	5-23(33)	Yellow	3		spores	16-MAR-18		
@@ -2695,21 +2734,29 @@ DBS0350970		Green	3		spores	19-SEP-17
 DBS0351015	4-19(76)	Blue	3		cells	15-DEC-17		
 DBS0351066	1-34(43-44)	Blue	6		axenic	03-APR-17		
 DBS0351066	1-34(45)	White	3		cells	10-APR-17		
+DBS0351669	6-56(1)	White	3		cells	17-NOV-22	tube is clear	
+DBS0351670	5-54(81)	White	3		cells	15-SEP-21	color: clear	
 DBS0350871	4-50(23)	Red	3		spores	15-FEB-17		
 DBS0350871	3-11(67-69)	Blue	9		axenic	14-FEB-17		
 DBS0351418	4-49(16)	Yellow	3		cells	25-SEP-19		
 DBS0351419	4-49(11)	Blue	1		spores	23-SEP-19	only in Tank B	
 DBS0351423	4-50(40)	White	2		spores	23-SEP-19	tube is clear; in Tank A and in Tank C	
 DBS0351424	4-46(45)	Red	2		spores	23-SEP-19	in Tank A and in Tank C	
+DBS0351639	5-55(57)	White	3		cells	05-AUG-21		
+DBS0351657	5-55(41)	Yellow	3		cells	04-AUG-21		
+DBS0351658	5-55(42)	Blue	3		cells	04-AUG-21		
+DBS0351671	5-55(28)	White	3		cells	09-SEP-21	clear	
 DBS0351273	4-19(1)	Yellow	3		spores	26-MAR-19		
 DBS0351309	6-32(72)	Yellow	3		cells	28-FEB-19		
 DBS0351354	6-32(79)	Yellow	2		cells	29-MAR-19	only in A and B	
 DBS0351389	4-19(78)	White	3		cells	09-AUG-19		
+DBS0351719	5-55(78)	White	3		cells	08-OCT-21	clear color	
 DBS0351275	4-16(32)	Yellow	3		spores	26-MAR-19		
 DBS0351331	3-42(1)	Yellow	3		cells	28-JUN-19		
 DBS0351332	3-42(81)	Red	3		cells	01-JUL-19		
 DBS0351333	3-42(37)	Pink	3		cells	28-JUN-19		
 DBS0351336	3-42(73)	Blue	3		cells	03-JUL-19		
+DBS0351762	6-56(12)	Blue	3		cells	03-DEC-21		
 DBS0350997	5-21(46)	Blue	3		spores			
 DBS0350999	5-21(70)	Red	3		cells	06-MAR-18		
 DBS0351000	5-21(54)	White	3		cells	06-MAR-18		
@@ -2727,10 +2774,13 @@ DBS0351364	5-52(3)	Blue	2		cells	07-AUG-19
 DBS0351365	4-47(46)	Blue	2		cells	24-JUL-19		
 DBS0351408	4-49(27)	Yellow	2		cells	11-SEP-19		
 DBS0351616	5-54(50)	White	3		cells	24-FEB-21		
+DBS0351616	5-54(67-69)	Blue	3		axenic	04-FEB-21	other axenic inventory in same spot: red 2/26/21	
+DBS0351616	5-54(67-69)	Red	4		axenic	26-FEB-21	other axenic inventory in same spot: blue 2/4/21	
 DBS0351371	3-42(38)	Blue	3		cells	31-JUL-19		
 DBS0351353	6-32(81)	Red	3		cells	29-MAR-19		
 DBS0351387	3-42(22)	Red	3		spores	12-AUG-19		
 DBS0351416	4-49(18)	Red	3		cells	25-SEP-19		
+DBS0351668	5-55(19)	White	3		cells	03-SEP-21	clear	
 DBS0350969	4-19(6)	Red	3		cells	28-SEP-17		
 DBS0351127	24(46-47)	Blue	4		bacteria	21-MAR-18	BbQS859; grow at 30&#730;C	
 DBS0351369	3-42(80)	Blue	2		spores	26-JUL-19	in Tank A and in Tank C	
@@ -2759,6 +2809,8 @@ DBS0351441	3-41(59)	White	1		cells	14-OCT-19	Tank A
 DBS0351453	4-49(42)	Green	2		spores	28-OCT-19		
 DBS0351471	1-31(12)	Blue	3		spores	17-SEP-17		
 DBS0351500	5-53(36)	White	3		cells	14-APR-21	clear tube	
+DBS0351642	5-54(75)	White	3		cells	05-AUG-21	color: clear	
+DBS0351663	5-54(80)	White	3		cells	25-AUG-21	clear	
 DBS0350878	1-32(72)	Blue	3		spores	27-FEB-17		
 DBS0351099	1-31(70)	Blue	3		spores	23-JUN-17		
 DBS0351245	5-25(70)	White	3		spores	22-JAN-19		
@@ -2772,6 +2824,9 @@ DBS0351392	3-42(24)	Yellow	3		cells	14-AUG-19
 DBS0351393	4-19(80)	Pink	2		cells	14-AUG-19	in Tank A and in Tank C	
 DBS0351420	HL59/X9	Pink	2		spores	23-SEP-19	in Tank A and Tank C	
 DBS0351617	5-54(51)	Blue	3		cells	24-FEB-21		
+DBS0351617	5-55(11-12)	Yellow	3		axenic	26-FEB-21	other axenic inventory in same spot: red 2/4/21	
+DBS0351617	5-55(11-12)	Red	2		axenic	04-FEB-21	other axenic inventory in same spot: yellow 2/26/11	
+DBS0351653	5-55(58)	Yellow	3		cells	05-AUG-21		
 DBS0351146	5-24(31)	Red	3		spores	30-MAR-18		
 DBS0351070	3-12(45)	Red	3		spores	10-APR-17		
 DBS0351070	3-12(43-44)	White	6		axenic	04-APR-17		
@@ -2780,3 +2835,8 @@ DBS0351386	4-19(43)	Red	2		cells	07-AUG-19
 DBS0351373	5-25(72)	Yellow	2		cells	31-JUL-19	in Tank A and in Tank C	
 DBS0351374	5-25(77)	White	3		cells	31-JUL-19		
 DBS0351440	3-42(70)	White	3		cells	09-OCT-19		
+DBS0351659	5-55(44)	Green	3		cells	04-AUG-21		
+DBS0351672	5-55(8)	White	3		cells	01-SEP-21	clear	
+DBS0351673	5-55(5)	White	3		cells	27-AUG-21	clear	
+DBS0351674	5-55(36)	White	3		cells	07-SEP-21	clear	
+DBS0351684	5-54(81)	White	3		cells	28-OCT-21	clear color	

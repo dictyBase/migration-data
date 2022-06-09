@@ -150,7 +150,7 @@ DBS0236658	NP409	Dictyostelium discoideum	slugger
 DBS0236356	HR38-D2	Dictyostelium discoideum	DH1 with transformed with pMB35
 DBS0236671	NP437	Dictyostelium discoideum	slugger
 DBS0236546	mhcA-	Dictyostelium discoideum	mhcA (myosin heavy chain) null mutant; <b>this strain was not viable</b>
-DBS0236294	HM44	Dictyostelium discoideum	DIFless (Peter Newell lab)
+DBS0236294	HM44	Dictyostelium discoideum	DIFless mutant (Peter Newell lab)
 DBS0235529	AX2	Dictyostelium discoideum	Peter Newell lab strain; axenic
 DBS0237059	X2	Dictyostelium discoideum	tester strain
 DBS0237073	catA(1-191:195)	Dictyostelium discoideum	tester strain; has a 13 bp deletion in the catA gene between bp 573 and 585, deleting aa 191-195 and creating a frameshift downstream, producing a truncated protein
@@ -445,7 +445,7 @@ DBS0235557	tipD-	Dictyostelium discoideum	tipD REMI mutant
 DBS0235678	pkaR-	Dictyostelium discoideum	pkaR REMI mutant (Loomis version)
 DBS0235418	[act15]:pkaR	Dictyostelium discoideum	pkaR overexpressor (agg-)
 DBS0235661	cdk8-	Dictyostelium discoideum	cyclin-dependent kinase null mutant
-DBS0236779	PIPkinA-	Dictyostelium discoideum	phosphatidylinositol phosphate kinase 6 null mutant
+DBS0236779	pik6-	Dictyostelium discoideum	phosphatidylinositol phosphate kinase 6 null mutant
 DBS0236086	[pdsA-agg]:pdsA	Dictyostelium discoideum	Overexpressor of ePDE (extracellular phosphodiesterase) under the control of its aggregation promoter; pB10T + pGPA co-transformed
 DBS0236111	[pdsA-ldev]:pdsA	Dictyostelium discoideum	Extracellular phosphodiesterase (ePDE) overexpressor (from its late development promoter).
 DBS0236751	PGI-1	Dictyostelium discoideum	transformed with phosphodiesterase-inhibitor vector (did not overexpress pdi)
@@ -581,7 +581,7 @@ DBS0236241	HL52	Dictyostelium discoideum	tester strain
 DBS0236252	HL90	Dictyostelium discoideum	tester strain
 DBS0236985	dcsA-	Dictyostelium discoideum	dcsA null mutant
 DBS0235584	CF45-1-	Dictyostelium discoideum	null mutant of the CF45-1 component of the counting factor (CF) complex
-DBS0235612	CMFR1-	Dictyostelium discoideum	Putative conditioned medium factor (CMF) receptor null mutant
+DBS0235612	cmfB-	Dictyostelium discoideum	Putative conditioned medium factor (CMF) receptor null mutant
 DBS0235541	AX3	Dictyostelium discoideum	Daphne Blumberg lab strain; axenic
 DBS0235493	ampA-	Dictyostelium discoideum	adhesion modulation protein A (ampA) null mutant
 DBS0235495	ampA/[ampA]:ampA	Dictyostelium discoideum	adhesion modulation protein A (AmpA) overexpressor
@@ -1442,7 +1442,7 @@ DBS0236586	myoC-	Dictyostelium discoideum	myoC null mutant; thymidine prototroph
 DBS0237241	[dscB]:GFP:rab8B	Dictyostelium discoideum	overexpressor of rab8B
 DBS0237242	[dscB]:GFP:rab8B(Q74L)	Dictyostelium discoideum	overexpressor of rab8B(Q74L) tagged with GFP at the amino terminus
 DBS0236952	stkA-	Dictyostelium discoideum	stkA null mutant
-DBS0235563	capB-truncated	Dictyostelium discoideum	express reduced levels of truncated p34 and p31
+DBS0235563	[act6]:abpD(33-262)	Dictyostelium discoideum	abpD truncated at both the N and C-terminal regions expressed in AX2
 DBS0235633	crtf-	Dictyostelium discoideum	crtf null mutant
 DBS0236577	myoA-	Dictyostelium discoideum	myoA null mutant; thymidine prototroph
 DBS0235478	alxA-/[act15]:alxA(155-697):myc2	Dictyostelium discoideum	alxA residues 155-697 (Bro1 domain and proline-rich region deleted) with a C-terminal fusion to a double myc tag expressed under the control of the actin 15 promoter in an alxA null mutant; thymidine prototroph; neomycin resistant
@@ -1829,7 +1829,7 @@ DBS0237636	gefM-	Dictyostelium discoideum	RasGEFM-null mutant
 DBS0237637	AX4	Dictyostelium discoideum	Adam Kuspa lab strain; axenic; clone of AX3 sent to Loomis by Kessin; reported to have higher transformation efficiency than AX3; <b>strain that was sequenced and that is annotated in dictyBase</a>
 DBS0237699	AX2	Dictyostelium discoideum	generic axenic strain, used for curation of parental strains when the specific AX2 is not available
 DBS0237700	AX3	Dictyostelium discoideum	generic axenic strain, used for curation of parental strains when the specific AX3 is not available
-DBS0237701	AX4	Dictyostelium discoideum	generic axenic strain, used for curation of parental strains when the specific AX4 is not available. A different isolate of that strain is being sequenced
+DBS0237701	AX4	Dictyostelium discoideum	generic axenic strain, used for curation of parental strains when the specific AX4 is not available. A different isolate of that strain is being sequenced, <a href="http://dictybase.org/db/cgi-bin/dictyBase/phenotype/strain_and_phenotype_details.pl?genotype_id=2083">   AX4</a>
 DBS0237702	[act15]:GFP:rac1A	Dictyostelium discoideum	overexpressor of GFP-rac1A under the control of the act15 promoter
 DBS0237703	[act15]:GFP:rac1B	Dictyostelium discoideum	overexpressor of GFP(S65T)-rac1B under the control of the act15 promoter
 DBS0237704	[act15]:GFP:rac1C	Dictyostelium discoideum	overexpressor of GFP(S65T)-rac1C under the control of the act15 promoter
@@ -5186,7 +5186,7 @@ DBS0350495	dio3-	Dictyostelium discoideum	dio3 null mutant in AX2 cells
 DBS0350747	tgrC1-/(QS38tgrC1)/alg9(-19ins)	Dictyostelium discoideum	mutant suppressing the developmental phenotype of the tgrC1- mutant expressing the tgrC1 allele from QS38; insertion is 19 nt upstream of the alg9 gene
 DBS0350132	[act15]:myc:splB	Dictyostelium discoideum	SplB under control of the act15 promotor overexpressed in AX2 cells
 DBS0350253	fspA-/[unk]:fspA:FLAG	Dictyostelium discoideum	fspA null mutant expressing C-terminal FLAG-tagged fspA; rescues mutant phenotype
-DBS0350449	gefA-/dscB]:rasG(S17N)	Dictyostelium discoideum	dominant-negative RasG expressed in gefA null cells
+DBS0350449	gefA-/[dscB]:rasG(S17N)	Dictyostelium discoideum	dominant-negative RasG expressed in gefA null cells
 DBS0350517	pdeD-	Dictyostelium discoideum	pdeD null mutant in AX2
 DBS0350625	tgrC1-/stcA-	Dictyostelium discoideum	stcA REMI mutant (supressor) in parental tgrC1 null cells; the insertion site is 78 bp upstream of the stcA stop codon
 DBS0350800	[act15]:adprt1A	Dictyostelium discoideum	adprt1A overexpressed in AX2
@@ -5350,7 +5350,7 @@ DBS0350037	[act15]:mekA(299-360)	Dictyostelium discoideum	AX3 cells overexpressi
 DBS0350040	kif8-	Dictyostelium discoideum	kif8 null mutant expressed in AX2 cells
 DBS0350041	kif10-	Dictyostelium discoideum	kif10 null mutant expressed in AX2 cells
 DBS0350051	acapA-	Dictyostelium discoideum	acapA null mutant expressed in DH1-10 cells
-DBS0350056	[unk]:tubA:GFP/RNAi]cepG	Dictyostelium discoideum	knockdown of the cepG gene using RNA iin GFP-alpha-tubulin strain
+DBS0350056	[unk]:tubA:GFP/RNAi]cepG	Dictyostelium discoideum	knockdown of the cepG gene using RNAi in GFP-alpha-tubulin strain
 DBS0350084	Dictyostelium giganteum E1	Dictyostelium giganteum	Wild type isolated as spores from the fruiting body that had formed on elephant dung collected from Mundumalai, India.
 DBS0350087	Dictyostelium purpureum 5.2	Dictyostelium purpureum	Wild type isolated as spores from the fruiting body that had formed on spotted deer dung collected from Mundumalai, India.
 DBS0350098	roco4-/[unk]:roco4(1018-1292(S1187A))	Dictyostelium discoideum	Roco4 kinase domain with serine to alanine substitution at position 1187 expressed in roco4- cells
@@ -5511,7 +5511,7 @@ DBS0350152	abcC12-	Dictyostelium discoideum	abcC12 insertional mutant expressed 
 DBS0350154	abcC14-	Dictyostelium discoideum	abcC14 insertional mutant expressed in AX4 cells
 DBS0350380	regA-/dhkD-	Dictyostelium discoideum	dhkD null expressed in regA null strain
 DBS0350384	abiA-/abiA(45-332)	Dictyostelium discoideum	abiA null strain expressing the full length abiA with the N-terminus removed
-DBS0350535	atg9-/[act15]:cdcD(R154C):RFP	Dictyostelium discoideum	RFP-marked cdcD with an R154C substitution in atg9 null; in human ortholog R155C mutation causes IBMPFD (inclusion body myopathy with early onset Paget''''s disease of bone and frontotemporal dementia)
+DBS0350535	atg9-/[act15]:cdcD(R154C):RFP	Dictyostelium discoideum	RFP-marked cdcD with an R154C substitution in atg9 null; in human ortholog R155C mutation causes IBMPFD (inclusion body myopathy with early onset Paget''''''''s disease of bone and frontotemporal dementia)
 DBS0349871	[RNAi]lkb1	Dictyostelium discoideum	knockdown of the lkb1 gene using RNAi
 DBS0349886	pten-/pkgB-	Dictyostelium discoideum	pten/pkgB double null mutant with the BsR cassette floxed
 DBS0350036	mekA-/[act15]:mekA(299-360)	Dictyostelium discoideum	mekA- null mutant overexpressing mekA with an N-terminal deletion of the region upstream from the catalytic core under the control of the actin 15 promoter
@@ -6315,7 +6315,19 @@ DBS0351430	[unk]:tps9(N236A)	Dictyostelium discoideum	tps9 with (N236A) substitu
 DBS0351449	rasC-/rasS-	Dictyostelium discoideum	rasC/rasS double null mutant in AX2
 DBS0351454	[unk]:GFP:piaA(G963E)	Dictyostelium discoideum	GFP-tagged piaA with G963E substitution in AX2
 DBS0351463	[tet]rasD(G12T)/rigA-	Dictyostelium discoideum	rigA null mutant in doxycycline-inducible, constitutively active rasD(G12T) under the control of the tet promoter
+DBS0351723	ppip5K-	Dictyostelium discoideum	ppip5K null mutant in AX2
+DBS0351747	acaA-	Dictyostelium discoideum	acaA null mutant in Ax4
 DBS0351359	[act15]:myoB	Dictyostelium discoideum	myoB overexpressed in AX3
+DBS0351728	abiA-/[act15]:abiA(S166A/S168A/S169A)	Dictyostelium discoideum	unphoshorylatable AbiA expressed in abiA null mutant
+DBS0351731	[act15]:GFP:myoI(K23333A,K2336A)	Dictyostelium discoideum	constitutively active myoI(K23333A,K2336A) expressed in AX2
+DBS0351735	myoI-/[act15]:GFP:myoI(I426A)	Dictyostelium discoideum	myoI(I426A) that uncouples ATP hydrolysis from force generation expressed in myoI null
+DBS0351739	mhcA-/[act15]:mhcA(F481V)	Dictyostelium discoideum	mhcA(F481V) expressed in mhcA null
+DBS0351740	mhcA-/[act15]:mhcA(I499A)	Dictyostelium discoideum	mhcA(I499A) expressed in mhcA null
+DBS0351752	teep1-	Dictyostelium discoideum	teep1 null mutant in AX2
+DBS0351754	pip5k3-	Dictyostelium discoideum	pip5k3 null mutant in AX2
+DBS0351758	gapA-/[act6]:gapA(R442E)	Dictyostelium discoideum	gapA(R442E) expressed in gapA null
+DBS0351759	gapA-/[act6]:gapA(K474E)	Dictyostelium discoideum	gapA(K474E) expressed in gapA null
+DBS0351766	DDB_G0281781-	Dictyostelium discoideum	DDB_G0281781 null mutant in AX4
 DBS0350895	[unsuccessful]sodA-	Dictyostelium discoideum	attempts to produce a sodA- null mutant failed
 DBS0350896	[unsuccessful]sodB-	Dictyostelium discoideum	attempts to produce a sodB- null mutant failed
 DBS0350977	snfA-	Dictyostelium discoideum	snfA null mutant in AX2
@@ -6328,6 +6340,10 @@ DBS0351516	spc3-	Dictyostelium discoideum	spc3 REMI mutant
 DBS0351605	trm9-	Dictyostelium discoideum	trm9 null mutant in AX2-214
 DBS0351618	gefK-/gacL-	Dictyostelium discoideum	REMI mutant; note, the insertion site is in an intergenic region; 2,362 bp upstream of gefK and 1,026 bp upstream of gacL
 DBS0351620	DDB_G0281735-/DDB_G0281737-	Dictyostelium discoideum	REMI mutant; note, the insertion site is in an intergenic region 1,866 bp upstream of DDB_G0281735 and 889 bp downstream of DDB_G0281737
+DBS0351630	[act15]:GFP:leep1	Dictyostelium discoideum	N-terminal GFP-marked leep1 overexpressen in AX2
+DBS0351650	gtaG-	Dictyostelium discoideum	gtaG insertional mutant (recapituration of V10633)
+DBS0351652	dgcA-	Dictyostelium discoideum	dgcA deletion mutant using pdgcA_KO_443
+DBS0351665	wshA-/fam21-	Dictyostelium discoideum	wash and fam21 multiple null mutant
 DBS0350915	ctsD-	Dictyostelium discoideum	ctsD null mutant in AX2
 DBS0350942	[disc]:HA:rab14(N121I)	Dictyostelium discoideum	inducible dominant negative rab14 mutant; removal of folate from the medium induces transcription of the dom/neg rab14 from the discoidin promoter
 DBS0351054	[act15]:gshB	Dictyostelium discoideum	gshB overexpressed in KAX3
@@ -6336,6 +6352,8 @@ DBS0351428	pip5k3-/AX3	Dictyostelium discoideum	pip5k3 null mutant in AX3
 DBS0351473	regA-/regA(R588A,R589A,L594A,I595A,L596)	Dictyostelium discoideum	regA with altered docking site residues (R588A,R589A,L594A,I595A,L596A) knocked into regA-/JH10
 DBS0351555	[unk]:FLAG:rab1A(Q67L)	Dictyostelium discoideum	constitutively active FLAG-tagged rab1A(Q67L) in KAX3
 DBS0351595	[unsuccessful]dhx9-	Dictyostelium discoideum	attempts to produce a dhx9 null mutant failed
+DBS0351676	7E-	Dictyostelium discoideum	CRISPR/Cas9 null mutant of 7E; contains a 19bp deletion in the 7E gene
+DBS0351697	kil1-/kil2-	Dictyostelium discoideum	kil1/kil2 double null mutant in DH10
 DBS0350903	[dscB]:HA:rapB(G12V)	Dictyostelium discoideum	folate-inducible, N-terminal HA-tagged, constitutively active RapB with G12V substitution under the control of the dscB promoter in AX4 cells
 DBS0350958	migA-	Dictyostelium discoideum	migA null mutant in AX4
 DBS0351210	gip1-	Dictyostelium discoideum	gip1 null mutant in AX2 background in which the BsR cassette has been removed
@@ -6346,6 +6364,9 @@ DBS0351575	abpB-/[act15]:abpB(D93A/D95A/D97A)	Dictyostelium discoideum	abpB with
 DBS0351584	atg5-/atg12-/tipD-	Dictyostelium discoideum	atg5/atg12/tipD triple null mutant in AX2
 DBS0351597	rbdA-	Dictyostelium discoideum	rbdA null mutant in AX2-214
 DBS0351598	rbdB-	Dictyostelium discoideum	rbdB null mutant in AX2
+DBS0351645	acaA-/acgA-/acrA-/[act15]:pkaC:HA/[act15]:raf-RBD:GFP	Dictyostelium discoideum	pkaC overexpression under control of act15 promoter and raf-like ras binding domain (raf_RBD-GFP) under control of act15 promoter in adenylate-cyclase triple-null
+DBS0351651	cudA-	Dictyostelium discoideum	cudA deletion mutant using pcudAKO(MF2)
+DBS0351725	ppip5K-/I6KA-	Dictyostelium discoideum	ppip5K/I6KA double null mutant in AX2
 DBS0351096	cbpG-	Dictyostelium discoideum	cbpG null mutant in KAX3
 DBS0351014	tgrB1-/tgrC1-/tgrB1(1-827):HA/tgrC1	Dictyostelium discoideum	tgrB1-/tgrC1 double gene replacement strain; AX4 alleles;  tgrB1 gene has C-terminal truncation(828-902) that corresponds to intracellular domain and C-terminal HA tag; the pyr56 gene that was inserted in the double KO strain was deleted in the process and renders these cells uracil auxotroph
 DBS0351313	vasP-/[act15]:abpB(129-295)	Dictyostelium discoideum	abpB residues 129-295 expressed in vasP null
@@ -6363,6 +6384,10 @@ DBS0351192	HL121/XP99	Dictyostelium discoideum	tester heterozygous diploid strai
 DBS0351266	carA-/[act15]:gpbA:YFP	Dictyostelium discoideum	YFP-tagged gpaB expressed in carA null
 DBS0351267	gpaB-/[act15]:gpbA:YFP	Dictyostelium discoideum	YFP-tagged gpbA expressed in gbaB null
 DBS0351512	[dscB]:rac1B(T17N):myc	Dictyostelium discoideum	folate-inducible, dominant negative Rac1B with T17N substitution under the control of the dscB promoter in AX3-ORF+
+DBS0351644	acaA-/acgA-/acrA-/[act15]:pkaC:HA/[act15]:GFP	Dictyostelium discoideum	pkaC overexpression under control of act15 promoter and GFP-Lifeact, actin structure modified GFP, under control of act15 promoter in adenylate-cyclase triple-null
+DBS0351687	pip5k3-	Dictyostelium discoideum	pip5k3 null mutant in AX2
+DBS0351688	cdl1-/P.violaceum	Dictyostelium discoideum	P.violaceum QSvi11 cdl1 null mutant
+DBS0351700	aoaH-	Dictyostelium discoideum	aoaH null mutant in DH10
 DBS0350864	rapgap3-/AX2	Dictyostelium discoideum	rapgap3 null mutant in AX2
 DBS0350869	crlA-/AX2	Dictyostelium discoideum	crlA null mutant in AX2
 DBS0351004	QS31tgrB1/[act15]:RFP/[cotB]:GFP	Dictyostelium discoideum	AX4 cells with an additional tgrB1 allele from QS31 strain; coexpresses tdTomato under act15 promote and superfolder GFP under cotB promoter
@@ -6401,6 +6426,11 @@ DBS0351257	erkA-/erkB-	Dictyostelium discoideum	erkA-/erkB- double knockout null
 DBS0351268	gpbA-/[act6]:AEQ	Dictyostelium discoideum	gpbA null mutant marked with luminescent, Ca2+ sensitive  apoaequorin
 DBS0351312	HSPC300-/[act15]:abpB(129-295)	Dictyostelium discoideum	abpB residues 129-295 expressed in HSPB300 null
 DBS0351340	HL24/HL106	Dictyostelium discoideum	heterozygote diploid tester strain; Parents: HL24(DBS0236219) and XP330
+DBS0351707	[act5]:MS2-24:H3a(K5A)	Dictyostelium discoideum	histone H3a with K5A substitution knock-in into act5 in AX2
+DBS0351718	[pirA]:pirA:GFP	Dictyostelium discoideum	insertion of GFP at the C-terminus of the pirA gene
+DBS0351720	scrA-/[pirA]:pirA:GFP	Dictyostelium discoideum	scrA null mutant, insertion of GFP at pirA gene
+DBS0351722	pirA-/[act15]:pirA:GFP	Dictyostelium discoideum	pirA- knockout expressing wild type pirA:GFP in pirA null
+DBS0351761	DDB_G0292188-	Dictyostelium discoideum	DDB_G0292188 null mutant in AX4
 DBS0350877	piaA(G917D)/hephA-	Dictyostelium discoideum	suppressor mutant; deletion of hephA suppresses the agg- phenotype of the piaA(G917D) (HSB1) mutant
 DBS0350940	[RNAi]kif6	Dictyostelium discoideum	kif6-knockdown cells (RNAi from tetracyline-regulated promoter)
 DBS0350971	[act15]:gpaH/AX2	Dictyostelium discoideum	gpaH under control of act15 promotor overexpressed in AX2
@@ -6414,6 +6444,7 @@ DBS0351274	HM1558	Dictyostelium discoideum	genomic interval including intact mat
 DBS0351444	[unk]:GFP:RasS	Dictyostelium discoideum	N-terminal GFP-tagged rasS expressed in DdB
 DBS0351496	[act15]:rasD(S17N)	Dictyostelium discoideum	dominant negative rasD(S17N) expressed in KAX3
 DBS0351580	[act15]:psiA/[ecmB]:lacZ	Dictyostelium discoideum	psiA overexpressed in AX2 under control of act15 promotor marked with lacZ under control of ecmB promotor
+DBS0351678	rapC-/[act15]:GFP:rapA	Dictyostelium discoideum	rapA expressed in rapC null mutant
 DBS0350842	triA-/[psA]:triA(492-2494)	Dictyostelium discoideum	triA null cells expressing exons 2 and 3 of triA under the control of the psA  (pspA) promoter
 DBS0350850	triA-[triA]:triA	Dictyostelium discoideum	triA null cells expressing all three exons of triA under the control of the triA promoter
 DBS0350867	[act15]:RFP:mtpn	Dictyostelium discoideum	RFP-tagged mtpn in AX3
@@ -6492,6 +6523,8 @@ DBS0351413	corA-/piaA-	Dictyostelium discoideum	corA/piaA double null mutant in 
 DBS0351452	HL24/HL106	Dictyostelium discoideum	heterozygote diploid tester strain; Parents: HL24(DBS0236219),HL106(DBS0236209)
 DBS0351498	tpc2-	Dictyostelium discoideum	tpc2 null mutant in AX2
 DBS0351563	[unsuccessful]sbdS-	Dictyostelium discoideum	attempts to produce a sbdS null mutant failed
+DBS0351675	DDB_G0275819-	Dictyostelium discoideum	CRISPR/Cas9 null mutant of DDB_G0275819; contains a 25bp deletion in the DDB_G0275819 gene
+DBS0351744	mhcA-/[act15]:mhcA(1-785,RISEIIKAIQAATRGWIARKVYKQA,786-2116)	Dictyostelium discoideum	mhcA with an additional binding site for the essential myosin light chain in mhcA null
 DBS0351357	aph1-	Dictyostelium discoideum	aph1 null mutant in AX2
 DBS0350901	[act15]:pdeE:YFP	Dictyostelium discoideum	C-terminal YFP-tagged pdeE in AX2
 DBS0350909	[act15]:DD:GFP:rab8A(Q74L)	Dictyostelium discoideum	constitutively active rab8A mutation fused to DD:GFP, expressed in wild type; Rab8a fused to C-terminus of the  destabilizing domain (DD, 107 residues), which causes rapid degradation of the DD fusion protein; addition of the compound Shield-1 (Shld1) rapidly and reversibly stabilizes it .
@@ -6526,6 +6559,11 @@ DBS0351401	myoK-	Dictyostelium discoideum	myoK null mutant in AX2
 DBS0351466	nola4(I23T)	Dictyostelium discoideum	nola4 knockin with (I23T) substitution in AX4 and in which BsR cassette has been removed
 DBS0351541	mscS-/mclN-/pkd2-	Dictyostelium discoideum	mcsS/mclN/pkd2 triple null mutant in AX2
 DBS0351543	mfsd8-	Dictyostelium discoideum	Genome Wide Dictyostelium Insertion bank (GWDI) mfsd8- mutant; insertion at position 1412784, chr 2; used enzyme: DpnII
+DBS0351622	[act15]:GFP:racE(G20V)	Dictyostelium discoideum	constitutively GTP-bound GFP-tagged racE with G20V substitution expressed in AX2
+DBS0351623	[act15]:GFP:racE(T25N)	Dictyostelium discoideum	constitutively GDP-bound, GFP-tagged racE(T25N) expressed in AX2
+DBS0351625	[act15]:GFP:racE(G20V/S192A)	Dictyostelium discoideum	constitutively GTP-bound, phospho-defective GFP-tagged racE with (G20V/S192A) substitutions expressed in AX2
+DBS0351736	myoI-/[act15]:GFP:myoI(E386V)	Dictyostelium discoideum	myoI(E386V) that binds ATP but cannot hydrolyze it
+DBS0351757	mtm6-	Dictyostelium discoideum	mtm6 null mutant in AX2
 DBS0350860	sir2D-/[ecmAO]:lacZ	Dictyostelium discoideum	LacZ under control of the prestalk ecmAO promotor in sirD null cells
 DBS0350882	piaA(G917D)/acrA-	Dictyostelium discoideum	deletion of acrA (ACB) in the piaA(G917D) (HSB1) mutant; double mutant
 DBS0350976	[act15]:snfA:YFP	Dictyostelium discoideum	C-terminal YFP-tagged SnfA overexpressed in AX2
@@ -6571,6 +6609,10 @@ DBS0351485	[act15]:fszB:GFP	Dictyostelium discoideum	GFP-tagged fszB in AX4
 DBS0351530	[act15]:GFP:lis1	Dictyostelium discoideum	GFP-marked lis1 under control of act5 promotor in AX2
 DBS0351562	[act15]:GFP:impA1	Dictyostelium discoideum	impA1 under control of act15 promotor expressed in AX2
 DBS0351593	hgrA-	Dictyostelium discoideum	hgrA null mutant in type II congenic strain
+DBS0351690	cdl1A-/cdl1B-	Dictyostelium discoideum	cdl1A and cdl1B double null mutant
+DBS0351713	[act15]:sgf29:FLAG	Dictyostelium discoideum	sgf29 overexpressed in AX2
+DBS0351745	mhcA-/[act15]:mhcA(1-787,818-2116)	Dictyostelium discoideum	mhcA lacking the myosin regulatory myosin light chain binding site in mhcA null
+DBS0351746	[act15]:mhcA(2-762)	Dictyostelium discoideum	mhcA(2-762) in AX2
 DBS0350866	mvpA-	Dictyostelium discoideum	mvpA null mutant in AX4
 DBS0350870	AX2	Dictyostelium discoideum	Tian Jin, Carol Parent lab strain, axenic
 DBS0350880	hbx9-/[ecmA]:lacZ	Dictyostelium discoideum	hbx9 null mutant expressing LacZ under control of ecmA promotor in AX2
@@ -6609,6 +6651,8 @@ DBS0351380	myoB-/[act15]:GFP:myoB(713-1111)	Dictyostelium discoideum	myoB(713-11
 DBS0351487	rapgap3-	Dictyostelium discoideum	rapgap3 null mutant in AX2
 DBS0351585	[unsuccessful]rab8a-	Dictyostelium discoideum	attempts to produce a rab8A null mutant failed
 DBS0351611	scrA-/[act15]:scrA(S287,290,301,335,339,384,388,389,430,432,433,437,440A)	Dictyostelium discoideum	scrA null mutant expressing unphosphorylatable ScrA
+DBS0351632	wdr45l-/AX4	Dictyostelium discoideum	wdr45l null mutant in AX4
+DBS0351666	AX3	Dictyostelium discoideum	Robert Insall lab strain
 DBS0350851	corA-/aip1-	Dictyostelium discoideum	corA/aip1 double null  mutant
 DBS0350854	atg1-	Dictyostelium discoideum	atg1 null mutant; the bsr cassette removed with the cre-lox system
 DBS0350941	[disc]:HA:rab14(Q67L)	Dictyostelium discoideum	inducible constitutively active rab14 mutant; removal of folate from the medium induces transcription of the active rab14 from the discoidin promoter
@@ -6625,10 +6669,20 @@ DBS0351554	[unsuccessful]rab1A-	Dictyostelium discoideum	attempts to produce a r
 DBS0351568	vacB-	Dictyostelium discoideum	vacB null mutant in AX2
 DBS0351614	racE-/[act15]:GFP:racE(T25N/S192D)	Dictyostelium discoideum	constitutively GDP-bound,  phospho-mimetic, GFP-tagged racE(T25N/S192D) expressed in racE null
 DBS0351619	cadA-	Dictyostelium discoideum	cadA mutant in AX4
+DBS0351626	[act15]:GFP:racE(G20V/S192A/E180R/R186E)	Dictyostelium discoideum	constitutively GTP-bound, phospho-defective GFP-tagged racE with (G20V/S192A/E180R/R186E)substitutions expressed in AX2
+DBS0351627	[act15]:FLAG:racE(T25N/E180R/S192D)	Dictyostelium discoideum	constitutively GDP-bound, phospho-mimetic, FLAG-tagged racE(T25N/E180R/S192D) expressed in AX2
+DBS0351638	[act15]:badA	Dictyostelium discoideum	badA overexpressed in DH1-10
+DBS0351640	acgA-/acrA-	Dictyostelium discoideum	Sequential homologous-recombination insertional knockout mediated by Cre-loxP recombination
+DBS0351641	acaA-/acgA-/acrA-	Dictyostelium discoideum	Homologous-recombination insertional knockout
 DBS0350966	spaA-	Dictyostelium discoideum	spaA null mutant
 DBS0351091	gtaG-	Dictyostelium discoideum	gtaG null mutant in AX4
 DBS0351216	gflB-	Dictyostelium discoideum	gflB knock-out in AX2
 DBS0351513	[act15]:6xHis:racB/[tet]:tRNA-glu-CUC-1	Dictyostelium discoideum	regulated expression of RacB in AX4 cells using an inducible tRNA suppressor gene
+DBS0351649	gtaI-	Dictyostelium discoideum	gtaI insertional mutant
+DBS0351654	gbfA-	Dictyostelium discoideum	gbfA null mutant
+DBS0351655	mybB-	Dictyostelium discoideum	mybB insertional mutant
+DBS0351656	mybB-/[mybB]:mybB:GFP	Dictyostelium discoideum	expressing MybB:GFP under control of mybB promoter in mybB-
+DBS0351743	mhcA-/[act15]:mhcA	Dictyostelium discoideum	mhcA under control of act15 promotor in mhcA null
 DBS0351044	atp6-	Dictyostelium discoideum	atp6 null mutant in AX2
 DBS0351045	cox3-	Dictyostelium discoideum	cox3 null mutant in AX2
 DBS0351139	G12	Dictyostelium discoideum	beta-glucosidase mutant; tester strain
@@ -6640,6 +6694,23 @@ DBS0351506	wasA-	Dictyostelium discoideum	wasA null mutant in AX3
 DBS0351536	vasP-/hspc300-	Dictyostelium discoideum	vasP/hspc300 double null mutant in AX2
 DBS0351544	gpat-	Dictyostelium discoideum	gpat null mutant in AX2-214
 DBS0351559	tert-	Dictyostelium discoideum	tert null mutant in AX4
+DBS0351643	acaA-/acgA-/acrA-/[act15]:pkaC:HA/[act15]:RFP:H2Bv3	Dictyostelium discoideum	pkaC overexpression under control of act15 promoter and RFP-H2Bv3 (mCherry) under control of act15 promoter in adenylate-cyclase triple-null
+DBS0351662	pyr56-	Dictyostelium discoideum	CRISPR/Cas9 null mutant of pyr56; contains an 8bp insertion in the pyr56 gene
+DBS0351664	washc5-	Dictyostelium discoideum	washc5 null mutant
+DBS0351677	rapC-/[act15]:GFP:rapC(1-205)	Dictyostelium discoideum	rapC lacking the tail region (rapC(1-205) expressed in rapC null mutant
+DBS0351679	rapC-/[act15]:GFP:rapA/[act15]:GFP:rapC(188-278)	Dictyostelium discoideum	RapA fused with the C-terminal residues of RapC expressed in rapC null mutant
+DBS0351680	GFP:rapC(G13V)	Dictyostelium discoideum	constitutively active rapC(G13V) expressed in KAX3
+DBS0351683	[unk]:GFP:cepH	Dictyostelium discoideum	N-terminal GFP-tagged cepH overexpressed in AX2
+DBS0351689	vac14-	Dictyostelium discoideum	vac14 null mutant in AX2
+DBS0351692	[act6]:ubxd9(1-336)	Dictyostelium discoideum	ubxd9(1-336) expressed in AX2 under control of the act6 promotor
+DBS0351694	[act6]:ubxd9(165-383)	Dictyostelium discoideum	ubxd9(165-383) expressed in AX2 under control of the act6 promotor
+DBS0351698	alyL-	Dictyostelium discoideum	alyL null mutant in DH10
+DBS0351702	noxA-	Dictyostelium discoideum	noxA null mutant in DH10
+DBS0351710	sgf29-	Dictyostelium discoideum	sgf29 null mutant in AX2
+DBS0351717	scrA-/abiA-	Dictyostelium discoideum	scrA and abiA double knockout
+DBS0351724	I6KA-	Dictyostelium discoideum	I6KA null mutant in AX2
+DBS0351726	gmfA-	Dictyostelium discoideum	gmfA null mutant in AX2
+DBS0351769	tbcrA-	Dictyostelium discoideum	tbcrA null mutant in AX2
 DBS0350956	racE-/[act15]racE(G20V)	Dictyostelium discoideum	constitutively active racE with G20V substitution expressed in racE null mutant
 DBS0350960	mroh1-	Dictyostelium discoideum	mroh1 null mutant in AX3
 DBS0350989	[act15]:gst4	Dictyostelium discoideum	gst4 overexpressed in AX2
@@ -6656,6 +6727,9 @@ DBS0351489	mvpA-/mvpB-	Dictyostelium discoideum	mvpA/mvpB double null mutant in 
 DBS0351505	racF1-	Dictyostelium discoideum	racF1 null mutant in AX2
 DBS0351514	alyL-	Dictyostelium discoideum	alyL REMI mutant
 DBS0351537	vasP-/pirA-	Dictyostelium discoideum	vasP/pirA double null mutant in AX2
+DBS0351682	[RNAi]cepH	Dictyostelium discoideum	knockdown of the cepH gene using RNAi
+DBS0351685	cdl1B-	Dictyostelium discoideum	cdl1B null mutant in AX2
+DBS0351708	H3b-/H3c-	Dictyostelium discoideum	H3b/H3c double null mutant in AX2
 DBS0350948	mhcA-/[mhcA]:mhcA(1-1224)/[act15]:mhcA(E683K)	Dictyostelium discoideum	expression of a E683K point mutation in the S1 motor domain of mhcA in an effectively mhcA disrupted strain
 DBS0350949	mhcA-/[mhcA]:mhcA(1-1224)/[act15]:mhcA(R686C)	Dictyostelium discoideum	expression of a R686C point mutation in the S1 motor domain of mhcA in an effectively mhcA disrupted strain
 DBS0351003	tgrC1-/[tgrB1]:myc:tgrB1-/AX4	Dictyostelium discoideum	label tgrB1 N-terminal with two C-myc tags
@@ -6669,6 +6743,9 @@ DBS0351509	wasA-/[tet]:scrA/[unk]:GFP:wasA(I173A/F179A)	Dictyostelium discoideum
 DBS0351511	[dscB]:rac1B(Q61L):myc	Dictyostelium discoideum	folate-inducible, constitutively active Rac1B with Q61L substitution under the control of the dscB promoter in AX3-ORF+
 DBS0351600	[unsuccessful]srtA-	Dictyostelium discoideum	attempts to produce an srtA null mutant failed
 DBS0351606	tRNA-Gln-CUG-1-	Dictyostelium discoideum	tRNA-Gln-CUG-1 (glutamine transferase RNA) null mutant in AX2
+DBS0351646	[act15]:pkaC:HA	Dictyostelium discoideum	expressing PkaC under control of act15 promoter in AX4
+DBS0351647	acaA-/[act15]:pkaC:HA	Dictyostelium discoideum	expressing PkaC under control of act15 promoter in acaA-
+DBS0351737	mhcA-/[act15]:mhcA(S465V)	Dictyostelium discoideum	mhcA(S465V) expressed in mhcA null
 DBS0350839	atg1-	Dictyostelium discoideum	atg1 null mutant in AX3
 DBS0350931	myoJ-	Dictyostelium discoideum	myoJ null mutant in JH10, thymidine prototroph
 DBS0350957	racE-/[act15]racE(T25N)	Dictyostelium discoideum	inactive racE expressed in racE null mutant
@@ -6678,6 +6755,7 @@ DBS0351048	nad5-	Dictyostelium discoideum	nad5 null mutant in AX2
 DBS0351110	HL261/HL220	Dictyostelium discoideum	heterozygote diploid strain; parents: HL261 and HL220
 DBS0351545	fatA-	Dictyostelium discoideum	fatA null mutant in AX2-214
 DBS0351612	tsg101-	Dictyostelium discoideum	tsg101 null mutant in AX2
+DBS0351699	bpiC-	Dictyostelium discoideum	bpiC null mutant in DH10
 DBS0350962	[act15]:tor(212-2380):YFP	Dictyostelium discoideum	YFP-tagged tor(212-2380) overexpressed in AX2
 DBS0350964	spaA-/P.violaceum	Polysphondylium violaceum	P. violaceum spaA null mutant
 DBS0351094	psrA-	Dictyostelium discoideum	psrA null mutant in AX2
@@ -6685,12 +6763,14 @@ DBS0351190	adcC-/[act15]:adcC(1-485)	Dictyostelium discoideum	acdC residues 1-48
 DBS0351260	gpbA-/[act15]:gpbA(A99T/Y271H/C335M)	Dictyostelium discoideum	gpbA with A99T, Y271H and C335M substitutions under control of act15 promotor expressed in gpbA nul
 DBS0351601	[unsuccessful]drnA-	Dictyostelium discoideum	attempts to produce a drnA null mutant failed
 DBS0351602	agnB-	Dictyostelium discoideum	agnB null mutant in AX2-214
+DBS0351749	acrA-/acgA-/acaA-	Dictyostelium discoideum	acrA/acgA/acaA triple null mutant in Ax4
 DBS0351270	[unk]:gpgA(1-65)	Dictyostelium discoideum	gpgA(1-65) in AX2
 DBS0351317	pkbA-/pkgB-	Dictyostelium discoideum	pkbA/pkgB double null mutant in AX2 with resistance cassettes removed by Cre-lox recombination
 DBS0350852	[act15]:GFP:nkaP	Dictyostelium discoideum	nkaP under control of actin promotor overexpressed in AX2
 DBS0350884	atg101-	Dictyostelium discoideum	atg101 null mutant in AX4
 DBS0351276	erk2-	Dictyostelium discoideum	Erk2 coding region disrupted with the thyA gene resulting in a null mutant
 DBS0351385	HL208/XP330	Dictyostelium discoideum	heterozygote diploid tester strain; Parents: HL208 and XP330
+DBS0351763	[act15]:calA:FLAG	Dictyostelium discoideum	mutant expressing FLAG-tagged calA
 DBS0351180	midA/[act15]:midA(E200A)	Dictyostelium discoideum	midA with E200A substitution expressed in midA null cells
 DBS0351345	HM1524	Dictyostelium discoideum	fails to form macrocysts in sexual crosses
 DBS0351411	mhcA-/piaA-	Dictyostelium discoideum	piaA null mutant in mhcA null
@@ -6698,6 +6778,7 @@ DBS0351491	gnt1(1-253/H104D)	Dictyostelium discoideum	catalytically  dead gnt1 m
 DBS0351170	sir2A-	Dictyostelium discoideum	sir2A null mutant in AX2
 DBS0351248	adprt1A-	Dictyostelium discoideum	adprt1A null mutant in AX2
 DBS0351521	corA-/[act15]:FLAG:corA(1-432)	Dictyostelium discoideum	corA lacking the coil-coil motif under the control of the act15 promotor in corA null
+DBS0351686	fig4-	Dictyostelium discoideum	fig4 null mutant in AX2
 DBS0351107	gxcAA-	Dictyostelium discoideum	Genome Wide Dictyostelium Insertion bank (GWDI) gxcAA- mutant; insertion at position 6196058, chr 3; used enzyme: Hsp92II
 DBS0350946	[act15]:dhcA(1384-4725)	Dictyostelium discoideum	C-terminal fragment (residues 1384-4725) expressed in AX2
 DBS0350952	[act15]:rac1B(T17N)	Dictyostelium discoideum	dominant negative rac1B(T17N) overexpressed in KAX3
@@ -6770,10 +6851,15 @@ DBS0350968	gsk3-/P.pallidum	Polysphondylium pallidum	P. pallidum gsk3 null with 
 DBS0350970	[act6]:gsk3/P.pallidum	Polysphondylium pallidum	P. pallidum gsk3 overexpressed in wild type; dictyBase Gene(s): PPA_G1293824
 DBS0350982	[act6]:rps6	Dictyostelium discoideum	rps6 under control of act6 promotor overexpressed in AX2
 DBS0350992	myoA-/myoB-/[act15]:myoB(S332)	Dictyostelium discoideum	myoB with S332A substitution expressed in myoA/myoB double mutant
+DBS0351629	leep1-	Dictyostelium discoideum	leep1 null mutant in AX2
 DBS0351015	tgrB1-/tgrC1-/tgrB1(1-827):HA/tgrC1/[act15]:GFP	Dictyostelium discoideum	tgrB1-/tgrC1 double gene replacement strain; AX4 alleles;  tgrB1 gene with C-terminal truncation(828-902) that corresponds to intracellular domain and C-terminal HA tag; labeled with GFP ; uracil auxotroph
 DBS0351017	tpp1F-	Dictyostelium discoideum	tpp1F knockout mutant
 DBS0351035	seiP-	Dictyostelium discoideum	seiP knockout mutant
 DBS0351066	htmA-	Dictyostelium discoideum	RAM: regulator of adhesion and motility mutants; htmaA- REMI mutant
+DBS0351637	atg18-/AX4	Dictyostelium discoideum	atg18 null mutant in AX4
+DBS0351669	fam21-	Dictyostelium discoideum	fam21 null mutant
+DBS0351670	mroh1-	Dictyostelium discoideum	mroh1 null mutant
+DBS0351693	[act6]:ubxd9(467-573)	Dictyostelium discoideum	ubxd9(467-573) expressed in AX2 under control of the act6 promotor
 DBS0350871	elmoE-	Dictyostelium discoideum	ElmoE null mutant
 DBS0351061	ngap-	Dictyostelium discoideum	ngap null mutant in AX2
 DBS0351062	rasC-/rasG-/[unk]:carA	Dictyostelium discoideum	CarA expressed in rasC-/rasG- double mutant
@@ -6790,6 +6876,14 @@ DBS0351482	lmpC-	Dictyostelium discoideum	lmpC null mutant in AX2 cells
 DBS0351492	[dscA]:His:agtA(D132A)	Dictyostelium discoideum	catalytically dead AgtA over expressed under the discoidin promoter in AX3
 DBS0351557	cryS-	Dictyostelium discoideum	cryS null mutant in AX2
 DBS0351565	[act15]:eIF6	Dictyostelium discoideum	eIF6 overexpressed in AX2
+DBS0351639	acaA-	Dictyostelium discoideum	Homologous-recombination insertional knockout
+DBS0351657	amiB-	Dictyostelium discoideum	amiB insertional mutant using p82ClaI_amiB-REMI
+DBS0351658	gtaG-	Dictyostelium discoideum	gtaG null mutant
+DBS0351661	zntB-	Dictyostelium discoideum	GWDI zntB null mutant in AX4  mutant
+DBS0351671	hssA-	Dictyostelium discoideum	CRISPR/Cas9 null mutant of hssA; contains a 4bp deletion in the hssA gene
+DBS0351730	scrA-/abiA-/[pirA]:pirA:GFP/[act15]:scrA(S287,290,301,335,339,384,388,389,430,432,433,437,440A)/[act15]:abiA(S166D/S168D/S169D)	Dictyostelium discoideum	unphoshorylatable Scar and AbiA expressed in scrA/abiA double null mutant
+DBS0351741	mhcA-/[act15]:mhcA(F692A)	Dictyostelium discoideum	mhcA(F692A) expressed in mhcA null
+DBS0351748	acrA-/acgA-	Dictyostelium discoideum	acrA/acgA double null mutant in Ax4
 DBS0350936	abpC-	Dictyostelium discoideum	abpC null mutant in AX3
 DBS0350950	xacA-	Dictyostelium discoideum	xacA null mutant in KAX3
 DBS0351092	[AS]aif	Dictyostelium discoideum	aif antisense mutant
@@ -6809,6 +6903,11 @@ DBS0351354	[TRE-Pmin]:cdk1(T14A)	Dictyostelium discoideum	cdk1 with a point muta
 DBS0351356	ppk1-/[act15]:GFP:hsp48	Dictyostelium discoideum	N-terminal GFP-tagged hsp48 under control of act15 promotor expressed in ppk1 nul
 DBS0351389	HL14	Dictyostelium discoideum	tester strain
 DBS0351615	sodC-/[act15}:gppA:GFP/[act15]:sodA	Dictyostelium discoideum	sodC null strain labeled with dajumin-GFP and overexpressing sodA, partially rescuing the CV defect in sodC- cells.
+DBS0351715	[act15]:gpaB(K12A/L19A/I21A)	Dictyostelium discoideum	gpaB(K12A/L19A/I21A) expressed in KAX3
+DBS0351719	scrA-/abiA-/[pirA]:pirA:GFP	Dictyostelium discoideum	scrA/abiA double null mutant, insertion of GFP at the pirA gene
+DBS0351721	pirA-/[act15]:pirA:GFP(K193D/R194D)	Dictyostelium discoideum	mutated Rac1 binding site on pirA-GFP, wave complex is inactive
+DBS0351734	vasP-/[act15]:myoI:rasG(CTLL)	Dictyostelium discoideum	myoI with a C-terminal prenylation motif (RasG:CTLL) expressed in vasP null
+DBS0351765	DDB_G0280921-	Dictyostelium discoideum	DDB_G0280921 null mutant in AX4
 DBS0350881	gbpC-	Dictyostelium discoideum	gbpC null in DH1
 DBS0350891	spdA-	Dictyostelium discoideum	spdA null mutant in DH1-10 parent cells
 DBS0350894	sodD-	Dictyostelium discoideum	sodD null mutant in AX2
@@ -6824,6 +6923,13 @@ DBS0351523	scrA-/[act15]:scrA(S430D,S432D,S433D,S437D,S440D)	Dictyostelium disco
 DBS0351586	[act6]:GFP:gefQ(S431A)	Dictyostelium discoideum	gefQ with S431A substitution which abolishes binding to 14-3-3 protein expressed in AX2
 DBS0351599	[RNAi]srtA	Dictyostelium discoideum	knockdown of the srtA gene using RNAi
 DBS0351604	elp3-	Dictyostelium discoideum	elp3 null mutant in AX2-214
+DBS0351628	[act15]:FLAG:rasC(Q62L/E157R/R164E)	Dictyostelium discoideum	constitutively active rasC(Q62L/E157R/R164E) in AX2
+DBS0351631	[RNAi]gstA2	Dictyostelium discoideum	gstA2 knockdown cloned into pDM310 to create a doxycycline-inducible construct
+DBS0351636	[act15]:FLAG:wdr45l(T197P)	Dictyostelium discoideum	N-terminal FLAG-tagged wdr45l with T197P substitution in AX4
+DBS0351660	zntA-	Dictyostelium discoideum	zntA null mutant in AX2
+DBS0351681	GFP:rapC(D18S)	Dictyostelium discoideum	dominant negative rapC(D18S) expressed in KAX3
+DBS0351755	pip5k3-/[act15]:teep1:GFP	Dictyostelium discoideum	teep1:GFP expressed in pip5k3 null mutant
+DBS0351762	cpnC-	Dictyostelium discoideum	The cpnC gene coding sequence is replaced with the bsr gene; parent strain NC4A2
 DBS0350883	atg13-	Dictyostelium discoideum	atg13 null mutant in AX4
 DBS0350892	spdA-ins	Dictyostelium discoideum	spdA REMI mutant; insertion near C-terminus at position 2635
 DBS0350893	pdeD-/pdeE-/[unk]:pdeE	Dictyostelium discoideum	pdeE overexpressed in pdeD/pdeE double null mutant
@@ -6873,6 +6979,7 @@ DBS0351488	[act15]:FLAG:rasC(Q62L)	Dictyostelium discoideum	constitutively activ
 DBS0351574	[act15]:vacC:GFP	Dictyostelium discoideum	vacC with C-terminal GFP overexpressed in AX2 under the control of act15 promotor
 DBS0351588	[act15]:cdcD(E219K):RFP	Dictyostelium discoideum	RFP-marked cdcD with an E219K substitution in AX2
 DBS0351616	kif1A-	Dictyostelium discoideum	this cell line is 5 bp deletion near the KIF1A N-terminal; clone 1
+DBS0351621	[act15]:GFP:racE(T25N/E173R/R186E/S192D)	Dictyostelium discoideum	constitutively GDP-bound, phospho-mimetic, GFP-tagged racE(T25N/E173R/R186E/S192D)expressed in AX2
 DBS0350887	areB-	Dictyostelium discoideum	areB null mutant in AX4
 DBS0350890	[act15]:rnp1A	Dictyostelium discoideum	DDB_G0284167 overexpressed in AX3(rep)ORF+
 DBS0351055	[act15]:catA	Dictyostelium discoideum	catA overexpressed in KAX3
@@ -6892,6 +6999,7 @@ DBS0351587	pten-/[act15]:pten(G129E)	Dictyostelium discoideum	pten with (G129E) 
 DBS0351589	atg9-/[act15]:cdcD(R154C/E219K):RFP	Dictyostelium discoideum	RFP-marked cdcD with R154C and E219K substitutions in atg9 null
 DBS0351594	hgrB-	Dictyostelium discoideum	hgrB null mutant in type II congenic strain
 DBS0351610	scrA-/[tet]:scrA/wasA-	Dictyostelium discoideum	wasA- null mutant in doxycycline-inducible scrA under the control of the tet promotor expressed in scrA null cells
+DBS0351668	ccdc53-	Dictyostelium discoideum	ccdc53 null mutant
 DBS0350859	sir2D-	Dictyostelium discoideum	sir2D null mutant in AX2
 DBS0350919	pkcA-/[act15]:pldB	Dictyostelium discoideum	pldB overexpressed in pkcA null mutant
 DBS0350921	[unsuccessful]dicA-	Dictyostelium discoideum	attempts to produce a dicA null mutant failed
@@ -6911,6 +7019,14 @@ DBS0351450	gefF:GFP	Dictyostelium discoideum	insertion of GFP at the C-terminus 
 DBS0351538	cpnA-/AX4	Dictyostelium discoideum	cpnA null mutant in AX4
 DBS0351549	phg1A-	Dictyostelium discoideum	phg1A null mutant in DH-10
 DBS0351576	atg5-/abpB-/[dscB]:abpB(D93A/D95A/D97A):GFP	Dictyostelium discoideum	abpB with (D93A/D95A/D97A) substitutions in EF hand region expressed under control of an folate-inducible promotor in atg5 null
+DBS0351701	aplA-	Dictyostelium discoideum	aplA null mutant in DH10
+DBS0351691	[unk]:roco4(1018-1292(G1179S))	Dictyostelium discoideum	Roco4 kinase domain with glycine to serine substitution at position 1179 in AX2
+DBS0351727	cdl1A-/[beiA]:lacZ	Dictyostelium discoideum	cdl1A null mutant expressing lacZ fused to the cup-specific gene beiA
+DBS0351733	[act15]:myoI:rasG(CTLL)	Dictyostelium discoideum	myoI with a C-terminal prenylation motif (RasG:CTLL) in AX2
+DBS0351756	pikI-/[act15]:teep1:GFP	Dictyostelium discoideum	teep1 expressed in pikI null cells
+DBS0351760	lsrA-	Dictyostelium discoideum	lsrA REMI mutant in AX4
+DBS0351764	DDB_G0267942-	Dictyostelium discoideum	DDB_G0267942 null mutant in AX4
+DBS0351770	pripA-/tbcrA-	Dictyostelium discoideum	pripA/tbcrA double null mutant in AX2
 DBS0350865	phdG-	Dictyostelium discoideum	phdG null mutant in AX2
 DBS0350967	gsk3-/P.pallidum	Polysphondylium pallidum	gsk3 null mutant in P. pallidum; sensitive to encystation inducing factors; Pp Gene: PPA_G1293824
 DBS0350987	[act15]:HIS:tgrB1/AX4	Dictyostelium discoideum	secretory overexpression extracellular region of TgrB1; N-term His marker
@@ -6953,9 +7069,13 @@ DBS0351367	myoB-/[act15]:myoB(S332A)	Dictyostelium discoideum	myoB with S332A su
 DBS0351459	rasD-/AX3	Dictyostelium discoideum	rasD null mutant in AX3
 DBS0351441	HL73/HL203	Dictyostelium discoideum	heterozygote diploid tester strain; Parents: HL24(DBS0236219), HL203
 DBS0351453	HL208/XP99	Dictyostelium discoideum	heterozygote diploid tester strain; Parents: HL208 and XP99(DBS0237086)
-DBS0351471	AX4	Dictyostelium discoideum	AX4 strain from the Thompson lab that is the parent of GWDI strains. A different isolate of that strain is being sequenced
+DBS0351471	AX4	Dictyostelium discoideum	AX4 strain from the Thompson lab that is the parent of GWDI strains. A different isolate of that strain is being sequenced, <a href="http://dictybase.org/db/cgi-bin/dictyBase/phenotype/strain_and_phenotype_details.pl?genotype_id=2083">   AX4</a>
 DBS0351500	tipB-	Dictyostelium discoideum	tipB REMI mutant
 DBS0351520	AK1334	Dictyostelium discoideum	REMI insertion between two genes, nip7 and DDB_G0271574; note that it is unclear if this mutation has direct impact on any of the adjacent genes.
+DBS0351642	acaA-/acgA-/acrA-/[act15]:pkaC:HA	Dictyostelium discoideum	pkaC overexpression under control of act15 promoter in adenylate-cyclase triple-null
+DBS0351663	AX2	Dictyostelium discoideum	Robert Insall lab strain
+DBS0351703	ttpA-	Dictyostelium discoideum	ttpA null mutant in AX3
+DBS0351706	[unk]:ttpA(1-450)	Dictyostelium discoideum	ttpA(1-450) in AX3
 DBS0350878	hephA-	Dictyostelium discoideum	hephA knock-out mutant in AX2
 DBS0350923	[dscB]:dicA(48-654)	Dictyostelium discoideum	C-terminal portion of dicA (48-654) under control of folate-inducible dscB promotor in AX3
 DBS0350924	[TRE-Pmin]:6xHis:GFP:dhcA(1384-4725(K1975T))	Dictyostelium discoideum	N-terminal His and GFP-tagged dhcA residues 1384-4725 with K1975T substitution to block ATP binding, over-expressed by the inducible (TRE-Pmin) promoter in AX2
@@ -6990,6 +7110,9 @@ DBS0351457	kil1-/lrrkA-	Dictyostelium discoideum	lrrkA (drkD)/kil1 double null m
 DBS0351458	kil2-/lrrkA-	Dictyostelium discoideum	lrrkA (dkrD)/kil2 double null mutant in DH1-10
 DBS0351478	atg5-	Dictyostelium discoideum	atg5 null mutant in AX2
 DBS0351519	swp1-	Dictyostelium discoideum	swp1 REMI mutant
+DBS0351704	[unk]:ttpA(1-236)	Dictyostelium discoideum	ttpA(1-236) truncated by a frameshift after E 236 in AX3
+DBS0351705	[unk]:ttpA(1-242)	Dictyostelium discoideum	ttpA(1-242) truncated by a frameshift after Y 242 in AX3
+DBS0351751	[AS]deeJ/[AS]snfA	Dictyostelium discoideum	deeJ/snfA double antisense mutant by co-transformation in AX2
 DBS0350918	pkcA-	Dictyostelium discoideum	pkcA null mutant in AX2
 DBS0350979	[AS]deeJ	Dictyostelium discoideum	deeJ (DJ-1) antisense mutant
 DBS0351047	cytB-	Dictyostelium discoideum	cytB null mutant in AX2
@@ -7010,6 +7133,8 @@ DBS0351539	iplA-/AX2	Dictyostelium discoideum	iplA null mutant in AX2
 DBS0351547	[unsuccessful]cca1-	Dictyostelium discoideum	attempts to produce a cca1 null mutant failed
 DBS0351548	[unsuccessful]cca2-	Dictyostelium discoideum	attempts to produce a cca2 null mutant failed
 DBS0351617	kif1A-	Dictyostelium discoideum	this cell line is 5 bp deletion near the KIF1A N-terminal; clone 2
+DBS0351624	[act15]:GFP:racE(T25N/E180R/S192D)	Dictyostelium discoideum	constitutively GDP-bound, phospho-mimetic, GFP-tagged racE(T25N/E180R/S192D)expressed in AX2
+DBS0351653	[ecmA]:pkaR(G135E/G261A)	Dictyostelium discoideum	constitutively active pkaR; point mutant (G135E/G261A) that is unable to bind cAMP under control of ecmA promotor
 DBS0350904	efbA-	Dictyostelium discoideum	efbA null mutant in AX2
 DBS0350910	[unsuccessful]cepA-	Dictyostelium discoideum	attempts to produce a cepA null mutant failed
 DBS0350951	[act15]:rac1B(Q61L)	Dictyostelium discoideum	constitutively active rac1B(Q61L) overexpressed in KAX3
@@ -7030,6 +7155,10 @@ DBS0351551	[act6]:GFP:lmnB(1-712)/S122A	Dictyostelium discoideum	N-terminal GFP 
 DBS0351558	tpt1-	Dictyostelium discoideum	tpt1 null mutant in AX2
 DBS0351579	[act15]:psiA/[cudA]:lacZ	Dictyostelium discoideum	psiA overexpressed in AX2 under control of act15 promotor marked with lacZ under control of cudA promotor
 DBS0351603	agnA-/agnB-	Dictyostelium discoideum	agnA/agnB double null mutant in AX2-214
+DBS0351633	atg1-/wdr45l-AX4	Dictyostelium discoideum	atg1/wdr45l double null mutant in AX4
+DBS0351696	rtnlc-	Dictyostelium discoideum	rtnlc null mutant in AX3
+DBS0351709	[unsuccessful]H3a	Dictyostelium discoideum	attempts to produce a H3a null mutant failed
+DBS0351732	vasP-/[act15]:GFP:myoI(K23333A,K2336A)	Dictyostelium discoideum	constitutively active MyoI(K23333A,K2336A) expressed in vasP null
 DBS0350934	kif2-	Dictyostelium discoideum	kif2 null in AX2
 DBS0350985	slc4-	Dictyostelium discoideum	slc4 null mutant in AX2
 DBS0351058	[act15]:gpaB	Dictyostelium discoideum	gpaB overexpressed in KAX3
@@ -7040,3 +7169,20 @@ DBS0351373	HL70/XP99	Dictyostelium discoideum	heterozygote diploid tester strain
 DBS0351374	HL62/HL91	Dictyostelium discoideum	heterozygote diploid tester strain; Parents: HL62 and HL91(DBS0351150)
 DBS0351440	DL78	Dictyostelium discoideum	tester strain
 DBS0351556	[unk]:FLAG:rab1A(S22N)	Dictyostelium discoideum	dominant negative FLAG-tagged rab1A(S22N) in KAX3
+DBS0351634	[act15]:FLAG:wdr45l(G192D)	Dictyostelium discoideum	N-terminal FLAG-tagged wdr45l with G192D substitution in AX4
+DBS0351635	[act15]:FLAG:wdr45l(A196D)	Dictyostelium discoideum	N-terminal FLAG-tagged wdr45l with A196D substitution in AX4
+DBS0351659	dnmA-	Dictyostelium discoideum	dnmA mutant
+DBS0351672	DDB_G0282399-	Dictyostelium discoideum	CRISPR/Cas9 null mutant of DDB_G0282399; contains a 28bp deletion in the DDB_G0282399 gene
+DBS0351673	DDB_G0281273-	Dictyostelium discoideum	CRISPR/Cas9 null mutant of DDB_G0281273; contains a 72bp deletion in the DDB_G0281273 gene
+DBS0351674	DDB_G0278951-	Dictyostelium discoideum	CRISPR/Cas9 null mutant of DDB_G0278951; contains a 7bp deletion in the DDB_G0278951 gene
+DBS0351684	cdl1A-	Dictyostelium discoideum	cdl1A null mutant in AX2
+DBS0351695	sey1-	Dictyostelium discoideum	sey1 null mutant in AX3
+DBS0351714	act15]:gpaB(K12A/L19A/I21A)	Dictyostelium discoideum	gpaB(K12A/L19A/I21A) expressed in KAX3
+DBS0351716	gpaB-/[act15]:gpaB(K12A/L19A/I21A)	Dictyostelium discoideum	gpaB(K12A/L19A/I21A) expressed in gpaB null
+DBS0351729	abiA-/[act15]:abiA(S166D/S168D/S169D)	Dictyostelium discoideum	phosphomimetic AbiA expressed in abiA null
+DBS0351738	mhcA-/[act15]:mhcA(E459V)	Dictyostelium discoideum	mhcA(E459V) expressed in mhcA null
+DBS0351742	[act15]:mhcA(1-871)	Dictyostelium discoideum	mhcA globular head domain (sub fragment 1, S1) in AX2
+DBS0351750	acrA-/acgA-/acaA-/[act15]:pkaC:myc	Dictyostelium discoideum	myc-tagged pkaC under control of act15 promotor expressed in acrA/acgA/acaA triple null mutant
+DBS0351753	[act15]:teep1(254-865):GFP	Dictyostelium discoideum	teep1(254-865) lacking PH domains in AX2
+DBS0351767	DDB_G0269670-	Dictyostelium discoideum	DDB_G0269670 null mutant in AX4
+DBS0351768	pripA-	Dictyostelium discoideum	pripA null mutant in AX2

@@ -804,6 +804,7 @@ DBS0236531	mutagenesis method	Homologous Recombination
 DBS0236531	mutant type	endogenous mutation
 DBS0236531	synonym	Gbeta-
 DBS0236531	synonym	Gb-
+DBS0236531	synonym	DH1/GB
 DBS0236531	systematic name	LW6
 DBS0236527	mutagenesis method	Random Insertion
 DBS0236527	mutant type	exogenous mutation
@@ -1881,6 +1882,7 @@ DBS0236779	mutagenesis method	Homologous Recombination
 DBS0236779	mutant type	endogenous mutation
 DBS0236779	synonym	KOII
 DBS0236779	synonym	 Ddpik6
+DBS0236779	synonym	PIPkinA-
 DBS0236779	systematic name	DBS0236779
 DBS0236086	mutagenesis method	Random Insertion
 DBS0236086	synonym	pde-oxp
@@ -2492,8 +2494,8 @@ DBS0235612	mutagenesis method	Homologous Recombination
 DBS0235612	mutant type	endogenous mutation
 DBS0235612	synonym	8A-
 DBS0235612	synonym	CMF receptor
-DBS0235612	synonym	 cmfB-
 DBS0235612	synonym	11a-
+DBS0235612	synonym	CMFR1-
 DBS0235612	systematic name	DBS0235612
 DBS0235541	mutagenesis method	N-Methyl-N-Nitro-N-Nitrosoguanidine
 DBS0235541	mutant type	endogenous mutation
@@ -5962,6 +5964,7 @@ DBS0237242	systematic name	DBS0237242
 DBS0236952	mutagenesis method	Restriction Enzyme-Mediated Integration
 DBS0236952	mutant type	endogenous mutation
 DBS0236952	systematic name	DBS0236952
+DBS0235563	mutagenesis method	Homologous Recombination
 DBS0235563	mutant type	endogenous deletion
 DBS0235563	systematic name	DBS0235563
 DBS0235633	mutagenesis method	Homologous Recombination
@@ -6352,6 +6355,7 @@ DBS0237189	mutagenesis method	Random Insertion
 DBS0237189	mutant type	exogenous mutation
 DBS0237189	synonym	Rm
 DBS0237189	synonym	A<sup>E</sup>B<sup>E</sup>
+DBS0237189	synonym	RmPKA
 DBS0237189	systematic name	DBS0237189
 DBS0235949	mutagenesis method	Homologous Recombination
 DBS0235949	mutant type	endogenous mutation
@@ -18563,6 +18567,7 @@ DBS0350534	synonym	ATG9<sup>KO</sup>/p97-RFP
 DBS0350534	systematic name	DBS0350534
 DBS0350654	mutagenesis method	Homologous Recombination
 DBS0350654	mutant type	endogenous deletion with insertion
+DBS0350654	synonym	A89 -1
 DBS0350654	systematic name	DBS0350654
 DBS0350016	mutagenesis method	Extrachromosomal
 DBS0350016	mutant type	exogenous mutation
@@ -19832,6 +19837,9 @@ DBS0350630	synonym	rapGAPB-:ecmAO-RFP
 DBS0350630	systematic name	DBS0350630
 DBS0350655	mutagenesis method	Homologous Recombination
 DBS0350655	mutant type	exogenous deletion with insertion
+DBS0350655	synonym	B26-D-C
+DBS0350655	synonym	B26-D-A
+DBS0350655	synonym	B-26D-A
 DBS0350655	systematic name	DBS0350655
 DBS0350662	mutagenesis method	Homologous Recombination
 DBS0350662	mutant type	endogenous deletion with insertion
@@ -22017,10 +22025,55 @@ DBS0351454	systematic name	DBS0351454
 DBS0351463	mutagenesis method	Homologous Recombination
 DBS0351463	mutant type	endogenous deletion with insertion
 DBS0351463	systematic name	DBS0351463
+DBS0351723	mutagenesis method	Homologous Recombination
+DBS0351723	mutant type	endogenous deletion
+DBS0351723	synonym	ppip5k
+DBS0351723	systematic name	DBS0351723
+DBS0351747	mutagenesis method	Homologous Recombination
+DBS0351747	mutant type	endogenous deletion with insertion
+DBS0351747	systematic name	DBS0351747
 DBS0351359	mutagenesis method	Extrachromosomal
 DBS0351359	mutant type	exogenous mutation
 DBS0351359	synonym	myoB<sup>+</sup>
 DBS0351359	systematic name	DBS0351359
+DBS0351728	mutagenesis method	Extrachromosomal
+DBS0351728	mutant type	endogenous substitution
+DBS0351728	synonym	Abi<sup>S3A</sup>
+DBS0351728	systematic name	DBS0351728
+DBS0351731	mutagenesis method	Random Insertion
+DBS0351731	mutant type	endogenous substitution
+DBS0351731	synonym	DdMyo7-KKAA
+DBS0351731	systematic name	DBS0351731
+DBS0351735	mutagenesis method	Extrachromosomal
+DBS0351735	mutant type	endogenous substitution
+DBS0351735	systematic name	DBS0351735
+DBS0351739	mutagenesis method	Extrachromosomal
+DBS0351739	mutant type	endogenous substitution
+DBS0351739	synonym	F481V
+DBS0351739	systematic name	DBS0351739
+DBS0351740	mutagenesis method	Extrachromosomal
+DBS0351740	mutant type	endogenous substitution
+DBS0351740	synonym	I499A
+DBS0351740	systematic name	DBS0351740
+DBS0351752	mutagenesis method	Homologous Recombination
+DBS0351752	mutant type	endogenous deletion with insertion
+DBS0351752	systematic name	DBS0351752
+DBS0351754	mutagenesis method	Homologous Recombination
+DBS0351754	mutant type	endogenous deletion with insertion
+DBS0351754	synonym	pikfyve-
+DBS0351754	systematic name	DBS0351754
+DBS0351758	mutagenesis method	Extrachromosomal
+DBS0351758	mutant type	endogenous substitution
+DBS0351758	synonym	R442E
+DBS0351758	systematic name	DBS0351758
+DBS0351759	mutagenesis method	Extrachromosomal
+DBS0351759	mutant type	endogenous substitution
+DBS0351759	synonym	K474E
+DBS0351759	systematic name	DBS0351759
+DBS0351766	mutagenesis method	Restriction Enzyme-Mediated Integration
+DBS0351766	mutant type	endogenous mutation
+DBS0351766	synonym	GWDI_477_H6
+DBS0351766	systematic name	DBS0351766
 DBS0350895	systematic name	DBS0350895
 DBS0350896	systematic name	DBS0350896
 DBS0350977	mutagenesis method	Homologous Recombination
@@ -22053,6 +22106,20 @@ DBS0351620	mutagenesis method	Restriction Enzyme-Mediated Integration
 DBS0351620	mutant type	endogenous insertion
 DBS0351620	synonym	MR05
 DBS0351620	systematic name	DBS0351620
+DBS0351630	mutagenesis method	Extrachromosomal
+DBS0351630	mutant type	exogenous mutation
+DBS0351630	systematic name	DBS0351630
+DBS0351650	mutagenesis method	Homologous Recombination
+DBS0351650	mutant type	endogenous insertion
+DBS0351650	systematic name	DBS0351650
+DBS0351652	mutagenesis method	Homologous Recombination
+DBS0351652	mutant type	endogenous deletion with insertion
+DBS0351652	systematic name	DBS0351652
+DBS0351665	mutagenesis method	Homologous Recombination
+DBS0351665	mutant type	endogenous deletion with insertion
+DBS0351665	synonym	wash/fam21 KO
+DBS0351665	synonym	wash/fam21-KO
+DBS0351665	systematic name	DBS0351665
 DBS0350915	mutagenesis method	Homologous Recombination
 DBS0350915	mutant type	endogenous deletion with insertion
 DBS0350915	synonym	catD-
@@ -22082,6 +22149,12 @@ DBS0351555	synonym	FLAG-rab1A<sup>Q67L</sup>
 DBS0351555	systematic name	DBS0351555
 DBS0351595	mutagenesis method	Homologous Recombination
 DBS0351595	systematic name	DBS0351595
+DBS0351676	mutant type	endogenous deletion
+DBS0351676	synonym	DDB_G0275437-KO
+DBS0351676	systematic name	DBS0351676
+DBS0351697	mutagenesis method	Homologous Recombination
+DBS0351697	mutant type	endogenous deletion with insertion
+DBS0351697	systematic name	DBS0351697
 DBS0350903	mutagenesis method	Random Insertion
 DBS0350903	mutant type	endogenous substitution
 DBS0350903	synonym	V12-RacB
@@ -22116,6 +22189,19 @@ DBS0351597	systematic name	DBS0351597
 DBS0351598	mutagenesis method	Homologous Recombination
 DBS0351598	mutant type	endogenous deletion
 DBS0351598	systematic name	DBS0351598
+DBS0351645	mutagenesis method	Extrachromosomal
+DBS0351645	synonym	AC3<sup>KO</sup>/pkaC<sup>OE</sup>raf_RBD-GFP
+DBS0351645	synonym	AC3KO/pkaCOE raf_RBD-GFP
+DBS0351645	synonym	AC3 KO/pkaC OE raf_RBD-GFP
+DBS0351645	synonym	AC3-KO/pkaC-OE-raf_RBD-GFP
+DBS0351645	systematic name	DBS0351645
+DBS0351651	mutagenesis method	Homologous Recombination
+DBS0351651	mutant type	endogenous deletion with insertion
+DBS0351651	systematic name	DBS0351651
+DBS0351725	mutagenesis method	Homologous Recombination
+DBS0351725	mutant type	endogenous deletion
+DBS0351725	synonym	ip6k-ppip5K
+DBS0351725	systematic name	DBS0351725
 DBS0351096	mutagenesis method	Homologous Recombination
 DBS0351096	mutant type	endogenous deletion with insertion
 DBS0351096	synonym	cbp7-
@@ -22172,6 +22258,21 @@ DBS0351512	mutagenesis method	Extrachromosomal
 DBS0351512	mutant type	endogenous substitution
 DBS0351512	synonym	T17N
 DBS0351512	systematic name	DBS0351512
+DBS0351644	synonym	AC3KO/pkaCOE GFP-Lifeact
+DBS0351644	synonym	AC3<sup>KO</sup>/pkaC<sup>OE</sup>GFP-Lifeact
+DBS0351644	synonym	AC3 KO/pkaC OE GFP-Lifeact
+DBS0351644	synonym	AC3-KO/pkaC-OE-GFP-Lifeact
+DBS0351644	systematic name	DBS0351644
+DBS0351687	mutagenesis method	Homologous Recombination
+DBS0351687	mutant type	endogenous deletion
+DBS0351687	synonym	pikfyve-
+DBS0351687	systematic name	DBS0351687
+DBS0351688	mutagenesis method	Homologous Recombination
+DBS0351688	mutant type	endogenous deletion
+DBS0351688	systematic name	DBS0351688
+DBS0351700	mutagenesis method	Homologous Recombination
+DBS0351700	mutant type	endogenous deletion with insertion
+DBS0351700	systematic name	DBS0351700
 DBS0350864	mutagenesis method	Homologous Recombination
 DBS0350864	mutant type	endogenous deletion with insertion
 DBS0350864	synonym	phdB-
@@ -22285,6 +22386,24 @@ DBS0351312	synonym	HSPC300-CT
 DBS0351312	systematic name	DBS0351312
 DBS0351340	synonym	DL43
 DBS0351340	systematic name	DBS0351340
+DBS0351707	mutant type	endogenous substitution
+DBS0351707	synonym	H3aK4A
+DBS0351707	systematic name	DBS0351707
+DBS0351718	mutagenesis method	Homologous Recombination
+DBS0351718	mutant type	endogenous insertion
+DBS0351718	synonym	AX3/pir121eGFP
+DBS0351718	systematic name	DBS0351718
+DBS0351720	mutagenesis method	Homologous Recombination
+DBS0351720	mutant type	endogenous insertion
+DBS0351720	synonym	scar-/pir121eGFP
+DBS0351720	systematic name	DBS0351720
+DBS0351722	mutagenesis method	Restriction Enzyme-Mediated Integration
+DBS0351722	mutant type	endogenous insertion
+DBS0351722	systematic name	DBS0351722
+DBS0351761	mutagenesis method	Restriction Enzyme-Mediated Integration
+DBS0351761	mutant type	endogenous mutation
+DBS0351761	synonym	GWDI_526_A2
+DBS0351761	systematic name	DBS0351761
 DBS0350877	mutagenesis method	Homologous Recombination
 DBS0350877	mutant type	endogenous insertion
 DBS0350877	synonym	HSB1<sup>HectPH1-Ko</sup>
@@ -22310,6 +22429,7 @@ DBS0351200	systematic name	DBS0351200
 DBS0351205	mutagenesis method	Homologous Recombination
 DBS0351205	mutant type	endogenous deletion with insertion
 DBS0351205	synonym	PIR121 KO
+DBS0351205	synonym	SP3
 DBS0351205	systematic name	DBS0351205
 DBS0351399	mutagenesis method	Extrachromosomal
 DBS0351399	mutant type	endogenous deletion
@@ -22332,6 +22452,10 @@ DBS0351580	mutagenesis method	Random Insertion
 DBS0351580	mutant type	exogenous mutation
 DBS0351580	synonym	ecmB:lacZ
 DBS0351580	systematic name	DBS0351580
+DBS0351678	mutagenesis method	Random Insertion
+DBS0351678	mutant type	exogenous mutation
+DBS0351678	synonym	GFP-RapA/rapC-
+DBS0351678	systematic name	DBS0351678
 DBS0350842	mutant type	exogenous mutation
 DBS0350842	synonym	triA-::psA 23
 DBS0350842	systematic name	DBS0350842
@@ -22584,6 +22708,13 @@ DBS0351498	mutant type	endogenous deletion with insertion
 DBS0351498	systematic name	DBS0351498
 DBS0351563	mutagenesis method	Homologous Recombination
 DBS0351563	systematic name	DBS0351563
+DBS0351675	mutant type	endogenous deletion
+DBS0351675	synonym	DDB_G0275819-KO
+DBS0351675	systematic name	DBS0351675
+DBS0351744	mutagenesis method	Extrachromosomal
+DBS0351744	mutant type	endogenous insertion
+DBS0351744	synonym	2xELCBS
+DBS0351744	systematic name	DBS0351744
 DBS0351357	mutagenesis method	Homologous Recombination
 DBS0351357	mutant type	endogenous deletion with insertion
 DBS0351357	synonym	Aph-1-
@@ -22694,6 +22825,24 @@ DBS0351543	mutagenesis method	Restriction Enzyme-Mediated Integration
 DBS0351543	mutant type	endogenous insertion
 DBS0351543	synonym	GWDI_448_B_4
 DBS0351543	systematic name	DBS0351543
+DBS0351622	mutagenesis method	Extrachromosomal
+DBS0351622	mutant type	endogenous substitution
+DBS0351622	synonym	GFP-RacE<sub>G20V</sub>
+DBS0351622	systematic name	DBS0351622
+DBS0351623	mutagenesis method	Extrachromosomal
+DBS0351623	mutant type	endogenous substitution
+DBS0351623	synonym	GFP-RacE<sub>T25N</sub>,<sub>S192D</sub>,<sub>E173R</sub>,<sub>R186</sub>
+DBS0351623	systematic name	DBS0351623
+DBS0351625	mutagenesis method	Extrachromosomal
+DBS0351625	mutant type	endogenous substitution
+DBS0351625	synonym	GFP-RacE<sub>G20V</sub>,<sub>S192A</sub>
+DBS0351625	systematic name	DBS0351625
+DBS0351736	mutagenesis method	Random Insertion
+DBS0351736	mutant type	endogenous substitution
+DBS0351736	systematic name	DBS0351736
+DBS0351757	mutagenesis method	Homologous Recombination
+DBS0351757	mutant type	endogenous deletion with insertion
+DBS0351757	systematic name	DBS0351757
 DBS0350860	mutagenesis method	Random Insertion
 DBS0350860	mutant type	exogenous mutation
 DBS0350860	systematic name	DBS0350860
@@ -22838,6 +22987,20 @@ DBS0351562	systematic name	DBS0351562
 DBS0351593	mutagenesis method	Homologous Recombination
 DBS0351593	mutant type	endogenous deletion with insertion
 DBS0351593	systematic name	DBS0351593
+DBS0351690	mutagenesis method	Homologous Recombination
+DBS0351690	mutant type	endogenous deletion
+DBS0351690	synonym	cdl1a-/cdl1b-
+DBS0351690	systematic name	DBS0351690
+DBS0351713	mutagenesis method	Extrachromosomal
+DBS0351713	mutant type	exogenous mutation
+DBS0351713	systematic name	DBS0351713
+DBS0351745	mutagenesis method	Extrachromosomal
+DBS0351745	mutant type	endogenous deletion
+DBS0351745	synonym	&#916;RLCBS
+DBS0351745	systematic name	DBS0351745
+DBS0351746	mutant type	endogenous deletion
+DBS0351746	synonym	S1dC
+DBS0351746	systematic name	DBS0351746
 DBS0350866	mutagenesis method	Homologous Recombination
 DBS0350866	mutant type	endogenous insertion
 DBS0350866	systematic name	DBS0350866
@@ -22949,6 +23112,10 @@ DBS0351611	mutagenesis method	Extrachromosomal
 DBS0351611	mutant type	endogenous substitution
 DBS0351611	synonym	Scar<sup>S8A</sup>
 DBS0351611	systematic name	DBS0351611
+DBS0351632	mutagenesis method	Homologous Recombination
+DBS0351632	mutant type	endogenous deletion with insertion
+DBS0351632	systematic name	DBS0351632
+DBS0351666	systematic name	DBS0351666
 DBS0350851	mutagenesis method	Homologous Recombination
 DBS0350851	mutant type	endogenous deletion
 DBS0350851	systematic name	DBS0350851
@@ -23003,6 +23170,27 @@ DBS0351614	systematic name	DBS0351614
 DBS0351619	mutagenesis method	Homologous Recombination
 DBS0351619	mutant type	endogenous mutation
 DBS0351619	systematic name	DBS0351619
+DBS0351626	mutagenesis method	Extrachromosomal
+DBS0351626	mutant type	endogenous substitution
+DBS0351626	synonym	GFP-RacE<sub>G20V</sub>,<sub>S192A</sub>,<sub>E180R</sub>,<sub>R186E</sub>
+DBS0351626	systematic name	DBS0351626
+DBS0351627	mutagenesis method	Extrachromosomal
+DBS0351627	mutant type	endogenous substitution
+DBS0351627	synonym	FLAG-RacE<sub>T25N</sub>,<sub>S192D</sub>,<sub>E180R</sub>
+DBS0351627	systematic name	DBS0351627
+DBS0351638	mutagenesis method	Extrachromosomal
+DBS0351638	mutant type	exogenous mutation
+DBS0351638	systematic name	DBS0351638
+DBS0351640	mutagenesis method	Homologous Recombination
+DBS0351640	mutant type	endogenous mutation
+DBS0351640	systematic name	DBS0351640
+DBS0351641	mutagenesis method	Homologous Recombination
+DBS0351641	mutant type	endogenous mutation
+DBS0351641	synonym	AC3^KO
+DBS0351641	synonym	AC3KO
+DBS0351641	synonym	AC3<sup>KO</sup>
+DBS0351641	synonym	AC3-KO
+DBS0351641	systematic name	DBS0351641
 DBS0350966	mutagenesis method	Homologous Recombination
 DBS0350966	mutant type	endogenous deletion with insertion
 DBS0350966	synonym	spaA-KO
@@ -23016,6 +23204,22 @@ DBS0351216	mutant type	exogenous insertion
 DBS0351216	systematic name	HA201
 DBS0351513	mutant type	endogenous mutation
 DBS0351513	systematic name	DBS0351513
+DBS0351649	mutagenesis method	Homologous Recombination
+DBS0351649	mutant type	endogenous insertion
+DBS0351649	systematic name	DBS0351649
+DBS0351654	mutagenesis method	Homologous Recombination
+DBS0351654	mutant type	endogenous deletion with insertion
+DBS0351654	systematic name	DBS0351654
+DBS0351655	mutagenesis method	Homologous Recombination
+DBS0351655	mutant type	endogenous insertion
+DBS0351655	systematic name	DBS0351655
+DBS0351656	mutagenesis method	Random Insertion
+DBS0351656	synonym	MybBGFP
+DBS0351656	systematic name	DBS0351656
+DBS0351743	mutagenesis method	Random Insertion
+DBS0351743	mutant type	exogenous mutation
+DBS0351743	synonym	HS2221
+DBS0351743	systematic name	DBS0351743
 DBS0351044	mutagenesis method	Homologous Recombination
 DBS0351044	mutant type	endogenous insertion
 DBS0351044	synonym	HPF557
@@ -23050,6 +23254,64 @@ DBS0351559	mutagenesis method	Homologous Recombination
 DBS0351559	mutant type	endogenous deletion with insertion
 DBS0351559	synonym	terthp
 DBS0351559	systematic name	DBS0351559
+DBS0351643	mutagenesis method	Extrachromosomal
+DBS0351643	synonym	AC3KO/pkaCOE mCherry-H2Bv3
+DBS0351643	synonym	AC3<sup>KO</sup>/pkaC<sup>OE</sup>mCherry-H2Bv3
+DBS0351643	synonym	AC3 KO/pkaC OE mCherry-H2Bv3
+DBS0351643	synonym	AC3-KO/pkaC-OE-mCherry-H2Bv3
+DBS0351643	systematic name	DBS0351643
+DBS0351662	mutant type	endogenous insertion
+DBS0351662	systematic name	DBS0351662
+DBS0351664	mutagenesis method	Homologous Recombination
+DBS0351664	mutant type	exogenous deletion with insertion
+DBS0351664	synonym	Strumpellin KO
+DBS0351664	synonym	Strumpellin-KO
+DBS0351664	systematic name	DBS0351664
+DBS0351677	mutagenesis method	Random Insertion
+DBS0351677	mutant type	endogenous deletion
+DBS0351677	synonym	GFP-RapC&#916;tail/rapC-
+DBS0351677	systematic name	DBS0351677
+DBS0351679	mutagenesis method	Random Insertion
+DBS0351679	synonym	GFP-RapA-CT/rapC-
+DBS0351679	systematic name	DBS0351679
+DBS0351680	mutant type	endogenous substitution
+DBS0351680	synonym	RapC<sup>CA</sup>
+DBS0351680	systematic name	DBS0351680
+DBS0351683	mutant type	exogenous mutation
+DBS0351683	synonym	GFP-192
+DBS0351683	systematic name	DBS0351683
+DBS0351689	mutagenesis method	Homologous Recombination
+DBS0351689	mutant type	endogenous deletion
+DBS0351689	systematic name	DBS0351689
+DBS0351692	mutant type	endogenous mutation
+DBS0351692	synonym	UBXD9<sup>(1-336)</sup>
+DBS0351692	systematic name	DBS0351692
+DBS0351694	mutant type	endogenous mutation
+DBS0351694	synonym	UBXD9<sup>(165-383)</sup>
+DBS0351694	systematic name	DBS0351694
+DBS0351698	mutagenesis method	Homologous Recombination
+DBS0351698	mutant type	endogenous deletion with insertion
+DBS0351698	systematic name	DBS0351698
+DBS0351702	mutagenesis method	Homologous Recombination
+DBS0351702	mutant type	endogenous deletion with insertion
+DBS0351702	systematic name	DBS0351702
+DBS0351710	mutagenesis method	Homologous Recombination
+DBS0351710	mutant type	endogenous deletion with insertion
+DBS0351710	systematic name	DBS0351710
+DBS0351717	mutagenesis method	Homologous Recombination
+DBS0351717	mutant type	endogenous insertion
+DBS0351717	synonym	scar-/abi-
+DBS0351717	systematic name	DBS0351717
+DBS0351724	mutagenesis method	Homologous Recombination
+DBS0351724	mutant type	endogenous deletion
+DBS0351724	synonym	ip6k
+DBS0351724	systematic name	DBS0351724
+DBS0351726	mutagenesis method	Homologous Recombination
+DBS0351726	mutant type	endogenous deletion with insertion
+DBS0351726	systematic name	DBS0351726
+DBS0351769	mutagenesis method	Homologous Recombination
+DBS0351769	mutant type	endogenous deletion with insertion
+DBS0351769	systematic name	DBS0351769
 DBS0350956	mutagenesis method	Extrachromosomal
 DBS0350956	mutant type	endogenous substitution
 DBS0350956	synonym	V20racE
@@ -23094,6 +23356,17 @@ DBS0351514	systematic name	AK1350
 DBS0351537	mutagenesis method	Homologous Recombination
 DBS0351537	mutant type	endogenous deletion with insertion
 DBS0351537	systematic name	DBS0351537
+DBS0351682	mutagenesis method	Knockdown
+DBS0351682	mutant type	endogenous mutation
+DBS0351682	synonym	Cep192-RNAi
+DBS0351682	systematic name	DBS0351682
+DBS0351685	mutagenesis method	Homologous Recombination
+DBS0351685	mutant type	endogenous deletion
+DBS0351685	synonym	cdl1b-
+DBS0351685	systematic name	DBS0351685
+DBS0351708	mutagenesis method	Homologous Recombination
+DBS0351708	mutant type	endogenous deletion with insertion
+DBS0351708	systematic name	DBS0351708
 DBS0350948	mutagenesis method	Extrachromosomal
 DBS0350948	mutant type	endogenous substitution
 DBS0350948	synonym	E683K
@@ -23135,6 +23408,21 @@ DBS0351606	mutagenesis method	Homologous Recombination
 DBS0351606	mutant type	endogenous deletion
 DBS0351606	synonym	t<sup>CUG-</sup>
 DBS0351606	systematic name	DBS0351606
+DBS0351646	mutagenesis method	Random Insertion
+DBS0351646	synonym	pkaCoe
+DBS0351646	synonym	pkaC oe
+DBS0351646	synonym	pkaC-oe
+DBS0351646	synonym	pkaC<sup>oe</sup>
+DBS0351646	systematic name	DBS0351646
+DBS0351647	synonym	acaA?/ pkaCoe
+DBS0351647	synonym	acaA-/pkaCoe
+DBS0351647	synonym	acaA-/pkaC oe
+DBS0351647	synonym	acaA-/pkaC<sup>oe</sup>
+DBS0351647	systematic name	DBS0351647
+DBS0351737	mutagenesis method	Extrachromosomal
+DBS0351737	mutant type	endogenous substitution
+DBS0351737	synonym	S465V
+DBS0351737	systematic name	DBS0351737
 DBS0350839	mutagenesis method	Extrachromosomal
 DBS0350839	mutant type	endogenous insertion
 DBS0350839	systematic name	DBS0350839
@@ -23166,6 +23454,9 @@ DBS0351545	systematic name	DBS0351545
 DBS0351612	mutagenesis method	Homologous Recombination
 DBS0351612	mutant type	endogenous deletion with insertion
 DBS0351612	systematic name	DBS0351612
+DBS0351699	mutagenesis method	Homologous Recombination
+DBS0351699	mutant type	endogenous deletion with insertion
+DBS0351699	systematic name	DBS0351699
 DBS0350962	mutant type	exogenous mutation
 DBS0350962	synonym	TOR<sup>OE</sup>
 DBS0350962	systematic name	DBS0350962
@@ -23187,6 +23478,10 @@ DBS0351601	systematic name	DBS0351601
 DBS0351602	mutagenesis method	Homologous Recombination
 DBS0351602	mutant type	endogenous deletion with insertion
 DBS0351602	systematic name	DBS0351602
+DBS0351749	mutagenesis method	Homologous Recombination
+DBS0351749	mutant type	endogenous deletion with insertion
+DBS0351749	synonym	AC3<sup>KO</sup>
+DBS0351749	systematic name	DBS0351749
 DBS0351270	mutagenesis method	Extrachromosomal
 DBS0351270	mutant type	endogenous deletion
 DBS0351270	synonym	G&#947;&#916;
@@ -23207,6 +23502,8 @@ DBS0351276	mutant type	endogenous deletion with insertion
 DBS0351276	synonym	erkB-
 DBS0351276	systematic name	DBS0351276
 DBS0351385	systematic name	DL112
+DBS0351763	mutagenesis method	Extrachromosomal
+DBS0351763	systematic name	DBS0351763
 DBS0351180	mutagenesis method	Random Insertion
 DBS0351180	mutant type	endogenous substitution
 DBS0351180	systematic name	DBS0351180
@@ -23232,6 +23529,9 @@ DBS0351521	mutagenesis method	Extrachromosomal
 DBS0351521	mutant type	endogenous mutation
 DBS0351521	synonym	corA-KO + FLAG-&#916;CC-CorA
 DBS0351521	systematic name	DBS0351521
+DBS0351686	mutagenesis method	Homologous Recombination
+DBS0351686	mutant type	endogenous deletion
+DBS0351686	systematic name	DBS0351686
 DBS0351107	mutagenesis method	Restriction Enzyme-Mediated Integration
 DBS0351107	mutant type	endogenous insertion
 DBS0351107	synonym	GWDI_409_E_8
@@ -23438,6 +23738,9 @@ DBS0350982	systematic name	DBS0350982
 DBS0350992	mutant type	endogenous substitution
 DBS0350992	synonym	myoB-S332A
 DBS0350992	systematic name	DBS0350992
+DBS0351629	mutagenesis method	Homologous Recombination
+DBS0351629	mutant type	endogenous deletion with insertion
+DBS0351629	systematic name	DBS0351629
 DBS0351015	mutagenesis method	Extrachromosomal
 DBS0351015	mutant type	exogenous mutation
 DBS0351015	synonym	tgrB1&#916;C(828-902)-HA/tgrC1-GFP
@@ -23455,6 +23758,22 @@ DBS0351066	mutagenesis method	Restriction Enzyme-Mediated Integration
 DBS0351066	mutant type	endogenous insertion
 DBS0351066	synonym	RAM3
 DBS0351066	systematic name	DBS0351066
+DBS0351637	mutagenesis method	Homologous Recombination
+DBS0351637	mutant type	endogenous deletion with insertion
+DBS0351637	systematic name	DBS0351637
+DBS0351669	mutagenesis method	Knockdown
+DBS0351669	mutant type	endogenous deletion with insertion
+DBS0351669	synonym	fam21-KO
+DBS0351669	synonym	fam21 KO
+DBS0351669	systematic name	DBS0351669
+DBS0351670	mutagenesis method	Homologous Recombination
+DBS0351670	mutant type	endogenous deletion with insertion
+DBS0351670	synonym	mroh1 KO
+DBS0351670	synonym	mroh1-KO
+DBS0351670	systematic name	DBS0351670
+DBS0351693	mutant type	endogenous mutation
+DBS0351693	synonym	UBXD9<sup>(467-573)</sup>
+DBS0351693	systematic name	DBS0351693
 DBS0350871	mutagenesis method	Homologous Recombination
 DBS0350871	mutant type	endogenous deletion with insertion
 DBS0350871	systematic name	DBS0350871
@@ -23504,6 +23823,31 @@ DBS0351565	mutant type	exogenous mutation
 DBS0351565	synonym	eif6<sup>WT</sup>
 DBS0351565	synonym	HM2292
 DBS0351565	systematic name	DBS0351565
+DBS0351639	mutagenesis method	Homologous Recombination
+DBS0351639	mutant type	endogenous mutation
+DBS0351639	systematic name	DBS0351639
+DBS0351657	mutant type	endogenous insertion
+DBS0351657	systematic name	DBS0351657
+DBS0351658	mutagenesis method	Homologous Recombination
+DBS0351658	mutant type	endogenous deletion with insertion
+DBS0351658	systematic name	DBS0351658
+DBS0351661	mutagenesis method	Restriction Enzyme-Mediated Integration
+DBS0351661	mutant type	endogenous insertion
+DBS0351661	systematic name	DBS0351661
+DBS0351671	mutant type	endogenous deletion
+DBS0351671	synonym	DDB_G0293360-KO
+DBS0351671	systematic name	DBS0351671
+DBS0351730	mutagenesis method	Extrachromosomal
+DBS0351730	mutant type	endogenous substitution
+DBS0351730	synonym	scar-/abi-/Scar<sup>S8A</sup>/Abi<sup>S3A</sup>
+DBS0351730	systematic name	DBS0351730
+DBS0351741	mutagenesis method	Extrachromosomal
+DBS0351741	mutant type	endogenous substitution
+DBS0351741	synonym	F692A
+DBS0351741	systematic name	DBS0351741
+DBS0351748	mutagenesis method	Homologous Recombination
+DBS0351748	mutant type	endogenous deletion with insertion
+DBS0351748	systematic name	DBS0351748
 DBS0350936	mutagenesis method	Homologous Recombination
 DBS0350936	mutant type	endogenous deletion
 DBS0350936	synonym	ABP-120-
@@ -23569,6 +23913,25 @@ DBS0351615	mutagenesis method	Random Insertion
 DBS0351615	mutant type	exogenous mutation
 DBS0351615	synonym	sodC::sodA
 DBS0351615	systematic name	DBS0351615
+DBS0351715	mutagenesis method	Random Insertion
+DBS0351715	mutant type	endogenous substitution
+DBS0351715	synonym	KAx3(G&#945;2<sup>D-</sup>)
+DBS0351715	systematic name	DBS0351715
+DBS0351719	mutagenesis method	Homologous Recombination
+DBS0351719	mutant type	endogenous insertion
+DBS0351719	synonym	scar-/abi-/pir121eGFP
+DBS0351719	systematic name	DBS0351719
+DBS0351721	mutagenesis method	Restriction Enzyme-Mediated Integration
+DBS0351721	mutant type	endogenous insertion
+DBS0351721	systematic name	DBS0351721
+DBS0351734	mutagenesis method	Random Insertion
+DBS0351734	mutant type	endogenous mutation
+DBS0351734	synonym	vasP-/DdMyo7-CAAX
+DBS0351734	systematic name	DBS0351734
+DBS0351765	mutagenesis method	Restriction Enzyme-Mediated Integration
+DBS0351765	mutant type	endogenous mutation
+DBS0351765	synonym	GWDI_491_A4
+DBS0351765	systematic name	DBS0351765
 DBS0350881	mutagenesis method	Homologous Recombination
 DBS0350881	mutant type	endogenous insertion
 DBS0350881	systematic name	DBS0350881
@@ -23611,6 +23974,30 @@ DBS0351599	systematic name	DBS0351599
 DBS0351604	mutagenesis method	Homologous Recombination
 DBS0351604	mutant type	endogenous deletion
 DBS0351604	systematic name	DBS0351604
+DBS0351628	mutagenesis method	Extrachromosomal
+DBS0351628	mutant type	endogenous substitution
+DBS0351628	synonym	GFP-RacE<sub>Q62L</sub>,<sub>E157R</sub>,<sub>R164E</sub>
+DBS0351628	systematic name	DBS0351628
+DBS0351631	mutagenesis method	Knockdown
+DBS0351631	mutant type	exogenous mutation
+DBS0351631	synonym	RNAi-gstA2
+DBS0351631	systematic name	DBS0351631
+DBS0351636	mutagenesis method	Extrachromosomal
+DBS0351636	mutant type	endogenous substitution
+DBS0351636	synonym	T197P
+DBS0351636	systematic name	DBS0351636
+DBS0351660	mutagenesis method	Homologous Recombination
+DBS0351660	mutant type	endogenous deletion with insertion
+DBS0351660	systematic name	DBS0351660
+DBS0351681	mutant type	endogenous substitution
+DBS0351681	synonym	RapC<sup>DN</sup>
+DBS0351681	systematic name	DBS0351681
+DBS0351755	mutagenesis method	Extrachromosomal
+DBS0351755	mutant type	exogenous mutation
+DBS0351755	systematic name	DBS0351755
+DBS0351762	mutagenesis method	Homologous Recombination
+DBS0351762	mutant type	endogenous substitution
+DBS0351762	systematic name	DBS0351762
 DBS0350883	mutagenesis method	Homologous Recombination
 DBS0350883	mutant type	endogenous deletion with insertion
 DBS0350883	systematic name	DBS0350883
@@ -23755,6 +24142,10 @@ DBS0351588	synonym	p97<sup>E219K</sup>-RFP
 DBS0351588	systematic name	DBS0351588
 DBS0351616	mutant type	endogenous deletion
 DBS0351616	systematic name	K4
+DBS0351621	mutagenesis method	Extrachromosomal
+DBS0351621	mutant type	endogenous substitution
+DBS0351621	synonym	GFP-RacE<sub>T25N</sub>,<sub>S192D</sub>,<sub>E173R</sub>,<sub>R186</sub>
+DBS0351621	systematic name	DBS0351621
 DBS0350887	mutagenesis method	Homologous Recombination
 DBS0350887	mutant type	endogenous deletion with insertion
 DBS0350887	synonym	FIP200-
@@ -23817,6 +24208,11 @@ DBS0351594	systematic name	DBS0351594
 DBS0351610	mutant type	endogenous deletion
 DBS0351610	synonym	SIKO/wasp-
 DBS0351610	systematic name	DBS0351610
+DBS0351668	mutagenesis method	Homologous Recombination
+DBS0351668	mutant type	endogenous deletion with insertion
+DBS0351668	synonym	ccdc53-KO
+DBS0351668	synonym	ccdc53 KO
+DBS0351668	systematic name	DBS0351668
 DBS0350859	mutagenesis method	Homologous Recombination
 DBS0350859	mutant type	endogenous deletion with insertion
 DBS0350859	systematic name	DBS0350859
@@ -23871,6 +24267,31 @@ DBS0351549	systematic name	DBS0351549
 DBS0351576	mutagenesis method	Random Insertion
 DBS0351576	mutant type	endogenous substitution
 DBS0351576	systematic name	DBS0351576
+DBS0351701	mutagenesis method	Homologous Recombination
+DBS0351701	mutant type	endogenous deletion with insertion
+DBS0351701	systematic name	DBS0351701
+DBS0351691	mutant type	endogenous substitution
+DBS0351691	synonym	roco4 G1179S
+DBS0351691	systematic name	DBS0351691
+DBS0351727	mutant type	exogenous mutation
+DBS0351727	systematic name	DBS0351727
+DBS0351733	mutagenesis method	Random Insertion
+DBS0351733	mutant type	endogenous mutation
+DBS0351733	synonym	DdMyo7-CAAX
+DBS0351733	systematic name	DBS0351733
+DBS0351756	mutagenesis method	Extrachromosomal
+DBS0351756	mutant type	exogenous mutation
+DBS0351756	systematic name	DBS0351756
+DBS0351760	mutagenesis method	Restriction Enzyme-Mediated Integration
+DBS0351760	mutant type	endogenous insertion
+DBS0351760	systematic name	DBS0351760
+DBS0351764	mutagenesis method	Restriction Enzyme-Mediated Integration
+DBS0351764	mutant type	endogenous mutation
+DBS0351764	synonym	GWDI_483_D2
+DBS0351764	systematic name	DBS0351764
+DBS0351770	mutagenesis method	Homologous Recombination
+DBS0351770	mutant type	endogenous deletion with insertion
+DBS0351770	systematic name	DBS0351770
 DBS0350865	mutagenesis method	Homologous Recombination
 DBS0350865	mutant type	endogenous deletion with insertion
 DBS0350865	systematic name	DBS0350865
@@ -23988,6 +24409,21 @@ DBS0351500	systematic name	DBS0351500
 DBS0351520	mutagenesis method	Restriction Enzyme-Mediated Integration
 DBS0351520	mutant type	exogenous insertion
 DBS0351520	systematic name	DBS0351520
+DBS0351642	mutagenesis method	Random Insertion
+DBS0351642	synonym	AC3KO/pkaCOE
+DBS0351642	synonym	AC3<sup>KO</sup>/pkaC<sup>OE</sup>
+DBS0351642	synonym	AC3-KO/pkaC-OE
+DBS0351642	synonym	AC3 KO/pkaC OE
+DBS0351642	systematic name	DBS0351642
+DBS0351663	synonym	AX2(RI 2021)
+DBS0351663	systematic name	DBS0351663
+DBS0351703	mutagenesis method	Homologous Recombination
+DBS0351703	mutant type	endogenous insertion
+DBS0351703	synonym	ttpA<sup>C240ins</sup>
+DBS0351703	systematic name	DBS0351703
+DBS0351706	mutant type	endogenous deletion
+DBS0351706	synonym	ttpA<sup>D450trx</sup>
+DBS0351706	systematic name	DBS0351706
 DBS0350878	mutagenesis method	Homologous Recombination
 DBS0350878	mutant type	endogenous insertion
 DBS0350878	synonym	AX2<sup>HectPH1-Ko</sup>
@@ -24103,6 +24539,15 @@ DBS0351478	systematic name	DBS0351478
 DBS0351519	mutagenesis method	Restriction Enzyme-Mediated Integration
 DBS0351519	mutant type	endogenous insertion
 DBS0351519	systematic name	AK1321
+DBS0351704	mutant type	endogenous deletion
+DBS0351704	synonym	ttpA<sup>E236fsx</sup>
+DBS0351704	systematic name	DBS0351704
+DBS0351705	mutant type	endogenous deletion
+DBS0351705	synonym	ttpA<sup>Y242fsx</sup>
+DBS0351705	systematic name	DBS0351705
+DBS0351751	mutagenesis method	Antisense
+DBS0351751	mutant type	exogenous mutation
+DBS0351751	systematic name	DBS0351751
 DBS0350918	mutagenesis method	Homologous Recombination
 DBS0350918	mutant type	endogenous deletion with insertion
 DBS0350918	systematic name	DBS0350918
@@ -24162,6 +24607,13 @@ DBS0351548	mutagenesis method	Homologous Recombination
 DBS0351548	systematic name	DBS0351548
 DBS0351617	mutant type	endogenous deletion
 DBS0351617	systematic name	K8
+DBS0351624	mutagenesis method	Extrachromosomal
+DBS0351624	mutant type	endogenous substitution
+DBS0351624	synonym	GFP-RacE<sub>T25N</sub>,<sub>S192D</sub>,<sub>E180R</sub>
+DBS0351624	systematic name	DBS0351624
+DBS0351653	mutagenesis method	Random Insertion
+DBS0351653	synonym	ecmA:Rm
+DBS0351653	systematic name	DBS0351653
 DBS0350904	mutagenesis method	Homologous Recombination
 DBS0350904	mutant type	endogenous deletion with insertion
 DBS0350904	synonym	ef-2 null
@@ -24181,6 +24633,7 @@ DBS0351179	mutant type	endogenous deletion with insertion
 DBS0351179	systematic name	DBS0351179
 DBS0351206	mutagenesis method	Restriction Enzyme-Mediated Integration
 DBS0351206	mutant type	exogenous mutation
+DBS0351206	synonym	SP11
 DBS0351206	systematic name	DBS0351206
 DBS0351217	mutant type	exogenous mutation
 DBS0351217	synonym	(g&#945;2<sup>-</sup>[G&#945;9<sup>WT</sup>])
@@ -24225,6 +24678,19 @@ DBS0351579	systematic name	DBS0351579
 DBS0351603	mutagenesis method	Homologous Recombination
 DBS0351603	mutant type	endogenous deletion with insertion
 DBS0351603	systematic name	DBS0351603
+DBS0351633	mutagenesis method	Homologous Recombination
+DBS0351633	mutant type	endogenous deletion with insertion
+DBS0351633	systematic name	DBS0351633
+DBS0351696	mutagenesis method	Homologous Recombination
+DBS0351696	mutant type	endogenous deletion with insertion
+DBS0351696	synonym	&#916;rtnlc
+DBS0351696	systematic name	DBS0351696
+DBS0351709	mutagenesis method	Homologous Recombination
+DBS0351709	systematic name	DBS0351709
+DBS0351732	mutagenesis method	Random Insertion
+DBS0351732	mutant type	endogenous substitution
+DBS0351732	synonym	vasp-/KKAA
+DBS0351732	systematic name	DBS0351732
 DBS0350934	mutagenesis method	Homologous Recombination
 DBS0350934	mutant type	endogenous deletion with insertion
 DBS0350934	synonym	K2 null
@@ -24252,3 +24718,66 @@ DBS0351440	systematic name	DBS0351440
 DBS0351556	mutant type	endogenous substitution
 DBS0351556	synonym	FLAG-rab1A<sup>S22N</sup>
 DBS0351556	systematic name	DBS0351556
+DBS0351634	mutagenesis method	Extrachromosomal
+DBS0351634	mutant type	endogenous substitution
+DBS0351634	synonym	G192D
+DBS0351634	systematic name	DBS0351634
+DBS0351635	mutagenesis method	Extrachromosomal
+DBS0351635	mutant type	endogenous substitution
+DBS0351635	synonym	A196D
+DBS0351635	systematic name	DBS0351635
+DBS0351659	mutagenesis method	Homologous Recombination
+DBS0351659	mutant type	endogenous deletion with insertion
+DBS0351659	systematic name	DBS0351659
+DBS0351672	mutant type	endogenous deletion
+DBS0351672	synonym	DDB_G0282399-KO
+DBS0351672	systematic name	DBS0351672
+DBS0351673	mutant type	endogenous deletion
+DBS0351673	synonym	DDB_G0281273-KO
+DBS0351673	systematic name	DBS0351673
+DBS0351674	mutant type	endogenous deletion
+DBS0351674	synonym	DDB_G0278951-KO
+DBS0351674	systematic name	DBS0351674
+DBS0351684	mutagenesis method	Homologous Recombination
+DBS0351684	mutant type	endogenous deletion
+DBS0351684	synonym	cdl1a-
+DBS0351684	systematic name	DBS0351684
+DBS0351695	mutagenesis method	Homologous Recombination
+DBS0351695	mutant type	endogenous deletion with insertion
+DBS0351695	synonym	&#916;sey1
+DBS0351695	systematic name	DBS0351695
+DBS0351714	mutagenesis method	Extrachromosomal
+DBS0351714	mutant type	endogenous substitution
+DBS0351714	synonym	KAx3(G&#945;2<sup>D-</sup>hc)
+DBS0351714	systematic name	DBS0351714
+DBS0351716	mutagenesis method	Random Insertion
+DBS0351716	mutant type	endogenous substitution
+DBS0351716	synonym	g&#945;2-(G&#945;2<sup>D-</sup>)
+DBS0351716	systematic name	DBS0351716
+DBS0351729	mutagenesis method	Extrachromosomal
+DBS0351729	mutant type	endogenous substitution
+DBS0351729	synonym	Abi<sup>S3D</sup>
+DBS0351729	systematic name	DBS0351729
+DBS0351738	mutagenesis method	Extrachromosomal
+DBS0351738	mutant type	endogenous substitution
+DBS0351738	synonym	E459V
+DBS0351738	systematic name	DBS0351738
+DBS0351742	mutagenesis method	Random Insertion
+DBS0351742	mutant type	endogenous mutation
+DBS0351742	synonym	HS2210
+DBS0351742	systematic name	DBS0351742
+DBS0351750	mutagenesis method	Extrachromosomal
+DBS0351750	mutant type	endogenous deletion with insertion
+DBS0351750	synonym	AC3<sup>KO</sup>/pkaC<sup>OE</sup>
+DBS0351750	systematic name	DBS0351750
+DBS0351753	mutagenesis method	Extrachromosomal
+DBS0351753	mutant type	endogenous deletion
+DBS0351753	synonym	&#916;PH
+DBS0351753	systematic name	DBS0351753
+DBS0351767	mutagenesis method	Restriction Enzyme-Mediated Integration
+DBS0351767	mutant type	endogenous mutation
+DBS0351767	synonym	GWDI_189_C8
+DBS0351767	systematic name	DBS0351767
+DBS0351768	mutagenesis method	Homologous Recombination
+DBS0351768	mutant type	endogenous deletion with insertion
+DBS0351768	systematic name	DBS0351768
