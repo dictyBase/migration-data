@@ -893,7 +893,7 @@ DBS0236573	wild type			16571632	act-GFP-mybE develops normally [strain ID: 1608,
 DBS0236573	aberrant prestalk cell differentiation			16571632	mybE- expresses mybE and mrrA in the upper cup but not in the lower cup
 DBS0236177	decreased cell-substrate adhesion		reflection interference contrast microscopy	9230077	
 DBS0236179	aberrant cytokinesis	in suspension	nuclei count	9230077	majority of cells has 2-4 nuclei
-DBS0236179	decreased cell-cell adhesion	in the absense of EDTA	agglutination assay	9230077	vegetative cells
+DBS0236179	decreased cell-cell adhesion	in the absence of EDTA	agglutination assay	9230077	vegetative cells
 DBS0235922	decreased gene expression			16282589	the Skipper retrotransposon was  upregulated in a drnA knock-out strain
 DBS0236540	abolished vegetative growth	in suspension		11719559	Triple mutant rtoA/abcG2/abcG18 does not grow is suspension [strain IDs: 1453, parent: AX4]
 DBS0236540	decreased growth rate			11719559	Triple mutant rtoA/abcG2/abcG18 has decreased growth rate in liquid medium on solid sufaces [strain IDs: 1453, parent: AX4]
@@ -1354,7 +1354,7 @@ DBS0236178	decreased phagocytosis		uptake of yeast particles	9230077	10% that of
 DBS0236178	aberrant mitotic actomyosin contractile ring contraction			22826231	in talA- cells, the cleavage furrow was broader than in wt cells
 DBS0236178	decreased uropod retraction			22826231	in migrating talA- cells, formation of a long, thin tail, often as long as the entire cell; rescued by knocking out sibA
 DBS0236180	aberrant cytokinesis	in suspension	nuclei count	9230077	majority of cells has 2-4 nuclei
-DBS0236180	decreased cell-cell adhesion	in the absense of EDTA	agglutination assay	9230077	vegetative cells
+DBS0236180	decreased cell-cell adhesion	in the absence of EDTA	agglutination assay	9230077	vegetative cells
 DBS0236180	decreased growth rate	in bacterial suspension		9230077	with E. coli B/r
 DBS0236180	decreased phagocytosis		uptake of yeast particles	9230077	10% that of wild type
 DBS0236180	decreased cell-substrate adhesion		reflection interference contrast microscopy	9230077	
