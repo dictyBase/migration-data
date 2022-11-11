@@ -20,7 +20,7 @@
       "id" : "http://purl.obolibrary.org/obo/STRAININVENT_0000010",
       "meta" : {
         "definition" : {
-          "val" : "The number of strains in stock in the liquid nitrogen tank A.",
+          "val" : "The number of strains in stock in the liquid nitrogen tank A plus coordinates.",
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
@@ -37,6 +37,10 @@
       "type" : "CLASS",
       "lbl" : "tank A"
     }, {
+      "id" : "http://www.geneontology.org/formats/oboInOwl#hasExactSynonym",
+      "type" : "PROPERTY",
+      "lbl" : "has_exact_synonym"
+    }, {
       "id" : "http://www.geneontology.org/formats/oboInOwl#hasDbXref",
       "type" : "PROPERTY",
       "lbl" : "database_cross_reference"
@@ -48,14 +52,14 @@
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
-          "val" : "2017-01-26T16:11:40Z"
-        }, {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "strain_inventory"
         }, {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
           "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2017-01-26T16:11:40Z"
         } ]
       },
       "type" : "CLASS",
@@ -76,14 +80,14 @@
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2017-01-26T16:10:07Z"
+        }, {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "strain_inventory"
         }, {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
           "val" : "pfey"
-        }, {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
-          "val" : "2017-01-26T16:10:07Z"
         } ]
       },
       "type" : "CLASS",
@@ -96,11 +100,11 @@
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
-          "val" : "strain_inventory"
-        }, {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
           "val" : "2017-01-26T16:11:05Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "strain_inventory"
         }, {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
           "val" : "pfey"
@@ -116,11 +120,11 @@
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
-          "val" : "2017-01-26T16:11:16Z"
-        }, {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
           "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2017-01-26T16:11:16Z"
         }, {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "strain_inventory"
@@ -156,7 +160,7 @@
       "id" : "http://purl.obolibrary.org/obo/STRAININVENT_0000011",
       "meta" : {
         "definition" : {
-          "val" : "The number of strains in stock in the liquid nitrogen tank B.",
+          "val" : "The number of strains in stock in the liquid nitrogen tank B and coordinates.",
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
@@ -176,15 +180,15 @@
       "id" : "http://purl.obolibrary.org/obo/STRAININVENT_0000012",
       "meta" : {
         "definition" : {
-          "val" : "The number of strains in stock in the liquid nitrogen tank C.",
+          "val" : "The number of strains in stock in the liquid nitrogen tank C and coordinates.",
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
-          "val" : "2014-09-26T16:44:02Z"
-        }, {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
           "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2014-09-26T16:44:02Z"
         }, {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "strain_inventory"
@@ -216,18 +220,18 @@
       "id" : "http://purl.obolibrary.org/obo/STRAININVENT_0000014",
       "meta" : {
         "definition" : {
-          "val" : "The person who stores the strain.",
+          "val" : "The person who stores the strain (email).",
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "strain_inventory"
+        }, {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
           "val" : "pfey"
         }, {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
           "val" : "2016-04-26T15:09:38Z"
-        }, {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
-          "val" : "strain_inventory"
         } ]
       },
       "type" : "CLASS",
@@ -240,14 +244,14 @@
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "strain_inventory"
+        }, {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
           "val" : "pfey"
         }, {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
           "val" : "2017-01-26T16:13:27Z"
-        }, {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
-          "val" : "strain_inventory"
         } ]
       },
       "type" : "CLASS",
@@ -260,14 +264,14 @@
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2017-01-26T16:13:40Z"
+        }, {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
           "val" : "pfey"
         }, {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "strain_inventory"
-        }, {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
-          "val" : "2017-01-26T16:13:40Z"
         } ]
       },
       "type" : "CLASS",
@@ -384,6 +388,26 @@
       "type" : "CLASS",
       "lbl" : "96 well plate"
     }, {
+      "id" : "http://purl.obolibrary.org/obo/STRAININVENT_0000023",
+      "meta" : {
+        "definition" : {
+          "val" : "The strain is stored axenically, typically in HL5 with 5% DMSO.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "strain_inventory"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2022-11-10T17:51:30Z"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "axenic"
+    }, {
       "id" : "http://purl.obolibrary.org/obo/STRAININVENT_0000001",
       "meta" : {
         "definition" : {
@@ -412,6 +436,51 @@
       "type" : "CLASS",
       "lbl" : "location"
     }, {
+      "id" : "http://purl.obolibrary.org/obo/STRAININVENT_0000024",
+      "meta" : {
+        "definition" : {
+          "val" : "Cell storage from bacterial growth for strains that do not fruit.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "synonyms" : [ {
+          "pred" : "hasExactSynonym",
+          "val" : "vegetative cells",
+          "xrefs" : [ ]
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "strain_inventory"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2022-11-10T17:52:42Z"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "cells"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/STRAININVENT_0000025",
+      "meta" : {
+        "definition" : {
+          "val" : "Any sporulatiing strain stored as spores, the most stable storage.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2022-11-10T17:53:56Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "strain_inventory"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "spores"
+    }, {
       "id" : "http://purl.obolibrary.org/obo/STRAININVENT_0000003",
       "meta" : {
         "definition" : {
@@ -427,15 +496,7 @@
       "lbl" : "color"
     } ],
     "edges" : [ {
-      "sub" : "http://purl.obolibrary.org/obo/STRAININVENT_0000010",
-      "pred" : "http://purl.obolibrary.org/obo/straininvent#has_vial",
-      "obj" : "http://purl.obolibrary.org/obo/STRAININVENT_0000005"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/STRAININVENT_0000008",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/STRAININVENT_0000001"
-    }, {
-      "sub" : "http://purl.obolibrary.org/obo/STRAININVENT_0000004",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/STRAININVENT_0000001"
     }, {
@@ -443,9 +504,57 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/STRAININVENT_0000002"
     }, {
+      "sub" : "http://purl.obolibrary.org/obo/STRAININVENT_0000009",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/STRAININVENT_0000001"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/STRAININVENT_0000013",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/STRAININVENT_0000002"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/STRAININVENT_0000010",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/STRAININVENT_0000002"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/STRAININVENT_0000025",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/STRAININVENT_0000009"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/STRAININVENT_0000018",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/STRAININVENT_0000003"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/STRAININVENT_0000007",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/STRAININVENT_0000001"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/STRAININVENT_0000011",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/STRAININVENT_0000002"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/STRAININVENT_0000019",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/STRAININVENT_0000003"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/STRAININVENT_0000022",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/STRAININVENT_0000002"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/STRAININVENT_0000010",
+      "pred" : "http://purl.obolibrary.org/obo/straininvent#has_vial",
+      "obj" : "http://purl.obolibrary.org/obo/STRAININVENT_0000005"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/STRAININVENT_0000004",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/STRAININVENT_0000001"
+    }, {
       "sub" : "http://purl.obolibrary.org/obo/STRAININVENT_0000020",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/STRAININVENT_0000003"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/STRAININVENT_0000023",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/STRAININVENT_0000009"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/STRAININVENT_0000016",
       "pred" : "is_a",
@@ -455,21 +564,17 @@
       "pred" : "http://purl.obolibrary.org/obo/straininvent#has_vial",
       "obj" : "http://purl.obolibrary.org/obo/STRAININVENT_0000005"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/STRAININVENT_0000009",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/STRAININVENT_0000001"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/STRAININVENT_0000005",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/STRAININVENT_0000001"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/STRAININVENT_0000013",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/STRAININVENT_0000002"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/STRAININVENT_0000021",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/STRAININVENT_0000003"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/STRAININVENT_0000024",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/STRAININVENT_0000009"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/STRAININVENT_0000017",
       "pred" : "is_a",
@@ -483,33 +588,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/STRAININVENT_0000001"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/STRAININVENT_0000010",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/STRAININVENT_0000002"
-    }, {
-      "sub" : "http://purl.obolibrary.org/obo/STRAININVENT_0000018",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/STRAININVENT_0000003"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/STRAININVENT_0000013",
       "pred" : "http://purl.obolibrary.org/obo/straininvent#has_vial",
       "obj" : "http://purl.obolibrary.org/obo/STRAININVENT_0000005"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/STRAININVENT_0000007",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/STRAININVENT_0000001"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/STRAININVENT_0000003",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/STRAININVENT_0000001"
-    }, {
-      "sub" : "http://purl.obolibrary.org/obo/STRAININVENT_0000011",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/STRAININVENT_0000002"
-    }, {
-      "sub" : "http://purl.obolibrary.org/obo/STRAININVENT_0000019",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/STRAININVENT_0000003"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/STRAININVENT_0000015",
       "pred" : "is_a",
@@ -518,10 +603,6 @@
       "sub" : "http://purl.obolibrary.org/obo/STRAININVENT_0000014",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/STRAININVENT_0000001"
-    }, {
-      "sub" : "http://purl.obolibrary.org/obo/STRAININVENT_0000022",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/STRAININVENT_0000002"
     } ],
     "id" : "http://purl.obolibrary.org/obo/straininvent.owl",
     "meta" : {
@@ -541,7 +622,7 @@
         "val" : "OBO-Edit 2.2"
       }, {
         "pred" : "http://www.geneontology.org/formats/oboInOwl#date",
-        "val" : "26:01:2022 10:51"
+        "val" : "10:11:2022 17:58"
       }, {
         "pred" : "http://www.geneontology.org/formats/oboInOwl#default-namespace",
         "val" : "strain_inventory"
