@@ -1,45 +1,70 @@
 {
   "graphs" : [ {
     "nodes" : [ {
-      "id" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000011",
+      "id" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000022",
       "meta" : {
         "definition" : {
-          "val" : "The color of the tube is green.",
+          "val" : "Stbl2 bacterial cells are specifically designed for cloning unstable inserts.",
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
-          "val" : "2017-01-26T16:47:40Z"
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
         }, {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "plasmid_inventory"
         }, {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
-          "val" : "Petra"
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2022-11-10T18:33:17Z"
         } ]
       },
       "type" : "CLASS",
-      "lbl" : "green"
+      "lbl" : "Stbl2"
     }, {
-      "id" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000010",
+      "id" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000021",
       "meta" : {
         "definition" : {
-          "val" : "The color of the tube is red.",
+          "val" : "Identical to TO10 cells but these bacterial cells have an F' episome.",
           "xrefs" : [ "DDB:pf" ]
         },
+        "synonyms" : [ {
+          "pred" : "hasExactSynonym",
+          "val" : "ToP10F'",
+          "xrefs" : [ ]
+        } ],
         "basicPropertyValues" : [ {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
-          "val" : "2017-01-26T16:47:29Z"
-        }, {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
-          "val" : "Petra"
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2022-11-10T18:30:36Z"
         }, {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "plasmid_inventory"
         } ]
       },
       "type" : "CLASS",
-      "lbl" : "red"
+      "lbl" : "TOP10f"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000024",
+      "meta" : {
+        "definition" : {
+          "val" : "DH5alpha is a versatile bacterial strain used for general cloning.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "plasmid_inventory"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2022-11-10T18:42:15Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "DH5alpha"
     }, {
       "id" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000002",
       "meta" : {
@@ -61,26 +86,6 @@
       "type" : "CLASS",
       "lbl" : "location"
     }, {
-      "id" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000013",
-      "meta" : {
-        "definition" : {
-          "val" : "The color of the tube is yellow.",
-          "xrefs" : [ "DDB:pf" ]
-        },
-        "basicPropertyValues" : [ {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
-          "val" : "Petra"
-        }, {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
-          "val" : "2017-01-26T16:48:00Z"
-        }, {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
-          "val" : "plasmid_inventory"
-        } ]
-      },
-      "type" : "CLASS",
-      "lbl" : "yellow"
-    }, {
       "id" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000001",
       "meta" : {
         "definition" : {
@@ -101,25 +106,49 @@
       "type" : "CLASS",
       "lbl" : "plasmid inventory"
     }, {
-      "id" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000012",
+      "id" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000023",
       "meta" : {
         "definition" : {
-          "val" : "The color of the tube is blue.",
+          "val" : "The HB101 strain is a hybrid K12 x B bacterium, containing the recA13 mutation that minimizes recombination and aids  insert stability.",
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "plasmid_inventory"
         }, {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
-          "val" : "Petra"
-        }, {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
-          "val" : "2017-01-26T16:47:50Z"
+          "val" : "2022-11-10T18:40:27Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
         } ]
       },
       "type" : "CLASS",
-      "lbl" : "blue"
+      "lbl" : "Hb101"
+    }, {
+      "id" : "http://www.geneontology.org/formats/oboInOwl#hasExactSynonym",
+      "type" : "PROPERTY",
+      "lbl" : "has_exact_synonym"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000020",
+      "meta" : {
+        "definition" : {
+          "val" : "TOP10 cells are lacIq minus and allow stable replication of high copy number plasmids.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "plasmid_inventory"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2022-11-10T18:27:35Z"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "TOP10"
     }, {
       "id" : "http://www.geneontology.org/formats/oboInOwl#hasDbXref",
       "type" : "PROPERTY",
@@ -132,18 +161,38 @@
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2013-03-29T17:41:48Z"
+        }, {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
           "val" : "pfey"
         }, {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "plasmid_inventory"
-        }, {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
-          "val" : "2013-03-29T17:41:48Z"
         } ]
       },
       "type" : "CLASS",
       "lbl" : "stored as"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000029",
+      "meta" : {
+        "definition" : {
+          "val" : "A dam- E.coli strain that is free of dam methyltransferase for growth of plasmids lacking dam methylation.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2022-11-18T10:38:20Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "plasmid_inventory"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "ES28"
     }, {
       "id" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000007",
       "meta" : {
@@ -152,14 +201,14 @@
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2013-03-29T17:40:45Z"
+        }, {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
           "val" : "pfey"
         }, {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "plasmid_inventory"
-        }, {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
-          "val" : "2013-03-29T17:40:45Z"
         } ],
         "deprecated" : true
       },
@@ -173,38 +222,43 @@
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "Petra"
+        }, {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "plasmid_inventory"
         }, {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
           "val" : "2016-04-26T16:27:16Z"
-        }, {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
-          "val" : "Petra"
         } ]
       },
       "type" : "CLASS",
       "lbl" : "stored by"
     }, {
-      "id" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000015",
+      "id" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000026",
       "meta" : {
         "definition" : {
-          "val" : "The color of the tube is pink.",
+          "val" : "DH10B is a high efficiency bacterial cell allowing cloning of genomic DNA.",
           "xrefs" : [ "DDB:pf" ]
         },
+        "synonyms" : [ {
+          "pred" : "hasExactSynonym",
+          "val" : "DH10b",
+          "xrefs" : [ ]
+        } ],
         "basicPropertyValues" : [ {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
-          "val" : "2017-01-26T16:48:19Z"
-        }, {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "plasmid_inventory"
         }, {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
-          "val" : "Petra"
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2022-11-10T18:52:18Z"
         } ]
       },
       "type" : "CLASS",
-      "lbl" : "pink"
+      "lbl" : "DH10B"
     }, {
       "id" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000004",
       "meta" : {
@@ -213,38 +267,38 @@
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
-          "val" : "2013-03-29T17:09:59Z"
-        }, {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
           "val" : "pfey"
         }, {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "plasmid_inventory"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2013-03-29T17:09:59Z"
         } ]
       },
       "type" : "CLASS",
       "lbl" : "storage date"
     }, {
-      "id" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000014",
+      "id" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000025",
       "meta" : {
         "definition" : {
-          "val" : "The color of the tube is white.",
+          "val" : "DH10Alpha is a high efficiency bacterial strain e.g. used for CRISPR/Cas9.",
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "plasmid_inventory"
         }, {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
-          "val" : "2017-01-26T16:48:10Z"
-        }, {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
-          "val" : "Petra"
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2022-11-10T18:48:38Z"
         } ]
       },
       "type" : "CLASS",
-      "lbl" : "white"
+      "lbl" : "DH10alpha"
     }, {
       "id" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000003",
       "meta" : {
@@ -253,14 +307,14 @@
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
-          "val" : "plasmid_inventory"
-        }, {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
           "val" : "2013-03-29T17:08:49Z"
         }, {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
           "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "plasmid_inventory"
         } ]
       },
       "type" : "CLASS",
@@ -286,31 +340,55 @@
       "type" : "CLASS",
       "lbl" : "public comment"
     }, {
-      "id" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000016",
+      "id" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000028",
       "meta" : {
         "definition" : {
-          "val" : "The tube top is clear and has no color.",
+          "val" : "BL21-Gold cells provide the tightest control of protein expression, even for toxic proteins often used for expression induction systems.",
           "xrefs" : [ "DDB:pf" ]
         },
-        "comments" : [ "A clear Microcentrifuge tube to store DNA solutions." ],
         "synonyms" : [ {
-          "pred" : "hasRelatedSynonym",
-          "val" : "MC vial color",
+          "pred" : "hasExactSynonym",
+          "val" : "Bl21gold",
           "xrefs" : [ ]
         } ],
         "basicPropertyValues" : [ {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
-          "val" : "2017-01-26T16:48:29Z"
-        }, {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
-          "val" : "Petra"
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2022-11-10T18:58:03Z"
         }, {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "plasmid_inventory"
         } ]
       },
       "type" : "CLASS",
-      "lbl" : "clear"
+      "lbl" : "BL21-Gold"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000027",
+      "meta" : {
+        "definition" : {
+          "val" : "DB3.1 is a HB101 derivative containing the gyrA462 allele which renders the strain resistant to the toxic effects of the ccdB gene.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "synonyms" : [ {
+          "pred" : "hasExactSynonym",
+          "val" : "Db3.1",
+          "xrefs" : [ ]
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "plasmid_inventory"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2022-11-10T18:55:06Z"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "DB3.1"
     }, {
       "id" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000005",
       "meta" : {
@@ -340,36 +418,261 @@
       "type" : "PROPERTY",
       "lbl" : "has_obo_format_version"
     }, {
-      "id" : "http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym",
-      "type" : "PROPERTY",
-      "lbl" : "has_related_synonym"
-    }, {
       "id" : "http://purl.obolibrary.org/obo/IAO_0000115",
       "type" : "PROPERTY",
       "lbl" : "definition"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000011",
+      "meta" : {
+        "definition" : {
+          "val" : "The color of the tube is green.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "plasmid_inventory"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2017-01-26T16:47:40Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "Petra"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "green"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000010",
+      "meta" : {
+        "definition" : {
+          "val" : "The color of the tube is red.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "plasmid_inventory"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2017-01-26T16:47:29Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "Petra"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "red"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000013",
+      "meta" : {
+        "definition" : {
+          "val" : "The color of the tube is yellow.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "Petra"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2017-01-26T16:48:00Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "plasmid_inventory"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "yellow"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000012",
+      "meta" : {
+        "definition" : {
+          "val" : "The color of the tube is blue.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "plasmid_inventory"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "Petra"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2017-01-26T16:47:50Z"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "blue"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000019",
+      "meta" : {
+        "definition" : {
+          "val" : "Sure bacterial cells are restriction minus, endonuclease and recombination deficient.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "synonyms" : [ {
+          "pred" : "hasExactSynonym",
+          "val" : "SURE",
+          "xrefs" : [ ]
+        }, {
+          "pred" : "hasExactSynonym",
+          "val" : "Sure cells",
+          "xrefs" : [ ]
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2022-11-10T18:25:45Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "plasmid_inventory"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "Sure"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000018",
+      "meta" : {
+        "definition" : {
+          "val" : "XL10-Gold is bacterial strain that allows cloning large plasmids with high efficiency.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "synonyms" : [ {
+          "pred" : "hasExactSynonym",
+          "val" : "Xl10gold",
+          "xrefs" : [ ]
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2022-11-10T18:22:36Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "plasmid_inventory"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "XL10-Gold"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000015",
+      "meta" : {
+        "definition" : {
+          "val" : "The color of the tube is pink.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2017-01-26T16:48:19Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "plasmid_inventory"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "Petra"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "pink"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000014",
+      "meta" : {
+        "definition" : {
+          "val" : "The color of the tube is white.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2017-01-26T16:48:10Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "Petra"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "plasmid_inventory"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "white"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000017",
+      "meta" : {
+        "definition" : {
+          "val" : "XL1-Blue bacterial strain for routine cloning.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "synonyms" : [ {
+          "pred" : "hasExactSynonym",
+          "val" : "Xl1blue",
+          "xrefs" : [ ]
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2022-11-10T18:19:54Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "plasmid_inventory"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "XL1-Blue"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000016",
+      "meta" : {
+        "definition" : {
+          "val" : "The tube top is clear and has no color.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "comments" : [ "A clear Microcentrifuge tube to store DNA solutions." ],
+        "synonyms" : [ {
+          "pred" : "hasRelatedSynonym",
+          "val" : "MC vial color",
+          "xrefs" : [ ]
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "plasmid_inventory"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2017-01-26T16:48:29Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "Petra"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "clear"
+    }, {
+      "id" : "http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym",
+      "type" : "PROPERTY",
+      "lbl" : "has_related_synonym"
     } ],
     "edges" : [ {
-      "sub" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000006",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000001"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000002",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000001"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000017",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000008"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000015",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000003"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000011",
+      "sub" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000029",
       "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000003"
+      "obj" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000008"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000021",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000008"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000009",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000001"
-    }, {
-      "sub" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000005",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000001"
     }, {
@@ -377,15 +680,15 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000003"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000010",
+      "sub" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000028",
       "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000003"
+      "obj" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000008"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000020",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000008"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000008",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000001"
-    }, {
-      "sub" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000004",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000001"
     }, {
@@ -393,17 +696,69 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000003"
     }, {
+      "sub" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000027",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000008"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000012",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000003"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000026",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000008"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000006",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000001"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000011",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000003"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000025",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000008"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000005",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000001"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000010",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000003"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000024",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000008"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000004",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000001"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000019",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000008"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000023",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000008"
+    }, {
       "sub" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000003",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000001"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000018",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000008"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000016",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000003"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000012",
+      "sub" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000022",
       "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000003"
+      "obj" : "http://purl.obolibrary.org/obo/PLASMIDINVENT_0000008"
     } ],
     "id" : "http://purl.obolibrary.org/obo/plasmidinvent.owl",
     "meta" : {
@@ -423,7 +778,7 @@
         "val" : "OBO-Edit 2.2"
       }, {
         "pred" : "http://www.geneontology.org/formats/oboInOwl#date",
-        "val" : "25:01:2022 11:29"
+        "val" : "18:11:2022 10:40"
       }, {
         "pred" : "http://www.geneontology.org/formats/oboInOwl#default-namespace",
         "val" : "plasmid_inventory"
