@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 25:01:2022 11:29
+date: 18:11:2022 10:40
 saved-by: pfey
 auto-generated-by: OBO-Edit 2.2
 default-namespace: plasmid_inventory
@@ -136,4 +136,116 @@ synonym: "MC vial color" RELATED []
 is_a: PLASMIDINVENT:0000003 ! color
 created_by: Petra
 creation_date: 2017-01-26T16:48:29Z
+
+[Term]
+id: PLASMIDINVENT:0000017
+name: XL1-Blue
+def: "XL1-Blue bacterial strain for routine cloning." [DDB:pf]
+synonym: "Xl1blue" EXACT []
+is_a: PLASMIDINVENT:0000008 ! stored as
+created_by: pfey
+creation_date: 2022-11-10T18:19:54Z
+
+[Term]
+id: PLASMIDINVENT:0000018
+name: XL10-Gold
+def: "XL10-Gold is bacterial strain that allows cloning large plasmids with high efficiency." [DDB:pf]
+synonym: "Xl10gold" EXACT []
+is_a: PLASMIDINVENT:0000008 ! stored as
+created_by: pfey
+creation_date: 2022-11-10T18:22:36Z
+
+[Term]
+id: PLASMIDINVENT:0000019
+name: Sure
+def: "Sure bacterial cells are restriction minus, endonuclease and recombination deficient." [DDB:pf]
+synonym: "SURE" EXACT []
+synonym: "Sure cells" EXACT []
+is_a: PLASMIDINVENT:0000008 ! stored as
+created_by: pfey
+creation_date: 2022-11-10T18:25:45Z
+
+[Term]
+id: PLASMIDINVENT:0000020
+name: TOP10
+def: "TOP10 cells are lacIq minus and allow stable replication of high copy number plasmids." [DDB:pf]
+is_a: PLASMIDINVENT:0000008 ! stored as
+created_by: pfey
+creation_date: 2022-11-10T18:27:35Z
+
+[Term]
+id: PLASMIDINVENT:0000021
+name: TOP10f
+def: "Identical to TO10 cells but these bacterial cells have an F' episome." [DDB:pf]
+synonym: "ToP10F'" EXACT []
+is_a: PLASMIDINVENT:0000008 ! stored as
+created_by: pfey
+creation_date: 2022-11-10T18:30:36Z
+
+[Term]
+id: PLASMIDINVENT:0000022
+name: Stbl2
+def: "Stbl2 bacterial cells are specifically designed for cloning unstable inserts." [DDB:pf]
+is_a: PLASMIDINVENT:0000008 ! stored as
+created_by: pfey
+creation_date: 2022-11-10T18:33:17Z
+
+[Term]
+id: PLASMIDINVENT:0000023
+name: Hb101
+def: "The HB101 strain is a hybrid K12 x B bacterium, containing the recA13 mutation that minimizes recombination and aids  insert stability." [DDB:pf]
+is_a: PLASMIDINVENT:0000008 ! stored as
+created_by: pfey
+creation_date: 2022-11-10T18:40:27Z
+
+[Term]
+id: PLASMIDINVENT:0000024
+name: DH5alpha
+def: "DH5alpha is a versatile bacterial strain used for general cloning." [DDB:pf]
+is_a: PLASMIDINVENT:0000008 ! stored as
+created_by: pfey
+creation_date: 2022-11-10T18:42:15Z
+
+[Term]
+id: PLASMIDINVENT:0000025
+name: DH10alpha
+def: "DH10Alpha is a high efficiency bacterial strain e.g. used for CRISPR/Cas9." [DDB:pf]
+is_a: PLASMIDINVENT:0000008 ! stored as
+created_by: pfey
+creation_date: 2022-11-10T18:48:38Z
+
+[Term]
+id: PLASMIDINVENT:0000026
+name: DH10B
+def: "DH10B is a high efficiency bacterial cell allowing cloning of genomic DNA." [DDB:pf]
+synonym: "DH10b" EXACT []
+is_a: PLASMIDINVENT:0000008 ! stored as
+created_by: pfey
+creation_date: 2022-11-10T18:52:18Z
+
+[Term]
+id: PLASMIDINVENT:0000027
+name: DB3.1
+def: "DB3.1 is a HB101 derivative containing the gyrA462 allele which renders the strain resistant to the toxic effects of the ccdB gene." [DDB:pf]
+synonym: "Db3.1" EXACT []
+is_a: PLASMIDINVENT:0000008 ! stored as
+created_by: pfey
+creation_date: 2022-11-10T18:55:06Z
+
+[Term]
+id: PLASMIDINVENT:0000028
+name: BL21-Gold
+def: "BL21-Gold cells provide the tightest control of protein expression, even for toxic proteins often used for expression induction systems." [DDB:pf]
+synonym: "Bl21gold" EXACT []
+is_a: PLASMIDINVENT:0000008 ! stored as
+created_by: pfey
+creation_date: 2022-11-10T18:58:03Z
+
+[Term]
+id: PLASMIDINVENT:0000029
+name: ES28
+def: "A dam- E.coli strain that is free of dam methyltransferase for growth of plasmids lacking dam methylation." [DDB:pf]
+is_a: PLASMIDINVENT:0000008 ! stored as
+created_by: pfey
+creation_date: 2022-11-18T10:38:20Z
 
