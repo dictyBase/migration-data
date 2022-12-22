@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 13:01:2022 18:52
+date: 21:12:2022 18:14
 saved-by: pfey
 auto-generated-by: OBO-Edit 2.2
 default-namespace: Dicty Phenotypes
@@ -419,31 +419,31 @@ creation_date: 2014-03-20T14:12:10Z
 
 [Term]
 id: DDPHENO:0000050
-name: abolished hypotonic response
-def: "Complete inability to respond to hypo-osmotic stress." [DDB:pf]
-synonym: "abolished response to hypo-osmotic stress" EXACT []
-synonym: "abolished response to hypotonic stress" EXACT []
-is_a: DDPHENO:0001068 ! aberrant hypotonic response
+name: abolished cellular hypotonic response
+def: "Complete inability to respond to cellular hypo-osmotic stress." [DDB:pf]
+synonym: "abolished cellular  response to hypotonic stress" EXACT []
+synonym: "abolished cellular response to hypo-osmotic stress" EXACT []
+is_a: DDPHENO:0001068 ! aberrant cellular hypotonic response
 created_by: pfey
 creation_date: 2014-03-26T09:43:34Z
 
 [Term]
 id: DDPHENO:0000051
-name: decreased hypotonic response
-def: "Reduction in extent, amount, or degree of the response to hypo-osmotic stress." [DDB:pf]
-synonym: "decreased response to hypo-osmotic stress" EXACT []
-synonym: "decreased response to hypotonic stress" EXACT []
-is_a: DDPHENO:0001068 ! aberrant hypotonic response
+name: decreased cellular hypotonic response
+def: "Reduction in extent, amount, or degree of the cellular response to hypo-osmotic stress." [DDB:pf]
+synonym: "decreased cellular response to hypo-osmotic stress" EXACT []
+synonym: "decreased cellular response to hypotonic stress" EXACT []
+is_a: DDPHENO:0001068 ! aberrant cellular hypotonic response
 created_by: pfey
 creation_date: 2014-03-26T09:45:52Z
 
 [Term]
 id: DDPHENO:0000052
-name: increased hypotonic response
-def: "Increase in extent, amount, or degree of the response to hypo-osmotic stress." [DDB:pf]
-synonym: "increased response to hypo-osmotic stress" EXACT []
-synonym: "increased response to hypotonic stress" EXACT []
-is_a: DDPHENO:0001068 ! aberrant hypotonic response
+name: increased cellular hypotonic response
+def: "Increase in extent, amount, or degree of the cellular response to hypo-osmotic stress." [DDB:pf]
+synonym: "increased cellular response to hypo-osmotic stress" EXACT []
+synonym: "increased cellular response to hypotonic stress" EXACT []
+is_a: DDPHENO:0001068 ! aberrant cellular hypotonic response
 created_by: pfey
 creation_date: 2014-03-26T09:49:08Z
 
@@ -846,8 +846,9 @@ creation_date: 2014-12-17T16:15:30Z
 id: DDPHENO:0000147
 name: aberrant chemorepellant activity
 def: "Deviation from the normal, usual, or expected activity in the directed movement of a motile cell  towards a lower concentration of a signal." [DDB:pf]
-comment: Chemorepellant activity is the counter part_of DDPHENO:0001225 negative chemotaxis.
+comment: GO:0045499; Chemorepellant activity is the counter part_of DDPHENO:0001225 negative chemotaxis.
 synonym: "aberrant chemorepellent activity" EXACT []
+is_a: DDPHENO:0000346 ! decreased protein kinase activity
 is_a: DDPHENO:0001171 ! aberrant molecular function
 created_by: pfey
 creation_date: 2014-12-17T16:19:14Z
@@ -1269,8 +1270,9 @@ is_a: DDPHENO:0000002 ! aberrant standing slug morphology
 
 [Term]
 id: DDPHENO:0000209
-name: aberrant response to osmotic stress
-def: "Deviation from the normal, usual, or expected events during the response to osmotic stress." [DDB:pg]
+name: aberrant cellular response to osmotic stress
+def: "Deviation from the normal, usual, or expected events during the cellular response to osmotic stress." [DDB:pf]
+comment: GO:0071470.
 is_a: DDPHENO:0001031 ! aberrant response to abiotic stimulus
 is_a: DDPHENO:0001034 ! aberrant cellular response to stress
 
@@ -2728,7 +2730,7 @@ is_obsolete: true
 [Term]
 id: DDPHENO:0000408
 name: increased resistance to carboplatin
-def: "Increase in extent, amount, or degree of resistance to carboplatin." [DDB:pf]
+def: "Increase in extent, amount, or degree of tolerance to carboplatin." [DDB:pf]
 is_a: DDPHENO:0001031 ! aberrant response to abiotic stimulus
 
 [Term]
@@ -2747,7 +2749,7 @@ is_a: DDPHENO:0001456 ! aberrant response to cisplatin
 id: DDPHENO:0000411
 name: increased cellular thermotolerance
 def: "Increased tolerance of the normal, usual, or expected events towards heat." [DDB:pf]
-synonym: "increased resistance to heat" EXACT []
+synonym: "increased cellular heat acclimation" EXACT []
 synonym: "increased resistance to heat shock" NARROW []
 is_a: DDPHENO:0001035 ! aberrant cellular response to heat
 
@@ -2767,7 +2769,7 @@ is_a: DDPHENO:0000397 ! aberrant cytoskeleton organization
 id: DDPHENO:0000414
 name: decreased cellular thermotolerance
 def: "Decreased tolerance of the normal, usual, or expected events towards heat." [DDB:pf]
-synonym: "decreased resistance to heat" EXACT []
+synonym: "decreased cellular heat acclimation" EXACT []
 synonym: "decreased resistance to heat shock" NARROW []
 is_a: DDPHENO:0001035 ! aberrant cellular response to heat
 
@@ -2826,10 +2828,10 @@ is_a: DDPHENO:0001034 ! aberrant cellular response to stress
 
 [Term]
 id: DDPHENO:0000427
-name: decreased resistance to mitomycin C
-def: "Decreased tolerance of the normal, usual, or expected events towards mitomycin C (MMC)." [DDB:pf]
+name: obsolete decreased resistance to mitomycin C
+def: "OBSOLETE Decreased tolerance of the normal, usual, or expected events towards mitomycin C (MMC)." [DDB:pf]
 synonym: "decreased resistance to MMC" EXACT []
-is_a: DDPHENO:0001031 ! aberrant response to abiotic stimulus
+is_obsolete: true
 
 [Term]
 id: DDPHENO:0000428
@@ -3013,17 +3015,15 @@ is_a: DDPHENO:0001005 ! aberrant cellular metabolic process
 
 [Term]
 id: DDPHENO:0000456
-name: increased actin phosphorylation
-def: "Increase in amount or accumulation of actin phosphorylation." [DDB:pf]
-is_a: DDPHENO:0000457 ! aberrant actin phosphorylation
-is_a: DDPHENO:0001343 ! increased protein phosphorylation
+name: obsolete increased actin phosphorylation
+def: "OBSOLETE. Increase in amount or accumulation of actin phosphorylation." [DDB:pf]
+is_obsolete: true
 
 [Term]
 id: DDPHENO:0000457
-name: aberrant actin phosphorylation
-def: "Deviation from the normal, usual, or expected events during actin phosphorylation." [DDB:pg]
-is_a: DDPHENO:0000397 ! aberrant cytoskeleton organization
-is_a: DDPHENO:0001342 ! aberrant protein phosphorylation
+name: obsolete aberrant actin phosphorylation
+def: "OBSOLETE. Deviation from the normal, usual, or expected events during actin phosphorylation." [DDB:pg]
+is_obsolete: true
 
 [Term]
 id: DDPHENO:0000459
@@ -3143,10 +3143,9 @@ is_obsolete: true
 
 [Term]
 id: DDPHENO:0000481
-name: decreased actin phosphorylation
-def: "Reduction in extent, amount, or degree of actin phosphorylation." [DDB:pf]
-is_a: DDPHENO:0000457 ! aberrant actin phosphorylation
-is_a: DDPHENO:0001344 ! decreased protein phosphorylation
+name: obsolete decreased actin phosphorylation
+def: "OBSOLETE. Reduction in extent, amount, or degree of actin phosphorylation." [DDB:pf]
+is_obsolete: true
 
 [Term]
 id: DDPHENO:0000482
@@ -3171,7 +3170,7 @@ is_a: DDPHENO:0000154 ! aberrant sorocarp development
 [Term]
 id: DDPHENO:0000484
 name: obsolete curly fingers
-def: "OBSOLETE.  Eas not defined before obsoletion." []
+def: "OBSOLETE.  Was not defined before obsoletion." []
 is_obsolete: true
 
 [Term]
@@ -3234,9 +3233,9 @@ is_obsolete: true
 
 [Term]
 id: DDPHENO:0000495
-name: decreased DNA methylation on cytosine
-def: "Reduction in extent, amount, or degree of cytosine methylation in genomic DNA." [DDB:pg]
-is_a: DDPHENO:0001247 ! aberrant protein methylation
+name: obsolete decreased DNA methylation on cytosine
+def: "OBSOLETE. Reduction in extent, amount, or degree of cytosine methylation in genomic DNA." [DDB:pg]
+is_obsolete: true
 
 [Term]
 id: DDPHENO:0000497
@@ -3413,9 +3412,9 @@ is_obsolete: true
 
 [Term]
 id: DDPHENO:0000527
-name: abolished histone H3-K4 methylation
-def: "Complete inability for methylation of histone H3 at lysine 4." [DDB:pg]
-is_a: DDPHENO:0001476 ! abolished histone lysine methylation
+name: obsolete abolished histone H3-K4 methylation
+def: "OBSOLETE Complete inability for methylation of histone H3 at lysine 4." [DDB:pg]
+is_obsolete: true
 
 [Term]
 id: DDPHENO:0000528
@@ -3861,30 +3860,31 @@ creation_date: 2019-03-01T15:53:27Z
 
 [Term]
 id: DDPHENO:0000585
-name: aberrant response to hypoxia
-def: "Deviation from the normal, usual, or expected events during the response to hypoxia." [DDB:pf]
-synonym: "aberrant response to decreased oxygen" EXACT []
+name: aberrant cellular response to hypoxia
+def: "Deviation from the normal, usual, or expected events during the cellular response to lowered oxygen tension." [DDB:pf]
+comment: GO:0071456.
+synonym: "aberrant cellular response to decreased oxygen" EXACT []
 is_a: DDPHENO:0001034 ! aberrant cellular response to stress
 created_by: pfey
 creation_date: 2019-11-18T14:20:30Z
 
 [Term]
 id: DDPHENO:0000586
-name: decreased response to hypoxia
-def: "Decreased response to the normal, usual, or expected events in the presence of  lower oxygen levels." [DDB:pf]
-synonym: "decreased response to hypoxic stress" EXACT []
-synonym: "decreased response to lowered oxygen levels" EXACT []
-is_a: DDPHENO:0000585 ! aberrant response to hypoxia
+name: decreased cellular response to hypoxia
+def: "Decreased cellular response to the normal, usual, or expected events in the presence of  lower oxygen levels." [DDB:pf]
+synonym: "decreased cellular response to lowered oxygen levels" EXACT []
+synonym: "decreased response to cellular hypoxic stress" EXACT []
+is_a: DDPHENO:0000585 ! aberrant cellular response to hypoxia
 created_by: pfey
 creation_date: 2019-11-18T14:23:53Z
 
 [Term]
 id: DDPHENO:0000587
-name: increased response to hypoxia
-def: "Increased response to the normal, usual, or expected events in the presence of  lower oxygen levels." [DDB:pf]
-synonym: "increased response to hypoxic stress" EXACT []
-synonym: "increased response to lowered oxygen levels" EXACT []
-is_a: DDPHENO:0000585 ! aberrant response to hypoxia
+name: increased cellular response to hypoxia
+def: "Increased cellular response to the normal, usual, or expected events in the presence of  lower oxygen levels." [DDB:pf]
+synonym: "increased cellular response to hypoxic stress" EXACT []
+synonym: "increased cellular response to lowered oxygen levels" EXACT []
+is_a: DDPHENO:0000585 ! aberrant cellular response to hypoxia
 created_by: pfey
 creation_date: 2019-11-18T14:28:11Z
 
@@ -5050,10 +5050,9 @@ creation_date: 2021-06-25T09:49:46Z
 
 [Term]
 id: DDPHENO:0000719
-name: abolished protein tyrosin phosphorylation
-def: "Complete inability to phosphorylate a tyrosine residue of a protein." [DDB:pf]
-synonym: "abolished peptidyl-tyrosine phosphorylation" EXACT []
-is_a: DDPHENO:0001345 ! aberrant protein tyrosine phosphorylation
+name: obsolete abolished protein tyrosin phosphorylation
+def: "OBSOLETE. Complete inability to phosphorylate a tyrosine residue of a protein." [DDB:pf]
+is_obsolete: true
 created_by: pfey
 creation_date: 2021-06-25T10:21:47Z
 
@@ -5084,6 +5083,369 @@ is_a: DDPHENO:0000370 ! aberrant prespore gene expression
 is_a: DDPHENO:0001114 ! abolished gene expression
 created_by: pfey
 creation_date: 2021-08-31T17:42:22Z
+
+[Term]
+id: DDPHENO:0000723
+name: aberrant protein kinase activity
+def: "Deviation from the normal, usual, or expected events during protein kinase activity." [DDB:pf]
+comment: GO:0004672.
+is_a: DDPHENO:0001105 ! aberrant catalytic activity
+created_by: pfey
+creation_date: 2022-12-19T16:47:24Z
+
+[Term]
+id: DDPHENO:0000724
+name: abolished protein tyrosine kinase activity
+def: "Complete absence of protein tyrosine kinase activity." [DDB:pf]
+is_a: DDPHENO:0000347 ! abolished protein kinase activity
+is_a: DDPHENO:0000727 ! aberrant protein tyrosine kinase activity
+created_by: pfey
+creation_date: 2022-12-19T16:51:28Z
+
+[Term]
+id: DDPHENO:0000725
+name: decreased protein tyrosine kinase activity
+def: "Reduction in extent, amount, or degree of protein tyrosine kinase activity." [DDB:pf]
+is_a: DDPHENO:0000346 ! decreased protein kinase activity
+is_a: DDPHENO:0000727 ! aberrant protein tyrosine kinase activity
+created_by: pfey
+creation_date: 2022-12-19T16:54:09Z
+
+[Term]
+id: DDPHENO:0000726
+name: increased protein tyrosine kinase activity
+def: "Increase in extent, amount, or degree of protein tyrosine kinase activity." [DDB:pf]
+is_a: DDPHENO:0000348 ! increased protein kinase activity
+is_a: DDPHENO:0000727 ! aberrant protein tyrosine kinase activity
+created_by: pfey
+creation_date: 2022-12-19T16:56:38Z
+
+[Term]
+id: DDPHENO:0000727
+name: aberrant protein tyrosine kinase activity
+def: "Deviation from the normal, usual, or expected events during protein tyrosine kinase activity." [DDB:pf]
+comment: GO:0004713.
+is_a: DDPHENO:0000723 ! aberrant protein kinase activity
+created_by: pfey
+creation_date: 2022-12-19T17:05:36Z
+
+[Term]
+id: DDPHENO:0000728
+name: aberrant transferase activity
+def: "Deviation from the normal, usual, or expected activity of a transferase." [DDB:pf]
+comment: GO:0016740.
+is_a: DDPHENO:0001171 ! aberrant molecular function
+created_by: pfey
+creation_date: 2022-12-19T18:09:25Z
+
+[Term]
+id: DDPHENO:0000729
+name: aberrant histone H3K4 methyltransferase activity
+def: "Deviation from the normal, usual, or expected activity of histone H3K4 methyltransferase activity." [DDB:pf]
+comment: GO:0042800.
+is_a: DDPHENO:0000728 ! aberrant transferase activity
+created_by: pfey
+creation_date: 2022-12-19T18:15:00Z
+
+[Term]
+id: DDPHENO:0000730
+name: abolished histone H3K4 methyltransferase activity
+def: "Complete absence of histone H3K4 methyltransferase activity." [DDB:pf]
+is_a: DDPHENO:0000729 ! aberrant histone H3K4 methyltransferase activity
+created_by: pfey
+creation_date: 2022-12-19T18:16:21Z
+
+[Term]
+id: DDPHENO:0000731
+name: aberrant histone H3K79 methyltransferase activity
+def: "Deviation from the normal, usual, or expected activity of histone H3K79 methyltransferase activity." [DDB:pf]
+comment: GO:0031151.
+is_a: DDPHENO:0000728 ! aberrant transferase activity
+created_by: pfey
+creation_date: 2022-12-19T18:28:20Z
+
+[Term]
+id: DDPHENO:0000732
+name: abolished histone H3K79 methyltransferase activity
+def: "Complete absence of histone H3K79 methyltransferase activity." [DDB:pf]
+is_a: DDPHENO:0000731 ! aberrant histone H3K79 methyltransferase activity
+created_by: pfey
+creation_date: 2022-12-19T18:29:17Z
+
+[Term]
+id: DDPHENO:0000733
+name: aberrant histone H3K9 methyltransferase activity
+def: "Deviation from the normal, usual, or expected activity of histone H3K9 methyltransferase activity." [DDB:pf]
+comment: GO:0046974.
+is_a: DDPHENO:0000728 ! aberrant transferase activity
+created_by: pfey
+creation_date: 2022-12-20T10:59:30Z
+
+[Term]
+id: DDPHENO:0000734
+name: abolished histone H3K9 methyltransferase activity
+def: "Complete absence of histone H3K9 methyltransferase activity." [DDB:pf]
+is_a: DDPHENO:0000733 ! aberrant histone H3K9 methyltransferase activity
+created_by: pfey
+creation_date: 2022-12-20T11:02:12Z
+
+[Term]
+id: DDPHENO:0000735
+name: aberrant myosin heavy chain kinase activity
+def: "Deviation from the normal, usual, or expected events during myosin heavy chain kinase activity." [DDB:pf]
+comment: GO:0016905.
+is_a: DDPHENO:0000723 ! aberrant protein kinase activity
+created_by: pfey
+creation_date: 2022-12-20T11:08:36Z
+
+[Term]
+id: DDPHENO:0000736
+name: abolished myosin heavy chain kinase activity
+def: "Complete absence of myosin heavy chain kinase activity." [DDB:pf]
+is_a: DDPHENO:0000735 ! aberrant myosin heavy chain kinase activity
+created_by: pfey
+creation_date: 2022-12-20T11:16:50Z
+
+[Term]
+id: DDPHENO:0000737
+name: aberrant DNA-methyltransferase activity
+def: "Deviation from the normal, usual, or expected activity of  DNA methyltransferase activity." [DDB:pf]
+comment: GO:0009008.
+synonym: "aberrant DNA methyltransferase activity" EXACT []
+is_a: DDPHENO:0000728 ! aberrant transferase activity
+created_by: pfey
+creation_date: 2022-12-20T11:33:41Z
+
+[Term]
+id: DDPHENO:0000738
+name: decreased DNA-methyltransferase activity
+def: "Reduction in extent, amount, or degree of  DNA methyltransferase activity." [DDB:pf]
+synonym: "decreased DNA methyltransferase activity" EXACT []
+is_a: DDPHENO:0000737 ! aberrant DNA-methyltransferase activity
+created_by: pfey
+creation_date: 2022-12-20T11:35:45Z
+
+[Term]
+id: DDPHENO:0000739
+name: aberrant regulation of MAPK cascade
+def: "Deviation from the normal, usual, or expected events during the regulation of MAPK cascade." [DDB:pf]
+comment: GO:0043408.
+is_a: DDPHENO:0001118 ! aberrant signal transduction
+created_by: pfey
+creation_date: 2022-12-20T16:26:55Z
+
+[Term]
+id: DDPHENO:0000740
+name: abolished regulation of MAPK cascade
+def: "Complete inability to regulate the MAPK cascade." [DDB:pf]
+is_a: DDPHENO:0000739 ! aberrant regulation of MAPK cascade
+created_by: pfey
+creation_date: 2022-12-20T16:28:14Z
+
+[Term]
+id: DDPHENO:0000741
+name: aberrant protein kinase B signaling
+def: "Deviation from the normal, usual, or expected events during protein kinase B signaling." [DDB:pf]
+comment: GO:0043491.
+synonym: "aberrant PKB signaling" EXACT []
+is_a: DDPHENO:0001118 ! aberrant signal transduction
+created_by: pfey
+creation_date: 2022-12-20T16:37:59Z
+
+[Term]
+id: DDPHENO:0000742
+name: decreased protein kinase B signaling
+def: "Reduction in extent, amount, or degree of activation of protein kinase B signaling." [DDB:pf]
+synonym: "decreased PKB signaling" EXACT []
+is_a: DDPHENO:0000741 ! aberrant protein kinase B signaling
+created_by: pfey
+creation_date: 2022-12-20T16:40:41Z
+
+[Term]
+id: DDPHENO:0000743
+name: increased protein kinase B signaling
+def: "Increase in extent, amount, or degree of protein kinase B signaling." [DDB:pf]
+synonym: "increased PKB signaling" EXACT []
+is_a: DDPHENO:0000741 ! aberrant protein kinase B signaling
+created_by: pfey
+creation_date: 2022-12-20T16:44:24Z
+
+[Term]
+id: DDPHENO:0000744
+name: abolished protein kinase B signaling
+def: "Complete absence of  protein kinase B signaling." [DDB:pf]
+synonym: "abolished PKB signaling" EXACT []
+is_a: DDPHENO:0000741 ! aberrant protein kinase B signaling
+created_by: pfey
+creation_date: 2022-12-20T16:45:53Z
+
+[Term]
+id: DDPHENO:0000748
+name: aberrant phosphatase activity
+def: "Deviation from the normal, usual, or expected events during phosphatase activity." [DDB:pf]
+comment: GO:0016791.
+is_a: DDPHENO:0001105 ! aberrant catalytic activity
+created_by: pfey
+creation_date: 2022-12-20T17:07:12Z
+
+[Term]
+id: DDPHENO:0000749
+name: decreased phosphatase activity
+def: "Reduction in extent, amount, or degree of phosphatase activity." [DDB:pf]
+is_a: DDPHENO:0000748 ! aberrant phosphatase activity
+created_by: pfey
+creation_date: 2022-12-20T17:10:30Z
+
+[Term]
+id: DDPHENO:0000750
+name: increased phosphatase activity
+def: "Increase in extent, amount, or degree of  phosphatase activity." [DDB:pf]
+is_a: DDPHENO:0000748 ! aberrant phosphatase activity
+created_by: pfey
+creation_date: 2022-12-20T17:13:55Z
+
+[Term]
+id: DDPHENO:0000751
+name: abolished phosphatase activity
+def: "Complete absence of phosphatase activity." [DDB:pf]
+is_a: DDPHENO:0000748 ! aberrant phosphatase activity
+created_by: pfey
+creation_date: 2022-12-20T17:15:26Z
+
+[Term]
+id: DDPHENO:0000752
+name: aberrant protein tyrosine phosphatase activity
+def: "Deviation from the normal, usual, or expected events during protein tyrosine phosphatase activity." [DDB:pf]
+comment: GO:0004725.
+is_a: DDPHENO:0000748 ! aberrant phosphatase activity
+created_by: pfey
+creation_date: 2022-12-20T17:17:07Z
+
+[Term]
+id: DDPHENO:0000753
+name: decreased protein tyrosine phosphatase activity
+def: "Reduction in extent, amount, or degree of protein tyrosine phosphatase activity." [DDB:pf]
+is_a: DDPHENO:0000749 ! decreased phosphatase activity
+is_a: DDPHENO:0000752 ! aberrant protein tyrosine phosphatase activity
+created_by: pfey
+creation_date: 2022-12-20T17:20:24Z
+
+[Term]
+id: DDPHENO:0000754
+name: increased protein tyrosine phosphatase activity
+def: "Increase in extent, amount, or degree of protein tyrosine phosphatase activity." [DDB:pf]
+is_a: DDPHENO:0000750 ! increased phosphatase activity
+is_a: DDPHENO:0000752 ! aberrant protein tyrosine phosphatase activity
+created_by: pfey
+creation_date: 2022-12-20T17:22:53Z
+
+[Term]
+id: DDPHENO:0000755
+name: abolished protein tyrosine phosphatase activity
+def: "Complete absence of protein tyrosine phosphatase activity." [DDB:pf]
+is_a: DDPHENO:0000751 ! abolished phosphatase activity
+is_a: DDPHENO:0000752 ! aberrant protein tyrosine phosphatase activity
+created_by: pfey
+creation_date: 2022-12-20T17:26:46Z
+
+[Term]
+id: DDPHENO:0000756
+name: aberrant STAT signaling pathway
+def: "Deviation from the normal, usual, or expected events during the STAT signaling pathway." [DDB:pf]
+comment: GO:0097696.
+synonym: "aberrant receptor signaling pathway via STAT" EXACT []
+is_a: DDPHENO:0001118 ! aberrant signal transduction
+created_by: pfey
+creation_date: 2022-12-20T17:41:05Z
+
+[Term]
+id: DDPHENO:0000757
+name: abolished STAT signaling pathway
+def: "Complete absence of the STAT signaling pathway." [DDB:pf]
+synonym: "abolished receptor signaling pathway via STAT" EXACT []
+is_a: DDPHENO:0000756 ! aberrant STAT signaling pathway
+created_by: pfey
+creation_date: 2022-12-20T17:51:47Z
+
+[Term]
+id: DDPHENO:0000758
+name: aberrant regulation of STAT signaling pathway
+def: "Deviation from the normal, usual, or expected events during the regulation of the STAT signaling pathway." [DDB:pf]
+comment: GO:1904892.
+synonym: "aberrant regulation of receptor signaling pathway via STAT" EXACT []
+is_a: DDPHENO:0000756 ! aberrant STAT signaling pathway
+created_by: pfey
+creation_date: 2022-12-20T17:58:25Z
+
+[Term]
+id: DDPHENO:0000759
+name: decreased regulation of STAT signaling pathway
+def: "Reduction in extent, amount, or degree of the  regulation of STAT signaling pathway." [DDB:pf]
+synonym: "decreased regulation of receptor signaling pathway via STAT" EXACT []
+is_a: DDPHENO:0000758 ! aberrant regulation of STAT signaling pathway
+created_by: pfey
+creation_date: 2022-12-20T18:09:03Z
+
+[Term]
+id: DDPHENO:0000760
+name: abolished regulation of STAT signalling pathway
+def: "Complete absence of the regulation of STAT signalling pathway." [DDB:pf]
+synonym: "abolished regulation of receptor signaling pathway via STAT" EXACT []
+is_a: DDPHENO:0000757 ! abolished STAT signaling pathway
+is_a: DDPHENO:0000758 ! aberrant regulation of STAT signaling pathway
+created_by: pfey
+creation_date: 2022-12-20T18:11:47Z
+
+[Term]
+id: DDPHENO:0000761
+name: aberrant Ras protein signal transduction
+def: "Deviation from the normal, usual, or expected events during Ras protein signal transduction." [DDB:pf]
+comment: GO:0007265.
+is_a: DDPHENO:0001118 ! aberrant signal transduction
+created_by: pfey
+creation_date: 2022-12-20T18:21:10Z
+
+[Term]
+id: DDPHENO:0000762
+name: decreased Ras protein signal transduction
+def: "Reduction in extent, amount, or degree of activation of Ras protein signal transduction." [DDB:pf]
+is_a: DDPHENO:0000761 ! aberrant Ras protein signal transduction
+created_by: pfey
+creation_date: 2022-12-20T18:23:48Z
+
+[Term]
+id: DDPHENO:0000763
+name: increased Ras protein signal transduction
+def: "Increase in extent, amount, or degree of Ras protein signal transduction." [DDB:pf]
+is_a: DDPHENO:0000761 ! aberrant Ras protein signal transduction
+created_by: pfey
+creation_date: 2022-12-20T18:25:16Z
+
+[Term]
+id: DDPHENO:0000764
+name: abolished Ras protein signal transduction
+def: "Complete absence of Ras protein signal transduction." [DDB:pf]
+is_a: DDPHENO:0000761 ! aberrant Ras protein signal transduction
+created_by: pfey
+creation_date: 2022-12-20T18:26:23Z
+
+[Term]
+id: DDPHENO:0000765
+name: aberrant protein-containing complex assembly
+def: "Deviation from the normal, usual, or expected events during protein-containing complex assembly." [DDB:pf]
+synonym: "aberrant cellular protein complex assembly" EXACT []
+is_a: DDPHENO:0001042 ! aberrant cellular component organization
+created_by: pfey
+creation_date: 2022-12-20T19:33:32Z
+
+[Term]
+id: DDPHENO:0000766
+name: aberrant SCAR complex assembly
+def: "Deviation from the normal, usual, or expected events during SCAR complex assembly." [DDB:pf]
+synonym: "aberrant SCAR/WAVE complex assembly" EXACT []
+is_a: DDPHENO:0000765 ! aberrant protein-containing complex assembly
+created_by: pfey
+creation_date: 2022-12-20T19:35:59Z
 
 [Term]
 id: DDPHENO:0001001
@@ -5368,7 +5730,7 @@ is_a: DDPHENO:0001043 ! aberrant organelle organization
 [Term]
 id: DDPHENO:0001042
 name: aberrant cellular component organization
-def: "Deviation from the normal, usual, or expected events during  cellular component organization." [DDB:pf]
+def: "Deviation from the normal, usual, or expected events during cellular component organization." [DDB:pf]
 synonym: "aberrant cellular component organization or biogenesis" EXACT []
 is_a: DDPHENO:0001008 ! aberrant cellular process
 
@@ -5484,7 +5846,6 @@ name: decreased protein kinase activation
 def: "Reduction in extent, amount, or degree of activation of a protein kinase." [DDB:pg]
 synonym: "decreased activation of protein kinase activity" EXACT []
 is_a: DDPHENO:0001119 ! aberrant regulation of protein kinase activity
-is_a: DDPHENO:0001344 ! decreased protein phosphorylation
 
 [Term]
 id: DDPHENO:0001059
@@ -5498,7 +5859,6 @@ name: increased protein kinase activation
 def: "Increase in extent, amount, or degree of activation of protein kinases." [DDB:pg]
 synonym: "increased activation of protein kinase activity" EXACT []
 is_a: DDPHENO:0001119 ! aberrant regulation of protein kinase activity
-is_a: DDPHENO:0001343 ! increased protein phosphorylation
 
 [Term]
 id: DDPHENO:0001062
@@ -5506,7 +5866,6 @@ name: abolished protein kinase activation
 def: "Complete inability for activation of protein kinases." [DDB:pg]
 synonym: "abolished activation of protein kinase activity" EXACT []
 is_a: DDPHENO:0001119 ! aberrant regulation of protein kinase activity
-is_a: DDPHENO:0001450 ! abolished protein phosphorylation
 
 [Term]
 id: DDPHENO:0001063
@@ -5535,59 +5894,60 @@ is_a: DDPHENO:0001002 ! aberrant organelle morphology
 
 [Term]
 id: DDPHENO:0001067
-name: aberrant hyperosmotic response
-def: "Deviation from the normal, usual, or expected events during the response to hyperosmotic stress." [DDB:pg]
-synonym: "aberrant hypertonic response" EXACT []
-synonym: "aberrant response to hyperosmotic stress" EXACT []
-synonym: "aberrant response to hypertonic stress" EXACT []
-is_a: DDPHENO:0000209 ! aberrant response to osmotic stress
+name: aberrant cellular hyperosmotic response
+def: "Deviation from the normal, usual, or expected events during cellular response to hyperosmotic stress." [DDB:pf]
+comment: GO:0071474.
+synonym: "aberrant cellular hypertonic response" EXACT []
+synonym: "aberrant cellular response to hyperosmotic stress" EXACT []
+synonym: "aberrant cellular response to hypertonic stress" EXACT []
+is_a: DDPHENO:0000209 ! aberrant cellular response to osmotic stress
 
 [Term]
 id: DDPHENO:0001068
-name: aberrant hypotonic response
-def: "Deviation from the normal, usual, or expected events during the response to hypo-osmotic stress." [DDB:pg]
-comment: For example, when Dictyostelium cells are placed into water,  they suffer from hypotonic stress and their contractile vacuole system allows them to survive for some time.
-synonym: "aberrant response to hypo-osmotic stress" EXACT []
-synonym: "aberrant response to hypotonic stress" EXACT []
-is_a: DDPHENO:0000209 ! aberrant response to osmotic stress
+name: aberrant cellular hypotonic response
+def: "Deviation from the normal, usual, or expected events during cellular response to hypo-osmotic stress." [DDB:pf]
+comment: GO:0071476. For example, when Dictyostelium cells are placed into water,  they suffer from hypotonic stress and their contractile vacuole system allows them to survive for some time.
+synonym: "aberrant cellular response to hypo-osmotic stress" EXACT []
+synonym: "aberrant cellular response to hypotonic stress" EXACT []
+is_a: DDPHENO:0000209 ! aberrant cellular response to osmotic stress
 
 [Term]
 id: DDPHENO:0001069
-name: delayed hyperosmotic response
-def: "Late onset or slower progression in the response to hyperosmotic stress." [DDB:pg]
-synonym: "delayed hypertonic response" EXACT []
-synonym: "delayed response to hyperosmotic stress" EXACT []
-is_a: DDPHENO:0001067 ! aberrant hyperosmotic response
+name: delayed cellular hyperosmotic response
+def: "Late onset or slower progression in the cellular response to hyperosmotic stress." [DDB:pf]
+synonym: "delayed cellular hypertonic response" EXACT []
+synonym: "delayed cellular response to hyperosmotic stress" EXACT []
+is_a: DDPHENO:0001067 ! aberrant cellular hyperosmotic response
 
 [Term]
 id: DDPHENO:0001070
-name: precocious hyperosmotic response
-def: "Early onset or faster progression in the response to hyperosmotic stress." [DDB:pg]
-synonym: "precocious hypertonic response" EXACT []
-synonym: "precocious response to hyperosmotic stress" EXACT []
-is_a: DDPHENO:0001067 ! aberrant hyperosmotic response
+name: precocious cellular  hyperosmotic response
+def: "Early onset or faster progression in the response to cellular hyperosmotic stress." [DDB:pf]
+synonym: "precocious cellular hypertonic response" EXACT []
+synonym: "precocious cellular response to hyperosmotic stress" EXACT []
+is_a: DDPHENO:0001067 ! aberrant cellular hyperosmotic response
 
 [Term]
 id: DDPHENO:0001071
-name: precocious hypotonic response
-def: "Early onset or faster progression in the response to hypo-osmotic stress." [DDB:pf]
-synonym: "precocious response to hypo-osmotic stress" EXACT []
-synonym: "precocious response to hypotonic stress" EXACT []
-is_a: DDPHENO:0001068 ! aberrant hypotonic response
+name: precocious cellular hypotonic response
+def: "Early onset or faster progression in the cellular response to hypo-osmotic stress." [DDB:pf]
+synonym: "precocious cellular response to hypo-osmotic stress" EXACT []
+synonym: "precocious cellular response to hypotonic stress" EXACT []
+is_a: DDPHENO:0001068 ! aberrant cellular hypotonic response
 
 [Term]
 id: DDPHENO:0001072
-name: delayed hypotonic response
-def: "Late onset or slower progression in the response to hypo-osmotic stress." [DDB:pg]
-synonym: "delayed response to hypo-osmotic stress" EXACT []
-synonym: "delayed response to hypotonic stress" EXACT []
-is_a: DDPHENO:0001068 ! aberrant hypotonic response
+name: delayed cellular hypotonic response
+def: "Late onset or slower progression in the cellular response to hypo-osmotic stress." [DDB:pf]
+synonym: "delayed cellular response to hypo-osmotic stress" EXACT []
+synonym: "delayed cellular response to hypotonic stress" EXACT []
+is_a: DDPHENO:0001068 ! aberrant cellular hypotonic response
 
 [Term]
 id: DDPHENO:0001074
 name: aberrant osmosensory signaling pathway
 def: "Deviation from the normal, usual, or expected events during the osmosensory signaling pathway." [DDB:pg]
-is_a: DDPHENO:0001067 ! aberrant hyperosmotic response
+is_a: DDPHENO:0001067 ! aberrant cellular hyperosmotic response
 
 [Term]
 id: DDPHENO:0001075
@@ -5926,7 +6286,8 @@ is_a: DDPHENO:0001008 ! aberrant cellular process
 id: DDPHENO:0001119
 name: aberrant regulation of protein kinase activity
 def: "Deviation from the normal, usual, or expected events during the regulation of protein kinase activity." [DDB:pg]
-is_a: DDPHENO:0001342 ! aberrant protein phosphorylation
+is_a: DDPHENO:0000472 ! aberrant regulation of protein modification
+is_a: DDPHENO:0001317 ! aberrant protein modification
 
 [Term]
 id: DDPHENO:0001120
@@ -6790,22 +7151,22 @@ is_a: DDPHENO:0001245 ! aberrant oscillatory cAMP signaling
 
 [Term]
 id: DDPHENO:0001247
-name: aberrant protein methylation
-def: "Deviation from the normal, usual, or expected events during protein methylation." [DDB:pf]
-is_a: DDPHENO:0001005 ! aberrant cellular metabolic process
+name: obsolete aberrant protein methylation
+def: "OBSOLETE. Deviation from the normal, usual, or expected events during protein methylation." [DDB:pf]
+is_obsolete: true
 
 [Term]
 id: DDPHENO:0001248
-name: abolished protein methylation
-def: "Complete inability for protein methylation." [DDB:pf]
+name: obsolete abolished protein methylation
+def: "OBSOLETE Complete inability for protein methylation." [DDB:pf]
 synonym: "abolished protein amino acid methylation" EXACT []
-is_a: DDPHENO:0001247 ! aberrant protein methylation
+is_obsolete: true
 
 [Term]
 id: DDPHENO:0001249
-name: abolished C-terminal protein methylation
-def: "Complete inability for C-terminal protein methylation." [DDB:pf]
-is_a: DDPHENO:0001248 ! abolished protein methylation
+name: obsolete abolished C-terminal protein methylation
+def: "OBSOLETE Complete inability for C-terminal protein methylation." [DDB:pf]
+is_obsolete: true
 
 [Term]
 id: DDPHENO:0001250
@@ -7200,6 +7561,7 @@ is_obsolete: true
 id: DDPHENO:0001311
 name: aberrant activation of GTPase activity
 def: "Deviation from the normal, usual, or expected events during the activation of the activity of a GTPase." [DDB:pg]
+comment: GO:0090630.
 is_a: DDPHENO:0001137 ! aberrant regulation of GTPase activity
 
 [Term]
@@ -7409,90 +7771,75 @@ is_a: DDPHENO:0001337 ! increased protein localization
 
 [Term]
 id: DDPHENO:0001342
-name: aberrant protein phosphorylation
-def: "Deviation from the normal, usual, or expected events during phosphorylation of a protein." [DDB:pg]
-is_a: DDPHENO:0001317 ! aberrant protein modification
+name: obsolete aberrant protein phosphorylation
+def: "OBSOLETE. Deviation from the normal, usual, or expected events during phosphorylation of a protein." [DDB:pg]
+is_obsolete: true
 
 [Term]
 id: DDPHENO:0001343
-name: increased protein phosphorylation
-def: "Increase in amount or accumulation of phosphorylation of a protein." [DDB:pg]
-is_a: DDPHENO:0001342 ! aberrant protein phosphorylation
+name: obsolete increased protein phosphorylation
+def: "OBSOLETE. Increase in amount or accumulation of phosphorylation of a protein." [DDB:pg]
+is_obsolete: true
 
 [Term]
 id: DDPHENO:0001344
-name: decreased protein phosphorylation
-def: "Reduction in amount or accumulation of phosphorylation of a protein." [DDB:pg]
-is_a: DDPHENO:0001342 ! aberrant protein phosphorylation
+name: obsolete decreased protein phosphorylation
+def: "OBSOLETE. Reduction in amount or accumulation of phosphorylation of a protein." [DDB:pg]
+is_obsolete: true
 
 [Term]
 id: DDPHENO:0001345
-name: aberrant protein tyrosine phosphorylation
-def: "Deviation from the normal, usual, or expected events during tyrosine phosphorylation of a protein." [DDB:pg]
-synonym: "aberrant peptidyl-tyrosine phosphorylation" EXACT []
-is_a: DDPHENO:0001342 ! aberrant protein phosphorylation
+name: obsolete aberrant protein tyrosine phosphorylation
+def: "OBSOLETE. Deviation from the normal, usual, or expected events during tyrosine phosphorylation of a protein." [DDB:pg]
+is_obsolete: true
 
 [Term]
 id: DDPHENO:0001346
-name: increased protein tyrosine phosphorylation
-def: "Increase in amount or accumulation of tyrosine phosphorylation of a protein." [DDB:pg]
-synonym: "increased peptidyl-tyrosine phosphorylation" EXACT []
-is_a: DDPHENO:0001343 ! increased protein phosphorylation
-is_a: DDPHENO:0001345 ! aberrant protein tyrosine phosphorylation
+name: obsolete increased protein tyrosine phosphorylation
+def: "OBSOLETE. Increase in amount or accumulation of tyrosine phosphorylation of a protein." [DDB:pg]
+is_obsolete: true
 
 [Term]
 id: DDPHENO:0001347
-name: decreased protein threonine phosphorylation
-def: "Reduction in amount or accumulation of threonine phosphorylation of a protein." [DDB:pg]
-synonym: "decreased peptidyl-threonine phosphorylation" EXACT []
-is_a: DDPHENO:0001344 ! decreased protein phosphorylation
-is_a: DDPHENO:0001349 ! aberrant protein threonine phosphorylation
+name: obsolete decreased protein threonine phosphorylation
+def: "OBSOLETE. Reduction in amount or accumulation of threonine phosphorylation of a protein." [DDB:pg]
+is_obsolete: true
 
 [Term]
 id: DDPHENO:0001348
-name: aberrant protein serine phosphorylation
-def: "Deviation from the normal, usual, or expected events during serine phosphorylation of a protein." [DDB:pg]
-synonym: "aberrant peptidyl-serine phosphorylation" EXACT []
-is_a: DDPHENO:0001342 ! aberrant protein phosphorylation
+name: obsolete aberrant protein serine phosphorylation
+def: "OBSOLETE. Deviation from the normal, usual, or expected events during serine phosphorylation of a protein." [DDB:pg]
+is_obsolete: true
 
 [Term]
 id: DDPHENO:0001349
-name: aberrant protein threonine phosphorylation
-def: "Deviation from the normal, usual, or expected events during threonine phosphorylation of a protein." [DDB:pg]
-synonym: "aberrant peptidyl-threonine phosphorylation" EXACT []
-is_a: DDPHENO:0001342 ! aberrant protein phosphorylation
+name: obsolete aberrant protein threonine phosphorylation
+def: "OBSOLETE. Deviation from the normal, usual, or expected events during threonine phosphorylation of a protein." [DDB:pg]
+is_obsolete: true
 
 [Term]
 id: DDPHENO:0001350
-name: decreased protein serine phosphorylation
-def: "Reduction in amount or accumulation of serine phosphorylation of a protein." [DDB:pg]
-synonym: "decreased peptidyl-serine phosphorylation" EXACT []
-is_a: DDPHENO:0001344 ! decreased protein phosphorylation
-is_a: DDPHENO:0001348 ! aberrant protein serine phosphorylation
+name: obsolete decreased protein serine phosphorylation
+def: "OBSOLETE. Reduction in amount or accumulation of serine phosphorylation of a protein." [DDB:pg]
+is_obsolete: true
 
 [Term]
 id: DDPHENO:0001351
-name: increased protein serine phosphorylation
-def: "Increase in amount or accumulation of serine phosphorylation of a protein." [DDB:pg]
-synonym: "increased peptidyl-serine phosphorylation" EXACT []
-is_a: DDPHENO:0001343 ! increased protein phosphorylation
-is_a: DDPHENO:0001348 ! aberrant protein serine phosphorylation
+name: obsolete increased protein serine phosphorylation
+def: "OBSOLETE. Increase in amount or accumulation of serine phosphorylation of a protein." [DDB:pg]
+is_obsolete: true
 
 [Term]
 id: DDPHENO:0001352
-name: decreased protein tyrosine phosphorylation
-def: "Reduction in amount or accumulation of tyrosine phosphorylation of a protein." [DDB:pf]
-synonym: "decreased peptidyl-tyrosine phosphorylation" EXACT []
-is_a: DDPHENO:0001344 ! decreased protein phosphorylation
-is_a: DDPHENO:0001345 ! aberrant protein tyrosine phosphorylation
+name: obsolete decreased protein tyrosine phosphorylation
+def: "OBSOLETE. Reduction in amount or accumulation of tyrosine phosphorylation of a protein." [DDB:pf]
+is_obsolete: true
 
 [Term]
 id: DDPHENO:0001353
-name: increased protein threonine phosphorylation
-def: "Increase in amount or accumulation of threonine phosphorylation of a protein." [DDB:pg]
-synonym: "increased peptidyl-threonine phosphorylation" EXACT []
-is_a: DDPHENO:0001343 ! increased protein phosphorylation
-is_a: DDPHENO:0001349 ! aberrant protein threonine phosphorylation
+name: obsolete increased protein threonine phosphorylation
+def: "OBSOLETE. Increase in amount or accumulation of threonine phosphorylation of a protein." [DDB:pg]
+is_obsolete: true
 
 [Term]
 id: DDPHENO:0001354
@@ -8190,45 +8537,41 @@ creation_date: 2010-02-03T06:00:17Z
 
 [Term]
 id: DDPHENO:0001450
-name: abolished protein phosphorylation
-def: "Complete inability for protein phosphorylation." [DDB:pf]
-is_a: DDPHENO:0001342 ! aberrant protein phosphorylation
+name: obsolete abolished protein phosphorylation
+def: "OBSOLETE. Complete inability for protein phosphorylation." [DDB:pf]
+is_obsolete: true
 created_by: pfey
 creation_date: 2010-02-16T04:04:04Z
 
 [Term]
 id: DDPHENO:0001451
-name: abolished actin phosphorylation
-def: "Complete inability for actin phosphorylation." [DDB:pf]
-is_a: DDPHENO:0001450 ! abolished protein phosphorylation
+name: obsolete abolished actin phosphorylation
+def: "OBSOLETE. Complete inability for actin phosphorylation." [DDB:pf]
+is_obsolete: true
 created_by: pfey
 creation_date: 2010-02-16T04:06:48Z
 
 [Term]
 id: DDPHENO:0001452
-name: abolished protein serine phosphorylation
-def: "Complete inability for protein serine phosphorylation." [DDB:pf]
-synonym: "abolished peptidyl-serine phosphorylation" EXACT []
-is_a: DDPHENO:0001348 ! aberrant protein serine phosphorylation
-is_a: DDPHENO:0001450 ! abolished protein phosphorylation
+name: obsolete abolished protein serine phosphorylation
+def: "OBSOLETE. Complete inability for protein serine phosphorylation." [DDB:pf]
+is_obsolete: true
 created_by: pfey
 creation_date: 2010-02-16T04:07:35Z
 
 [Term]
 id: DDPHENO:0001453
-name: abolished protein threonine phosphorylation
-def: "Complete inability for protein threonine phosphorylation." [DDB:pf]
-synonym: "abolished peptidyl-threonine phosphorylation" EXACT []
-is_a: DDPHENO:0001349 ! aberrant protein threonine phosphorylation
-is_a: DDPHENO:0001450 ! abolished protein phosphorylation
+name: obsolete abolished protein threonine phosphorylation
+def: "OBSOLETE. Complete inability for protein threonine phosphorylation." [DDB:pf]
+is_obsolete: true
 created_by: pfey
 creation_date: 2010-02-16T04:08:34Z
 
 [Term]
 id: DDPHENO:0001454
-name: abolished protein tyrosine phosphorylation
-def: "Complete inability for protein tyrosine phosphorylation." [DDB:pf]
-is_a: DDPHENO:0001450 ! abolished protein phosphorylation
+name: obsolete abolished protein tyrosine phosphorylation
+def: "OBSOLETE. Complete inability for protein tyrosine phosphorylation." [DDB:pf]
+is_obsolete: true
 created_by: pfey
 creation_date: 2010-02-16T04:08:50Z
 
@@ -8398,25 +8741,25 @@ creation_date: 2011-03-24T02:29:08Z
 
 [Term]
 id: DDPHENO:0001475
-name: abolished histone H3-K79 methylation
-def: "Complete inability for methylation of histone H3 at lysine 79." [DDB:pf]
-is_a: DDPHENO:0001476 ! abolished histone lysine methylation
+name: obsolete abolished histone H3-K79 methylation
+def: "OBSOLETE Complete inability for methylation of histone H3 at lysine 79." [DDB:pf]
+is_obsolete: true
 created_by: pfey
 creation_date: 2011-09-13T10:47:22Z
 
 [Term]
 id: DDPHENO:0001476
-name: abolished histone lysine methylation
-def: "Complete inability for methylation of a lysine in histone H3." [DDB:pf]
-is_a: DDPHENO:0001248 ! abolished protein methylation
+name: obsolete abolished histone lysine methylation
+def: "OBSOLETE Complete inability for methylation of a lysine in histone H3." [DDB:pf]
+is_obsolete: true
 created_by: pfey
 creation_date: 2011-09-13T10:54:35Z
 
 [Term]
 id: DDPHENO:0001477
-name: abolished histone H3-K9 methylation
-def: "Complete inability for methylation of histone H3 at lysine 9." [DDB:pf]
-is_a: DDPHENO:0001476 ! abolished histone lysine methylation
+name: obsolete abolished histone H3-K9 methylation
+def: "OBSOLETE Complete inability for methylation of histone H3 at lysine 9." [DDB:pf]
+is_obsolete: true
 created_by: pfey
 creation_date: 2011-09-13T10:57:06Z
 
@@ -8641,8 +8984,8 @@ creation_date: 2012-09-26T05:44:58Z
 
 [Term]
 id: DDPHENO:0001504
-name: aberrant response to cation stress
-def: "Deviation from the normal, usual, or expected events during the response to cation stress." [DDB:pf]
+name: aberrant cellular response to cation stress
+def: "Deviation from the normal, usual, or expected events during the cellular response to cation stress." [DDB:pf]
 is_a: DDPHENO:0001034 ! aberrant cellular response to stress
 created_by: pfey
 creation_date: 2012-10-04T14:20:48Z
