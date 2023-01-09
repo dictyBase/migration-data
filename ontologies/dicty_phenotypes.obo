@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 21:12:2022 18:14
+date: 09:01:2023 15:37
 saved-by: pfey
 auto-generated-by: OBO-Edit 2.2
 default-namespace: Dicty Phenotypes
@@ -5280,6 +5280,36 @@ created_by: pfey
 creation_date: 2022-12-20T16:45:53Z
 
 [Term]
+id: DDPHENO:0000745
+name: aberrant prenylcysteine carboxyl methyltransferase activity
+def: "Deviation from the normal, usual, or expected activity of prenylcysteine carboxyl methyltransferase activity." [DDB:pf]
+comment: GO:0004671.
+synonym: "aberrant protein C-terminal S-isoprenylcysteine carboxyl O-methyltransferase activity" EXACT []
+is_a: DDPHENO:0000728 ! aberrant transferase activity
+created_by: pfey
+creation_date: 2023-01-09T15:16:32Z
+
+[Term]
+id: DDPHENO:0000746
+name: abolished prenylcysteine carboxyl methyltransferase activity
+def: "Complete absence of prenylcysteine carboxyl methyltransferase activity." [DDB:pf]
+comment: GO:0004671.
+synonym: "abolished protein C-terminal S-isoprenylcysteine carboxyl O-methyltransferase activity" EXACT []
+is_a: DDPHENO:0000745 ! aberrant prenylcysteine carboxyl methyltransferase activity
+created_by: pfey
+creation_date: 2023-01-09T15:19:30Z
+
+[Term]
+id: DDPHENO:0000747
+name: aberrant cellular DNA damage response
+def: "Deviation from the normal, usual, or expected events during the cellular DNA damage response." [DDB:pf]
+comment: GO:0006974.
+synonym: "aberrant cellular response to DNA damage stimulus" EXACT []
+is_a: DDPHENO:0001034 ! aberrant cellular response to stress
+created_by: pfey
+creation_date: 2023-01-09T15:26:54Z
+
+[Term]
 id: DDPHENO:0000748
 name: aberrant phosphatase activity
 def: "Deviation from the normal, usual, or expected events during phosphatase activity." [DDB:pf]
@@ -5446,6 +5476,36 @@ synonym: "aberrant SCAR/WAVE complex assembly" EXACT []
 is_a: DDPHENO:0000765 ! aberrant protein-containing complex assembly
 created_by: pfey
 creation_date: 2022-12-20T19:35:59Z
+
+[Term]
+id: DDPHENO:0000767
+name: decreased cellular DNA damage response
+def: "Decreased tolerance of the normal, usual, or expected event during cellular DNA damage response." [DDB:pf]
+comment: GO:0006974.
+synonym: "decreased cellular response to DNA damage stimulus" EXACT []
+is_a: DDPHENO:0000747 ! aberrant cellular DNA damage response
+created_by: pfey
+creation_date: 2023-01-09T15:29:03Z
+
+[Term]
+id: DDPHENO:0000768
+name: increased cellular DNA damage response
+def: "Increased tolerance of the normal, usual, or expected events during cellular DNA damage response." [DDB:pf]
+comment: GO:0006974.
+synonym: "increased cellular response to DNA damage stimulus" EXACT []
+is_a: DDPHENO:0000747 ! aberrant cellular DNA damage response
+created_by: pfey
+creation_date: 2023-01-09T15:32:04Z
+
+[Term]
+id: DDPHENO:0000769
+name: abolished cellular DNA damage response
+def: "Complete inability to respond to DNA damage." [DDB:pf]
+comment: GO:0006974.
+synonym: "abolished cellular response to DNA damage stimulus" EXACT []
+is_a: DDPHENO:0000747 ! aberrant cellular DNA damage response
+created_by: pfey
+creation_date: 2023-01-09T15:34:30Z
 
 [Term]
 id: DDPHENO:0001001
