@@ -558,8 +558,8 @@ creation_date: 2020-12-10T11:26:38Z
 
 [Term]
 id: DDENVIR:0000080
-name: in the presence of extracellular pyrophosphate
-def: "The presence of pyrophosphate signals to prime Dictyostelium for development." [DDB:pf]
+name: in the presence of extracellular polyphosphate
+def: "The presence of polyphosphate signals to prime Dictyostelium for development." [DDB:pf]
 is_a: DDENVIR:0000054 ! in the presence of biotic or abiotic stimulus
 created_by: pfey
 creation_date: 2023-02-24T12:22:57Z
