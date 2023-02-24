@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 27:01:2022 18:35
+date: 24:02:2023 12:25
 saved-by: pfey
 auto-generated-by: OBO-Edit 2.2
 default-namespace: Dicty Environment
@@ -555,4 +555,12 @@ def: "During spore germination, when the spores on top of the fruiting body hatc
 is_a: DDENVIR:0000040 ! during development
 created_by: pfey
 creation_date: 2020-12-10T11:26:38Z
+
+[Term]
+id: DDENVIR:0000080
+name: in the presence of extracellular pyrophosphate
+def: "The presence of pyrophosphate signals to prime Dictyostelium for development." [DDB:pf]
+is_a: DDENVIR:0000054 ! in the presence of biotic or abiotic stimulus
+created_by: pfey
+creation_date: 2023-02-24T12:22:57Z
 
