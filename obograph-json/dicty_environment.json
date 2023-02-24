@@ -1136,6 +1136,26 @@
       "type" : "CLASS",
       "lbl" : "during vegetative growth"
     }, {
+      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000080",
+      "meta" : {
+        "definition" : {
+          "val" : "The presence of pyrophosphate signals to prime Dictyostelium for development.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2023-02-24T12:22:57Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Environment"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "in the presence of extracellular pyrophosphate"
+    }, {
       "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000041",
       "meta" : {
         "definition" : {
@@ -1476,13 +1496,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000001"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000039",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000067"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000005",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000056"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000039",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000067"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000049",
       "pred" : "is_a",
@@ -1492,6 +1512,10 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000052"
     }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000080",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000054"
+    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000038",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000054"
@@ -1500,13 +1524,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000001"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000027",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000067"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000015",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000054"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000027",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000067"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000037",
       "pred" : "is_a",
@@ -1572,9 +1596,9 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000040"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000022",
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000034",
       "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000054"
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000055"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000045",
       "pred" : "is_a",
@@ -1584,9 +1608,9 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000054"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000034",
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000022",
       "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000055"
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000054"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000029",
       "pred" : "is_a",
@@ -1596,13 +1620,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000053"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000033",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000054"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000067",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000053"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000033",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000054"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000010",
       "pred" : "is_a",
@@ -1700,13 +1724,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000063"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000012",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000001"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000042",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000040"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000012",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000001"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000020",
       "pred" : "is_a",
@@ -1728,13 +1752,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000067"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000075",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000074"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000064",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000063"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000075",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000074"
     } ],
     "id" : "http://purl.obolibrary.org/obo/ddenvir.owl",
     "meta" : {
@@ -1754,7 +1778,7 @@
         "val" : "OBO-Edit 2.2"
       }, {
         "pred" : "http://www.geneontology.org/formats/oboInOwl#date",
-        "val" : "27:01:2022 18:35"
+        "val" : "24:02:2023 12:25"
       }, {
         "pred" : "http://www.geneontology.org/formats/oboInOwl#default-namespace",
         "val" : "Dicty Environment"
