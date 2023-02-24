@@ -1139,7 +1139,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000080",
       "meta" : {
         "definition" : {
-          "val" : "The presence of pyrophosphate signals to prime Dictyostelium for development.",
+          "val" : "The presence of polyphosphate signals to prime Dictyostelium for development.",
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
@@ -1154,7 +1154,7 @@
         } ]
       },
       "type" : "CLASS",
-      "lbl" : "in the presence of extracellular pyrophosphate"
+      "lbl" : "in the presence of extracellular polyphosphate"
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000041",
       "meta" : {
@@ -1596,19 +1596,19 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000040"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000034",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000055"
-    }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000045",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000054"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000068",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000054"
     }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000034",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000055"
+    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000022",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000054"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000045",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000054"
     }, {
@@ -1620,13 +1620,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000053"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000067",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000053"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000033",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000054"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000067",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000053"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000010",
       "pred" : "is_a",
@@ -1660,13 +1660,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000056"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000024",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000054"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000036",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000055"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000024",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000054"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000058",
       "pred" : "is_a",
@@ -1724,13 +1724,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000063"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000042",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000040"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000012",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000001"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000042",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000040"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000020",
       "pred" : "is_a",
