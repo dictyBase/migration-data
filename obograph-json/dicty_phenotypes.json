@@ -870,14 +870,9 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000021",
       "meta" : {
         "definition" : {
-          "val" : "Complete inability for RNA interference.",
+          "val" : "OBSOLETE Complete inability for RNA interference.",
           "xrefs" : [ "DDB:pf" ]
         },
-        "synonyms" : [ {
-          "pred" : "hasRelatedSynonym",
-          "val" : "abolished RNAi",
-          "xrefs" : [ ]
-        } ],
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
           "val" : "2013-11-06T10:38:10Z"
@@ -887,10 +882,11 @@
         }, {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
           "val" : "pfey"
-        } ]
+        } ],
+        "deprecated" : true
       },
       "type" : "CLASS",
-      "lbl" : "abolished RNA interference"
+      "lbl" : "obsolete abolished RNA interference"
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000263",
       "meta" : {
@@ -960,7 +956,12 @@
           "val" : "Deviation from the normal, usual, or expected events during production of siRNA involved in RNA interference.",
           "xrefs" : [ "DDB:pf" ]
         },
+        "comments" : [ "GO:0070921." ],
         "synonyms" : [ {
+          "pred" : "hasExactSynonym",
+          "val" : "aberrant production of siRNA involved in RNA interference",
+          "xrefs" : [ ]
+        }, {
           "pred" : "hasExactSynonym",
           "val" : "aberrant production of siRNA involved in RNAi",
           "xrefs" : [ ]
@@ -977,7 +978,7 @@
         } ]
       },
       "type" : "CLASS",
-      "lbl" : "aberrant production of siRNA involved in RNA interference"
+      "lbl" : "aberrant regulation of siRNA processing"
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000264",
       "meta" : {
@@ -1027,14 +1028,9 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000020",
       "meta" : {
         "definition" : {
-          "val" : "Deviation from the normal, usual, or expected events during RNA interference.",
+          "val" : "OBSOLETE Deviation from the normal, usual, or expected events during RNA interference.",
           "xrefs" : [ "DDB:pf" ]
         },
-        "synonyms" : [ {
-          "pred" : "hasRelatedSynonym",
-          "val" : "aberrant RNAi",
-          "xrefs" : [ ]
-        } ],
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
           "val" : "2013-11-06T10:35:04Z"
@@ -1044,10 +1040,11 @@
         }, {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dicty Phenotypes"
-        } ]
+        } ],
+        "deprecated" : true
       },
       "type" : "CLASS",
-      "lbl" : "aberrant RNA interference"
+      "lbl" : "obsolete aberrant RNA interference"
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000262",
       "meta" : {
@@ -1629,6 +1626,10 @@
         },
         "synonyms" : [ {
           "pred" : "hasExactSynonym",
+          "val" : "abolished production of siRNA involved in RNA interference",
+          "xrefs" : [ ]
+        }, {
+          "pred" : "hasExactSynonym",
           "val" : "abolished production of siRNA involved in RNAi",
           "xrefs" : [ ]
         } ],
@@ -1644,7 +1645,7 @@
         } ]
       },
       "type" : "CLASS",
-      "lbl" : "abolished production of siRNA involved in RNA interference"
+      "lbl" : "abolished regulation of siRNA processing"
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001143",
       "meta" : {
@@ -3096,7 +3097,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001377",
       "meta" : {
         "definition" : {
-          "val" : "Increase in the pH in the cell.",
+          "val" : "Increase in the intracellular pH.",
           "xrefs" : [ "DDB:pf" ]
         },
         "synonyms" : [ {
@@ -3118,7 +3119,7 @@
         } ]
       },
       "type" : "CLASS",
-      "lbl" : "increased intracellular pH"
+      "lbl" : "increased regulation intracellular pH"
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001135",
       "meta" : {
@@ -7920,7 +7921,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000461",
       "meta" : {
         "definition" : {
-          "val" : "Reduction of pH in the cell.",
+          "val" : "Reduction of intracellular  pH.",
           "xrefs" : [ "DDB:pf" ]
         },
         "synonyms" : [ {
@@ -7942,7 +7943,7 @@
         } ]
       },
       "type" : "CLASS",
-      "lbl" : "decreased intracellular pH"
+      "lbl" : "decreased regulation intracellular pH"
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000220",
       "meta" : {
@@ -8441,26 +8442,6 @@
       "type" : "CLASS",
       "lbl" : "increased protein localization to nucleus"
     }, {
-      "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000010",
-      "meta" : {
-        "definition" : {
-          "val" : "Complete inability for post-transciptional gene silencing by RNA.",
-          "xrefs" : [ "DDB:pf" ]
-        },
-        "basicPropertyValues" : [ {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
-          "val" : "pfey"
-        }, {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
-          "val" : "2013-10-28T15:57:20Z"
-        }, {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
-          "val" : "Dicty Phenotypes"
-        } ]
-      },
-      "type" : "CLASS",
-      "lbl" : "abolished post-transciptional gene silencing by RNA"
-    }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000494",
       "meta" : {
         "definition" : {
@@ -8475,6 +8456,31 @@
       },
       "type" : "CLASS",
       "lbl" : "obsolete aberrant adaptation of adenylate cyclase"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000010",
+      "meta" : {
+        "definition" : {
+          "val" : "Complete inability for co-transciptional gene silencing by RNA.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "synonyms" : [ {
+          "pred" : "hasExactSynonym",
+          "val" : "abolished small RNA-mediated cotranscriptional gene silencing",
+          "xrefs" : [ ]
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2013-10-28T15:57:20Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Phenotypes"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "abolished co-transcriptional gene silencing by RNA interference machinery"
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000252",
       "meta" : {
@@ -8534,9 +8540,14 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000011",
       "meta" : {
         "definition" : {
-          "val" : "Reduction in level of modification of post-transciptional gene silencing by RNA.",
+          "val" : "Reduction in level of modification of co-transciptional gene silencing by RNA.",
           "xrefs" : [ "DDB:pf" ]
         },
+        "synonyms" : [ {
+          "pred" : "hasExactSynonym",
+          "val" : "decreased small RNA-mediated cotranscriptional gene silencing",
+          "xrefs" : [ ]
+        } ],
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
           "val" : "2013-10-28T15:59:10Z"
@@ -8549,7 +8560,7 @@
         } ]
       },
       "type" : "CLASS",
-      "lbl" : "decreased post-transciptional gene silencing by RNA"
+      "lbl" : "decreased co-transcriptional gene silencing by RNA interference machinery"
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001342",
       "meta" : {
@@ -8978,6 +8989,7 @@
           "val" : "Deviation from the normal, usual, or expected events during transitive RNA interference.",
           "xrefs" : [ "DDB:pf" ]
         },
+        "comments" : [ "GO:0036453." ],
         "synonyms" : [ {
           "pred" : "hasExactSynonym",
           "val" : "aberrant transitive RNAi",
@@ -9230,6 +9242,7 @@
           "val" : "Deviation from the normal, usual, or expected events during pre-miRNA processing.",
           "xrefs" : [ "DDB:pf" ]
         },
+        "comments" : [ "GO:0031054." ],
         "synonyms" : [ {
           "pred" : "hasBroadSynonym",
           "val" : "aberrant miRNA processing",
@@ -9687,9 +9700,14 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000008",
       "meta" : {
         "definition" : {
-          "val" : "Deviation from the normal, usual, or expected events during post-transciptional gene silencing by RNA.",
+          "val" : "Deviation from the normal, usual, or expected events during co-transciptional gene silencing by RNA.",
           "xrefs" : [ "DDB:pf" ]
         },
+        "synonyms" : [ {
+          "pred" : "hasExactSynonym",
+          "val" : "aberrant  small RNA-mediated cotranscriptional gene silencing",
+          "xrefs" : [ ]
+        } ],
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dicty Phenotypes"
@@ -9702,7 +9720,7 @@
         } ]
       },
       "type" : "CLASS",
-      "lbl" : "aberrant post-transciptional gene silencing by RNA"
+      "lbl" : "aberrant co-transcriptional gene silencing by RNA interference machinery"
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001339",
       "meta" : {
@@ -15013,15 +15031,10 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000147",
       "meta" : {
         "definition" : {
-          "val" : "Deviation from the normal, usual, or expected activity in the directed movement of a motile cell  towards a lower concentration of a signal.",
+          "val" : "Deviation from the normal, usual, or expected  chemorepellant activity.",
           "xrefs" : [ "DDB:pf" ]
         },
         "comments" : [ "GO:0045499; Chemorepellant activity is the counter part_of DDPHENO:0001225 negative chemotaxis." ],
-        "synonyms" : [ {
-          "pred" : "hasExactSynonym",
-          "val" : "aberrant chemorepellent activity",
-          "xrefs" : [ ]
-        } ],
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
           "val" : "2014-12-17T16:19:14Z"
@@ -17153,29 +17166,6 @@
       "type" : "CLASS",
       "lbl" : "aberrant cellular response to stress"
     }, {
-      "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000187",
-      "meta" : {
-        "definition" : {
-          "val" : "Deviation from the normal, usual, or expected events during cell-substrate adhesion.",
-          "xrefs" : [ "DDB:pg" ]
-        },
-        "synonyms" : [ {
-          "pred" : "hasRelatedSynonym",
-          "val" : "aberrant substrate adhesion",
-          "xrefs" : [ ]
-        }, {
-          "pred" : "hasRelatedSynonym",
-          "val" : "defective substrate adhesion",
-          "xrefs" : [ ]
-        } ],
-        "basicPropertyValues" : [ {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
-          "val" : "Dicty Phenotypes"
-        } ]
-      },
-      "type" : "CLASS",
-      "lbl" : "aberrant cell-substrate adhesion"
-    }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001276",
       "meta" : {
         "definition" : {
@@ -17198,6 +17188,29 @@
       },
       "type" : "CLASS",
       "lbl" : "abolished engulfment during phagocytosis"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000187",
+      "meta" : {
+        "definition" : {
+          "val" : "Deviation from the normal, usual, or expected events during cell-substrate adhesion.",
+          "xrefs" : [ "DDB:pg" ]
+        },
+        "synonyms" : [ {
+          "pred" : "hasRelatedSynonym",
+          "val" : "aberrant substrate adhesion",
+          "xrefs" : [ ]
+        }, {
+          "pred" : "hasRelatedSynonym",
+          "val" : "defective substrate adhesion",
+          "xrefs" : [ ]
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Phenotypes"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "aberrant cell-substrate adhesion"
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000184",
       "meta" : {
@@ -22406,6 +22419,7 @@
           "val" : "Reduction in extent, amount, or degree of histone deacetylase activity.",
           "xrefs" : [ "DDB:pg" ]
         },
+        "comments" : [ "GO:0004407." ],
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dicty Phenotypes"
@@ -22500,6 +22514,7 @@
           "val" : "Increase in extent, amount, or degree of histone deacetylase activity.",
           "xrefs" : [ "DDB:pg" ]
         },
+        "comments" : [ "GO:0004407." ],
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dicty Phenotypes"
@@ -24175,6 +24190,7 @@
           "val" : "Deviation from the normal, usual, or expected regulation of the intracellular pH.",
           "xrefs" : [ "DDB:pf" ]
         },
+        "comments" : [ "GO:0051453." ],
         "synonyms" : [ {
           "pred" : "hasExactSynonym",
           "val" : "aberrant intracellular pH level",
@@ -24200,6 +24216,7 @@
           "val" : "Deviation from the normal, usual, or expected events during the response to cisplatin.",
           "xrefs" : [ "DDb:pg" ]
         },
+        "comments" : [ "GO:0072718." ],
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
           "val" : "Pascale"
@@ -24605,7 +24622,7 @@
         } ]
       },
       "type" : "CLASS",
-      "lbl" : "decreased production of siRNA involved in RNA interference"
+      "lbl" : "decreased regulation of siRNA processing"
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000713",
       "meta" : {
@@ -26273,6 +26290,26 @@
       "type" : "CLASS",
       "lbl" : "decreased glycogen level"
     }, {
+      "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000778",
+      "meta" : {
+        "definition" : {
+          "val" : "Reduction in extent, amount, or degree of protein localization to mitotic actomyosin contractile ring.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Phenotypes"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "petrafey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2023-03-16T17:36:03Z"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "decreased protein localization to mitotic actomyosin contractile ring"
+    }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000536",
       "meta" : {
         "definition" : {
@@ -26493,16 +26530,21 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000530",
       "meta" : {
         "definition" : {
-          "val" : "Increase in extent, amount, or degree of post-transciptional gene silencing by RNA.",
+          "val" : "Increase in extent, amount, or degree of co-transciptional gene silencing by RNA.",
           "xrefs" : [ "DDB:pf" ]
         },
+        "synonyms" : [ {
+          "pred" : "hasExactSynonym",
+          "val" : "increased small RNA-mediated cotranscriptional gene silencing",
+          "xrefs" : [ ]
+        } ],
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dicty Phenotypes"
         } ]
       },
       "type" : "CLASS",
-      "lbl" : "increased post-transciptional gene silencing by RNA"
+      "lbl" : "increased co-transcriptional gene silencing by RNA interference machinery"
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000528",
       "meta" : {
@@ -27290,13 +27332,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001032"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000285",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000278"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000287",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000258"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000285",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000278"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000152",
       "pred" : "is_a",
@@ -27374,13 +27416,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000149"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000123",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000694"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000036",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001431"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000123",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000694"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001445",
       "pred" : "is_a",
@@ -27478,13 +27520,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001174"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000785",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001105"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000366",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001116"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000785",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001105"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001432",
       "pred" : "is_a",
@@ -27910,10 +27952,6 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000471"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001422",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000234"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001333",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001257"
@@ -27921,6 +27959,10 @@
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001327",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001317"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001422",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000234"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000651",
       "pred" : "is_a",
@@ -27994,13 +28036,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000673"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001102",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001168"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001118",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001008"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001102",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001168"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001104",
       "pred" : "is_a",
@@ -28038,13 +28080,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001003"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000117",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000115"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000795",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000792"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000117",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000115"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000359",
       "pred" : "is_a",
@@ -28318,10 +28360,6 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001116"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000021",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000020"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001159",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001156"
@@ -28350,13 +28388,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000459"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000597",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000034"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000747",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001034"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000597",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000034"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000328",
       "pred" : "is_a",
@@ -28550,13 +28588,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001408"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000545",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001026"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000730",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000729"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000545",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001026"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000384",
       "pred" : "is_a",
@@ -28602,17 +28640,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000258"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000034",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000033"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000473",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001029"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000022",
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000034",
       "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000020"
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000033"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001470",
       "pred" : "is_a",
@@ -28702,13 +28736,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000558"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000577",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000245"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001354",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000009"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000577",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000245"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001190",
       "pred" : "is_a",
@@ -28894,13 +28928,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001156"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000157",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001431"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000498",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000684"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000157",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001431"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000285",
       "pred" : "is_a",
@@ -28918,11 +28952,11 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001017"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000439",
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001122",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000040"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001122",
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000439",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000040"
     }, {
@@ -28981,10 +29015,6 @@
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001233",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001338"
-    }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000774",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000773"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000510",
       "pred" : "is_a",
@@ -29082,10 +29112,6 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000608"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000020",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000008"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001057",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001445"
@@ -29158,6 +29184,10 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001122"
     }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000022",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000008"
+    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000680",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001338"
@@ -29198,13 +29228,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001505"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001179",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001056"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001080",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000483"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001179",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001056"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000752",
       "pred" : "is_a",
@@ -29330,13 +29360,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000471"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000787",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000786"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001393",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000471"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000787",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000786"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001156",
       "pred" : "is_a",
@@ -29482,13 +29512,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001256"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001416",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000149"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000352",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000350"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001416",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000149"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001394",
       "pred" : "is_a",
@@ -29542,13 +29572,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001237"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000733",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000728"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000694",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001118"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000733",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000728"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000154",
       "pred" : "is_a",
@@ -29610,13 +29640,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000120"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001113",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001005"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001213",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000138"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001113",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001005"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001098",
       "pred" : "is_a",
@@ -29637,6 +29667,10 @@
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000610",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001338"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000778",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000796"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000682",
       "pred" : "is_a",
@@ -29662,13 +29696,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000632"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000579",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000127"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000142",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0010000"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000579",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000127"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000659",
       "pred" : "is_a",
@@ -29702,13 +29736,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001167"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000790",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000787"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000405",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001006"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000790",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000787"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001160",
       "pred" : "is_a",
@@ -29850,25 +29884,25 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000306"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001212",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001209"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000148",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000264"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001212",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001209"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001430",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001427"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000477",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001027"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000389",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000384"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000477",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001027"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001215",
       "pred" : "is_a",
@@ -29890,13 +29924,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000242"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000757",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000756"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001097",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001095"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000757",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000756"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001005",
       "pred" : "is_a",
@@ -30022,13 +30056,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000728"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000187",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001044"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000253",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000251"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000187",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001044"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001436",
       "pred" : "is_a",
@@ -30070,13 +30104,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001289"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000381",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000040"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000537",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001375"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000381",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000040"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000438",
       "pred" : "is_a",
@@ -30125,6 +30159,10 @@
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000236",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001008"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000774",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000689"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000232",
       "pred" : "is_a",
@@ -30182,13 +30220,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000632"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000047",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000046"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000289",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000287"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000047",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000046"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000498",
       "pred" : "is_a",
@@ -30570,13 +30608,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000799"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001326",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001317"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000471",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001217"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001326",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001317"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000483",
       "pred" : "is_a",
@@ -30630,13 +30668,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000819"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000663",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001337"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000724",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000727"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000663",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001337"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000368",
       "pred" : "is_a",
@@ -31018,10 +31056,6 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001393"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000017",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000020"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000003",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000160"
@@ -31158,13 +31192,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000346"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000472",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001317"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000208",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000002"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000472",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001317"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001245",
       "pred" : "is_a",
@@ -31206,13 +31240,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001338"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000639",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001337"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000820",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000819"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000639",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001337"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001305",
       "pred" : "is_a",
@@ -31442,13 +31476,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001338"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001236",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001375"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000226",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000098"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001236",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001375"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001358",
       "pred" : "is_a",
@@ -31482,13 +31516,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001013"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000332",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000329"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000728",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001171"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000332",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000329"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000501",
       "pred" : "is_a",
@@ -31546,13 +31580,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001335"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001214",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000138"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000621",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001393"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001214",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000138"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000821",
       "pred" : "is_a",
@@ -31622,13 +31656,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000012"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000705",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001005"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000109",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000412"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000705",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001005"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000246",
       "pred" : "is_a",
@@ -31678,6 +31712,10 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001257"
     }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000017",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000008"
+    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000832",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000831"
@@ -31686,13 +31724,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001043"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001396",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001335"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001110",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001047"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001396",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001335"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000711",
       "pred" : "is_a",
@@ -31734,21 +31772,21 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000546"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000504",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000513"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000532",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000233"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000585",
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000504",
       "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001034"
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000513"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000626",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000624"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000585",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001034"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001166",
       "pred" : "is_a",
@@ -31784,7 +31822,7 @@
         "val" : "OBO-Edit 2.2"
       }, {
         "pred" : "http://www.geneontology.org/formats/oboInOwl#date",
-        "val" : "14:03:2023 17:24"
+        "val" : "16:03:2023 18:00"
       }, {
         "pred" : "http://www.geneontology.org/formats/oboInOwl#default-namespace",
         "val" : "Dicty Phenotypes"
