@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 14:03:2023 17:24
+date: 16:03:2023 18:00
 saved-by: petrafey
 auto-generated-by: OBO-Edit 2.2
 default-namespace: Dicty Phenotypes
@@ -74,8 +74,9 @@ creation_date: 2013-09-23T14:30:03Z
 
 [Term]
 id: DDPHENO:0000008
-name: aberrant post-transciptional gene silencing by RNA
-def: "Deviation from the normal, usual, or expected events during post-transciptional gene silencing by RNA." [DDB:pf]
+name: aberrant co-transcriptional gene silencing by RNA interference machinery
+def: "Deviation from the normal, usual, or expected events during co-transciptional gene silencing by RNA." [DDB:pf]
+synonym: "aberrant  small RNA-mediated cotranscriptional gene silencing" EXACT []
 is_a: DDPHENO:0001005 ! aberrant cellular metabolic process
 created_by: pfey
 creation_date: 2013-10-28T15:52:58Z
@@ -89,17 +90,19 @@ is_a: DDPHENO:0000154 ! aberrant sorocarp development
 
 [Term]
 id: DDPHENO:0000010
-name: abolished post-transciptional gene silencing by RNA
-def: "Complete inability for post-transciptional gene silencing by RNA." [DDB:pf]
-is_a: DDPHENO:0000008 ! aberrant post-transciptional gene silencing by RNA
+name: abolished co-transcriptional gene silencing by RNA interference machinery
+def: "Complete inability for co-transciptional gene silencing by RNA." [DDB:pf]
+synonym: "abolished small RNA-mediated cotranscriptional gene silencing" EXACT []
+is_a: DDPHENO:0000008 ! aberrant co-transcriptional gene silencing by RNA interference machinery
 created_by: pfey
 creation_date: 2013-10-28T15:57:20Z
 
 [Term]
 id: DDPHENO:0000011
-name: decreased post-transciptional gene silencing by RNA
-def: "Reduction in level of modification of post-transciptional gene silencing by RNA." [DDB:pf]
-is_a: DDPHENO:0000008 ! aberrant post-transciptional gene silencing by RNA
+name: decreased co-transcriptional gene silencing by RNA interference machinery
+def: "Reduction in level of modification of co-transciptional gene silencing by RNA." [DDB:pf]
+synonym: "decreased small RNA-mediated cotranscriptional gene silencing" EXACT []
+is_a: DDPHENO:0000008 ! aberrant co-transcriptional gene silencing by RNA interference machinery
 created_by: pfey
 creation_date: 2013-10-28T15:59:10Z
 
@@ -107,6 +110,7 @@ creation_date: 2013-10-28T15:59:10Z
 id: DDPHENO:0000012
 name: aberrant pre-miRNA processing
 def: "Deviation from the normal, usual, or expected events during pre-miRNA processing." [DDB:pf]
+comment: GO:0031054.
 synonym: "aberrant miRNA processing" BROAD []
 is_a: DDPHENO:0001005 ! aberrant cellular metabolic process
 created_by: pfey
@@ -143,8 +147,9 @@ creation_date: 2013-10-28T18:03:53Z
 id: DDPHENO:0000017
 name: aberrant transitive RNA interference
 def: "Deviation from the normal, usual, or expected events during transitive RNA interference." [DDB:pf]
+comment: GO:0036453.
 synonym: "aberrant transitive RNAi" EXACT []
-is_a: DDPHENO:0000020 ! aberrant RNA interference
+is_a: DDPHENO:0000008 ! aberrant co-transcriptional gene silencing by RNA interference machinery
 created_by: pfey
 creation_date: 2013-11-06T10:25:06Z
 
@@ -167,37 +172,38 @@ is_a: DDPHENO:0001015 ! aberrant culmination
 
 [Term]
 id: DDPHENO:0000020
-name: aberrant RNA interference
-def: "Deviation from the normal, usual, or expected events during RNA interference." [DDB:pf]
-synonym: "aberrant RNAi" RELATED []
-is_a: DDPHENO:0000008 ! aberrant post-transciptional gene silencing by RNA
+name: obsolete aberrant RNA interference
+def: "OBSOLETE Deviation from the normal, usual, or expected events during RNA interference." [DDB:pf]
+is_obsolete: true
 created_by: pfey
 creation_date: 2013-11-06T10:35:04Z
 
 [Term]
 id: DDPHENO:0000021
-name: abolished RNA interference
-def: "Complete inability for RNA interference." [DDB:pf]
-synonym: "abolished RNAi" RELATED []
-is_a: DDPHENO:0000020 ! aberrant RNA interference
+name: obsolete abolished RNA interference
+def: "OBSOLETE Complete inability for RNA interference." [DDB:pf]
+is_obsolete: true
 created_by: pfey
 creation_date: 2013-11-06T10:38:10Z
 
 [Term]
 id: DDPHENO:0000022
-name: aberrant production of siRNA involved in RNA interference
+name: aberrant regulation of siRNA processing
 def: "Deviation from the normal, usual, or expected events during production of siRNA involved in RNA interference." [DDB:pf]
+comment: GO:0070921.
+synonym: "aberrant production of siRNA involved in RNA interference" EXACT []
 synonym: "aberrant production of siRNA involved in RNAi" EXACT []
-is_a: DDPHENO:0000020 ! aberrant RNA interference
+is_a: DDPHENO:0000008 ! aberrant co-transcriptional gene silencing by RNA interference machinery
 created_by: pfey
 creation_date: 2013-11-06T11:17:36Z
 
 [Term]
 id: DDPHENO:0000024
-name: abolished production of siRNA involved in RNA interference
+name: abolished regulation of siRNA processing
 def: "Complete inability for production of siRNA involved in RNA interference." [DDB:pf]
+synonym: "abolished production of siRNA involved in RNA interference" EXACT []
 synonym: "abolished production of siRNA involved in RNAi" EXACT []
-is_a: DDPHENO:0000022 ! aberrant production of siRNA involved in RNA interference
+is_a: DDPHENO:0000022 ! aberrant regulation of siRNA processing
 created_by: pfey
 creation_date: 2013-11-06T11:20:17Z
 
@@ -845,9 +851,8 @@ creation_date: 2014-12-17T16:15:30Z
 [Term]
 id: DDPHENO:0000147
 name: aberrant chemorepellant activity
-def: "Deviation from the normal, usual, or expected activity in the directed movement of a motile cell  towards a lower concentration of a signal." [DDB:pf]
+def: "Deviation from the normal, usual, or expected  chemorepellant activity." [DDB:pf]
 comment: GO:0045499; Chemorepellant activity is the counter part_of DDPHENO:0001225 negative chemotaxis.
-synonym: "aberrant chemorepellent activity" EXACT []
 is_a: DDPHENO:0000773 ! aberrant signaling receptor activity
 disjoint_from: DDPHENO:0000346 ! decreased protein kinase activity
 created_by: pfey
@@ -3027,8 +3032,8 @@ is_a: DDPHENO:0001445 ! aberrant actin filament polymerization
 
 [Term]
 id: DDPHENO:0000461
-name: decreased intracellular pH
-def: "Reduction of pH in the cell." [DDB:pf]
+name: decreased regulation intracellular pH
+def: "Reduction of intracellular  pH." [DDB:pf]
 synonym: "decreased cytosolic pH level" EXACT []
 synonym: "intracellular pH reduction" EXACT []
 synonym: "reduction of cellular pH" EXACT []
@@ -3425,9 +3430,10 @@ is_a: DDPHENO:0001174 ! increased cell differentiation
 
 [Term]
 id: DDPHENO:0000530
-name: increased post-transciptional gene silencing by RNA
-def: "Increase in extent, amount, or degree of post-transciptional gene silencing by RNA." [DDB:pf]
-is_a: DDPHENO:0000008 ! aberrant post-transciptional gene silencing by RNA
+name: increased co-transcriptional gene silencing by RNA interference machinery
+def: "Increase in extent, amount, or degree of co-transciptional gene silencing by RNA." [DDB:pf]
+synonym: "increased small RNA-mediated cotranscriptional gene silencing" EXACT []
+is_a: DDPHENO:0000008 ! aberrant co-transcriptional gene silencing by RNA interference machinery
 
 [Term]
 id: DDPHENO:0000531
@@ -5016,10 +5022,10 @@ creation_date: 2021-06-21T17:25:36Z
 
 [Term]
 id: DDPHENO:0000716
-name: decreased production of siRNA involved in RNA interference
+name: decreased regulation of siRNA processing
 def: "Reduction in level of modification of  siRNA production involved in RNA interference." [DDB:pf]
 synonym: "decreased production of siRNA involved in RNAi" EXACT []
-is_a: DDPHENO:0000022 ! aberrant production of siRNA involved in RNA interference
+is_a: DDPHENO:0000022 ! aberrant regulation of siRNA processing
 created_by: pfey
 creation_date: 2021-06-24T12:40:11Z
 
@@ -5538,7 +5544,7 @@ name: aberrant G protein-coupled chemorepellent receptor signaling pathway
 def: "Deviation from the normal, usual, or expected activity of a G-protein coupled chemorepellent receptor activity." [DDB:pf]
 comment: GO:0140986.
 synonym: "aberrant G protein-coupled chemorepellent receptor activity" EXACT []
-is_a: DDPHENO:0000773 ! aberrant signaling receptor activity
+is_a: DDPHENO:0000689 ! aberrant G protein-coupled receptor signaling
 created_by: pfey
 creation_date: 2023-03-08T17:31:23Z
 
@@ -5568,6 +5574,14 @@ synonym: "abolished G protein-coupled chemorepellent receptor activity" EXACT []
 is_a: DDPHENO:0000774 ! aberrant G protein-coupled chemorepellent receptor signaling pathway
 created_by: pfey
 creation_date: 2023-03-08T17:56:16Z
+
+[Term]
+id: DDPHENO:0000778
+name: decreased protein localization to mitotic actomyosin contractile ring
+def: "Reduction in extent, amount, or degree of protein localization to mitotic actomyosin contractile ring." [DDB:pf]
+is_a: DDPHENO:0000796 ! aberrant protein localization to mitotic actomyosin contractile ring
+created_by: petrafey
+creation_date: 2023-03-16T17:36:03Z
 
 [Term]
 id: DDPHENO:0000782
@@ -8583,8 +8597,8 @@ is_a: DDPHENO:0001375 ! aberrant cellular homeostasis
 
 [Term]
 id: DDPHENO:0001377
-name: increased intracellular pH
-def: "Increase in the pH in the cell." [DDB:pf]
+name: increased regulation intracellular pH
+def: "Increase in the intracellular pH." [DDB:pf]
 synonym: "elevation of cellular pH," EXACT []
 synonym: "increased cytosolic pH level" EXACT []
 synonym: "intracellular pH elevation" EXACT []
@@ -9023,12 +9037,14 @@ is_a: DDPHENO:0001289 ! abolished catalytic activity
 id: DDPHENO:0001435
 name: decreased histone deacetylase activity
 def: "Reduction in extent, amount, or degree of histone deacetylase activity." [DDB:pg]
+comment: GO:0004407.
 is_a: DDPHENO:0001257 ! decreased catalytic activity
 
 [Term]
 id: DDPHENO:0001436
 name: increased histone deacetylase activity
 def: "Increase in extent, amount, or degree of histone deacetylase activity." [DDB:pg]
+comment: GO:0004407.
 is_a: DDPHENO:0001256 ! increased catalytic activity
 
 [Term]
@@ -9168,6 +9184,7 @@ creation_date: 2010-02-16T04:08:50Z
 id: DDPHENO:0001455
 name: aberrant regulation of intracellular pH
 def: "Deviation from the normal, usual, or expected regulation of the intracellular pH." [DDB:pf]
+comment: GO:0051453.
 synonym: "aberrant intracellular pH level" EXACT []
 is_a: DDPHENO:0001375 ! aberrant cellular homeostasis
 created_by: pfey
@@ -9177,6 +9194,7 @@ creation_date: 2010-02-19T11:12:47Z
 id: DDPHENO:0001456
 name: aberrant response to cisplatin
 def: "Deviation from the normal, usual, or expected events during the response to cisplatin." [DDb:pg]
+comment: GO:0072718.
 is_a: DDPHENO:0001031 ! aberrant response to abiotic stimulus
 created_by: Pascale
 creation_date: 2010-03-10T09:58:37Z
