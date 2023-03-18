@@ -1,6 +1,6 @@
 format-version: 1.2
-date: 16:03:2023 18:00
-saved-by: petrafey
+date: 17:03:2023 18:16
+saved-by: pfey
 auto-generated-by: OBO-Edit 2.2
 default-namespace: Dicty Phenotypes
 property_value: http://purl.org/dc/elements/1.1/description "A structured controlled vocabulary of phenotypes of the slime-mould Dictyostelium discoideum." xsd:string
@@ -854,7 +854,6 @@ name: aberrant chemorepellant activity
 def: "Deviation from the normal, usual, or expected  chemorepellant activity." [DDB:pf]
 comment: GO:0045499; Chemorepellant activity is the counter part_of DDPHENO:0001225 negative chemotaxis.
 is_a: DDPHENO:0000773 ! aberrant signaling receptor activity
-disjoint_from: DDPHENO:0000346 ! decreased protein kinase activity
 created_by: pfey
 creation_date: 2014-12-17T16:19:14Z
 
@@ -5469,10 +5468,9 @@ creation_date: 2022-12-20T19:33:32Z
 
 [Term]
 id: DDPHENO:0000766
-name: aberrant SCAR complex assembly
-def: "Deviation from the normal, usual, or expected events during SCAR complex assembly." [DDB:pf]
-synonym: "aberrant SCAR/WAVE complex assembly" EXACT []
-is_a: DDPHENO:0000765 ! aberrant protein-containing complex assembly
+name: decreased  cell-cell self recognition
+def: "Reduction in extent, amount, or degree of cell-cell self recognition." [DDB:pf]
+is_a: DDPHENO:0000122 ! aberrant cell-cell self recognition
 created_by: pfey
 creation_date: 2022-12-20T19:35:59Z
 
@@ -5580,15 +5578,23 @@ id: DDPHENO:0000778
 name: decreased protein localization to mitotic actomyosin contractile ring
 def: "Reduction in extent, amount, or degree of protein localization to mitotic actomyosin contractile ring." [DDB:pf]
 is_a: DDPHENO:0000796 ! aberrant protein localization to mitotic actomyosin contractile ring
-created_by: petrafey
+created_by: pfey
 creation_date: 2023-03-16T17:36:03Z
+
+[Term]
+id: DDPHENO:0000779
+name: increased heterotrimeric G-protein complex assembly
+def: "Increase in extent, amount, or degree of heterotrimeric G-protein complex assembly." [DDB:pf]
+is_a: DDPHENO:0000806 ! aberrant heterotrimeric G-protein complex assembly
+created_by: pfey
+creation_date: 2023-03-17T17:58:26Z
 
 [Term]
 id: DDPHENO:0000782
 name: aberrant DNA (cytosine-5-)-methyltransferase activity
 def: "Deviation from the normal, usual, or expected activity of  DNA cytosine-5-)-methyltransferase activity." [DDB:pf]
 is_a: DDPHENO:0000737 ! aberrant DNA-methyltransferase activity
-created_by: petrafey
+created_by: pfey
 creation_date: 2023-03-13T14:05:10Z
 
 [Term]
@@ -5597,7 +5603,7 @@ name: decreased DNA (cytosine-5-)-methyltransferase activity
 def: "Reduction in extent, amount, or degree of DNA (cytosine-5-)-methyltransferase activity." [DDB:pf]
 is_a: DDPHENO:0000738 ! decreased DNA-methyltransferase activity
 is_a: DDPHENO:0000782 ! aberrant DNA (cytosine-5-)-methyltransferase activity
-created_by: petrafey
+created_by: pfey
 creation_date: 2023-03-13T14:06:25Z
 
 [Term]
@@ -5605,7 +5611,7 @@ id: DDPHENO:0000784
 name: abolished DNA (cytosine-5-)-methyltransferase activity
 def: "Complete absence of DNA (cytosine-5-)-methyltransferase activity." [DDB:pf]
 is_a: DDPHENO:0000782 ! aberrant DNA (cytosine-5-)-methyltransferase activity
-created_by: petrafey
+created_by: pfey
 creation_date: 2023-03-13T15:22:57Z
 
 [Term]
@@ -5614,7 +5620,7 @@ name: aberrant molecular function regulator activity
 def: "Deviation from the normal, usual, or expected molecular function regulator activity." [DDB:pf]
 comment: GO:0098772.
 is_a: DDPHENO:0001105 ! aberrant catalytic activity
-created_by: petrafey
+created_by: pfey
 creation_date: 2023-03-13T17:41:24Z
 
 [Term]
@@ -5623,7 +5629,7 @@ name: aberrant adenylate cyclase regulator activity
 def: "Deviation from the normal, usual, or expected adenylate cyclase regulator activity." [DDB:pf]
 comment: GO:0010854.
 is_a: DDPHENO:0000785 ! aberrant molecular function regulator activity
-created_by: petrafey
+created_by: pfey
 creation_date: 2023-03-13T17:44:47Z
 
 [Term]
@@ -5632,7 +5638,7 @@ name: decreased adenylate cyclase regulator activity
 def: "A reduction in extent, amount, or degree of adenylate cyclase regulator activity." [DDB:pf]
 comment: GO:0010854.
 is_a: DDPHENO:0000786 ! aberrant adenylate cyclase regulator activity
-created_by: petrafey
+created_by: pfey
 creation_date: 2023-03-13T17:47:16Z
 
 [Term]
@@ -5641,7 +5647,7 @@ name: abolished adenylate cyclase regulator activity
 def: "Complete absence of adenylate cyclase regulator activity." [DDB:pf]
 comment: GO:0010854.
 is_a: DDPHENO:0000786 ! aberrant adenylate cyclase regulator activity
-created_by: petrafey
+created_by: pfey
 creation_date: 2023-03-13T18:13:21Z
 
 [Term]
@@ -5650,7 +5656,7 @@ name: aberrant adenylate cyclase activator activity
 def: "Deviation from the normal, usual, or expected adenylate cyclase activator activity." [DDB:pf]
 comment: GO:0010856.
 is_a: DDPHENO:0000786 ! aberrant adenylate cyclase regulator activity
-created_by: petrafey
+created_by: pfey
 creation_date: 2023-03-13T18:18:32Z
 
 [Term]
@@ -5660,7 +5666,7 @@ def: "Reduction in extent, amount, or degree of adenylate cyclase activator acti
 comment: GO:0010856.
 is_a: DDPHENO:0000787 ! decreased adenylate cyclase regulator activity
 is_a: DDPHENO:0000789 ! aberrant adenylate cyclase activator activity
-created_by: petrafey
+created_by: pfey
 creation_date: 2023-03-13T18:19:16Z
 
 [Term]
@@ -5670,7 +5676,7 @@ def: "Complete absence of adenylate cyclase activator activity." [DDB:pf]
 comment: GO:0010856.
 is_a: DDPHENO:0000788 ! abolished adenylate cyclase regulator activity
 is_a: DDPHENO:0000789 ! aberrant adenylate cyclase activator activity
-created_by: petrafey
+created_by: pfey
 creation_date: 2023-03-13T18:20:48Z
 
 [Term]
@@ -5679,7 +5685,7 @@ name: aberrant protein kinase regulator activity
 def: "Deviation from the normal, usual, or expected protein kinase regulator activity." [DDB:pf]
 comment: GO:0019887.
 is_a: DDPHENO:0000785 ! aberrant molecular function regulator activity
-created_by: petrafey
+created_by: pfey
 creation_date: 2023-03-13T18:41:58Z
 
 [Term]
@@ -5688,7 +5694,7 @@ name: increased protein kinase regulator activity
 def: "Increase in extent, amount, or degree of protein kinase regulator activity." [DDB:pf]
 comment: GO:0019887.
 is_a: DDPHENO:0000792 ! aberrant protein kinase regulator activity
-created_by: petrafey
+created_by: pfey
 creation_date: 2023-03-13T18:44:36Z
 
 [Term]
@@ -5697,7 +5703,7 @@ name: decreased protein kinase regulator activity
 def: "Reduction in extent, amount, or degree of protein kinase regulator activity." [DDB:pf]
 comment: GO:0019887.
 is_a: DDPHENO:0000792 ! aberrant protein kinase regulator activity
-created_by: petrafey
+created_by: pfey
 creation_date: 2023-03-13T18:46:09Z
 
 [Term]
@@ -5706,7 +5712,7 @@ name: abolished protein kinase regulator activity
 def: "Complete absence of protein kinase regulator activity." [DDB:pf]
 comment: GO:0019887.
 is_a: DDPHENO:0000792 ! aberrant protein kinase regulator activity
-created_by: petrafey
+created_by: pfey
 creation_date: 2023-03-13T18:47:51Z
 
 [Term]
@@ -5715,7 +5721,7 @@ name: aberrant protein localization to mitotic actomyosin contractile ring
 def: "Deviation from the normal, usual, or expected protein localization to mitotic actomyosin contractile ring." [DDB:pf]
 comment: GO:1904498.
 is_a: DDPHENO:0000149 ! aberrant cytokinesis
-created_by: petrafey
+created_by: pfey
 creation_date: 2023-03-13T18:56:02Z
 
 [Term]
@@ -5724,7 +5730,7 @@ name: abolished protein localization to mitotic actomyosin contractile ring
 def: "Complete inability for protein localization to mitotic actomyosin contractile ring." [DDB:pf]
 comment: GO:1904498.
 is_a: DDPHENO:0000796 ! aberrant protein localization to mitotic actomyosin contractile ring
-created_by: petrafey
+created_by: pfey
 creation_date: 2023-03-13T19:02:59Z
 
 [Term]
@@ -5733,7 +5739,7 @@ name: aberrant GTPase regulator activity
 def: "Deviation from the normal, usual, or expected GTPase regulator activity." [DDB:pf]
 comment: GO:0030695.
 is_a: DDPHENO:0000785 ! aberrant molecular function regulator activity
-created_by: petrafey
+created_by: pfey
 creation_date: 2023-03-13T19:20:39Z
 
 [Term]
@@ -5742,7 +5748,7 @@ name: aberrant GTPase activator activity
 def: "Deviation from the normal, usual, or expected GTPase activator activity." [DDB:pf]
 comment: GO:0005096.
 is_a: DDPHENO:0000798 ! aberrant GTPase regulator activity
-created_by: petrafey
+created_by: pfey
 creation_date: 2023-03-13T19:24:53Z
 
 [Term]
@@ -5751,7 +5757,7 @@ name: increased GTPase activator activity
 def: "Increase in extent, amount, or degree of GTPase activator activity." [DDB:pf]
 comment: GO:0005096.
 is_a: DDPHENO:0000799 ! aberrant GTPase activator activity
-created_by: petrafey
+created_by: pfey
 creation_date: 2023-03-13T19:26:09Z
 
 [Term]
@@ -5760,7 +5766,7 @@ name: decreased GTPase activator activity
 def: "Reduction in extent, amount, or degree of GTPase activator activity." [DDB:pf]
 comment: GO:0005096.
 is_a: DDPHENO:0000799 ! aberrant GTPase activator activity
-created_by: petrafey
+created_by: pfey
 creation_date: 2023-03-13T19:31:05Z
 
 [Term]
@@ -5768,7 +5774,7 @@ id: DDPHENO:0000802
 name: abolished GTPase activator activity
 def: "Complete absence of GTPase activator activity." [DDB:pf]
 is_a: DDPHENO:0000799 ! aberrant GTPase activator activity
-created_by: petrafey
+created_by: pfey
 creation_date: 2023-03-13T20:29:44Z
 
 [Term]
@@ -5777,7 +5783,7 @@ name: aberrant autophagosome maturation
 def: "Deviation from the normal, usual, or expected events during autophagosome maturation." [DDB:pf]
 comment: GO:0097352.
 is_a: DDPHENO:0000212 ! aberrant macroautophagy
-created_by: petrafey
+created_by: pfey
 creation_date: 2023-03-13T20:36:01Z
 
 [Term]
@@ -5785,7 +5791,7 @@ id: DDPHENO:0000804
 name: decreased autophagosome maturation
 def: "Reduction in extent, amount, or degree of autophagosome maturation." [DDB:pf]
 is_a: DDPHENO:0000803 ! aberrant autophagosome maturation
-created_by: petrafey
+created_by: pfey
 creation_date: 2023-03-13T20:37:43Z
 
 [Term]
@@ -5793,7 +5799,7 @@ id: DDPHENO:0000805
 name: abolished autophagosome maturation
 def: "Complete absence of autophagosome maturation." [DDB:pf]
 is_a: DDPHENO:0000803 ! aberrant autophagosome maturation
-created_by: petrafey
+created_by: pfey
 creation_date: 2023-03-13T20:38:52Z
 
 [Term]
@@ -5802,7 +5808,7 @@ name: aberrant heterotrimeric G-protein complex assembly
 def: "Deviation from the normal, usual, or expected events during heterotrimeric G-protein complex assembly." [DDB:pf]
 comment: GO:1902605.
 is_a: DDPHENO:0000765 ! aberrant protein-containing complex assembly
-created_by: petrafey
+created_by: pfey
 creation_date: 2023-03-13T20:46:07Z
 
 [Term]
@@ -5810,7 +5816,7 @@ id: DDPHENO:0000807
 name: decreased heterotrimeric G-protein complex assembly
 def: "Reduction in extent, amount, or degree of heterotrimeric G-protein complex assembly." [DDB:pf]
 is_a: DDPHENO:0000806 ! aberrant heterotrimeric G-protein complex assembly
-created_by: petrafey
+created_by: pfey
 creation_date: 2023-03-13T20:50:18Z
 
 [Term]
@@ -5818,7 +5824,7 @@ id: DDPHENO:0000808
 name: abolished heterotrimeric G-protein complex assembly
 def: "Complete absence of  heterotrimeric G-protein complex assembly." [DDB:pf]
 is_a: DDPHENO:0000806 ! aberrant heterotrimeric G-protein complex assembly
-created_by: petrafey
+created_by: pfey
 creation_date: 2023-03-13T20:51:36Z
 
 [Term]
@@ -5826,7 +5832,7 @@ id: DDPHENO:0000809
 name: aberrant protein metabolic process
 def: "Deviation from the normal, usual, or expected events during protein metabolic process." [DDB:pf]
 is_a: DDPHENO:0001005 ! aberrant cellular metabolic process
-created_by: petrafey
+created_by: pfey
 creation_date: 2023-03-13T23:04:53Z
 
 [Term]
@@ -5835,7 +5841,7 @@ name: aberrant proteasomal protein catabolic process
 def: "Deviation from the normal, usual, or expected events during proteasomal protein catabolic process." [DDB:pf]
 comment: GO:0010498.
 is_a: DDPHENO:0000809 ! aberrant protein metabolic process
-created_by: petrafey
+created_by: pfey
 creation_date: 2023-03-13T23:06:27Z
 
 [Term]
@@ -5843,7 +5849,7 @@ id: DDPHENO:0000811
 name: decreased proteasomal protein catabolic process
 def: "Reduction in extent, amount, or degree of proteasomal protein catabolic process." [DDB:pf]
 is_a: DDPHENO:0000810 ! aberrant proteasomal protein catabolic process
-created_by: petrafey
+created_by: pfey
 creation_date: 2023-03-13T23:07:39Z
 
 [Term]
@@ -5851,7 +5857,7 @@ id: DDPHENO:0000812
 name: abolished proteasomal protein catabolic process
 def: "Complete absence of proteasomal protein catabolic process." [DDB:pf]
 is_a: DDPHENO:0000810 ! aberrant proteasomal protein catabolic process
-created_by: petrafey
+created_by: pfey
 creation_date: 2023-03-13T23:09:23Z
 
 [Term]
@@ -5859,7 +5865,7 @@ id: DDPHENO:0000813
 name: aberrant ubiquitin-dependent protein catabolic process
 def: "Deviation from the normal, usual, or expected events during ubiquitin-dependent protein catabolic process." [DDB:pf]
 is_a: DDPHENO:0000809 ! aberrant protein metabolic process
-created_by: petrafey
+created_by: pfey
 creation_date: 2023-03-13T23:15:25Z
 
 [Term]
@@ -5867,7 +5873,7 @@ id: DDPHENO:0000814
 name: decreased ubiquitin-dependent protein catabolic process
 def: "Reduction in extent, amount, or degree of ubiquitin-dependent protein catabolic process." [DDB:pf]
 is_a: DDPHENO:0000813 ! aberrant ubiquitin-dependent protein catabolic process
-created_by: petrafey
+created_by: pfey
 creation_date: 2023-03-13T23:16:32Z
 
 [Term]
@@ -5875,7 +5881,7 @@ id: DDPHENO:0000815
 name: abolished ubiquitin-dependent protein catabolic process
 def: "Complete absence of ubiquitin-dependent protein catabolic process." [DDB:pf]
 is_a: DDPHENO:0000813 ! aberrant ubiquitin-dependent protein catabolic process
-created_by: petrafey
+created_by: pfey
 creation_date: 2023-03-13T23:18:49Z
 
 [Term]
@@ -5883,7 +5889,7 @@ id: DDPHENO:0000816
 name: abolished programmed cell death
 def: "Complete absence of  programmed cell death." [DDB:pf]
 is_a: DDPHENO:0000770 ! aberrant programmed cell death
-created_by: petrafey
+created_by: pfey
 creation_date: 2023-03-14T14:13:46Z
 
 [Term]
@@ -5891,7 +5897,7 @@ id: DDPHENO:0000817
 name: decreased regulation of MAPK cascade
 def: "Reduction in extent, amount, or degree of regulation of MAPK cascade." [DDB:pf]
 is_a: DDPHENO:0000739 ! aberrant regulation of MAPK cascade
-created_by: petrafey
+created_by: pfey
 creation_date: 2023-03-14T14:40:41Z
 
 [Term]
@@ -5899,7 +5905,7 @@ id: DDPHENO:0000818
 name: increased regulation of MAPK cascade
 def: "Increase in extent, amount, or degree of regulation of MAPK cascade." [DDB:pf]
 is_a: DDPHENO:0000739 ! aberrant regulation of MAPK cascade
-created_by: petrafey
+created_by: pfey
 creation_date: 2023-03-14T14:43:42Z
 
 [Term]
@@ -5908,7 +5914,7 @@ name: aberrant TORC2 signaling
 def: "Deviation from the normal, usual, or expected events during TORC2 signaling." [DDB:pf]
 comment: GO:0038203.
 is_a: DDPHENO:0001118 ! aberrant signal transduction
-created_by: petrafey
+created_by: pfey
 creation_date: 2023-03-14T14:53:48Z
 
 [Term]
@@ -5916,7 +5922,7 @@ id: DDPHENO:0000820
 name: decreased TORC2 signaling
 def: "Reduction in extent, amount, or degree of TORC2 signaling." [DDB:pf]
 is_a: DDPHENO:0000819 ! aberrant TORC2 signaling
-created_by: petrafey
+created_by: pfey
 creation_date: 2023-03-14T14:55:42Z
 
 [Term]
@@ -5924,7 +5930,7 @@ id: DDPHENO:0000821
 name: abolished TORC2 signaling
 def: "Complete absence of TORC2 signaling." [DDB:pf]
 is_a: DDPHENO:0000819 ! aberrant TORC2 signaling
-created_by: petrafey
+created_by: pfey
 creation_date: 2023-03-14T14:56:38Z
 
 [Term]
@@ -5932,7 +5938,7 @@ id: DDPHENO:0000822
 name: increased TORC2 signaling
 def: "Increase in extent, amount, or degree of TORC2 signaling." [DDB:pf]
 is_a: DDPHENO:0000819 ! aberrant TORC2 signaling
-created_by: petrafey
+created_by: pfey
 creation_date: 2023-03-14T14:58:17Z
 
 [Term]
@@ -5940,7 +5946,7 @@ id: DDPHENO:0000823
 name: aberrant Rab protein signal transduction
 def: "Deviation from the normal, usual, or expected events during Rab protein signal transduction." [DDB:pf]
 is_a: DDPHENO:0001118 ! aberrant signal transduction
-created_by: petrafey
+created_by: pfey
 creation_date: 2023-03-14T16:33:25Z
 
 [Term]
@@ -5948,7 +5954,7 @@ id: DDPHENO:0000824
 name: decreased Rab protein signal transduction
 def: "Reduction in extent, amount, or degree of activation of Rab protein signal transduction." [DDB:pf]
 is_a: DDPHENO:0000823 ! aberrant Rab protein signal transduction
-created_by: petrafey
+created_by: pfey
 creation_date: 2023-03-14T16:35:14Z
 
 [Term]
@@ -5956,7 +5962,7 @@ id: DDPHENO:0000825
 name: increased Rab protein signal transduction
 def: "Increase in extent, amount, or degree of Rab protein signal transduction." [DDB:pf]
 is_a: DDPHENO:0000823 ! aberrant Rab protein signal transduction
-created_by: petrafey
+created_by: pfey
 creation_date: 2023-03-14T16:47:48Z
 
 [Term]
@@ -5964,7 +5970,7 @@ id: DDPHENO:0000826
 name: abolished Rab  protein signal transduction.
 def: "Complete absence of Rab  protein signal transduction." [DDB:pf]
 is_a: DDPHENO:0000823 ! aberrant Rab protein signal transduction
-created_by: petrafey
+created_by: pfey
 creation_date: 2023-03-14T16:48:54Z
 
 [Term]
@@ -5972,7 +5978,7 @@ id: DDPHENO:0000827
 name: aberrant Rap protein signal transduction
 def: "Deviation from the normal, usual, or expected events during Rap protein signal transduction." [DDB:pf]
 is_a: DDPHENO:0001118 ! aberrant signal transduction
-created_by: petrafey
+created_by: pfey
 creation_date: 2023-03-14T16:50:12Z
 
 [Term]
@@ -5980,7 +5986,7 @@ id: DDPHENO:0000828
 name: decreased Rap protein signal transduction
 def: "Reduction in extent, amount, or degree of activation of Rap protein signal transduction." [DDB:pf]
 is_a: DDPHENO:0000827 ! aberrant Rap protein signal transduction
-created_by: petrafey
+created_by: pfey
 creation_date: 2023-03-14T16:51:25Z
 
 [Term]
@@ -5988,7 +5994,7 @@ id: DDPHENO:0000829
 name: increased Rap protein signal transduction
 def: "Increase in extent, amount, or degree of Rap protein signal transduction." [DDB:pf]
 is_a: DDPHENO:0000827 ! aberrant Rap protein signal transduction
-created_by: petrafey
+created_by: pfey
 creation_date: 2023-03-14T16:53:09Z
 
 [Term]
@@ -5996,7 +6002,7 @@ id: DDPHENO:0000830
 name: abolished Rap protein signal transduction
 def: "Complete absence of Rap protein signal transduction." [DDB:pf]
 is_a: DDPHENO:0000827 ! aberrant Rap protein signal transduction
-created_by: petrafey
+created_by: pfey
 creation_date: 2023-03-14T16:54:00Z
 
 [Term]
@@ -6004,7 +6010,7 @@ id: DDPHENO:0000831
 name: aberrant Rac protein signal transduction
 def: "Deviation from the normal, usual, or expected events during Rac protein signal transduction." [DDB:pf]
 is_a: DDPHENO:0001118 ! aberrant signal transduction
-created_by: petrafey
+created_by: pfey
 creation_date: 2023-03-14T16:55:28Z
 
 [Term]
@@ -6012,7 +6018,7 @@ id: DDPHENO:0000832
 name: decreased Rac protein signal transduction
 def: "Reduction in extent, amount, or degree of activation of Rac protein signal transduction." [DDB:pf]
 is_a: DDPHENO:0000831 ! aberrant Rac protein signal transduction
-created_by: petrafey
+created_by: pfey
 creation_date: 2023-03-14T16:56:28Z
 
 [Term]
@@ -6020,7 +6026,7 @@ id: DDPHENO:0000833
 name: increased Rac protein signal transduction
 def: "Increase in extent, amount, or degree of Rac protein signal transduction." [DDB:pf]
 is_a: DDPHENO:0000831 ! aberrant Rac protein signal transduction
-created_by: petrafey
+created_by: pfey
 creation_date: 2023-03-14T16:57:16Z
 
 [Term]
@@ -6028,7 +6034,7 @@ id: DDPHENO:0000834
 name: abolished Rac protein signal transduction
 def: "Complete absence of Rac protein signal transduction." [DDB:pf]
 is_a: DDPHENO:0000831 ! aberrant Rac protein signal transduction
-created_by: petrafey
+created_by: pfey
 creation_date: 2023-03-14T16:57:58Z
 
 [Term]
@@ -6037,7 +6043,7 @@ name: aberrant small GTPase mediated signal transduction
 def: "Deviation from the normal, usual, or expected events during small GTPase mediated signal transduction." [DDB:pf]
 comment: GO:0007264.
 is_a: DDPHENO:0001118 ! aberrant signal transduction
-created_by: petrafey
+created_by: pfey
 creation_date: 2023-03-14T17:08:48Z
 
 [Term]
@@ -6045,7 +6051,7 @@ id: DDPHENO:0000836
 name: decreased small GTPase mediated signal transduction
 def: "Reduction in extent, amount, or degree of small GTPase mediated signal transduction." [DDB:pf]
 is_a: DDPHENO:0000835 ! aberrant small GTPase mediated signal transduction
-created_by: petrafey
+created_by: pfey
 creation_date: 2023-03-14T17:12:46Z
 
 [Term]
@@ -6053,7 +6059,7 @@ id: DDPHENO:0000837
 name: increased small GTPase mediated signal transduction
 def: "Increase in extent, amount, or degree of small GTPase mediated signal transduction." [DDB:pf]
 is_a: DDPHENO:0000835 ! aberrant small GTPase mediated signal transduction
-created_by: petrafey
+created_by: pfey
 creation_date: 2023-03-14T17:13:42Z
 
 [Term]
@@ -6061,7 +6067,7 @@ id: DDPHENO:0000838
 name: abolished small GTPase mediated signal transduction
 def: "Complete absence of small GTPase mediated signal transduction." [DDB:pf]
 is_a: DDPHENO:0000835 ! aberrant small GTPase mediated signal transduction
-created_by: petrafey
+created_by: pfey
 creation_date: 2023-03-14T17:14:29Z
 
 [Term]
