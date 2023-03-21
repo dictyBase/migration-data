@@ -5864,6 +5864,7 @@ creation_date: 2023-03-13T23:09:23Z
 id: DDPHENO:0000813
 name: aberrant ubiquitin-dependent protein catabolic process
 def: "Deviation from the normal, usual, or expected events during ubiquitin-dependent protein catabolic process." [DDB:pf]
+comment: GO:0006511.
 is_a: DDPHENO:0000809 ! aberrant protein metabolic process
 created_by: pfey
 creation_date: 2023-03-13T23:15:25Z
@@ -5945,6 +5946,7 @@ creation_date: 2023-03-14T14:58:17Z
 id: DDPHENO:0000823
 name: aberrant Rab protein signal transduction
 def: "Deviation from the normal, usual, or expected events during Rab protein signal transduction." [DDB:pf]
+comment: GO:0032482.
 is_a: DDPHENO:0001118 ! aberrant signal transduction
 created_by: pfey
 creation_date: 2023-03-14T16:33:25Z
@@ -5967,7 +5969,7 @@ creation_date: 2023-03-14T16:47:48Z
 
 [Term]
 id: DDPHENO:0000826
-name: abolished Rab  protein signal transduction.
+name: abolished Rab  protein signal transduction
 def: "Complete absence of Rab  protein signal transduction." [DDB:pf]
 is_a: DDPHENO:0000823 ! aberrant Rab protein signal transduction
 created_by: pfey
@@ -5977,6 +5979,7 @@ creation_date: 2023-03-14T16:48:54Z
 id: DDPHENO:0000827
 name: aberrant Rap protein signal transduction
 def: "Deviation from the normal, usual, or expected events during Rap protein signal transduction." [DDB:pf]
+comment: GO:0032486.
 is_a: DDPHENO:0001118 ! aberrant signal transduction
 created_by: pfey
 creation_date: 2023-03-14T16:50:12Z
@@ -6009,6 +6012,7 @@ creation_date: 2023-03-14T16:54:00Z
 id: DDPHENO:0000831
 name: aberrant Rac protein signal transduction
 def: "Deviation from the normal, usual, or expected events during Rac protein signal transduction." [DDB:pf]
+comment: GO:0016601.
 is_a: DDPHENO:0001118 ! aberrant signal transduction
 created_by: pfey
 creation_date: 2023-03-14T16:55:28Z
@@ -8603,7 +8607,7 @@ is_a: DDPHENO:0001375 ! aberrant cellular homeostasis
 
 [Term]
 id: DDPHENO:0001377
-name: increased regulation intracellular pH
+name: increased regulation of intracellular pH
 def: "Increase in the intracellular pH." [DDB:pf]
 synonym: "elevation of cellular pH," EXACT []
 synonym: "increased cytosolic pH level" EXACT []
