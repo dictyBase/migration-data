@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 17:03:2023 18:16
+date: 10:05:2023 18:14
 saved-by: pfey
 auto-generated-by: OBO-Edit 2.2
 default-namespace: Dicty Phenotypes
@@ -237,6 +237,8 @@ creation_date: 2013-12-02T17:39:10Z
 id: DDPHENO:0000028
 name: abolished stalk development
 def: "Complete inability for stalk development." [DDB:pg]
+comment: GO:0031150.
+synonym: "abolished sorocarp stalk development" EXACT []
 synonym: "abolished stalk formation" RELATED []
 is_a: DDPHENO:0001012 ! aberrant stalk development
 
@@ -389,8 +391,8 @@ creation_date: 2014-03-20T14:03:28Z
 
 [Term]
 id: DDPHENO:0000046
-name: aberrant phosphatidylinositol biosynthesis
-def: "Deviation from the normal, usual, or expected events during phosphatidylinositol biosynthesis." [DDB:pf]
+name: aberrant phosphatidylinositol synthesis
+def: "Deviation from the normal, usual, or expected events during phosphatidylinositol synthesis." [DDB:pf]
 synonym: "aberrant phosphatidylinositol biosynthetic process" EXACT []
 is_a: DDPHENO:0000045 ! aberrant phosphatidylinositol metabolism
 created_by: pfey
@@ -398,28 +400,28 @@ creation_date: 2014-03-20T14:07:21Z
 
 [Term]
 id: DDPHENO:0000047
-name: decreased phosphatidylinositol biosynthesis
-def: "Reduction in extent, amount, or degree of phosphatidylinositol biosynthesis." [DDB:pf]
+name: decreased phosphatidylinositol synthesis
+def: "Reduction in extent, amount, or degree of phosphatidylinositol synthesis." [DDB:pf]
 synonym: "decreased phosphatidylinositol biosynthetic process" EXACT []
-is_a: DDPHENO:0000046 ! aberrant phosphatidylinositol biosynthesis
+is_a: DDPHENO:0000046 ! aberrant phosphatidylinositol synthesis
 created_by: pfey
 creation_date: 2014-03-20T14:09:34Z
 
 [Term]
 id: DDPHENO:0000048
-name: increased phosphatidylinositol biosynthesis
-def: "Increase in extent, amount, or degree of phosphatidylinositol biosynthesis." [DDB:pf]
+name: increased phosphatidylinositol synthesis
+def: "Increase in extent, amount, or degree of phosphatidylinositol synthesis." [DDB:pf]
 synonym: "increased phosphatidylinositol biosynthetic process" EXACT []
-is_a: DDPHENO:0000046 ! aberrant phosphatidylinositol biosynthesis
+is_a: DDPHENO:0000046 ! aberrant phosphatidylinositol synthesis
 created_by: pfey
 creation_date: 2014-03-20T14:10:51Z
 
 [Term]
 id: DDPHENO:0000049
-name: abolished phosphatidylinositol biosynthesis
+name: abolished phosphatidylinositol synthesis
 def: "Complete inability for the production of  phosphatidylinositol." [DDB:pf]
 synonym: "abolished phosphatidylinositol biosynthetic process" EXACT []
-is_a: DDPHENO:0000046 ! aberrant phosphatidylinositol biosynthesis
+is_a: DDPHENO:0000046 ! aberrant phosphatidylinositol synthesis
 created_by: pfey
 creation_date: 2014-03-20T14:12:10Z
 
@@ -996,7 +998,7 @@ is_a: DDPHENO:0000154 ! aberrant sorocarp development
 id: DDPHENO:0000163
 name: aberrant spore morphology
 def: "Deviation from the normal, usual, or expected morphology of the spore." [DDB:pg]
-is_a: DDPHENO:0000236 ! aberrant cell morphology
+is_a: DDPHENO:0000236 ! aberrant cell morphogenesis
 is_a: DDPHENO:0000513 ! aberrant sporulation
 
 [Term]
@@ -1419,9 +1421,9 @@ is_obsolete: true
 
 [Term]
 id: DDPHENO:0000236
-name: aberrant cell morphology
+name: aberrant cell morphogenesis
 def: "Deviation from the normal, usual, or expected morphology of a cell." [DDB:pg]
-comment: Child of GO:0000902 : cellular morphogenesis.
+comment: GO:0000902.
 is_a: DDPHENO:0001008 ! aberrant cellular process
 
 [Term]
@@ -1652,7 +1654,7 @@ id: DDPHENO:0000265
 name: aberrant myosin II filament organization
 def: "Deviation from the normal, usual, or expected events during myosin II organization." [DDB:pg]
 synonym: "aberrant myosin II organization" EXACT []
-is_a: DDPHENO:0000236 ! aberrant cell morphology
+is_a: DDPHENO:0000236 ! aberrant cell morphogenesis
 
 [Term]
 id: DDPHENO:0000269
@@ -2529,7 +2531,7 @@ name: decreased vegetative cell size
 def: "Reduction in relative or proportionate dimensions of the vegetative cell." [DDB:pf]
 synonym: "decreased vegetative amoebae size" EXACT []
 xref: PMID:18366659 "DDANAT:0000002"
-is_a: DDPHENO:0000236 ! aberrant cell morphology
+is_a: DDPHENO:0000236 ! aberrant cell morphogenesis
 
 [Term]
 id: DDPHENO:0000381
@@ -2716,7 +2718,7 @@ name: increased vegetative cell size
 def: "Increase in relative or proportionate dimensions of the vegetative cell." [DDB:pf]
 synonym: "increased vegetative amoebae size" EXACT []
 xref: PMID:18366659 "DDANAT:0000002"
-is_a: DDPHENO:0000236 ! aberrant cell morphology
+is_a: DDPHENO:0000236 ! aberrant cell morphogenesis
 
 [Term]
 id: DDPHENO:0000407
@@ -3146,9 +3148,10 @@ is_obsolete: true
 
 [Term]
 id: DDPHENO:0000482
-name: aberrant stream morphology
+name: aberrant stream development
 def: "Deviation from the normal, usual, or expected process of streaming." [DDB:pg]
-synonym: "aberrant stream development" RELATED []
+synonym: "aberrant stream development during sorocarp development" EXACT []
+synonym: "aberrant stream morphology" EXACT []
 synonym: "aberrant streaming" EXACT []
 is_a: DDPHENO:0000483 ! aberrant aggregation
 
@@ -3213,8 +3216,9 @@ id: DDPHENO:0000492
 name: abolished stream development
 def: "Complete inability for streaming during early development." [DDB:pf]
 synonym: "abolished development of streams" EXACT []
+synonym: "abolished stream development during sorocarp development" EXACT []
 synonym: "abolished streaming" EXACT []
-is_a: DDPHENO:0000482 ! aberrant stream morphology
+is_a: DDPHENO:0000482 ! aberrant stream development
 
 [Term]
 id: DDPHENO:0000493
@@ -3525,7 +3529,7 @@ is_a: DDPHENO:0001013 ! aberrant cell differentiation
 [Term]
 id: DDPHENO:0000547
 name: aberrant late culminant morphology
-def: "Deviation from the normal, usual, or expected morphology of the late culminant." [DDB:pf]
+def: "Deviation from the normal, usual, or expected morphogenesis of the late culminant." [DDB:pf]
 is_a: DDPHENO:0001015 ! aberrant culmination
 
 [Term]
@@ -5593,6 +5597,8 @@ creation_date: 2023-03-17T17:58:26Z
 id: DDPHENO:0000782
 name: aberrant DNA (cytosine-5-)-methyltransferase activity
 def: "Deviation from the normal, usual, or expected activity of  DNA cytosine-5-)-methyltransferase activity." [DDB:pf]
+comment: GO:0003886.
+synonym: "aberrant DNA 5-cytosine methylase activity" EXACT []
 is_a: DDPHENO:0000737 ! aberrant DNA-methyltransferase activity
 created_by: pfey
 creation_date: 2023-03-13T14:05:10Z
@@ -5601,6 +5607,7 @@ creation_date: 2023-03-13T14:05:10Z
 id: DDPHENO:0000783
 name: decreased DNA (cytosine-5-)-methyltransferase activity
 def: "Reduction in extent, amount, or degree of DNA (cytosine-5-)-methyltransferase activity." [DDB:pf]
+synonym: "decreased DNA 5-cytosine methylase activity" EXACT []
 is_a: DDPHENO:0000738 ! decreased DNA-methyltransferase activity
 is_a: DDPHENO:0000782 ! aberrant DNA (cytosine-5-)-methyltransferase activity
 created_by: pfey
@@ -5610,6 +5617,7 @@ creation_date: 2023-03-13T14:06:25Z
 id: DDPHENO:0000784
 name: abolished DNA (cytosine-5-)-methyltransferase activity
 def: "Complete absence of DNA (cytosine-5-)-methyltransferase activity." [DDB:pf]
+synonym: "abolished DNA 5-cytosine methylase activity" EXACT []
 is_a: DDPHENO:0000782 ! aberrant DNA (cytosine-5-)-methyltransferase activity
 created_by: pfey
 creation_date: 2023-03-13T15:22:57Z
@@ -6157,6 +6165,7 @@ is_obsolete: true
 id: DDPHENO:0001012
 name: aberrant stalk development
 def: "Deviation from the normal, usual, or expected events during stalk development." [DDB:pg]
+synonym: "aberrant sorocarp stalk development" EXACT []
 synonym: "aberrant stalk formation" RELATED []
 is_a: DDPHENO:0001015 ! aberrant culmination
 
@@ -6264,7 +6273,7 @@ is_a: DDPHENO:0001048 ! aberrant cell projection biogenesis
 id: DDPHENO:0001029
 name: aberrant establishment or maintenance of cell polarity
 def: "Deviation from the normal, usual, or expected events during establishment and/or maintenance of cell polarity." [DDB:pg]
-is_a: DDPHENO:0000236 ! aberrant cell morphology
+is_a: DDPHENO:0000236 ! aberrant cell morphogenesis
 
 [Term]
 id: DDPHENO:0001030
@@ -6291,7 +6300,7 @@ is_a: DDPHENO:0001003 ! aberrant response to stimulus
 id: DDPHENO:0001033
 name: aberrant macrocyst morphology
 def: "Deviation from the normal, usual, or expected morphology of the macrocyst." [DDB:pg]
-is_a: DDPHENO:0000236 ! aberrant cell morphology
+is_a: DDPHENO:0000236 ! aberrant cell morphogenesis
 
 [Term]
 id: DDPHENO:0001034
@@ -9220,7 +9229,7 @@ creation_date: 2010-03-10T10:44:05Z
 [Term]
 id: DDPHENO:0001458
 name: obsolete aberrant double-strand break repair via homologous recombination
-def: "OBSOLETE. Was not defined before obsoletion." []
+def: "OBSOLETE. Deviation from the normal, usual, or expected events during double-strand break repair via homologous recombination." [DDB:pg]
 is_obsolete: true
 created_by: Pascale
 creation_date: 2010-03-10T10:44:20Z
@@ -9228,7 +9237,7 @@ creation_date: 2010-03-10T10:44:20Z
 [Term]
 id: DDPHENO:0001459
 name: obsolete decreased double-strand break repair via homologous recombination
-def: "OBSOLETE. Was not defined before obsoletion." []
+def: "OBSOLETE. Reduction in extent, amount, or degree of double-strand break repair via homologous recombination." [DDB:pg]
 is_obsolete: true
 created_by: Pascale
 creation_date: 2010-03-10T10:44:37Z
@@ -9236,7 +9245,7 @@ creation_date: 2010-03-10T10:44:37Z
 [Term]
 id: DDPHENO:0001460
 name: obsolete increased double-strand break repair via homologous recombination
-def: "OBSOLETE. Was not defined before obsoletion." []
+def: "OBSOLETE. Increase in amount or rate of double-strand break repair via homologous recombination." [DDB:pg]
 is_obsolete: true
 created_by: Pascale
 creation_date: 2010-03-10T10:44:51Z
