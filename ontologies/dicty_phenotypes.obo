@@ -76,7 +76,7 @@ creation_date: 2013-09-23T14:30:03Z
 id: DDPHENO:0000008
 name: aberrant co-transcriptional gene silencing by RNA interference machinery
 def: "Deviation from the normal, usual, or expected events during co-transciptional gene silencing by RNA." [DDB:pf]
-synonym: "aberrant  small RNA-mediated cotranscriptional gene silencing" EXACT []
+synonym: "aberrant  small RNA-mediated co-transcriptional gene silencing" EXACT []
 is_a: DDPHENO:0001005 ! aberrant cellular metabolic process
 created_by: pfey
 creation_date: 2013-10-28T15:52:58Z
@@ -92,7 +92,7 @@ is_a: DDPHENO:0000154 ! aberrant sorocarp development
 id: DDPHENO:0000010
 name: abolished co-transcriptional gene silencing by RNA interference machinery
 def: "Complete inability for co-transciptional gene silencing by RNA." [DDB:pf]
-synonym: "abolished small RNA-mediated cotranscriptional gene silencing" EXACT []
+synonym: "abolished small RNA-mediated co-transcriptional gene silencing" EXACT []
 is_a: DDPHENO:0000008 ! aberrant co-transcriptional gene silencing by RNA interference machinery
 created_by: pfey
 creation_date: 2013-10-28T15:57:20Z
@@ -101,7 +101,7 @@ creation_date: 2013-10-28T15:57:20Z
 id: DDPHENO:0000011
 name: decreased co-transcriptional gene silencing by RNA interference machinery
 def: "Reduction in level of modification of co-transciptional gene silencing by RNA." [DDB:pf]
-synonym: "decreased small RNA-mediated cotranscriptional gene silencing" EXACT []
+synonym: "decreased small RNA-mediated co-transcriptional gene silencing" EXACT []
 is_a: DDPHENO:0000008 ! aberrant co-transcriptional gene silencing by RNA interference machinery
 created_by: pfey
 creation_date: 2013-10-28T15:59:10Z
@@ -1603,12 +1603,12 @@ creation_date: 2015-04-13T17:42:45Z
 
 [Term]
 id: DDPHENO:0000258
-name: aberrant defense response to bacterium
+name: aberrant defence response to bacterium
 alt_id: DDPHENO:0000277
-def: "Deviation from the normal, usual, or expected events during defense response to bacterium." [DDB:pf]
+def: "Deviation from the normal, usual, or expected events during defence response to bacterium." [DDB:pf]
 comment: Pathogenic bacteria are defined as being pathogens for humans, though in the any specific study a strain or species less virulent for humans may have been used.
 synonym: "aberrant infection rate by pathogenic bacterium" NARROW []
-is_a: DDPHENO:0001505 ! aberrant cellular defense response
+is_a: DDPHENO:0001505 ! aberrant cellular defence response
 created_by: pfey
 creation_date: 2015-05-05T14:26:26Z
 
@@ -1701,26 +1701,26 @@ is_obsolete: true
 
 [Term]
 id: DDPHENO:0000278
-name: increased defense response to bacterium
-def: "Increase in extent, amount, or degree of the  defense response to bacterium." [DDB:pf]
-is_a: DDPHENO:0000258 ! aberrant defense response to bacterium
+name: increased defence response to bacterium
+def: "Increase in extent, amount, or degree of the  def defence ense response to bacterium." [DDB:pf]
+is_a: DDPHENO:0000258 ! aberrant defence response to bacterium
 created_by: pfey
 creation_date: 2015-05-05T14:58:43Z
 
 [Term]
 id: DDPHENO:0000279
-name: decreased defense response to bacterium
-def: "Reduction in extent, amount, or degree for defense response to bacterium." [DDB:pf]
-is_a: DDPHENO:0000258 ! aberrant defense response to bacterium
+name: decreased defence response to bacterium
+def: "Reduction in extent, amount, or degree for defence response to bacterium." [DDB:pf]
+is_a: DDPHENO:0000258 ! aberrant defence response to bacterium
 created_by: pfey
 creation_date: 2015-05-05T14:59:45Z
 
 [Term]
 id: DDPHENO:0000280
-name: aberrant defense response to fungus
-def: "Deviation from the normal, usual, or expected events defense response to fungus." [DDB:pf]
-synonym: "aberrant defense response to yeast" NARROW []
-is_a: DDPHENO:0001505 ! aberrant cellular defense response
+name: aberrant defence response to fungus
+def: "Deviation from the normal, usual, or expected events defence response to fungus." [DDB:pf]
+synonym: "aberrant defence response to yeast" NARROW []
+is_a: DDPHENO:0001505 ! aberrant cellular defence response
 created_by: pfey
 creation_date: 2015-05-05T16:05:13Z
 
@@ -1734,97 +1734,97 @@ creation_date: 2015-05-05T16:06:20Z
 
 [Term]
 id: DDPHENO:0000282
-name: increased defense response to fungus
-def: "Increase in extent, amount, or degree of the defense response to fungus." [DDB:pf]
-synonym: "increased defense response to yeast" NARROW []
-is_a: DDPHENO:0000280 ! aberrant defense response to fungus
+name: increased defence response to fungus
+def: "Increase in extent, amount, or degree of the defence response to fungus." [DDB:pf]
+synonym: "increased defence response to yeast" NARROW []
+is_a: DDPHENO:0000280 ! aberrant defence response to fungus
 created_by: pfey
 creation_date: 2015-05-05T16:07:54Z
 
 [Term]
 id: DDPHENO:0000283
-name: decreased defense response to fungus
-def: "Reduction in extent, amount, or degree for defense response to fungus." [DDB:pf]
-synonym: "decreased defense response to yeast" NARROW []
-is_a: DDPHENO:0000280 ! aberrant defense response to fungus
+name: decreased defence response to fungus
+def: "Reduction in extent, amount, or degree for defence response to fungus." [DDB:pf]
+synonym: "decreased defence response to yeast" NARROW []
+is_a: DDPHENO:0000280 ! aberrant defence response to fungus
 created_by: pfey
 creation_date: 2015-05-05T16:08:09Z
 
 [Term]
 id: DDPHENO:0000284
-name: aberrant defense response to Gram-positive bacterium
-def: "Deviation from the normal, usual, or expected events during defense response to Gram-positive bacterium, often after infection." [DDB:pf, PMID:23664307]
-synonym: "aberrant defense response to pathogenic Gram-positive bacterium" NARROW []
-is_a: DDPHENO:0000258 ! aberrant defense response to bacterium
+name: aberrant defence response to Gram-positive bacterium
+def: "Deviation from the normal, usual, or expected events during defence response to Gram-positive bacterium, often after infection." [DDB:pf, PMID:23664307]
+synonym: "aberrant defence response to pathogenic Gram-positive bacterium" NARROW []
+is_a: DDPHENO:0000258 ! aberrant defence response to bacterium
 created_by: pfey
 creation_date: 2015-05-05T16:38:31Z
 
 [Term]
 id: DDPHENO:0000285
-name: increased defense response to Gram-positive bacterium
-def: "Increase in extent, amount, or degree of the defense response to Gram-positive bacterium, often after infection." [DDB:pf]
-synonym: "increased defense response to pathogenic Gram-positive bacterium" NARROW []
-is_a: DDPHENO:0000278 ! increased defense response to bacterium
-is_a: DDPHENO:0000284 ! aberrant defense response to Gram-positive bacterium
+name: increased defence response to Gram-positive bacterium
+def: "Increase in extent, amount, or degree of the defence response to Gram-positive bacterium, often after infection." [DDB:pf]
+synonym: "increased defence response to pathogenic Gram-positive bacterium" NARROW []
+is_a: DDPHENO:0000278 ! increased defence response to bacterium
+is_a: DDPHENO:0000284 ! aberrant defence response to Gram-positive bacterium
 created_by: pfey
 creation_date: 2015-05-05T16:42:05Z
 
 [Term]
 id: DDPHENO:0000286
-name: decreased defense response to Gram-positive bacterium
-def: "Reduction in extent, amount, or degree for defense response to Gram-positive bacterium, often after infection." [DDB:pf]
-synonym: "decreased defense response to pathogenic Gram-positive bacterium" NARROW []
-is_a: DDPHENO:0000279 ! decreased defense response to bacterium
-is_a: DDPHENO:0000284 ! aberrant defense response to Gram-positive bacterium
+name: decreased defence response to Gram-positive bacterium
+def: "Reduction in extent, amount, or degree for defence response to Gram-positive bacterium, often after infection." [DDB:pf]
+synonym: "decreased defence response to pathogenic Gram-positive bacterium" NARROW []
+is_a: DDPHENO:0000279 ! decreased defence response to bacterium
+is_a: DDPHENO:0000284 ! aberrant defence response to Gram-positive bacterium
 created_by: pfey
 creation_date: 2015-05-05T16:42:37Z
 
 [Term]
 id: DDPHENO:0000287
-name: aberrant defense response to Gram-negative bacterium
-def: "Deviation from the normal, usual, or expected events defense response to Gram-negative bacterium, often after infection." [DDB:pf, PMID:23664307]
-synonym: "aberrant defense response to pathogenic Gram-negative bacterium" NARROW []
-is_a: DDPHENO:0000258 ! aberrant defense response to bacterium
+name: aberrant defence response to Gram-negative bacterium
+def: "Deviation from the normal, usual, or expected events defence response to Gram-negative bacterium, often after infection." [DDB:pf, PMID:23664307]
+synonym: "aberrant defence response to pathogenic Gram-negative bacterium" NARROW []
+is_a: DDPHENO:0000258 ! aberrant defence response to bacterium
 created_by: pfey
 creation_date: 2015-05-05T16:48:58Z
 
 [Term]
 id: DDPHENO:0000288
-name: increased defense response to Gram-negative bacterium
-def: "Increase in extent, amount, or degree of the defense response to Gram-negative bacterium, often after infection." [DDB:pf]
-synonym: "increased defense response to pathogenic Gram-negative bacterium" NARROW []
-is_a: DDPHENO:0000278 ! increased defense response to bacterium
-is_a: DDPHENO:0000287 ! aberrant defense response to Gram-negative bacterium
+name: increased defence response to Gram-negative bacterium
+def: "Increase in extent, amount, or degree of the defence response to Gram-negative bacterium, often after infection." [DDB:pf]
+synonym: "increased defence response to pathogenic Gram-negative bacterium" NARROW []
+is_a: DDPHENO:0000278 ! increased defence response to bacterium
+is_a: DDPHENO:0000287 ! aberrant defence response to Gram-negative bacterium
 created_by: pfey
 creation_date: 2015-05-05T16:49:27Z
 
 [Term]
 id: DDPHENO:0000289
-name: decreased defense response to Gram-negative bacterium
-def: "Reduction in extent, amount, or degree of the defense response to Gram-negative bacterium, often after infection." [DDB:pf]
-synonym: "decreased defense response to pathogenic Gram-negative bacterium" NARROW []
-is_a: DDPHENO:0000279 ! decreased defense response to bacterium
-is_a: DDPHENO:0000287 ! aberrant defense response to Gram-negative bacterium
+name: decreased defence response to Gram-negative bacterium
+def: "Reduction in extent, amount, or degree of the defence response to Gram-negative bacterium, often after infection." [DDB:pf]
+synonym: "decreased defence response to pathogenic Gram-negative bacterium" NARROW []
+is_a: DDPHENO:0000279 ! decreased defence response to bacterium
+is_a: DDPHENO:0000287 ! aberrant defence response to Gram-negative bacterium
 created_by: pfey
 creation_date: 2015-05-05T16:49:39Z
 
 [Term]
 id: DDPHENO:0000290
-name: abolished defense response to Gram-positive bacterium
-def: "Complete inability for defense response to Gram-positive bacterium, often after infection." [DDB:pf]
-synonym: "abolished defense response to pathogenic Gram-positive bacterium" NARROW []
-is_a: DDPHENO:0000284 ! aberrant defense response to Gram-positive bacterium
-is_a: DDPHENO:0000491 ! abolished defense response to bacterium
+name: abolished defence response to Gram-positive bacterium
+def: "Complete inability for defence response to Gram-positive bacterium, often after infection." [DDB:pf]
+synonym: "abolished defence response to pathogenic Gram-positive bacterium" NARROW []
+is_a: DDPHENO:0000284 ! aberrant defence response to Gram-positive bacterium
+is_a: DDPHENO:0000491 ! abolished defence response to bacterium
 created_by: pfey
 creation_date: 2015-05-05T16:57:55Z
 
 [Term]
 id: DDPHENO:0000291
-name: abolished defense response to Gram-negative  bacterium
-def: "Complete inability for defense response to Gram-negative  bacterium, often after infection." [DDB:pf]
-synonym: "abolished defense response to pathogenic Gram-negative bacterium" NARROW []
-is_a: DDPHENO:0000287 ! aberrant defense response to Gram-negative bacterium
-is_a: DDPHENO:0000491 ! abolished defense response to bacterium
+name: abolished defence response to Gram-negative  bacterium
+def: "Complete inability for defence response to Gram-negative  bacterium, often after infection." [DDB:pf]
+synonym: "abolished defence response to pathogenic Gram-negative bacterium" NARROW []
+is_a: DDPHENO:0000287 ! aberrant defence response to Gram-negative bacterium
+is_a: DDPHENO:0000491 ! abolished defence response to bacterium
 created_by: pfey
 creation_date: 2015-05-05T16:58:28Z
 
@@ -3033,7 +3033,7 @@ is_a: DDPHENO:0001445 ! aberrant actin filament polymerization
 
 [Term]
 id: DDPHENO:0000461
-name: decreased regulation intracellular pH
+name: decreased regulation of intracellular pH
 def: "Reduction of intracellular  pH." [DDB:pf]
 synonym: "decreased cytosolic pH level" EXACT []
 synonym: "intracellular pH reduction" EXACT []
@@ -3207,9 +3207,9 @@ is_a: DDPHENO:0001005 ! aberrant cellular metabolic process
 
 [Term]
 id: DDPHENO:0000491
-name: abolished defense response to bacterium
-def: "Complete inability for a defense response to a  bacterium." [DDB:pf]
-is_a: DDPHENO:0000258 ! aberrant defense response to bacterium
+name: abolished defence response to bacterium
+def: "Complete inability for a defence response to a  bacterium." [DDB:pf]
+is_a: DDPHENO:0000258 ! aberrant defence response to bacterium
 
 [Term]
 id: DDPHENO:0000492
@@ -3242,11 +3242,11 @@ is_obsolete: true
 id: DDPHENO:0000497
 name: decreased number of vacuoles
 def: "Quantitative reduction in vacuoles." [DDB:pg]
-is_a: DDPHENO:0001041 ! aberrant vacuole organization
+is_a: DDPHENO:0001041 ! aberrant vacuole organizationn
 
 [Term]
 id: DDPHENO:0000498
-name: abolished autophagosome organization
+name: abolished autophagosome organizationn
 def: "Complete inability to form autophagic vacuoles." [DDB:pg]
 synonym: "abolished autophagic vacuole formation" EXACT []
 is_a: DDPHENO:0000684 ! abolished vacuole organization
@@ -8007,7 +8007,7 @@ is_a: DDPHENO:0001256 ! increased catalytic activity
 [Term]
 id: DDPHENO:0001283
 name: obsolete decreased protein kinase A activity
-def: "OBSOLETE. Reduction in extent, amount ordegree of protein kinase A activity." [DDB:pg]
+def: "OBSOLETE. Reduction in extent, amount or degree of protein kinase A activity." [DDB:pg]
 is_obsolete: true
 
 [Term]
@@ -8940,7 +8940,7 @@ is_a: DDPHENO:0001008 ! aberrant cellular process
 id: DDPHENO:0001419
 name: aberrant mitotic spindle organization
 def: "Deviation from the normal, usual, or expected during mitotic spindle organization." [DDB:pf]
-synonym: "mitotic spindle stabilization" RELATED []
+synonym: "mitotic spindle stabilisation" RELATED []
 is_a: DDPHENO:0000234 ! aberrant mitosis
 
 [Term]
@@ -8951,8 +8951,8 @@ is_a: DDPHENO:0001486 ! aberrant mitotic spindle elongation
 
 [Term]
 id: DDPHENO:0001421
-name: obsolete decreased spindle stabilization
-def: "OBSOLETE. Reduction in spindle stabilization." [DDB:pf]
+name: obsolete decreased spindle stabilisation
+def: "OBSOLETE. Reduction in spindle stabilisation." [DDB:pf]
 is_obsolete: true
 
 [Term]
@@ -9427,27 +9427,27 @@ is_a: DDPHENO:0000397 ! aberrant cytoskeleton organization
 id: DDPHENO:0001482
 name: aberrant cortical actin cytoskeleton organization
 def: "Deviation from the normal, usual, or expected events during organization of the cortical actin cytoskeleton." [DDB:pf]
-synonym: "aberrant cortical actin cytoskeleton stabilization" RELATED []
+synonym: "aberrant cortical actin cytoskeleton stabilisation" RELATED []
 is_a: DDPHENO:0001481 ! aberrant actin cytoskeleton organization
 
 [Term]
 id: DDPHENO:0001483
-name: obsolete aberrant cortical actin cytoskeleton stabilization
+name: obsolete aberrant cortical actin cytoskeleton stabilisation
 def: "OBSOLETE. Deviation from the normal, usual, or expected events in the maintenance of the cortical actin cytoskeleton." [DDB:pf]
 is_obsolete: true
 
 [Term]
 id: DDPHENO:0001484
-name: obsolete aberrant spindle stabilization
-def: "OBSOLETE. Deviation from the normal, usual, or expected during spindle stabilization." [DDB:pf]
+name: obsolete aberrant spindle stabilisation
+def: "OBSOLETE. Deviation from the normal, usual, or expected during spindle stabilisation." [DDB:pf]
 is_obsolete: true
 created_by: pfey
 creation_date: 2012-04-16T01:41:00Z
 
 [Term]
 id: DDPHENO:0001485
-name: obsolete increased spindle stabilization
-def: "OBSOLETE. Increase in spindle stabilization." [DDB:pf]
+name: obsolete increased spindle stabilisation
+def: "OBSOLETE. Increase in spindle stabilisation." [DDB:pf]
 is_obsolete: true
 created_by: pfey
 creation_date: 2012-04-16T01:51:35Z
@@ -9618,7 +9618,7 @@ creation_date: 2012-10-04T14:20:48Z
 
 [Term]
 id: DDPHENO:0001505
-name: aberrant cellular defense response
+name: aberrant cellular defence response
 def: "Deviation from the normal, usual, or expected response triggered in response to the presence of a foreign body or the prevention/recovery from an infection." [DDB:pf]
 is_a: DDPHENO:0001226 ! aberrant cellular response to extracellular stimulus
 created_by: pfey
@@ -9626,7 +9626,7 @@ creation_date: 2012-11-01T15:29:41Z
 
 [Term]
 id: DDPHENO:0001506
-name: obsolete aberrant defense response to a microorganism
+name: obsolete aberrant defence response to a microorganism
 def: "OBSOLETE. Deviation from the normal, usual, or expected response to the presence of a microorganism that acts to protect the cell." [DDB:pf]
 is_obsolete: true
 created_by: pfey
