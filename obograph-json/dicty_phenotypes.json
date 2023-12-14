@@ -567,7 +567,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000278",
       "meta" : {
         "definition" : {
-          "val" : "Increase in extent, amount, or degree of the  def defence ense response to bacterium.",
+          "val" : "Increase in extent, amount, or degree of the  def defense response to bacterium.",
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
@@ -582,7 +582,7 @@
         } ]
       },
       "type" : "CLASS",
-      "lbl" : "increased defence response to bacterium"
+      "lbl" : "increased defense response to bacterium"
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000036",
       "meta" : {
@@ -643,7 +643,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000279",
       "meta" : {
         "definition" : {
-          "val" : "Reduction in extent, amount, or degree for defence response to bacterium.",
+          "val" : "Reduction in extent, amount, or degree for defense response to bacterium.",
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
@@ -658,7 +658,7 @@
         } ]
       },
       "type" : "CLASS",
-      "lbl" : "decreased defence response to bacterium"
+      "lbl" : "decreased defense response to bacterium"
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000037",
       "meta" : {
@@ -2082,12 +2082,12 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000290",
       "meta" : {
         "definition" : {
-          "val" : "Complete inability for defence response to Gram-positive bacterium, often after infection.",
+          "val" : "Complete inability for defense response to Gram-positive bacterium, often after infection.",
           "xrefs" : [ "DDB:pf" ]
         },
         "synonyms" : [ {
           "pred" : "hasNarrowSynonym",
-          "val" : "abolished defence response to pathogenic Gram-positive bacterium",
+          "val" : "abolished defense response to pathogenic Gram-positive bacterium",
           "xrefs" : [ ]
         } ],
         "basicPropertyValues" : [ {
@@ -2102,17 +2102,17 @@
         } ]
       },
       "type" : "CLASS",
-      "lbl" : "abolished defence response to Gram-positive bacterium"
+      "lbl" : "abolished defense response to Gram-positive bacterium"
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000291",
       "meta" : {
         "definition" : {
-          "val" : "Complete inability for defence response to Gram-negative  bacterium, often after infection.",
+          "val" : "Complete inability for defense response to Gram-negative  bacterium, often after infection.",
           "xrefs" : [ "DDB:pf" ]
         },
         "synonyms" : [ {
           "pred" : "hasNarrowSynonym",
-          "val" : "abolished defence response to pathogenic Gram-negative bacterium",
+          "val" : "abolished defense response to pathogenic Gram-negative bacterium",
           "xrefs" : [ ]
         } ],
         "basicPropertyValues" : [ {
@@ -2127,7 +2127,7 @@
         } ]
       },
       "type" : "CLASS",
-      "lbl" : "abolished defence response to Gram-negative  bacterium"
+      "lbl" : "abolished defense response to Gram-negative  bacterium"
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001380",
       "meta" : {
@@ -2386,12 +2386,12 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000285",
       "meta" : {
         "definition" : {
-          "val" : "Increase in extent, amount, or degree of the defence response to Gram-positive bacterium, often after infection.",
+          "val" : "Increase in extent, amount, or degree of the defense response to Gram-positive bacterium, often after infection.",
           "xrefs" : [ "DDB:pf" ]
         },
         "synonyms" : [ {
           "pred" : "hasNarrowSynonym",
-          "val" : "increased defence response to pathogenic Gram-positive bacterium",
+          "val" : "increased defense response to pathogenic Gram-positive bacterium",
           "xrefs" : [ ]
         } ],
         "basicPropertyValues" : [ {
@@ -2406,7 +2406,7 @@
         } ]
       },
       "type" : "CLASS",
-      "lbl" : "increased defence response to Gram-positive bacterium"
+      "lbl" : "increased defense response to Gram-positive bacterium"
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001132",
       "meta" : {
@@ -2461,12 +2461,12 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000286",
       "meta" : {
         "definition" : {
-          "val" : "Reduction in extent, amount, or degree for defence response to Gram-positive bacterium, often after infection.",
+          "val" : "Reduction in extent, amount, or degree for defense response to Gram-positive bacterium, often after infection.",
           "xrefs" : [ "DDB:pf" ]
         },
         "synonyms" : [ {
           "pred" : "hasNarrowSynonym",
-          "val" : "decreased defence response to pathogenic Gram-positive bacterium",
+          "val" : "decreased defense response to pathogenic Gram-positive bacterium",
           "xrefs" : [ ]
         } ],
         "basicPropertyValues" : [ {
@@ -2481,7 +2481,7 @@
         } ]
       },
       "type" : "CLASS",
-      "lbl" : "decreased defence response to Gram-positive bacterium"
+      "lbl" : "decreased defense response to Gram-positive bacterium"
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001133",
       "meta" : {
@@ -2549,12 +2549,12 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000283",
       "meta" : {
         "definition" : {
-          "val" : "Reduction in extent, amount, or degree for defence response to fungus.",
+          "val" : "Reduction in extent, amount, or degree for defense response to fungus.",
           "xrefs" : [ "DDB:pf" ]
         },
         "synonyms" : [ {
           "pred" : "hasNarrowSynonym",
-          "val" : "decreased defence response to yeast",
+          "val" : "decreased defense response to yeast",
           "xrefs" : [ ]
         } ],
         "basicPropertyValues" : [ {
@@ -2569,7 +2569,7 @@
         } ]
       },
       "type" : "CLASS",
-      "lbl" : "decreased defence response to fungus"
+      "lbl" : "decreased defense response to fungus"
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001130",
       "meta" : {
@@ -2616,12 +2616,12 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000284",
       "meta" : {
         "definition" : {
-          "val" : "Deviation from the normal, usual, or expected events during defence response to Gram-positive bacterium, often after infection.",
+          "val" : "Deviation from the normal, usual, or expected events during defense response to Gram-positive bacterium, often after infection.",
           "xrefs" : [ "DDB:pf", "PMID:23664307" ]
         },
         "synonyms" : [ {
           "pred" : "hasNarrowSynonym",
-          "val" : "aberrant defence response to pathogenic Gram-positive bacterium",
+          "val" : "aberrant defense response to pathogenic Gram-positive bacterium",
           "xrefs" : [ ]
         } ],
         "basicPropertyValues" : [ {
@@ -2636,7 +2636,7 @@
         } ]
       },
       "type" : "CLASS",
-      "lbl" : "aberrant defence response to Gram-positive bacterium"
+      "lbl" : "aberrant defense response to Gram-positive bacterium"
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000042",
       "meta" : {
@@ -2698,6 +2698,31 @@
       "type" : "CLASS",
       "lbl" : "decreased lower cup size"
     }, {
+      "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000282",
+      "meta" : {
+        "definition" : {
+          "val" : "Increase in extent, amount, or degree of the defense response to fungus.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "synonyms" : [ {
+          "pred" : "hasNarrowSynonym",
+          "val" : "increased defense response to yeast",
+          "xrefs" : [ ]
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2015-05-05T16:07:54Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Phenotypes"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "increased defense response to fungus"
+    }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000040",
       "meta" : {
         "definition" : {
@@ -2737,40 +2762,15 @@
       "type" : "CLASS",
       "lbl" : "increased upper cup size"
     }, {
-      "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000282",
-      "meta" : {
-        "definition" : {
-          "val" : "Increase in extent, amount, or degree of the defence response to fungus.",
-          "xrefs" : [ "DDB:pf" ]
-        },
-        "synonyms" : [ {
-          "pred" : "hasNarrowSynonym",
-          "val" : "increased defence response to yeast",
-          "xrefs" : [ ]
-        } ],
-        "basicPropertyValues" : [ {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
-          "val" : "pfey"
-        }, {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
-          "val" : "2015-05-05T16:07:54Z"
-        }, {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
-          "val" : "Dicty Phenotypes"
-        } ]
-      },
-      "type" : "CLASS",
-      "lbl" : "increased defence response to fungus"
-    }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000280",
       "meta" : {
         "definition" : {
-          "val" : "Deviation from the normal, usual, or expected events defence response to fungus.",
+          "val" : "Deviation from the normal, usual, or expected events defense response to fungus.",
           "xrefs" : [ "DDB:pf" ]
         },
         "synonyms" : [ {
           "pred" : "hasNarrowSynonym",
-          "val" : "aberrant defence response to yeast",
+          "val" : "aberrant defense response to yeast",
           "xrefs" : [ ]
         } ],
         "basicPropertyValues" : [ {
@@ -2785,7 +2785,7 @@
         } ]
       },
       "type" : "CLASS",
-      "lbl" : "aberrant defence response to fungus"
+      "lbl" : "aberrant defense response to fungus"
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000049",
       "meta" : {
@@ -2860,12 +2860,12 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000289",
       "meta" : {
         "definition" : {
-          "val" : "Reduction in extent, amount, or degree of the defence response to Gram-negative bacterium, often after infection.",
+          "val" : "Reduction in extent, amount, or degree of the defense response to Gram-negative bacterium, often after infection.",
           "xrefs" : [ "DDB:pf" ]
         },
         "synonyms" : [ {
           "pred" : "hasNarrowSynonym",
-          "val" : "decreased defence response to pathogenic Gram-negative bacterium",
+          "val" : "decreased defense response to pathogenic Gram-negative bacterium",
           "xrefs" : [ ]
         } ],
         "basicPropertyValues" : [ {
@@ -2880,7 +2880,7 @@
         } ]
       },
       "type" : "CLASS",
-      "lbl" : "decreased defence response to Gram-negative bacterium"
+      "lbl" : "decreased defense response to Gram-negative bacterium"
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001378",
       "meta" : {
@@ -2986,6 +2986,31 @@
       },
       "type" : "CLASS"
     }, {
+      "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000287",
+      "meta" : {
+        "definition" : {
+          "val" : "Deviation from the normal, usual, or expected events defense response to Gram-negative bacterium, often after infection.",
+          "xrefs" : [ "DDB:pf", "PMID:23664307" ]
+        },
+        "synonyms" : [ {
+          "pred" : "hasNarrowSynonym",
+          "val" : "aberrant defense response to pathogenic Gram-negative bacterium",
+          "xrefs" : [ ]
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Phenotypes"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2015-05-05T16:48:58Z"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "aberrant defense response to Gram-negative bacterium"
+    }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000045",
       "meta" : {
         "definition" : {
@@ -3014,31 +3039,6 @@
       },
       "type" : "CLASS",
       "lbl" : "aberrant phosphatidylinositol metabolism"
-    }, {
-      "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000287",
-      "meta" : {
-        "definition" : {
-          "val" : "Deviation from the normal, usual, or expected events defence response to Gram-negative bacterium, often after infection.",
-          "xrefs" : [ "DDB:pf", "PMID:23664307" ]
-        },
-        "synonyms" : [ {
-          "pred" : "hasNarrowSynonym",
-          "val" : "aberrant defence response to pathogenic Gram-negative bacterium",
-          "xrefs" : [ ]
-        } ],
-        "basicPropertyValues" : [ {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
-          "val" : "Dicty Phenotypes"
-        }, {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
-          "val" : "pfey"
-        }, {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
-          "val" : "2015-05-05T16:48:58Z"
-        } ]
-      },
-      "type" : "CLASS",
-      "lbl" : "aberrant defence response to Gram-negative bacterium"
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001134",
       "meta" : {
@@ -3073,6 +3073,31 @@
       },
       "type" : "CLASS",
       "lbl" : "increased glycogen level"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000288",
+      "meta" : {
+        "definition" : {
+          "val" : "Increase in extent, amount, or degree of the defense response to Gram-negative bacterium, often after infection.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "synonyms" : [ {
+          "pred" : "hasNarrowSynonym",
+          "val" : "increased defense response to pathogenic Gram-negative bacterium",
+          "xrefs" : [ ]
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2015-05-05T16:49:27Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Phenotypes"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "increased defense response to Gram-negative bacterium"
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001377",
       "meta" : {
@@ -3115,31 +3140,6 @@
       },
       "type" : "CLASS",
       "lbl" : "obsolete abolished chemoattractant-mediated F-actin polymerization"
-    }, {
-      "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000288",
-      "meta" : {
-        "definition" : {
-          "val" : "Increase in extent, amount, or degree of the defence response to Gram-negative bacterium, often after infection.",
-          "xrefs" : [ "DDB:pf" ]
-        },
-        "synonyms" : [ {
-          "pred" : "hasNarrowSynonym",
-          "val" : "increased defence response to pathogenic Gram-negative bacterium",
-          "xrefs" : [ ]
-        } ],
-        "basicPropertyValues" : [ {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
-          "val" : "2015-05-05T16:49:27Z"
-        }, {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
-          "val" : "pfey"
-        }, {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
-          "val" : "Dicty Phenotypes"
-        } ]
-      },
-      "type" : "CLASS",
-      "lbl" : "increased defence response to Gram-negative bacterium"
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000046",
       "meta" : {
@@ -7792,7 +7792,6 @@
           "val" : "Deviation from the normal, usual, or expected events during lateral pseudopodium formation.",
           "xrefs" : [ "DDB:pf" ]
         },
-        "comments" : [ "GO:0031271." ],
         "synonyms" : [ {
           "pred" : "hasExactSynonym",
           "val" : "aberrant lateral pseudopodium assembly",
@@ -8743,7 +8742,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000491",
       "meta" : {
         "definition" : {
-          "val" : "Complete inability for a defence response to a  bacterium.",
+          "val" : "Complete inability for adefense response to a  bacterium.",
           "xrefs" : [ "DDB:pf" ]
         },
         "basicPropertyValues" : [ {
@@ -8752,7 +8751,7 @@
         } ]
       },
       "type" : "CLASS",
-      "lbl" : "abolished defence response to bacterium"
+      "lbl" : "abolisheddefense response to bacterium"
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001109",
       "meta" : {
@@ -8885,7 +8884,7 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000258",
       "meta" : {
         "definition" : {
-          "val" : "Deviation from the normal, usual, or expected events during defence response to bacterium.",
+          "val" : "Deviation from the normal, usual, or expected events during defense response to bacterium.",
           "xrefs" : [ "DDB:pf" ]
         },
         "comments" : [ "Pathogenic bacteria are defined as being pathogens for humans, though in the any specific study a strain or species less virulent for humans may have been used." ],
@@ -8909,7 +8908,7 @@
         } ]
       },
       "type" : "CLASS",
-      "lbl" : "aberrant defence response to bacterium"
+      "lbl" : "aberrant defense response to bacterium"
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001105",
       "meta" : {
@@ -11657,7 +11656,7 @@
         } ]
       },
       "type" : "CLASS",
-      "lbl" : "aberrant cellular defence response"
+      "lbl" : "aberrant cellulardefense response"
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000416",
       "meta" : {
@@ -11691,7 +11690,7 @@
         "deprecated" : true
       },
       "type" : "CLASS",
-      "lbl" : "obsolete aberrant defence response to a microorganism"
+      "lbl" : "obsolete aberrantdefense response to a microorganism"
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000417",
       "meta" : {
@@ -15668,7 +15667,6 @@
           "val" : "Deviation from the normal, usual, or expected events during pseudopodium formation.",
           "xrefs" : [ "DDB:pg" ]
         },
-        "comments" : [ "GO:0031269." ],
         "synonyms" : [ {
           "pred" : "hasExactSynonym",
           "val" : "aberrant pseudopodium assembly",
@@ -17204,29 +17202,6 @@
       "type" : "CLASS",
       "lbl" : "aberrant cellular response to stress"
     }, {
-      "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000187",
-      "meta" : {
-        "definition" : {
-          "val" : "Deviation from the normal, usual, or expected events during cell-substrate adhesion.",
-          "xrefs" : [ "DDB:pg" ]
-        },
-        "synonyms" : [ {
-          "pred" : "hasRelatedSynonym",
-          "val" : "aberrant substrate adhesion",
-          "xrefs" : [ ]
-        }, {
-          "pred" : "hasRelatedSynonym",
-          "val" : "defective substrate adhesion",
-          "xrefs" : [ ]
-        } ],
-        "basicPropertyValues" : [ {
-          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
-          "val" : "Dicty Phenotypes"
-        } ]
-      },
-      "type" : "CLASS",
-      "lbl" : "aberrant cell-substrate adhesion"
-    }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0001276",
       "meta" : {
         "definition" : {
@@ -17249,6 +17224,29 @@
       },
       "type" : "CLASS",
       "lbl" : "abolished engulfment during phagocytosis"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000187",
+      "meta" : {
+        "definition" : {
+          "val" : "Deviation from the normal, usual, or expected events during cell-substrate adhesion.",
+          "xrefs" : [ "DDB:pg" ]
+        },
+        "synonyms" : [ {
+          "pred" : "hasRelatedSynonym",
+          "val" : "aberrant substrate adhesion",
+          "xrefs" : [ ]
+        }, {
+          "pred" : "hasRelatedSynonym",
+          "val" : "defective substrate adhesion",
+          "xrefs" : [ ]
+        } ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Phenotypes"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "aberrant cell-substrate adhesion"
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000184",
       "meta" : {
@@ -22653,7 +22651,6 @@
           "val" : "Deviation from the normal, usual, or expected events during the gamma-aminobutyric acid signaling pathway.",
           "xrefs" : [ "DDB:pf" ]
         },
-        "comments" : [ "GO:0007214." ],
         "synonyms" : [ {
           "pred" : "hasExactSynonym",
           "val" : "aberrant gamma-aminobutyric acid signaling pathway",
@@ -26032,16 +26029,12 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000744",
       "meta" : {
         "definition" : {
-          "val" : "Complete absence of   phosphatidylinositol 3-kinase/protein kinase B signal transduction.",
+          "val" : "Complete absence of  protein kinase B signaling.",
           "xrefs" : [ "DDB:pf" ]
         },
         "synonyms" : [ {
           "pred" : "hasExactSynonym",
           "val" : "abolished PKB signaling",
-          "xrefs" : [ ]
-        }, {
-          "pred" : "hasExactSynonym",
-          "val" : "abolished protein kinase B signaling",
           "xrefs" : [ ]
         } ],
         "basicPropertyValues" : [ {
@@ -26056,7 +26049,7 @@
         } ]
       },
       "type" : "CLASS",
-      "lbl" : "abolished phosphatidylinositol 3-kinase/protein kinase B signal transduction"
+      "lbl" : "abolished protein kinase B signaling"
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000745",
       "meta" : {
@@ -26106,14 +26099,10 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000742",
       "meta" : {
         "definition" : {
-          "val" : "Reduction in extent, amount, or degree of activation of phosphatidylinositol 3-kinase/protein kinase B signal transduction.",
+          "val" : "Reduction in extent, amount, or degree of activation of protein kinase B signaling.",
           "xrefs" : [ "DDB:pf" ]
         },
         "synonyms" : [ {
-          "pred" : "hasExactSynonym",
-          "val" : "decreased protein kinase B signaling",
-          "xrefs" : [ ]
-        }, {
           "pred" : "hasExactSynonym",
           "val" : "decreased PKB signaling",
           "xrefs" : [ ]
@@ -26130,7 +26119,7 @@
         } ]
       },
       "type" : "CLASS",
-      "lbl" : "decreased phosphatidylinositol 3-kinase/protein kinase B signal transduction"
+      "lbl" : "decreased protein kinase B signaling"
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000500",
       "meta" : {
@@ -26163,14 +26152,10 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000743",
       "meta" : {
         "definition" : {
-          "val" : "Increase in extent, amount, or degree of phosphatidylinositol 3-kinase/protein kinase B signal transduction.",
+          "val" : "Increase in extent, amount, or degree of protein kinase B signaling.",
           "xrefs" : [ "DDB:pf" ]
         },
         "synonyms" : [ {
-          "pred" : "hasRelatedSynonym",
-          "val" : "increased protein kinase B signaling",
-          "xrefs" : [ ]
-        }, {
           "pred" : "hasExactSynonym",
           "val" : "increased PKB signaling",
           "xrefs" : [ ]
@@ -26187,7 +26172,7 @@
         } ]
       },
       "type" : "CLASS",
-      "lbl" : "increased phosphatidylinositol 3-kinase/protein kinase B signal transduction"
+      "lbl" : "increased protein kinase B signaling"
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000740",
       "meta" : {
@@ -26212,15 +26197,11 @@
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000741",
       "meta" : {
         "definition" : {
-          "val" : "Deviation from the normal, usual, or expected events during phosphatidylinositol 3-kinase/protein kinase B signal transduction.",
+          "val" : "Deviation from the normal, usual, or expected events during protein kinase B signaling.",
           "xrefs" : [ "DDB:pf" ]
         },
         "comments" : [ "GO:0043491." ],
         "synonyms" : [ {
-          "pred" : "hasExactSynonym",
-          "val" : "aberrant protein kinase B signaling",
-          "xrefs" : [ ]
-        }, {
           "pred" : "hasExactSynonym",
           "val" : "aberrant PKB signaling",
           "xrefs" : [ ]
@@ -26237,7 +26218,7 @@
         } ]
       },
       "type" : "CLASS",
-      "lbl" : "aberrant phosphatidylinositol 3-kinase/protein kinase B signal transduction"
+      "lbl" : "aberrant protein kinase B signaling"
     }, {
       "id" : "http://purl.obolibrary.org/obo/DDPHENO_0000770",
       "meta" : {
@@ -27214,13 +27195,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001337"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001260",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000324"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000041",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000040"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001260",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000324"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000404",
       "pred" : "is_a",
@@ -27434,13 +27415,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001032"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000287",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000258"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000285",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000278"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000287",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000258"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000152",
       "pred" : "is_a",
@@ -27690,13 +27671,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000115"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001398",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001245"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001377",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001455"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001398",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001245"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000486",
       "pred" : "is_a",
@@ -28054,17 +28035,17 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000471"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001422",
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001333",
       "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000234"
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001257"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001327",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001317"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001333",
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001422",
       "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001257"
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000234"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000651",
       "pred" : "is_a",
@@ -28138,13 +28119,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000673"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001118",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001008"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001102",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001168"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001118",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001008"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001104",
       "pred" : "is_a",
@@ -28278,13 +28259,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001241"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001401",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001513"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000528",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000090"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001401",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001513"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000618",
       "pred" : "is_a",
@@ -28690,13 +28671,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001408"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000730",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000729"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000545",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001026"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000730",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000729"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000384",
       "pred" : "is_a",
@@ -28954,13 +28935,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000147"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001217",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001009"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001428",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001427"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001217",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001009"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000170",
       "pred" : "is_a",
@@ -29054,11 +29035,11 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001017"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001122",
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000439",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000040"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000439",
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001122",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000040"
     }, {
@@ -29114,13 +29095,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000567"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001233",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001338"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000510",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000009"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001233",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001338"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001509",
       "pred" : "is_a",
@@ -29190,13 +29171,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000676"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001024",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001023"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001025",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001013"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001024",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001023"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000315",
       "pred" : "is_a",
@@ -29334,13 +29315,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001505"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001080",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000483"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001179",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001056"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001080",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000483"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000752",
       "pred" : "is_a",
@@ -29466,13 +29447,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000471"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001393",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000471"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000787",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000786"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001393",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000471"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001156",
       "pred" : "is_a",
@@ -29538,13 +29519,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001222"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000531",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001066"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000370",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001113"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000531",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001066"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001126",
       "pred" : "is_a",
@@ -29746,13 +29727,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000120"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001113",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001005"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001213",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000138"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001113",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001005"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001098",
       "pred" : "is_a",
@@ -29774,13 +29755,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001338"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000778",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000796"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000682",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000519"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000778",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000796"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000659",
       "pred" : "is_a",
@@ -29802,13 +29783,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000632"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000579",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000127"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000142",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0010000"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000579",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000127"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000659",
       "pred" : "is_a",
@@ -29834,21 +29815,21 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000347"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000818",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000739"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000522",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001167"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000790",
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000818",
       "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000787"
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000739"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000405",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001006"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000790",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000787"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001160",
       "pred" : "is_a",
@@ -29990,13 +29971,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000306"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000148",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000264"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001212",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001209"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000148",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000264"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001430",
       "pred" : "is_a",
@@ -30210,13 +30191,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001289"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000537",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001375"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000381",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000040"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000537",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001375"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000438",
       "pred" : "is_a",
@@ -30710,13 +30691,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000799"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000471",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001217"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001326",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001317"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000471",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001217"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000483",
       "pred" : "is_a",
@@ -30770,13 +30751,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000819"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000724",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000727"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000663",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001337"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000724",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000727"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000368",
       "pred" : "is_a",
@@ -31094,13 +31075,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001017"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000321",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000320"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000796",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000149"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000321",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000320"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000195",
       "pred" : "is_a",
@@ -31346,13 +31327,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001338"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000820",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000819"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000639",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001337"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000820",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000819"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001305",
       "pred" : "is_a",
@@ -31378,13 +31359,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001393"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001168",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001224"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000136",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000397"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001168",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001224"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000566",
       "pred" : "is_a",
@@ -31506,13 +31487,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000471"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000741",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001118"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000685",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000154"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000741",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001118"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001053",
       "pred" : "is_a",
@@ -31622,13 +31603,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001013"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000728",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001171"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000332",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000329"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000728",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001171"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000501",
       "pred" : "is_a",
@@ -31650,13 +31631,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001289"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000560",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000090"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000518",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000510"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000560",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000090"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001162",
       "pred" : "is_a",
@@ -31686,13 +31667,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001335"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000621",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001393"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001214",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000138"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000621",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001393"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000821",
       "pred" : "is_a",
@@ -31762,13 +31743,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000012"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000109",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000412"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000705",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001005"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000109",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0000412"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000246",
       "pred" : "is_a",
@@ -31830,13 +31811,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001043"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001396",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001335"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001110",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001047"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0001396",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDPHENO_0001335"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDPHENO_0000711",
       "pred" : "is_a",
@@ -31928,7 +31909,7 @@
         "val" : "OBO-Edit 2.2"
       }, {
         "pred" : "http://www.geneontology.org/formats/oboInOwl#date",
-        "val" : "26:09:2023 13:36"
+        "val" : "25:05:2023 19:03"
       }, {
         "pred" : "http://www.geneontology.org/formats/oboInOwl#default-namespace",
         "val" : "Dicty Phenotypes"
