@@ -5,7 +5,7 @@ auto-generated-by: OBO-Edit 2.2
 default-namespace: Dictyostelium_discoideum_anatomy
 ontology: ddanat
 property_value: http://purl.org/dc/elements/1.1/description "A structured controlled vocabulary of anatomies of the slime-mold Dictyostelium discoideum." xsd:string
-property_value: http://purl.org/dc/elements/1.1/title "Dicty Anatomy Ontology (DDANAT)" xsd:string
+property_value: http://purl.org/dc/elements/1.1/title "Dicty Anantomy Ontology (DDANAT)" xsd:string
 property_value: http://purl.org/dc/terms/license http://creativecommons.org/publicdomain/zero/1.0/
 
 [Term]
@@ -243,7 +243,7 @@ relationship: part_of DDANAT:0000007 ! standing slug
 id: DDANAT:0000026
 name: peripheral layer of the standing slug
 def: "Outer-most cell layer surrounding the standing slug. The peripheral layer is composed of electron-dense cells that are connected to each other, forming a coherent tissue." [DDB:pg, ISSN:0021-9533]
-comment: Characterisation of an epithelium-like layer of cells in the multicellular Dictyostelium discoideum slug. \nM Fuchs, MK Jones, KL Williams - Journal of Cell Science, 1993. ISSN:0021-9533.\nnot indexed in PubMed.
+comment: Characterisation of an epithelium-like layer of cells in the multicellular Dictyostelium discoideum slug. \nM Fuchs, MK Jones, KL Williams - Journal of Cell Science, 1993. ISSN:0021-9533.\not indexed in PubMed.
 is_a: DDANAT:0000090 ! peripheral layer
 relationship: develops_from DDANAT:0000007 ! standing slug
 relationship: part_of DDANAT:0000007 ! standing slug
@@ -336,7 +336,7 @@ relationship: part_of DDANAT:0000008 ! migratory slug
 id: DDANAT:0000035
 name: peripheral layer of the migratory slug
 def: "Outer-most cell layer surrounding the migratory slug. The peripheral layer is composed of electron-dense cells that are connected to each other, forming a coherent tissue." [DDB:pg, ISSN:0021-9533]
-comment: Characterisation of an epithelium-like layer of cells in the multicellular Dictyostelium discoideum slug. \nM Fuchs, MK Jones, KL Williams - Journal of Cell Science, 1993. ISSN:0021-9533.\nnot indexed in PubMed.
+comment: Characterisation of an epithelium-like layer of cells in the multicellular Dictyostelium discoideum slug. \nM Fuchs, MK Jones, KL Williams - Journal of Cell Science, 1993. ISSN:0021-9533.\not indexed in PubMed.
 is_a: DDANAT:0000090 ! peripheral layer
 relationship: develops_from DDANAT:0000026 ! peripheral layer of the standing slug
 relationship: part_of DDANAT:0000008 ! migratory slug
@@ -826,7 +826,7 @@ is_a: DDANAT:0010085 ! subdivision
 id: DDANAT:0000095
 name: peripheral layer cell
 def: "Electron-dense cell connected to neighboring peripheral layer cells thus forming a coherent tissue around the multicellular organism." [DDB:pg, ISSN:0021-9533]
-comment: Characterisation of an epithelium-like layer of cells in the multicellular Dictyostelium discoideum slug. \nM Fuchs, MK Jones, KL Williams - Journal of Cell Science, 1993. ISSN:0021-9533.\nnot indexed in PubMed.
+comment: Characterisation of an epithelium-like layer of cells in the multicellular Dictyostelium discoideum slug. \nM Fuchs, MK Jones, KL Williams - Journal of Cell Science, 1993. ISSN:0021-9533.\not indexed in PubMed.
 is_a: DDANAT:0000401 ! cell
 relationship: part_of DDANAT:0000026 ! peripheral layer of the standing slug
 relationship: part_of DDANAT:0000035 ! peripheral layer of the migratory slug
