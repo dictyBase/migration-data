@@ -1310,7 +1310,7 @@
           "val" : "Outer-most cell layer surrounding the migratory slug. The peripheral layer is composed of electron-dense cells that are connected to each other, forming a coherent tissue.",
           "xrefs" : [ "DDB:pg", "ISSN:0021-9533" ]
         },
-        "comments" : [ "Characterisation of an epithelium-like layer of cells in the multicellular Dictyostelium discoideum slug. \nM Fuchs, MK Jones, KL Williams - Journal of Cell Science, 1993. ISSN:0021-9533.\nnot indexed in PubMed." ],
+        "comments" : [ "Characterisation of an epithelium-like layer of cells in the multicellular Dictyostelium discoideum slug. \nM Fuchs, MK Jones, KL Williams - Journal of Cell Science, 1993. ISSN:0021-9533.\not indexed in PubMed." ],
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dictyostelium_discoideum_anatomy"
@@ -1424,7 +1424,7 @@
           "val" : "Outer-most cell layer surrounding the standing slug. The peripheral layer is composed of electron-dense cells that are connected to each other, forming a coherent tissue.",
           "xrefs" : [ "DDB:pg", "ISSN:0021-9533" ]
         },
-        "comments" : [ "Characterisation of an epithelium-like layer of cells in the multicellular Dictyostelium discoideum slug. \nM Fuchs, MK Jones, KL Williams - Journal of Cell Science, 1993. ISSN:0021-9533.\nnot indexed in PubMed." ],
+        "comments" : [ "Characterisation of an epithelium-like layer of cells in the multicellular Dictyostelium discoideum slug. \nM Fuchs, MK Jones, KL Williams - Journal of Cell Science, 1993. ISSN:0021-9533.\not indexed in PubMed." ],
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dictyostelium_discoideum_anatomy"
@@ -2494,7 +2494,7 @@
           "val" : "Electron-dense cell connected to neighboring peripheral layer cells thus forming a coherent tissue around the multicellular organism.",
           "xrefs" : [ "DDB:pg", "ISSN:0021-9533" ]
         },
-        "comments" : [ "Characterisation of an epithelium-like layer of cells in the multicellular Dictyostelium discoideum slug. \nM Fuchs, MK Jones, KL Williams - Journal of Cell Science, 1993. ISSN:0021-9533.\nnot indexed in PubMed." ],
+        "comments" : [ "Characterisation of an epithelium-like layer of cells in the multicellular Dictyostelium discoideum slug. \nM Fuchs, MK Jones, KL Williams - Journal of Cell Science, 1993. ISSN:0021-9533.\not indexed in PubMed." ],
         "basicPropertyValues" : [ {
           "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
           "val" : "Dictyostelium_discoideum_anatomy"
@@ -2794,10 +2794,6 @@
       "pred" : "http://purl.obolibrary.org/obo/RO_0002202",
       "obj" : "http://purl.obolibrary.org/obo/DDANAT_0000021"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDANAT_0000028",
-      "pred" : "http://purl.obolibrary.org/obo/BFO_0000050",
-      "obj" : "http://purl.obolibrary.org/obo/DDANAT_0000008"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDANAT_0000012",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDANAT_0010082"
@@ -2805,6 +2801,10 @@
       "sub" : "http://purl.obolibrary.org/obo/DDANAT_0000095",
       "pred" : "http://purl.obolibrary.org/obo/BFO_0000050",
       "obj" : "http://purl.obolibrary.org/obo/DDANAT_0000035"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDANAT_0000028",
+      "pred" : "http://purl.obolibrary.org/obo/BFO_0000050",
+      "obj" : "http://purl.obolibrary.org/obo/DDANAT_0000008"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDANAT_0000015",
       "pred" : "http://purl.obolibrary.org/obo/BFO_0000050",
@@ -2814,13 +2814,13 @@
       "pred" : "http://purl.obolibrary.org/obo/BFO_0000050",
       "obj" : "http://purl.obolibrary.org/obo/DDANAT_0000032"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDANAT_0000072",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDANAT_0000105"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDANAT_0000007",
       "pred" : "http://purl.obolibrary.org/obo/RO_0002202",
       "obj" : "http://purl.obolibrary.org/obo/DDANAT_0000006"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDANAT_0000072",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDANAT_0000105"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDANAT_0000060",
       "pred" : "http://purl.obolibrary.org/obo/BFO_0000050",
@@ -2966,13 +2966,13 @@
       "pred" : "http://purl.obolibrary.org/obo/RO_0002202",
       "obj" : "http://purl.obolibrary.org/obo/DDANAT_0000052"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDANAT_0000414",
-      "pred" : "http://purl.obolibrary.org/obo/RO_0002202",
-      "obj" : "http://purl.obolibrary.org/obo/DDANAT_0000405"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDANAT_0000003",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDANAT_0010082"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDANAT_0000414",
+      "pred" : "http://purl.obolibrary.org/obo/RO_0002202",
+      "obj" : "http://purl.obolibrary.org/obo/DDANAT_0000405"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDANAT_0000065",
       "pred" : "http://purl.obolibrary.org/obo/BFO_0000050",
@@ -3178,13 +3178,13 @@
       "pred" : "http://purl.obolibrary.org/obo/BFO_0000050",
       "obj" : "http://purl.obolibrary.org/obo/DDANAT_0000041"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDANAT_0000102",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDANAT_0000092"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDANAT_0000409",
       "pred" : "http://purl.obolibrary.org/obo/BFO_0000050",
       "obj" : "http://purl.obolibrary.org/obo/DDANAT_0000025"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDANAT_0000102",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDANAT_0000092"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDANAT_0000021",
       "pred" : "http://purl.obolibrary.org/obo/RO_0002202",
@@ -3310,13 +3310,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDANAT_0000093"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDANAT_0000405",
-      "pred" : "http://purl.obolibrary.org/obo/BFO_0000050",
-      "obj" : "http://purl.obolibrary.org/obo/DDANAT_0000024"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDANAT_0000407",
       "pred" : "http://purl.obolibrary.org/obo/BFO_0000050",
       "obj" : "http://purl.obolibrary.org/obo/DDANAT_0000004"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDANAT_0000405",
+      "pred" : "http://purl.obolibrary.org/obo/BFO_0000050",
+      "obj" : "http://purl.obolibrary.org/obo/DDANAT_0000024"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDANAT_0000404",
       "pred" : "http://purl.obolibrary.org/obo/BFO_0000050",
@@ -3810,13 +3810,13 @@
       "pred" : "http://purl.obolibrary.org/obo/BFO_0000050",
       "obj" : "http://purl.obolibrary.org/obo/DDANAT_0000058"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDANAT_0000060",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDANAT_0000097"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDANAT_0000043",
       "pred" : "http://purl.obolibrary.org/obo/BFO_0000050",
       "obj" : "http://purl.obolibrary.org/obo/DDANAT_0000041"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDANAT_0000060",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDANAT_0000097"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDANAT_0000073",
       "pred" : "http://purl.obolibrary.org/obo/BFO_0000050",
@@ -3854,13 +3854,13 @@
       "pred" : "http://purl.obolibrary.org/obo/BFO_0000050",
       "obj" : "http://purl.obolibrary.org/obo/DDANAT_0000016"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDANAT_0000405",
-      "pred" : "http://purl.obolibrary.org/obo/BFO_0000050",
-      "obj" : "http://purl.obolibrary.org/obo/DDANAT_0000054"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDANAT_0000101",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDANAT_0000091"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDANAT_0000405",
+      "pred" : "http://purl.obolibrary.org/obo/BFO_0000050",
+      "obj" : "http://purl.obolibrary.org/obo/DDANAT_0000054"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDANAT_0000107",
       "pred" : "http://purl.obolibrary.org/obo/BFO_0000050",
@@ -3886,13 +3886,13 @@
       "pred" : "http://purl.obolibrary.org/obo/BFO_0000050",
       "obj" : "http://purl.obolibrary.org/obo/DDANAT_0000037"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDANAT_0000020",
-      "pred" : "http://purl.obolibrary.org/obo/BFO_0000050",
-      "obj" : "http://purl.obolibrary.org/obo/DDANAT_0000019"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDANAT_0000030",
       "pred" : "http://purl.obolibrary.org/obo/BFO_0000050",
       "obj" : "http://purl.obolibrary.org/obo/DDANAT_0000028"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDANAT_0000020",
+      "pred" : "http://purl.obolibrary.org/obo/BFO_0000050",
+      "obj" : "http://purl.obolibrary.org/obo/DDANAT_0000019"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDANAT_0000072",
       "pred" : "http://purl.obolibrary.org/obo/RO_0002202",
@@ -4026,13 +4026,13 @@
       "pred" : "http://purl.obolibrary.org/obo/BFO_0000050",
       "obj" : "http://purl.obolibrary.org/obo/DDANAT_0000039"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDANAT_0000408",
-      "pred" : "http://purl.obolibrary.org/obo/BFO_0000050",
-      "obj" : "http://purl.obolibrary.org/obo/DDANAT_0000005"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDANAT_0000055",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDANAT_0000107"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDANAT_0000408",
+      "pred" : "http://purl.obolibrary.org/obo/BFO_0000050",
+      "obj" : "http://purl.obolibrary.org/obo/DDANAT_0000005"
     } ],
     "id" : "http://purl.obolibrary.org/obo/ddanat.owl",
     "meta" : {
@@ -4043,7 +4043,7 @@
         "val" : "A structured controlled vocabulary of anatomies of the slime-mold Dictyostelium discoideum."
       }, {
         "pred" : "http://purl.org/dc/elements/1.1/title",
-        "val" : "Dicty Anatomy Ontology (DDANAT)"
+        "val" : "Dicty Anantomy Ontology (DDANAT)"
       }, {
         "pred" : "http://purl.org/dc/terms/license",
         "val" : "http://creativecommons.org/publicdomain/zero/1.0/"
