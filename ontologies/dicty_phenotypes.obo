@@ -3207,7 +3207,7 @@ is_a: DDPHENO:0001005 ! aberrant cellular metabolic process
 
 [Term]
 id: DDPHENO:0000491
-name: abolisheddefense response to bacterium
+name: abolished defense response to bacterium
 def: "Complete inability for adefense response to a  bacterium." [DDB:pf]
 is_a: DDPHENO:0000258 ! aberrantdefense response to bacterium
 
@@ -3811,7 +3811,7 @@ creation_date: 2017-11-30T16:34:11Z
 
 [Term]
 id: DDPHENO:0000579
-name: aberrant cheating during development
+name: aberrant cheating during chimeric sorocarp development
 def: "Deviation from the normal, usual, or expected sorting to prestalk region when mixed with cheater cells." [DDB:pf]
 synonym: "aberrant cheating during chimeric sorocarp development" EXACT []
 is_a: DDPHENO:0000127 ! aberrant socially cooperative development
@@ -3820,19 +3820,19 @@ creation_date: 2018-01-31T15:28:37Z
 
 [Term]
 id: DDPHENO:0000580
-name: increased resistance to cheating during development
+name: increased resistance to cheating during chimeric sorocarp development
 def: "Increase in extent, amount, or degree of resistance towards cheater cells compared to wild type." [DDB:pf]
 synonym: "increased resistance to cheating during chimeric sorocarp development" EXACT []
-is_a: DDPHENO:0000579 ! aberrant cheating during development
+is_a: DDPHENO:0000579 ! aberrant cheating during chimeric sorocarp development
 created_by: pfey
 creation_date: 2018-01-31T15:28:50Z
 
 [Term]
 id: DDPHENO:0000581
-name: decreased resistance to cheating during development
+name: decreased resistance to cheating during chimeric sorocarp development
 def: "Decreased tolerance of the normal, usual, or expected events towards  cheater cells compared to wild type." [DDB:pf]
 synonym: "decreased resistance to cheating during chimeric sorocarp development" EXACT []
-is_a: DDPHENO:0000579 ! aberrant cheating during development
+is_a: DDPHENO:0000579 ! aberrant cheating during chimeric sorocarp development
 created_by: pfey
 creation_date: 2018-01-31T15:29:25Z
 
@@ -4507,7 +4507,7 @@ def: "Deviation from the normal, usual, or expected events during localization o
 synonym: "aberrant protein localization to lysosome membrane" EXACT []
 is_a: DDPHENO:0000648 ! aberrant protein localization to lysosome
 created_by: pfey
-creation_date: 2020-11-05T17:19:29Z
+creation_date: 2020-11-05T17:19:29ZZ
 
 [Term]
 id: DDPHENO:0000657
@@ -5249,7 +5249,7 @@ creation_date: 2022-12-20T16:28:14Z
 
 [Term]
 id: DDPHENO:0000741
-name: aberrant protein kinase B signaling
+name: aberrant phosphatidylinositol 3-kinase/protein kinase B signal transduction
 def: "Deviation from the normal, usual, or expected events during protein kinase B signaling." [DDB:pf]
 comment: GO:0043491.
 synonym: "aberrant PKB signaling" EXACT []
@@ -5259,35 +5259,35 @@ creation_date: 2022-12-20T16:37:59Z
 
 [Term]
 id: DDPHENO:0000742
-name: decreased protein kinase B signaling
+name: decreased phosphatidylinositol 3-kinase/protein kinase B signal transduction
 def: "Reduction in extent, amount, or degree of activation of protein kinase B signaling." [DDB:pf]
 synonym: "decreased PKB signaling" EXACT []
-is_a: DDPHENO:0000741 ! aberrant protein kinase B signaling
+is_a: DDPHENO:0000741 ! aberrant phosphatidylinositol 3-kinase/protein kinase B signal transduction
 created_by: pfey
 creation_date: 2022-12-20T16:40:41Z
 
 [Term]
 id: DDPHENO:0000743
-name: increased protein kinase B signaling
+name: increased phosphatidylinositol 3-kinase/protein kinase B signal transduction
 def: "Increase in extent, amount, or degree of protein kinase B signaling." [DDB:pf]
 synonym: "increased PKB signaling" EXACT []
-is_a: DDPHENO:0000741 ! aberrant protein kinase B signaling
+is_a: DDPHENO:0000741 ! aberrant phosphatidylinositol 3-kinase/protein kinase B signal transduction
 created_by: pfey
 creation_date: 2022-12-20T16:44:24Z
 
 [Term]
 id: DDPHENO:0000744
-name: abolished protein kinase B signaling
-def: "Complete absence of  protein kinase B signaling." [DDB:pf]
+name: abolished phosphatidylinositol 3-kinase/protein kinase B signal transduction
+def: "Complete absence of  phosphatidylinositol 3-kinase/protein kinase B signal transduction." [DDB:pf]
 synonym: "abolished PKB signaling" EXACT []
-is_a: DDPHENO:0000741 ! aberrant protein kinase B signaling
+is_a: DDPHENO:0000741 ! aberrant phosphatidylinositol 3-kinase/protein kinase B signal transduction
 created_by: pfey
 creation_date: 2022-12-20T16:45:53Z
 
 [Term]
 id: DDPHENO:0000745
-name: aberrant prenylcysteine carboxyl methyltransferase activity
-def: "Deviation from the normal, usual, or expected activity of prenylcysteine carboxyl methyltransferase activity." [DDB:pf]
+name: aberrant prenylcysteine carboxymethyltransferase activity
+def: "Deviation from the normal, usual, or expected activity of prenylcysteine carboxylmethyltransferase activity." [DDB:pf]
 comment: GO:0004671.
 synonym: "aberrant protein C-terminal S-isoprenylcysteine carboxyl O-methyltransferase activity" EXACT []
 is_a: DDPHENO:0000728 ! aberrant transferase activity
@@ -5296,7 +5296,7 @@ creation_date: 2023-01-09T15:16:32Z
 
 [Term]
 id: DDPHENO:0000746
-name: abolished prenylcysteine carboxyl methyltransferase activity
+name: abolished prenylcysteine carboxymethyltransferase activity
 def: "Complete absence of prenylcysteine carboxyl methyltransferase activity." [DDB:pf]
 comment: GO:0004671.
 synonym: "abolished protein C-terminal S-isoprenylcysteine carboxyl O-methyltransferase activity" EXACT []
@@ -5309,7 +5309,6 @@ id: DDPHENO:0000747
 name: aberrant cellular DNA damage response
 def: "Deviation from the normal, usual, or expected events during the cellular DNA damage response." [DDB:pf]
 comment: GO:0006974.
-synonym: "aberrant cellular response to DNA damage stimulus" EXACT []
 synonym: "aberrant DNA damage response" EXACT []
 is_a: DDPHENO:0001034 ! aberrant cellular response to stress
 created_by: pfey
@@ -5389,7 +5388,7 @@ id: DDPHENO:0000756
 name: aberrant STAT signaling pathway
 def: "Deviation from the normal, usual, or expected events during the STAT signaling pathway." [DDB:pf]
 comment: GO:0097696.
-synonym: "aberrant receptor signaling pathway via STAT" EXACT []
+synonym: "aberrant cell surface receptor signaling pathway via STAT" EXACT []
 is_a: DDPHENO:0001118 ! aberrant signal transduction
 created_by: pfey
 creation_date: 2022-12-20T17:41:05Z
@@ -5398,7 +5397,7 @@ creation_date: 2022-12-20T17:41:05Z
 id: DDPHENO:0000757
 name: abolished STAT signaling pathway
 def: "Complete absence of the STAT signaling pathway." [DDB:pf]
-synonym: "abolished receptor signaling pathway via STAT" EXACT []
+synonym: "abolished cell surface receptor signaling pathway via STAT" EXACT []
 is_a: DDPHENO:0000756 ! aberrant STAT signaling pathway
 created_by: pfey
 creation_date: 2022-12-20T17:51:47Z
@@ -5408,7 +5407,7 @@ id: DDPHENO:0000758
 name: aberrant regulation of STAT signaling pathway
 def: "Deviation from the normal, usual, or expected events during the regulation of the STAT signaling pathway." [DDB:pf]
 comment: GO:1904892.
-synonym: "aberrant regulation of receptor signaling pathway via STAT" EXACT []
+synonym: "aberrant regulation of receptor signaling pathway via STATT" EXACT []
 is_a: DDPHENO:0000756 ! aberrant STAT signaling pathway
 created_by: pfey
 creation_date: 2022-12-20T17:58:25Z
@@ -5476,7 +5475,7 @@ creation_date: 2022-12-20T19:33:32Z
 
 [Term]
 id: DDPHENO:0000766
-name: decreased  cell-cell self recognition
+name: decreased cell-cell self recognition
 def: "Reduction in extent, amount, or degree of cell-cell self recognition." [DDB:pf]
 is_a: DDPHENO:0000122 ! aberrant cell-cell self recognition
 created_by: pfey
@@ -5552,7 +5551,6 @@ id: DDPHENO:0000774
 name: aberrant G protein-coupled chemorepellent receptor signaling pathway
 def: "Deviation from the normal, usual, or expected activity of a G-protein coupled chemorepellent receptor activity." [DDB:pf]
 comment: GO:0140986.
-synonym: "aberrant G protein-coupled chemorepellent receptor activity" EXACT []
 is_a: DDPHENO:0000689 ! aberrant G protein-coupled receptor signaling
 created_by: pfey
 creation_date: 2023-03-08T17:31:23Z
@@ -5561,7 +5559,6 @@ creation_date: 2023-03-08T17:31:23Z
 id: DDPHENO:0000775
 name: decreased G protein-coupled chemorepellent receptor signaling pathway
 def: "Reduction in extent, amount, or degree of G-protein coupled chemorepellent receptor activity." [DDB:pf]
-synonym: "decreased G protein-coupled chemorepellent receptor activity" EXACT []
 is_a: DDPHENO:0000774 ! aberrant G protein-coupled chemorepellent receptor signaling pathway
 created_by: pfey
 creation_date: 2023-03-08T17:34:39Z
@@ -5570,7 +5567,6 @@ creation_date: 2023-03-08T17:34:39Z
 id: DDPHENO:0000776
 name: increased G protein-coupled chemorepellent receptor signaling pathway
 def: "Increased in extent, amount, or degree of G-protein coupled chemorepellent receptor activity." [DDB:pf]
-synonym: "increased G protein-coupled chemorepellent receptor activity" EXACT []
 is_a: DDPHENO:0000774 ! aberrant G protein-coupled chemorepellent receptor signaling pathway
 created_by: pfey
 creation_date: 2023-03-08T17:53:51Z
@@ -5579,7 +5575,6 @@ creation_date: 2023-03-08T17:53:51Z
 id: DDPHENO:0000777
 name: abolished G protein-coupled chemorepellent receptor signaling pathway
 def: "Complete absence of G-protein coupled chemorepellent receptor activity." [DDB:pf]
-synonym: "abolished G protein-coupled chemorepellent receptor activity" EXACT []
 is_a: DDPHENO:0000774 ! aberrant G protein-coupled chemorepellent receptor signaling pathway
 created_by: pfey
 creation_date: 2023-03-08T17:56:16Z
@@ -6058,7 +6053,7 @@ creation_date: 2023-03-14T16:57:58Z
 
 [Term]
 id: DDPHENO:0000835
-name: aberrant small GTPase mediated signal transduction
+name: aberrant small GTPase-mediated signal transduction
 def: "Deviation from the normal, usual, or expected events during small GTPase mediated signal transduction." [DDB:pf]
 comment: GO:0007264.
 is_a: DDPHENO:0001118 ! aberrant signal transduction
@@ -6067,7 +6062,7 @@ creation_date: 2023-03-14T17:08:48Z
 
 [Term]
 id: DDPHENO:0000836
-name: decreased small GTPase mediated signal transduction
+name: decreased small GTPase-mediated signal transduction
 def: "Reduction in extent, amount, or degree of small GTPase mediated signal transduction." [DDB:pf]
 is_a: DDPHENO:0000835 ! aberrant small GTPase mediated signal transduction
 created_by: pfey
@@ -6075,7 +6070,7 @@ creation_date: 2023-03-14T17:12:46Z
 
 [Term]
 id: DDPHENO:0000837
-name: increased small GTPase mediated signal transduction
+name: increased small GTPase-mediated signal transduction
 def: "Increase in extent, amount, or degree of small GTPase mediated signal transduction." [DDB:pf]
 is_a: DDPHENO:0000835 ! aberrant small GTPase mediated signal transduction
 created_by: pfey
@@ -6083,7 +6078,7 @@ creation_date: 2023-03-14T17:13:42Z
 
 [Term]
 id: DDPHENO:0000838
-name: abolished small GTPase mediated signal transduction
+name: abolished small GTPase-mediated signal transduction
 def: "Complete absence of small GTPase mediated signal transduction." [DDB:pf]
 is_a: DDPHENO:0000835 ! aberrant small GTPase mediated signal transduction
 created_by: pfey
@@ -6203,7 +6198,7 @@ is_a: DDPHENO:0000154 ! aberrant sorocarp development
 id: DDPHENO:0001016
 name: aberrant regulation of fruiting body formation
 def: "Deviation from the normal, usual, or expected events during the regulation of fruiting body formation." [DDB:pg]
-synonym: "aberrant regulation of sorocarp development" EXACT []
+synonym: "aberrant regulation of reproductive fruiting body development" EXACT []
 is_a: DDPHENO:0000154 ! aberrant sorocarp development
 
 [Term]
@@ -6260,6 +6255,7 @@ is_a: DDPHENO:0001013 ! aberrant cell differentiation
 id: DDPHENO:0001026
 name: aberrant ion transport
 def: "Deviation from the normal, usual, or expected events during ion transport." [DDB:pg]
+synonym: "aberrant synonym: "aberrant monoatomic ion transport" EXACT []
 is_a: DDPHENO:0001047 ! aberrant transport
 
 [Term]
