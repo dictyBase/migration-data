@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 24:02:2023 12:25
+date: 23:08:2024 12:28
 saved-by: pfey
 auto-generated-by: OBO-Edit 2.2
 default-namespace: Dicty Environment
@@ -563,4 +563,20 @@ def: "The presence of polyphosphate signals to prime Dictyostelium for developme
 is_a: DDENVIR:0000054 ! in the presence of biotic or abiotic stimulus
 created_by: pfey
 creation_date: 2023-02-24T12:22:57Z
+
+[Term]
+id: DDENVIR:0000081
+name: mitotracker green / mitotracker red
+def: "To stain cells or mitochondrion mass or membrane potential with mitotracker." [DDB:pf]
+is_a: DDENVIR:0000001 ! environmental condition
+created_by: pfey
+creation_date: 2024-08-23T12:09:49Z
+
+[Term]
+id: DDENVIR:0000082
+name: proteomic analyses
+def: "To analyse proteomics from whole cells and can be analysed by using Scaffold 5." [DDB:pf]
+is_a: DDENVIR:0000054 ! in the presence of biotic or abiotic stimulus
+created_by: pfey
+creation_date: 2024-08-23T12:27:11Z
 
