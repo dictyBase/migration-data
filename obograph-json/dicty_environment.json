@@ -1212,6 +1212,46 @@
       "type" : "CLASS",
       "lbl" : "in the presence of DIF-2"
     }, {
+      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000081",
+      "meta" : {
+        "definition" : {
+          "val" : "To stain cells or mitochondrion mass or membrane potential with mitotracker.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2024-08-23T12:09:49Z"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Environment"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "mitotracker green / mitotracker red"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000082",
+      "meta" : {
+        "definition" : {
+          "val" : "To analyse proteomics from whole cells and can be analysed by using Scaffold 5.",
+          "xrefs" : [ "DDB:pf" ]
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#created_by",
+          "val" : "pfey"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
+          "val" : "Dicty Environment"
+        }, {
+          "pred" : "http://www.geneontology.org/formats/oboInOwl#creation_date",
+          "val" : "2024-08-23T12:27:11Z"
+        } ]
+      },
+      "type" : "CLASS",
+      "lbl" : "proteomic analyses"
+    }, {
       "id" : "http://purl.obolibrary.org/obo/DDENVIR_0000040",
       "meta" : {
         "definition" : {
@@ -1504,11 +1544,11 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000067"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000049",
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000026",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000052"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000026",
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000049",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000052"
     }, {
@@ -1524,13 +1564,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000001"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000015",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000054"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000027",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000067"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000015",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000054"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000037",
       "pred" : "is_a",
@@ -1547,6 +1587,10 @@
       "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000072",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000004"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000082",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000054"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000074",
       "pred" : "is_a",
@@ -1596,7 +1640,7 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000040"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000068",
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000045",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000054"
     }, {
@@ -1608,7 +1652,7 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000054"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000045",
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000068",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000054"
     }, {
@@ -1620,7 +1664,7 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000053"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000033",
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000010",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000054"
     }, {
@@ -1628,7 +1672,7 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000053"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000010",
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000033",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000054"
     }, {
@@ -1655,6 +1699,10 @@
       "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000071",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000004"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000081",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000001"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000002",
       "pred" : "is_a",
@@ -1724,13 +1772,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000063"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000012",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000001"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000042",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000040"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000012",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000001"
     }, {
       "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000020",
       "pred" : "is_a",
@@ -1752,13 +1800,13 @@
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000067"
     }, {
-      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000064",
-      "pred" : "is_a",
-      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000063"
-    }, {
       "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000075",
       "pred" : "is_a",
       "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000074"
+    }, {
+      "sub" : "http://purl.obolibrary.org/obo/DDENVIR_0000064",
+      "pred" : "is_a",
+      "obj" : "http://purl.obolibrary.org/obo/DDENVIR_0000063"
     } ],
     "id" : "http://purl.obolibrary.org/obo/ddenvir.owl",
     "meta" : {
@@ -1778,7 +1826,7 @@
         "val" : "OBO-Edit 2.2"
       }, {
         "pred" : "http://www.geneontology.org/formats/oboInOwl#date",
-        "val" : "24:02:2023 12:25"
+        "val" : "23:08:2024 12:28"
       }, {
         "pred" : "http://www.geneontology.org/formats/oboInOwl#default-namespace",
         "val" : "Dicty Environment"
