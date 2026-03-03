@@ -76,7 +76,7 @@ creation_date: 2013-09-23T14:30:03Z
 id: DDPHENO:0000008
 name: aberrant co-transcriptional gene silencing by RNA interference machinery
 def: "Deviation from the normal, usual, or expected events during co-transcriptional gene silencing by RNA." [DDB:pf]
-synonym: "aberrant  small RNA-mediated co-transcriptional gene silencing" EXACT []
+synonym: "aberrant small RNA-mediated co-transcriptional gene silencing" EXACT []
 is_a: DDPHENO:0001005 ! aberrant cellular metabolic process
 created_by: pfey
 creation_date: 2013-10-28T15:52:58Z
@@ -429,8 +429,8 @@ creation_date: 2014-03-20T14:12:10Z
 id: DDPHENO:0000050
 name: abolished cellular hypotonic response
 def: "Complete inability to respond to cellular hypo-osmotic stress." [DDB:pf]
-synonym: "abolished cellular  response to hypotonic stress" EXACT []
 synonym: "abolished cellular response to hypo-osmotic stress" EXACT []
+synonym: "abolished cellular response to hypotonic stress" EXACT []
 is_a: DDPHENO:0001068 ! aberrant cellular hypotonic response
 created_by: pfey
 creation_date: 2014-03-26T09:43:34Z
@@ -551,7 +551,7 @@ creation_date: 2014-05-21T10:47:28Z
 
 [Term]
 id: DDPHENO:0000108
-name: increased  glucose level
+name: increased glucose level
 def: "Increase in amount or accumulation of cytosolic glucose." [DDB:pg]
 synonym: "increased cytosolic glucose level" NARROW []
 is_a: DDPHENO:0001375 ! aberrant cellular homeostasis
@@ -1228,7 +1228,7 @@ is_obsolete: true
 
 [Term]
 id: DDPHENO:0000203
-name: increased number of microtubule organizing center
+name: increased number of microtubule organizing centers
 def: "Quantitative increase in microtubule organizing centers." [DDB:pg]
 is_a: DDPHENO:0000413 ! aberrant microtubule cytoskeleton organization
 
@@ -1356,7 +1356,7 @@ is_a: DDPHENO:0000169 ! increased prestalk cell differentiation
 
 [Term]
 id: DDPHENO:0000227
-name: obsolete abolished regulation of chemorepellant activity
+name: obsolete abolished regulation of chemorepellent activity
 def: "OBSOLETE Complete inability of the regulation of chemorepellant activity." [DDB:pf]
 is_obsolete: true
 created_by: pfey
@@ -1364,7 +1364,7 @@ creation_date: 2014-12-17T16:39:18Z
 
 [Term]
 id: DDPHENO:0000228
-name: obsolete abolished positive regulation of chemorepellant activity
+name: obsolete abolished positive regulation of chemorepellent activity
 def: "OBSOLETE Complete inability of the positive regulation of chemorepellant activity." [DDB:pf]
 is_obsolete: true
 created_by: pfey
@@ -1372,7 +1372,7 @@ creation_date: 2014-12-17T16:39:53Z
 
 [Term]
 id: DDPHENO:0000229
-name: obsolete abolished negative regulation of chemorepellant activity
+name: obsolete abolished negative regulation of chemorepellent activity
 def: "OBSOLETE Complete inability of the negative regulation of chemorepellant activity." [DDB:pf]
 is_obsolete: true
 created_by: pfey
@@ -1585,7 +1585,7 @@ creation_date: 2015-04-13T16:57:18Z
 
 [Term]
 id: DDPHENO:0000256
-name: obsolete abolished  potassium-dependent chemotaxis to cAMP
+name: obsolete abolished potassium-dependent chemotaxis to cAMP
 def: "OBSOLETE. Complete inability for potassium-dependent chemotaxis to cAMP." [DDB:pf]
 is_obsolete: true
 created_by: pfey
@@ -1820,7 +1820,7 @@ creation_date: 2015-05-05T16:57:55Z
 
 [Term]
 id: DDPHENO:0000291
-name: abolished defense response to Gram-negative  bacterium
+name: abolished defense response to Gram-negative bacterium
 def: "Complete inability for defense response to Gram-negative bacterium, often after infection." [DDB:pf]
 synonym: "abolished defense response to pathogenic Gram-negative bacterium" NARROW []
 is_a: DDPHENO:0000287 ! aberrant defense response to Gram-negative bacterium
@@ -3246,7 +3246,7 @@ is_a: DDPHENO:0001041 ! aberrant vacuole organization
 
 [Term]
 id: DDPHENO:0000498
-name: abolished autophagosome organizationn
+name: abolished autophagosome organization
 def: "Complete inability to form autophagic vacuoles." [DDB:pg]
 synonym: "abolished autophagic vacuole formation" EXACT []
 is_a: DDPHENO:0000684 ! abolished vacuole organization
@@ -4513,7 +4513,7 @@ creation_date: 2020-11-05T17:19:29ZZ
 id: DDPHENO:0000657
 name: abolished protein localization to lysosomal membrane
 def: "Complete inability to localize a protein to the lysosomal membrane." [DDB:pf]
-synonym: "abolished  protein localization to lysosome membrane" EXACT []
+synonym: "abolished protein localization to lysosome membrane" EXACT []
 is_a: DDPHENO:0000649 ! abolished protein localization to lysosome
 is_a: DDPHENO:0000656 ! aberrant protein localization to lysosomal membrane
 is_a: DDPHENO:0001393 ! abolished protein localization
@@ -4524,7 +4524,7 @@ creation_date: 2020-11-05T17:20:08Z
 id: DDPHENO:0000658
 name: decreased protein localization to lysosomal membrane
 def: "Reduction in amount or accumulation of a protein to the lysosomal membrane." [DDB:pf]
-synonym: "decreased  protein localization to lysosome membrane" EXACT []
+synonym: "decreased protein localization to lysosome membrane" EXACT []
 is_a: DDPHENO:0000650 ! decreased protein localization to lysosome
 is_a: DDPHENO:0000656 ! aberrant protein localization to lysosomal membrane
 created_by: pfey
@@ -4534,7 +4534,7 @@ creation_date: 2020-11-05T17:20:24Z
 id: DDPHENO:0000659
 name: increased protein localization to lysosomal membrane
 def: "Increase in amount or accumulation of a protein to the lysosomal membrane." [DDB:pf]
-synonym: "increased  protein localization to lysosome membrane" EXACT []
+synonym: "increased protein localization to lysosome membrane" EXACT []
 is_a: DDPHENO:0000651 ! increased protein localization to lysosome
 is_a: DDPHENO:0000656 ! aberrant protein localization to lysosomal membrane
 created_by: pfey
@@ -4743,7 +4743,7 @@ creation_date: 2020-11-05T20:35:24Z
 
 [Term]
 id: DDPHENO:0000683
-name: increased  protein localization to contractile vacuole membrane
+name: increased protein localization to contractile vacuole membrane
 def: "Increase in amount or accumulation of a protein to the contractile vacuole membrane." [DDB:pf]
 is_a: DDPHENO:0000519 ! aberrant protein localization to contractile vacuole membrane
 is_a: DDPHENO:0000681 ! increased protein localization to contractile vacuole
@@ -4774,7 +4774,7 @@ creation_date: 2021-02-01T17:24:09Z
 id: DDPHENO:0000686
 name: development arrests at early culminant stage
 def: "Development cannot progress past the early culminant stage." [DDB:pf]
-synonym: "development arrests at mexican hat stage" BROAD []
+synonym: "development arrests at Mexican hat stage" BROAD []
 is_a: DDPHENO:0000154 ! aberrant sorocarp development
 created_by: pfey
 creation_date: 2021-02-01T17:26:52Z
@@ -5055,7 +5055,7 @@ creation_date: 2021-06-25T09:49:46Z
 
 [Term]
 id: DDPHENO:0000719
-name: obsolete abolished protein tyrosin phosphorylation
+name: obsolete abolished protein tyrosine phosphorylation
 def: "OBSOLETE. Complete inability to phosphorylate a tyrosine residue of a protein." [DDB:pf]
 is_obsolete: true
 created_by: pfey
@@ -5979,7 +5979,7 @@ creation_date: 2023-03-14T16:47:48Z
 
 [Term]
 id: DDPHENO:0000826
-name: abolished Rab  protein signal transduction
+name: abolished Rab protein signal transduction
 def: "Complete absence of Rab protein signal transduction." [DDB:pf]
 is_a: DDPHENO:0000823 ! aberrant Rab protein signal transduction
 created_by: pfey
@@ -6557,7 +6557,7 @@ is_a: DDPHENO:0001067 ! aberrant cellular hyperosmotic response
 
 [Term]
 id: DDPHENO:0001070
-name: precocious cellular  hyperosmotic response
+name: precocious cellular hyperosmotic response
 def: "Early onset or faster progression in the response to cellular hyperosmotic stress." [DDB:pf]
 synonym: "precocious cellular hypertonic response" EXACT []
 synonym: "precocious cellular response to hyperosmotic stress" EXACT []
@@ -7318,7 +7318,7 @@ is_a: DDPHENO:0001027 ! aberrant pseudopodium formation
 id: DDPHENO:0001179
 name: decreased actin filament polymerization at leading edge
 def: "Reduction in extent, amount, or degree of F-actin polymerization in the area closest to the direction of movement in a motile cell." [DDB:pf]
-synonym: "decreased  F-actin polymerization at leading edge" EXACT []
+synonym: "decreased F-actin polymerization at leading edge" EXACT []
 is_a: DDPHENO:0001056 ! decreased actin filament polymerization
 
 [Term]
@@ -8103,8 +8103,8 @@ is_obsolete: true
 id: DDPHENO:0001297
 name: abolished lysosomal protein degradation
 def: "Complete absence of lysosomal protein degradation." [DDB:pf]
-synonym: "abolished  lysosomal protein catabolic process" EXACT []
 synonym: "abolished lysosomal enzyme activity" EXACT []
+synonym: "abolished lysosomal protein catabolic process" EXACT []
 is_a: DDPHENO:0001005 ! aberrant cellular metabolic process
 
 [Term]
